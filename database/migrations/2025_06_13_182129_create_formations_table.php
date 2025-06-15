@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('formations', function (Blueprint $table) {
             $table->id();
             $table->string('name')->unique();
-            $table->string('numbers')->unique();
+            $table->string('layout');
             $table->timestamps();
         });
     }

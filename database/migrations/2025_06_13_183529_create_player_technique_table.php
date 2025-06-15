@@ -15,6 +15,8 @@ return new class extends Migration
             $table->id();
             $table->foreignId('player_id')->constrained('players')->onDelete('cascade');
             $table->foreignId('technique_id')->constrained('techniques')->onDelete('cascade');
+            $table->string('source')->nullable();
+            $table->json('with')->nullable();
             $table->timestamps();
         });
     }

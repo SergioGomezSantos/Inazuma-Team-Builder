@@ -9,4 +9,10 @@ class Technique extends Model
     public function players() {
         return $this->belongsToMany(Player::class);
     }
+
+    protected $fillable = [
+        'name',
+        'element',
+        'type'
+    ];
 }

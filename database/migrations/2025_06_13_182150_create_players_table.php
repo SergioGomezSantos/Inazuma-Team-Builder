@@ -14,9 +14,10 @@ return new class extends Migration
         Schema::create('players', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->enum('position', ['PR', 'DF', 'MD', 'DL']);
-            $table->enum('element', ['M', 'A', 'FO', 'FI']);
-            $table->string('original_team');
+            $table->string('full_name');
+            $table->enum('position', ['Portero', 'Defensa', 'Centrocampista', 'Delantero']);
+            $table->enum('element', ['Montaña', 'Aire', 'Bosque', 'Fuego', 'Neutro'])->nullable();
+            $table->string('original_team')->nullable();
             $table->json('stats');
             $table->string('image');
             $table->timestamps();

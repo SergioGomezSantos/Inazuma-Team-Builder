@@ -6,12 +6,20 @@ use Illuminate\Database\Eloquent\Model;
 
 class Team extends Model
 {
+    protected $fillable = [
+        'name',
+        'formation_id',
+        'emblem_id',
+        'coach_id',
+        'user_id'
+    ];
+    
     public function user() {
         return $this->belongsTo(User::class);
     }
 
     public function players() {
-        return $this->belongsToMany(Player::class);
+        return $this->belongsToMany(Player::class)->withTimestamps();;
     }
 
     public function formation() {

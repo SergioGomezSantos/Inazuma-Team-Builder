@@ -10,6 +10,16 @@ class Player extends Model
         'stats' => 'array',
     ];
 
+    protected $fillable = [
+        'name',
+        'full_name',
+        'position',
+        'element',
+        'original_team',
+        'stats',
+        'image'
+    ];
+
     public function teams() {
         return $this->belongsToMany(Team::class);
     }
