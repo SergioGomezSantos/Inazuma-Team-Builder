@@ -32,7 +32,7 @@ class ImportAll extends Command
         User::create([
             'name' => 'admin',
             'email' => 'admin@admin',
-            'password' => '1234',
+            'password' => bcrypt('1234'),
             'is_admin' => true
         ]);
 
@@ -41,6 +41,9 @@ class ImportAll extends Command
         $this->call('import:techniques');
         $this->call('import:teams');
         $this->call('import:techniques_to_players');
+        $this->call('import:images', [
+            '--force' => true
+        ]);
 
         $this->info('| Importación completa terminada |');
     }

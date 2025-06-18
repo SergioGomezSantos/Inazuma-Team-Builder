@@ -1,0 +1,96 @@
+export default class ImageSelector {
+    static init() {
+        this.emblemSelect = document.getElementById("emblem-select");
+        this.emblemImage = document.getElementById("emblem-image");
+        this.coachSelect = document.getElementById("coach-select");
+        this.coachImage = document.getElementById("coach-image");
+        this.clearTeamBtn = document.getElementById("clear-team");
+        this.randomTeamBtn = document.getElementById("random-team");
+
+        this.setupEventListeners();
+    }
+
+    static setupEventListeners() {
+        // Eventos para cambios manuales
+        this.emblemSelect?.addEventListener("change", (e) =>
+            this.updateEmblem()
+        );
+        this.coachSelect?.addEventListener("change", (e) => this.updateCoach());
+
+        // Integración con botones existentes
+        this.clearTeamBtn?.addEventListener("click", () =>
+            this.resetSelections()
+        );
+        this.randomTeamBtn?.addEventListener("click", () =>
+            this.randomizeSelections()
+        );
+    }
+
+    static updateEmblem() {
+        const selectedOption =
+            this.emblemSelect.options[this.emblemSelect.selectedIndex];
+        const imagePath = selectedOption?.getAttribute("data-image");
+        this.updateImage(this.emblemImage, imagePath, "emblems");
+    }
+
+    static updateCoach() {
+        const selectedOption =
+            this.coachSelect.options[this.coachSelect.selectedIndex];
+        const imagePath = selectedOption?.getAttribute("data-image");
+        this.updateImage(this.coachImage, imagePath, "coaches");
+    }
+
+    static updateImage(imgElement, imagePath, folder) {
+        if (!imgElement || !imagePath) return;
+
+        const tempImg = new Image();
+        tempImg.src = `/storage/${folder}/${imagePath}`;
+
+        tempImg.onload = () => {
+            imgElement.src = tempImg.src;
+            imgElement.style.opacity = "0";
+            setTimeout(() => {
+                imgElement.style.transition = "opacity 0.3s ease";
+                imgElement.style.opacity = "1";
+            }, 10);
+        };
+
+        tempImg.onerror = () => {
+            console.error(`Error loading image: ${imagePath}`);
+            imgElement.src = `/storage/${folder}/placeholder.png`;
+        };
+    }
+
+    static resetSelections() {
+        // Resetear a las primeras opciones
+        if (this.emblemSelect) {
+            this.emblemSelect.selectedIndex = 0;
+            this.updateEmblem();
+        }
+
+        if (this.coachSelect) {
+            this.coachSelect.selectedIndex = 0;
+            this.updateCoach();
+        }
+    }
+
+    static randomizeSelections() {
+        // Randomizar emblema
+        if (this.emblemSelect && this.emblemSelect.options.length > 0) {
+            const randomIndex = Math.floor(
+                Math.random() * this.emblemSelect.options.length
+            );
+            this.emblemSelect.selectedIndex = randomIndex;
+            this.updateEmblem();
+        }
+
+        // Randomizar entrenador
+        if (this.coachSelect && this.coachSelect.options.length > 0) {
+            const randomIndex = Math.floor(
+                Math.random() * this.coachSelect.options.length
+            );
+            this.coachSelect.selectedIndex = randomIndex;
+            this.updateCoach();
+        }
+    }
+}

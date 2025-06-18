@@ -16,7 +16,7 @@ return new class extends Migration
             $table->string('name');
             $table->string('full_name');
             $table->enum('position', ['Portero', 'Defensa', 'Centrocampista', 'Delantero']);
-            $table->enum('element', ['Montaña', 'Aire', 'Bosque', 'Fuego', 'Neutro'])->nullable();
+            $table->enum('element', ['Aire', 'Bosque', 'Fuego', 'Montaña', 'Neutro'])->nullable();
             $table->string('original_team')->nullable();
             $table->json('stats');
             $table->string('image');

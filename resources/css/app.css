@@ -1,3 +1,39 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#emblem-image,
+#coach-image {
+    transition: transform 0.3s ease;
+}
+
+#players-list-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px; /* Espacio uniforme entre jugadores */
+}
+
+.list-player {
+    margin-top: 0 !important; /* Elimina cualquier margen superior individual */
+}
+
+.field-position {
+    transition: all 0.2s ease;
+}
+
+.field-position:hover {
+    transform: scale(1.1);
+    z-index: 20;
+}
+
+.dark .field-position {
+    background-color: #1f2937;
+    border-color: #4b5563;
+}
+
+@layer base {
+    :root {
+        --color-primary-500: 252, 205, 25; /* #fccd19 en RGB */
+        --color-primary-550: 238, 129, 0; /* #ee8100 en RGB */
+    }
+}

@@ -14,8 +14,8 @@ return new class extends Migration
         Schema::create('techniques', function (Blueprint $table) {
             $table->id();
             $table->string('name')->unique();
-            $table->enum('element', ['Montaña', 'Aire', 'Bosque', 'Fuego', 'Neutro'])->nullable();
             $table->enum('type', ['Tiro', 'Regate', 'Bloqueo', 'Atajo', 'Talento']);
+            $table->enum('element', ['Aire', 'Bosque', 'Fuego', 'Montaña', 'Neutro'])->nullable();
             $table->timestamps();
         });
     }

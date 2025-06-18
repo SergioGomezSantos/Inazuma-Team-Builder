@@ -2,6 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Coach;
+use App\Models\Emblem;
+use App\Models\Formation;
+use App\Models\Player;
 use App\Models\Team;
 use Illuminate\Http\Request;
 
@@ -36,7 +40,17 @@ class TeamController extends Controller
      */
     public function show(Team $team)
     {
-        //
+
+        return view('team-builder', [
+            'formations' => Formation::all(),
+            'emblems' => Emblem::all(),
+            'coaches' => Coach::all(),
+            'players' => Player::all(),
+            'currentPlayers' => $team
+                ->first()
+                ?->players
+                ?? collect(),
+        ]);
     }
 
     /**

@@ -32,7 +32,7 @@ class ImportTechniques extends Command
         'Celebración Sanadora',
     ];
 
-        protected $nameCorrections = [
+    protected $nameCorrections = [
         'CozArrollador' => 'Coz',
         'Coz 3Arrollador 3' => 'Coz 3',
         'Ataque CortanteAtaque Afilado' => 'Ataque Cortante',
@@ -171,20 +171,7 @@ class ImportTechniques extends Command
                 }
                 $name = $nameNode->text(null, false);
                 $type = 'Talento';
-
-                $crawler->filter('.pi-data')->each(function ($node) use (&$element) {
-                    $labelNode = $node->filter('.pi-data-label');
-                    $valueNode = $node->filter('.pi-data-value');
-
-                    if ($labelNode->count() && $valueNode->count()) {
-                        $label = $labelNode->text(null, false);
-                        $value = $valueNode->text(null, false);
-
-                        if (stripos($label, 'Elemento') !== false) {
-                            $element = trim($value);
-                        }
-                    }
-                });
+                $element = null;
 
                 // Technique
             } else {
@@ -197,7 +184,7 @@ class ImportTechniques extends Command
                 // Fix Typo of the Wiki
                 $name = $this->nameCorrections[$name] ?? $name;
 
-                $crawler->filter('.pi-data')->each(function ($node) use (&$type, &$element) {
+                $crawler->filter('.pi-data')->each(function ($node) use (&$type, &$element, &$name) {
                     $labelNode = $node->filter('.pi-data-label');
                     $valueNode = $node->filter('.pi-data-value');
 
@@ -239,7 +226,6 @@ class ImportTechniques extends Command
             );
 
             $this->info("Importing Technique: $name");
-
         } catch (\Exception $e) {
             //
         }
