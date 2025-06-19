@@ -13,25 +13,31 @@ class Team extends Model
         'coach_id',
         'user_id'
     ];
-    
-    public function user() {
+
+    public function user()
+    {
         return $this->belongsTo(User::class);
     }
 
-    public function players() {
-        return $this->belongsToMany(Player::class)->withTimestamps();;
+    public function players()
+    {
+        return $this->belongsToMany(Player::class)
+            ->withPivot('position_id')
+            ->withTimestamps();
     }
 
-    public function formation() {
+    public function formation()
+    {
         return $this->belongsTo(Formation::class);
     }
 
-    public function emblem() {
+    public function emblem()
+    {
         return $this->belongsTo(Emblem::class);
     }
 
-    public function coach() {
+    public function coach()
+    {
         return $this->belongsTo(Coach::class);
     }
-
 }

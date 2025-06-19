@@ -1,7 +1,17 @@
 <x-app-layout>
     @section('scripts')
+    <script>
+        @isset($team)
+            window.savedTeamPlayers = @json($team->players ?? []);
+            window.savedTeamName = @json($team->name ?? '');
+        @else
+            window.savedTeamPlayers = [];
+            window.savedTeamName = '';
+        @endisset
+    </script>
     @vite(['resources/js/app.js'])
     @endsection
+
 
     <div class="max-w-full mx-auto sm:px-6 lg:px-8">
         <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
@@ -11,68 +21,108 @@
                 <div class="flex flex-col md:flex-row gap-6 h-[calc(100vh-12rem)]">
 
                     <!-- Left Panel - Team Configuration -->
-                    <div
-                        class="w-full md:w-1/5 flex flex-col bg-gray-100 dark:bg-gray-700 p-4 rounded-lg h-full overflow-y-auto">
-                        <h2 class="text-xl font-bold mb-4 dark:text-primary-500">Team</h2>
+                    <div class="w-full md:w-1/5 flex flex-col h-full min-h-0 gap-4">
+                        <div class="w-full flex flex-col bg-gray-100 dark:bg-gray-700 p-4 rounded-lg h-full
+                            overflow-y-auto">
+                            <h2 class="text-xl font-bold mb-4 dark:text-primary-500">Team</h2>
 
-                        <!-- Team Name Input -->
-                        <div class="mb-4">
-                            <label class="font-semibold mb-1 block">Name</label>
-                            <input id="team-name" type="text"
-                                class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-indigo-500 focus:ring-indigo-500"
-                                placeholder="Enter team name">
-                        </div>
+                            <!-- Team Name Input -->
+                            <div class="mb-4">
+                                <label for="team-name" class="font-semibold mb-1 block">Name</label>
+                                <input id="team-name" type="text" value="{{ $team->name ?? '' }}" class=" w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800
+                                    shadow-sm focus:border-yellow-500 focus:ring-yellow-500"
+                                    placeholder="Enter team name">
+                            </div>
 
-                        <!-- Emblem Selection -->
-                        <div class="mb-4">
-                            <label class="font-semibold mb-1 block">Emblem</label>
-                            <select id="emblem-select"
-                                class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-indigo-500 focus:ring-indigo-500">
-                                @foreach($emblems as $emblem)
-                                <option value="{{ $emblem->id }}" data-image="{{ $emblem->image }}">
-                                    {{ $emblem->name }}
-                                </option>
-                                @endforeach
-                            </select>
-                            <div class="flex justify-center h-28 mt-1">
-                                <img id="emblem-image" src="{{ asset('storage/emblems/'.$emblems->first()->image) }}"
-                                    alt="Emblem" class="w-28 h-28 object-contain">
+                            <!-- Emblem Selection -->
+                            <div class="mb-4">
+                                <label for="emblem-select" class="font-semibold mb-1 block">Emblem</label>
+                                <select id="emblem-select"
+                                    class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-yellow-500 focus:ring-yellow-500">
+                                    @foreach($emblems as $emblem)
+                                    <option value="{{ $emblem->id }}" data-image="{{ $emblem->image }}" @if(isset($team)
+                                        && $team->emblem_id == $emblem->id) selected @endif>
+                                        {{ $emblem->name }}
+                                    </option>
+                                    @endforeach
+                                </select>
+                                <div class="flex justify-center mt-1">
+                                    <img id="emblem-image" ¡
+                                        src="{{ asset('storage/emblems/'.($currentEmblem->image ?? $emblems->first()->image)) }}"
+                                        alt="Emblem" class="w-28 h-28 object-contain">
+                                </div>
+                            </div>
+
+                            <!-- Coach and Formation Selection -->
+                            <div class="mt-auto space-y-4">
+                                <!-- Coach Selection -->
+                                <div>
+                                    <div class="relative h-28 mb-1">
+                                        <label for="coach-select"
+                                            class="font-semibold absolute left-0 bottom-0">Coach</label>
+                                        <div class="absolute inset-0 flex justify-center items-center">
+                                            <img id="coach-image"
+                                                src="{{ asset('storage/coaches/'.($currentCoach->image ?? $coaches->first()->image)) }}"
+                                                alt="Coach" class="w-28 h-28 object-contain">
+                                        </div>
+                                    </div>
+                                    <select id="coach-select"
+                                        class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-yellow-500 focus:ring-yellow-500">
+                                        @foreach($coaches as $coach)
+                                        <option value="{{ $coach->id }}" data-image="{{ $coach->image }}"
+                                            @if(isset($team) && $team->coach_id == $coach->id) selected @endif>
+                                            {{ $coach->name }}
+                                        </option>
+                                        @endforeach
+                                    </select>
+                                </div>
+
+                                <!-- Formation Selection -->
+                                <div>
+                                    <label for="formation-select" class="font-semibold mb-1 block">Formation</label>
+                                    <select id="formation-select"
+                                        class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-yellow-500 focus:ring-yellow-500">
+                                        @foreach($formations as $formation)
+                                        <option value="{{ $formation->id }}" @if(isset($team) && $team->formation_id ==
+                                            $formation->id) selected @endif>
+                                            {{ $formation->layout }} - {{ $formation->name }}
+                                        </option>
+                                        @endforeach
+                                    </select>
+                                </div>
                             </div>
                         </div>
 
-                        <!-- Coach and Formation Selection -->
-                        <div class="mt-auto space-y-4">
-                            <!-- Coach Selection -->
-                            <div>
-                                <div class="relative h-28 mb-1">
-                                    <label class="font-semibold absolute left-0 bottom-0">Coach</label>
-                                    <div class="absolute inset-0 flex justify-center items-center">
-                                        <img id="coach-image"
-                                            src="{{ asset('storage/coaches/'.$coaches->first()->image) }}" alt="Coach"
-                                            class="w-28 h-28 object-contain">
+                        <!-- Bench Panel -->
+                        <div
+                            class="bg-gray-100 dark:bg-gray-700 p-4 rounded-xl shadow-md flex flex-col relative min-h-[220px]">
+                            <h2
+                                class="text-xl font-bold text-gray-800 dark:text-primary-400 absolute top-2 left-4 z-10">
+                                Bench
+                            </h2>
+                            <div class="flex-1 flex flex-col justify-center items-center gap-3">
+                                <!-- Top Row (2 players) -->
+                                <div class="flex justify-center gap-4">
+                                    <div data-position-id="bench-0"
+                                        class="bench-position relative w-20 h-20 rounded-full flex items-center justify-center cursor-pointer z-20">
+                                    </div>
+                                    <div data-position-id="bench-1"
+                                        class="bench-position relative w-20 h-20 rounded-full flex items-center justify-center cursor-pointer z-20">
                                     </div>
                                 </div>
-                                <select id="coach-select"
-                                    class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-indigo-500 focus:ring-indigo-500">
-                                    @foreach($coaches as $coach)
-                                    <option value="{{ $coach->id }}" data-image="{{ $coach->image }}">
-                                        {{ $coach->name }}
-                                    </option>
-                                    @endforeach
-                                </select>
-                            </div>
 
-                            <!-- Formation Selection -->
-                            <div>
-                                <label class="font-semibold mb-1 block">Formation</label>
-                                <select id="formation-select"
-                                    class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-indigo-500 focus:ring-indigo-500">
-                                    @foreach($formations as $formation)
-                                    <option value="{{ $formation->id }}">
-                                        {{ $formation->layout }} - {{ $formation->name }}
-                                    </option>
-                                    @endforeach
-                                </select>
+                                <!-- Bottom Row (3 players) -->
+                                <div class="flex justify-center gap-4 mb-6">
+                                    <div data-position-id="bench-2"
+                                        class="bench-position relative w-20 h-20 rounded-full flex items-center justify-center cursor-pointer z-20">
+                                    </div>
+                                    <div data-position-id="bench-3"
+                                        class="bench-position relative w-20 h-20 rounded-full flex items-center justify-center cursor-pointer z-20">
+                                    </div>
+                                    <div data-position-id="bench-4"
+                                        class="bench-position relative w-20 h-20 rounded-full flex items-center justify-center cursor-pointer z-20">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -108,14 +158,15 @@
 
                     <!-- Right Panel - Players and Actions -->
                     <div class="w-full md:w-1/5 flex flex-col h-full min-h-0 gap-4">
+
                         <!-- Players List -->
                         <div class="bg-gray-100 dark:bg-gray-700 p-4 rounded-lg flex-1 min-h-0 flex flex-col">
                             <h2 class="text-xl font-bold mb-4 dark:text-primary-500">Players</h2>
 
                             <!-- Search Bar -->
                             <div class="mb-3 pb-3 border-b border-gray-200 dark:border-gray-600">
-                                <input type="text" id="player-search" placeholder="Search by Name or Team"
-                                    class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-indigo-500 focus:ring-indigo-500">
+                                <input type="text" id="player-search" placeholder="Name / Team / Element / Position ..."
+                                    class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-yellow-500 focus:ring-yellow-500">
                             </div>
 
                             <!-- Players List Container -->
@@ -173,43 +224,104 @@
                         </div>
 
                         <!-- Options Block -->
-
                         <div class="bg-gray-100 dark:bg-gray-700 p-4 rounded-lg">
-                            <h2 class="text-xl font-bold mb-4 dark:text-primary-500">Options</h2>
+                            <h2
+                                class="text-xl font-bold mb-4 dark:text-primary-500 mb-3 pb-1 border-b border-gray-200 dark:border-gray-600">
+                                Options</h2>
 
-                            <!-- Sava + Data -->
-                            <div class="grid grid-cols-2 gap-3 mt-3">
+                            <!-- Names + Design -->
+                            <div class="grid grid-cols-2 gap-3 mb-3">
+
+                                <!-- Botón Names -->
+                                <button id="toggle-names"
+                                    class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md border border-black dark:border-primary-500 text-black dark:text-primary-500 hover:border-yellow-500 hover:text-yellow-500 hover:bg-yellow-500 hover:bg-opacity-10 dark:hover:border-yellow-500 dark:hover:text-yellow-500 transition-all duration-200">
+                                    <!-- Icono Visible (Ojo Abierto) -->
+                                    <svg id="show-names-icon" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5"
+                                        fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+                                    </svg>
+
+                                    <!-- Icono Oculto (Ojo Tachado) -->
+                                    <svg id="hide-names-icon" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 hidden"
+                                        fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21" />
+                                    </svg>
+
+                                    <span class="text-sm">Names</span> <!-- Texto estático -->
+                                </button>
+
+                                <!-- Botón Design -->
+                                <button id="toggle-design"
+                                    class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md border border-black dark:border-primary-500 text-black dark:text-primary-500 hover:border-yellow-500 hover:text-yellow-500 hover:bg-yellow-500 hover:bg-opacity-10 dark:hover:border-yellow-500 dark:hover:text-yellow-500 transition-all duration-200">
+                                    <!-- Icono Visible (Círculo Completo) -->
+                                    <svg id="show-design-icon" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 hidden"
+                                        fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M12 12m-10 0a10 10 0 1 0 20 0a10 10 0 1 0 -20 0" />
+                                    </svg>
+
+                                    <!-- Icono Oculto (Círculo Tachado) -->
+                                    <svg id="hide-design-icon" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5"
+                                        fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M12 12m-10 0a10 10 0 1 0 20 0a10 10 0 1 0 -20 0" />
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M4 4l16 16" />
+                                    </svg>
+
+                                    <span class="text-sm">Design</span> <!-- Texto estático -->
+                                </button>
+                            </div>
+
+                            <!-- Save + Data -->
+                            <div class="grid grid-cols-2 gap-3 mb-3">
                                 <!-- Save Button -->
-                                <a href="" class="w-full font-bold py-2 px-4 text-black rounded-md ease-in-out 
-                                    bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500 dark:hover:bg-yellow-500 
-                                    active:bg-yellow-500 active:dark:bg-yellow-500 
-                                    focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800
-                                    flex items-center justify-center gap-2 text-center">
+                                <button id="save-team" @if(!auth()->check()) disabled @endif
+                                    class="w-full font-bold py-2 px-4 text-black rounded-md ease-in-out
+                                    @auth bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500
+                                    dark:hover:bg-yellow-500 active:bg-yellow-500 active:dark:bg-yellow-500
+                                    @else bg-gray-300 cursor-not-allowed dark:bg-gray-600
+                                    @endauth
+                                    focus:ring-2 focus:ring-primary-500 focus:ring-offset-2
+                                    dark:focus:ring-offset-gray-800
+                                    flex items-center justify-center gap-2 text-center"
+                                    @guest title="You must log in to save teams" @endguest>
+
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                         viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                             d="M8 7H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-3m-1 4l-3 3m0 0l-3-3m3 3V4" />
                                     </svg>
                                     <span>Save</span>
-                                </a>
+                                </button>
 
                                 <!-- Team Data Button -->
-                                <a href="" class="w-full font-bold py-2 px-4 text-black rounded-md ease-in-out 
-                                    bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500 dark:hover:bg-yellow-500 
-                                    active:bg-yellow-500 active:dark:bg-yellow-500 
-                                    focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800
-                                    flex items-center justify-center gap-2 text-center">
+                                <button id="data-team" @if(!auth()->check()) disabled @endif
+                                    class="w-full font-bold py-2 px-4 text-black rounded-md ease-in-out
+                                    @auth bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500
+                                    dark:hover:bg-yellow-500 active:bg-yellow-500 active:dark:bg-yellow-500
+                                    @else bg-gray-300 cursor-not-allowed dark:bg-gray-600
+                                    @endauth
+                                    focus:ring-2 focus:ring-primary-500 focus:ring-offset-2
+                                    dark:focus:ring-offset-gray-800
+                                    flex items-center justify-center gap-2 text-center"
+                                    @guest title="You must log in to view team data" @endguest>
+
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                         viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                             d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
                                     </svg>
                                     <span>Team Data</span>
-                                </a>
+                                </button>
                             </div>
 
                             <!-- Clear + Random -->
-                            <div class="grid grid-cols-2 gap-3 mt-3">
+                            <div class="grid grid-cols-2 gap-3">
                                 <!-- Clear Button -->
                                 <button id="clear-team" class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md 
                                     border border-black dark:border-primary-500 text-black dark:text-primary-500

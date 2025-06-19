@@ -43,6 +43,7 @@ export default class LazyLoader {
     }
 
     static refresh() {
+        if (!this.observer) return;
         this.observer.disconnect();
         this.observeVisiblePlayers();
     }

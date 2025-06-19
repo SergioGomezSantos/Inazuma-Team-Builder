@@ -1,9 +1,19 @@
+import LazyLoader from "./images-interaction/lazy-loader.js";
+
 export default class PlayerSearch {
     static init() {
         this.searchInput = document.getElementById("player-search");
         this.playerItems = document.querySelectorAll(".list-player");
         if (this.searchInput) {
             this.setupEventListeners();
+            this.autoFillTeamName();
+        }
+    }
+
+    static autoFillTeamName() {
+        if (savedTeamName) {
+            this.searchInput.value = savedTeamName;
+            this.filterPlayers();
         }
     }
 
@@ -25,7 +35,9 @@ export default class PlayerSearch {
                 searchTerm === "" ||
                 player.dataset.name.includes(searchTerm) ||
                 player.dataset.fullname.includes(searchTerm) ||
-                player.dataset.team.includes(searchTerm);
+                player.dataset.team.includes(searchTerm) ||
+                player.dataset.position.includes(searchTerm) ||
+                player.dataset.element.includes(searchTerm);
 
             if (player.style.display !== (shouldBeVisible ? "flex" : "none")) {
                 player.style.display = shouldBeVisible ? "flex" : "none";
@@ -35,6 +47,13 @@ export default class PlayerSearch {
 
         if (anyChange) {
             LazyLoader.refresh();
+        }
+    }
+
+    static clearSearch() {
+        if (this.searchInput) {
+            this.searchInput.value = "";
+            this.filterPlayers();
         }
     }
 }

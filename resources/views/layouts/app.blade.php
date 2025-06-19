@@ -59,21 +59,46 @@
 
                     <!-- Desktop Navigation -->
                     <div class="hidden sm:flex items-center space-x-4">
-                        <!-- Login/Register Links -->
-                        @auth
-                        <a href="{{ route('dashboard') }}"
+
+                        <a href="{{ route('teams.story') }}"
                             class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
-                            Dashboard
+                            Historia
                         </a>
+
+                        @auth
+                        <!-- Separador visual -->
+                        <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
+
+                        <a href="{{ route('teams.index') }}"
+                            class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
+                            Tus Equipos
+                        </a>
+
+                        <!-- Separador visual -->
+                        <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
+
+                        <!-- Logout -->
+                        <form method="POST" action="{{ route('logout') }}" class="inline">
+                            @csrf
+                            <button type="submit"
+                                class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
+                                Salir
+                            </button>
+                        </form>
                         @else
+
+                        <!-- Separador visual -->
+                        <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
+
                         <a href="{{ route('login') }}"
                             class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
-                            Login
+                            Iniciar Sesión
                         </a>
+
                         @if (Route::has('register'))
                         <a href="{{ route('register') }}"
                             class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
-                            Register
+                            Registrarse
                         </a>
                         @endif
                         @endauth

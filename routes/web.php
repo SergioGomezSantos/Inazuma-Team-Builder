@@ -1,6 +1,5 @@
 <?php
 
-use App\Http\Controllers\PlayerController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\TeamBuilderController;
 use App\Http\Controllers\TeamController;
@@ -11,6 +10,7 @@ Route::get('/team-builder', [TeamBuilderController::class, 'index'])->name('team
 Route::get('/team-builder/{id}', [TeamBuilderController::class, 'show'])->name('team-builder.show');
 
 Route::resource('teams', TeamController::class)->middleware('auth');
+Route::get('/story', [TeamController::class, 'story'])->name('teams.story');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
@@ -22,4 +22,4 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
-require __DIR__.'/auth.php';
+require __DIR__ . '/auth.php';

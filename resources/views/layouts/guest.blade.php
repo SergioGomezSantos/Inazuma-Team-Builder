@@ -31,7 +31,8 @@
             <div class="flex items-center">
                 <div class="flex items-center">
                     <a href="{{ url('/') }}" class="flex items-center group">
-                        <svg class="h-16 w-20 -rotate-[10deg] group-hover:rotate-[10deg] transition-transform duration-300" viewBox="0 0 30 24">
+                        <svg class="h-16 w-20 -rotate-[10deg] group-hover:rotate-[10deg] transition-transform duration-300"
+                            viewBox="0 0 30 24">
                             <!-- Rayo Inazuma -->
                             <path fill="#FCCD19" stroke="#EE8100" stroke-width="1"
                                 d="M15 2L6 11H11L4 22L18 12H13L24 2H15Z" />

@@ -26,10 +26,18 @@
     z-index: 20;
 }
 
-.dark .field-position {
-    background-color: #1f2937;
-    border-color: #4b5563;
+/* .player-name-tag {
+    min-width: 60px;
+    text-align: center;
+    font-weight: 500;
+    transform: translateX(-50%) scale(0.95);
+    transition: transform 0.2s ease, opacity 0.2s ease;
 }
+
+.field-position:hover .player-name-tag {
+    transform: translateX(-50%) scale(1);
+    opacity: 1;
+} */
 
 @layer base {
     :root {

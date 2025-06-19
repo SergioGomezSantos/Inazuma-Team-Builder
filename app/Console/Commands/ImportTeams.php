@@ -42,6 +42,26 @@ class ImportTeams extends Command
     protected $game = 'IE';
     protected $version = ['Ver._EU', 'Ver. Europea'];
 
+    protected $positionOrder = [
+        "pos-0",
+        "pos-1",
+        "pos-2",
+        "pos-3",
+        "pos-4",
+        "pos-5",
+        "pos-6",
+        "pos-7",
+        "pos-8",
+        "pos-9",
+        "pos-10",
+        "bench-0",
+        "bench-1",
+        "bench-2",
+        "bench-3",
+        "bench-4"
+
+    ];
+
     public function __construct()
     {
         parent::__construct();
@@ -164,8 +184,31 @@ class ImportTeams extends Command
         $playersTable = $this->getPlayersTable($crawler, $teamName);
 
         if ($playersTable && $playersTable->count()) {
+
             $createdPlayers = $this->importPlayers($playersTable, $teamName);
-            $team->players()->syncWithoutDetaching($createdPlayers);
+
+            $syncData = [];
+            $positionIndex = 0;
+
+            foreach ($createdPlayers as $playerId) {
+
+                $positionId = $this->positionOrder[$positionIndex];
+
+                if ($positionId) {
+                    $syncData[$playerId] = ['position_id' => $positionId];
+                } else {
+
+                    $syncData[$playerId] = [];
+                }
+
+                $positionIndex++;
+
+                if ($positionIndex >= count($this->positionOrder)) {
+                    $positionIndex = 0;
+                }
+            }
+
+            $team->players()->syncWithoutDetaching($syncData);
         }
     }
 
