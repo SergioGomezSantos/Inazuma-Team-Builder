@@ -81,10 +81,7 @@ export default class FieldRenderer {
         this.setupPositionContent(positionEl, pos);
         this.setupPositionEvents(positionEl);
 
-        if (!pos.isBench) {
-            document.querySelector(".soccer-field").appendChild(positionEl);
-        }
-
+        document.querySelector(".soccer-field").appendChild(positionEl);
         return positionEl;
     }
 
@@ -113,6 +110,10 @@ export default class FieldRenderer {
     }
 
     static setupPositionEvents(positionEl) {
+        if (positionEl.parentNode) {
+            positionEl = this.cleanPositionEvents(positionEl);
+        }
+
         PositionManager.setupPositionEvents(positionEl, {
             handleDragStart: (e) => this.handlePositionDragStart(e, positionEl),
             handleDragOver: (e) => this.handlePositionDragOver(e, positionEl),
@@ -121,6 +122,16 @@ export default class FieldRenderer {
         });
 
         this.setupHoverEffects(positionEl);
+    }
+
+    static cleanPositionEvents(positionEl) {
+        const newElement = positionEl.cloneNode(true);
+
+        if (positionEl.parentNode) {
+            positionEl.parentNode.replaceChild(newElement, positionEl);
+        }
+
+        return newElement;
     }
 
     static handlePositionDragStart(e, positionEl) {
@@ -375,7 +386,7 @@ export default class FieldRenderer {
         const removeBtn = document.createElement("button");
         removeBtn.innerHTML = "&times;";
         removeBtn.className =
-            "absolute top-0 left-0 text-xs bg-red-500 text-white rounded-full w-5 h-5 flex items-center justify-center opacity-0 transition-opacity duration-200 z-20";
+            "absolute top-0 left-0 text-xs text-white rounded-full w-5 h-5 flex items-center justify-center opacity-0 transition-opacity duration-200 z-20";
         positionEl.appendChild(removeBtn);
 
         // Actualizar el name tag con el nombre del jugador

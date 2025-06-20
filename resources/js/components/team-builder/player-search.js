@@ -30,6 +30,17 @@ export default class PlayerSearch {
         const searchTerm = this.searchInput.value.toLowerCase().trim();
         let anyChange = false;
 
+        const positionMap = {
+            pr: "portero",
+            df: "defensa",
+            md: "centrocampista",
+            medio: "centrocampista",
+            mediocentro: "centrocampista",
+            dl: "delantero",
+        };
+
+        const translatedPosition = positionMap[searchTerm] || null;
+
         this.playerItems.forEach((player) => {
             const shouldBeVisible =
                 searchTerm === "" ||
@@ -37,7 +48,9 @@ export default class PlayerSearch {
                 player.dataset.fullname.includes(searchTerm) ||
                 player.dataset.team.includes(searchTerm) ||
                 player.dataset.position.includes(searchTerm) ||
-                player.dataset.element.includes(searchTerm);
+                player.dataset.element.includes(searchTerm) ||
+                (translatedPosition &&
+                    player.dataset.position.includes(translatedPosition));
 
             if (player.style.display !== (shouldBeVisible ? "flex" : "none")) {
                 player.style.display = shouldBeVisible ? "flex" : "none";

@@ -13,7 +13,7 @@ use Symfony\Component\DomCrawler\Crawler;
 class ImportTechniquesToPlayers extends Command
 {
     protected $signature = 'import:techniques_to_players';
-    protected $description = 'Import Techniques to Players from Wiki';
+    protected $description = 'Import Techniques to Players';
 
     protected $client;
     protected $baseUrl = 'https://inazuma.fandom.com/es/wiki/';
@@ -134,7 +134,7 @@ class ImportTechniquesToPlayers extends Command
             'anime' => $this->getAnimeTechniques($crawler),
             'ie' => $this->getGameTechniques($crawler)
         ];
-        
+
         if ($playerFullName == 'Alan Coe') {
             $allTechs['anime'] = [];
             $allTechs['ie'] = [];

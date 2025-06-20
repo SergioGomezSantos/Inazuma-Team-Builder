@@ -61,8 +61,8 @@
                     <div class="hidden sm:flex items-center space-x-4">
 
                         <a href="{{ route('teams.story') }}"
-                            class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
-                            Historia
+                            class="{{ Route::is('teams.story') ? 'text-primary-500' : 'text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500' }} px-3 py-2 text-sm font-medium">
+                            Modo Historia
                         </a>
 
                         @auth
@@ -70,7 +70,7 @@
                         <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
 
                         <a href="{{ route('teams.index') }}"
-                            class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
+                            class="{{ Route::is('teams.index') ? 'text-primary-500' : 'text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500' }} px-3 py-2 text-sm font-medium">
                             Tus Equipos
                         </a>
 

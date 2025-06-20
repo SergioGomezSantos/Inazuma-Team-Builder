@@ -98,12 +98,12 @@ export default class TeamManager {
             e.dataTransfer.effectAllowed = "move";
             e.dataTransfer.setDragImage(newImg, 50, 50);
         });
-
+        console.log("aaaaaaa");
         // Crear botón de eliminar
         const removeBtn = document.createElement("button");
         removeBtn.innerHTML = "&times;";
         removeBtn.className =
-            "absolute top-0 left-0 text-xs bg-red-500 text-white rounded-full w-5 h-5 flex items-center justify-center opacity-0 transition-opacity duration-200 z-20";
+            "absolute top-0 left-0 text-xs text-white rounded-full w-5 h-5 flex items-center justify-center opacity-0 transition-opacity duration-200 z-20";
 
         positionElement.appendChild(newImg);
         positionElement.appendChild(removeBtn);
@@ -224,7 +224,7 @@ export default class TeamManager {
             .getElementById("formation-select")
             ?.value.trim();
         const positions = this.getTeamPositions();
-
+        console.log(positions);
         const payload = {
             name,
             emblem,
@@ -233,9 +233,13 @@ export default class TeamManager {
             positions,
         };
 
-        fetch("/teams", {
-            // Asegúrate que esta ruta coincide con tu route de Laravel
-            method: "POST",
+        const isEdit = window.isEdit === "edit" && window.savedTeamId;
+        const url = isEdit ? `/teams/${window.savedTeamId}` : "/teams";
+        const method = isEdit ? "PUT" : "POST";
+        console.log(method, url);
+
+        fetch(url, {
+            method: method,
             headers: {
                 "Content-Type": "application/json",
                 "X-CSRF-TOKEN": document.querySelector(
@@ -247,15 +251,15 @@ export default class TeamManager {
             body: JSON.stringify(payload),
         })
             .then((response) => {
-                if (!response.ok) {
+                if (response.redirected) {
+                    window.location.href = response.url;
+                    return;
+                } else if (!response.ok) {
                     return response.json().then((err) => Promise.reject(err));
                 }
-                return response.json();
-            })
-            .then((data) => {
-                window.location.href = `/teams/${data.team.id}`;
             })
             .catch((error) => {
+                console.log(error);
                 let hasShownGenericAlert = false;
                 if (error.errors) {
                     Object.entries(error.errors).forEach(

@@ -27,7 +27,7 @@ class ImportTeams extends Command
      *
      * @var string
      */
-    protected $description = 'Import Teams, Emblems, Coaches, Formation and Players from Wiki';
+    protected $description = 'Import Story Teams, Emblems, Coaches, Formation and Players from Wiki';
 
     protected $client;
     protected $ignoreNames = [
@@ -37,30 +37,14 @@ class ImportTeams extends Command
         'J%C3%B3venes_Inazuma',
         'Sallys',
     ];
+    protected $exceptionToImageRule = [
+        'Mark'
+    ];
+
 
     protected $baseUrl = 'https://inazuma.fandom.com';
     protected $game = 'IE';
     protected $version = ['Ver._EU', 'Ver. Europea'];
-
-    protected $positionOrder = [
-        "pos-0",
-        "pos-1",
-        "pos-2",
-        "pos-3",
-        "pos-4",
-        "pos-5",
-        "pos-6",
-        "pos-7",
-        "pos-8",
-        "pos-9",
-        "pos-10",
-        "bench-0",
-        "bench-1",
-        "bench-2",
-        "bench-3",
-        "bench-4"
-
-    ];
 
     public function __construct()
     {
@@ -73,7 +57,7 @@ class ImportTeams extends Command
      */
     public function handle()
     {
-        $this->info('Starting Teams Import...');
+        $this->info('Starting Story Teams Import...');
         $this->reset();
 
         $categoryUrl = $this->baseUrl . '/es/wiki/Categor%C3%ADa:Equipos_(IE_Original_T1)';
@@ -84,7 +68,7 @@ class ImportTeams extends Command
             $this->importTeam($teamUrl);
         }
 
-        $this->info('Teams Import finished.');
+        $this->info('Story Teams Import finished.');
         return 0;
     }
 
@@ -171,7 +155,7 @@ class ImportTeams extends Command
         $user = User::where('is_admin', true)->first();
 
         // Team
-        $team = Team::create([
+        Team::create([
             'name' => $teamName,
             'emblem_id' => $emblem ? $emblem->id : null,
             'coach_id' => $coach->id,
@@ -184,31 +168,7 @@ class ImportTeams extends Command
         $playersTable = $this->getPlayersTable($crawler, $teamName);
 
         if ($playersTable && $playersTable->count()) {
-
-            $createdPlayers = $this->importPlayers($playersTable, $teamName);
-
-            $syncData = [];
-            $positionIndex = 0;
-
-            foreach ($createdPlayers as $playerId) {
-
-                $positionId = $this->positionOrder[$positionIndex];
-
-                if ($positionId) {
-                    $syncData[$playerId] = ['position_id' => $positionId];
-                } else {
-
-                    $syncData[$playerId] = [];
-                }
-
-                $positionIndex++;
-
-                if ($positionIndex >= count($this->positionOrder)) {
-                    $positionIndex = 0;
-                }
-            }
-
-            $team->players()->syncWithoutDetaching($syncData);
+            $this->importPlayers($playersTable, $teamName);
         }
     }
 
@@ -346,23 +306,31 @@ class ImportTeams extends Command
         }
     }
 
-    protected function importPlayers(Crawler $table, string $teamName): array
+    protected function importPlayers(Crawler $table, string $teamName)
     {
-        $createdPlayers = [];
-
         if ($table->count()) {
             $rows = $table->filter('tbody > tr')->slice(1);
 
             foreach ($rows as $row) {
                 $rowCrawler = new Crawler($row);
 
-                // Image
-                $imageUrl = $rowCrawler->filter('th')->eq(1)->filter('a img')->first()->attr('data-src') ?? null;
-
                 // Name
                 $playerName = $rowCrawler->filter('th')->eq(1)->filter('a')->last()?->text(null, false);
-                if (in_array($playerName, ['Caleb', 'Austin'])) {
+                if ($playerName === 'Caleb' || $playerName === 'Austin') {
                     continue;
+                }
+
+                // Image
+                $imageTh = $rowCrawler->filter('th')->eq(1);
+                $images = $imageTh->filter('a img');
+
+                if (in_array($playerName, $this->exceptionToImageRule)) {
+
+                    $imageUrl = $images->first()->attr('data-src');
+                } else {
+                    $imageUrl = $images->count() > 1
+                        ? $images->eq(1)->attr('data-src')
+                        : $images->first()->attr('data-src');
                 }
 
                 // Full Name
@@ -453,7 +421,7 @@ class ImportTeams extends Command
                 });
 
 
-                $player = Player::create([
+                Player::create([
                     'image' => $imageUrl,
                     'name' => $playerName,
                     'full_name' => $playerFullname,
@@ -464,10 +432,7 @@ class ImportTeams extends Command
                 ]);
 
                 $this->info("Importing Player: " . $playerFullname);
-                $createdPlayers[] = $player->id;
             }
         }
-
-        return $createdPlayers;
     }
 }

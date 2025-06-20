@@ -40,6 +40,7 @@ class ImportAll extends Command
 
         $this->call('import:techniques');
         $this->call('import:teams');
+        $this->call('import:players_to_teams');
         $this->call('import:techniques_to_players');
         $this->call('import:images', [
             '--force' => true

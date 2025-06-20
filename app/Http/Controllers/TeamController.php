@@ -17,7 +17,12 @@ class TeamController extends Controller
      */
     public function index()
     {
-        //
+        return view('teams.index', [
+            'teams' => Team::where('user_id', Auth::id())
+                ->with(['formation', 'emblem', 'coach'])
+                ->orderBy('updated_at', 'desc')
+                ->get(),
+        ]);
     }
 
     /**
@@ -25,7 +30,12 @@ class TeamController extends Controller
      */
     public function create()
     {
-        //
+        return view('teams.form', [
+            'formations' => Formation::orderByRaw("name = 'Diamante' DESC")->orderBy('name')->get(),
+            'emblems' => Emblem::orderByRaw("name = 'Raimon' DESC")->orderBy('name')->get(),
+            'coaches' => Coach::orderByRaw("name = 'Seymour Hillman' DESC")->orderBy('name')->get(),
+            'players' => Player::orderByRaw("original_team = 'Raimon' DESC")->get()
+        ]);
     }
 
     /**
@@ -33,31 +43,47 @@ class TeamController extends Controller
      */
     public function store(Request $request)
     {
-        $validated = $request->validate([
-            'name' => 'required|string|max:255',
-            'formation' => 'required|exists:formations,id',
-            'emblem' => 'required|exists:emblems,id',
-            'coach' => 'required|exists:coaches,id',
-            'positions' => 'required|array|min:16',
-            'positions.*.positionId' => 'required|string',
-            'positions.*.playerId' => 'required|exists:players,id',
-        ]);
+        try {
+            $validated = $request->validate([
+                'name' => 'required|string|max:255',
+                'formation' => 'required|exists:formations,id',
+                'emblem' => 'required|exists:emblems,id',
+                'coach' => 'required|exists:coaches,id',
+                'positions' => 'required|array|min:16',
+                'positions.*.positionId' => 'required|string',
+                'positions.*.playerId' => 'nullable|exists:players,id',
+            ]);
 
-        $team = Team::create([
-            'name' => $validated['name'],
-            'formation_id' => $validated['formation'],
-            'emblem_id' => $validated['emblem'],
-            'coach_id' => $validated['coach'],
-            'user_id' => Auth::id() ?? 1,
-        ]);
+            $team = Team::create([
+                'name' => $validated['name'],
+                'formation_id' => $validated['formation'],
+                'emblem_id' => $validated['emblem'],
+                'coach_id' => $validated['coach'],
+                'user_id' => Auth::id() ?? 1,
+            ]);
 
-        $syncData = [];
-        foreach ($validated['positions'] as $positionData) {
-            $syncData[$positionData['playerId']] = ['position_id' => $positionData['positionId']];
+            $syncData = [];
+            foreach ($validated['positions'] as $positionData) {
+                if ($positionData['playerId'] !== null) {
+                    $syncData[$positionData['playerId']] = ['position_id' => $positionData['positionId']];
+                }
+            }
+
+            $team->players()->sync($syncData);
+            return redirect()->route('teams.index')
+                ->with('success', 'Equipo Creado');
+        } catch (\Illuminate\Validation\ValidationException $e) {
+
+            if ($request->wantsJson()) {
+                return response()->json([
+                    'success' => false,
+                    'errors' => $e->validator->errors()
+                ], 422);
+            }
+        } catch (\Exception $e) {
+
+            return redirect()->back()->with('error', 'Error al Guardar el Equipo');
         }
-
-        $team->players()->sync($syncData);
-        return response()->json(['message' => 'Equipo guardado correctamente', 'team' => $team], 201);
     }
 
     /**
@@ -69,7 +95,7 @@ class TeamController extends Controller
             $query->withPivot('position_id');
         }]);
 
-        return view('team-builder', [
+        return view('teams.form', [
             'team' => $team,
             'formations' => Formation::all(),
             'emblems' => Emblem::all(),
@@ -77,7 +103,8 @@ class TeamController extends Controller
             'players' => Player::all(),
             'currentFormation' => $team->formation,
             'currentEmblem' => $team->emblem,
-            'currentCoach' => $team->coach
+            'currentCoach' => $team->coach,
+            'mode' => 'show'
         ]);
     }
 
@@ -86,7 +113,21 @@ class TeamController extends Controller
      */
     public function edit(Team $team)
     {
-        //
+        $team->load(['players' => function ($query) {
+            $query->withPivot('position_id');
+        }]);
+
+        return view('teams.form', [
+            'team' => $team,
+            'formations' => Formation::all(),
+            'emblems' => Emblem::all(),
+            'coaches' => Coach::all(),
+            'players' => Player::all(),
+            'currentFormation' => $team->formation,
+            'currentEmblem' => $team->emblem,
+            'currentCoach' => $team->coach,
+            'mode' => 'edit'
+        ]);
     }
 
     /**
@@ -94,7 +135,33 @@ class TeamController extends Controller
      */
     public function update(Request $request, Team $team)
     {
-        //
+        $validated = $request->validate([
+            'name' => 'required|string|max:255',
+            'formation' => 'required|exists:formations,id',
+            'emblem' => 'required|exists:emblems,id',
+            'coach' => 'required|exists:coaches,id',
+            'positions' => 'required|array|min:16',
+            'positions.*.positionId' => 'required|string',
+            'positions.*.playerId' => 'nullable|exists:players,id',
+        ]);
+
+        $team->update([
+            'name' => $validated['name'],
+            'formation_id' => $validated['formation'],
+            'emblem_id' => $validated['emblem'],
+            'coach_id' => $validated['coach'],
+        ]);
+
+        $syncData = [];
+        foreach ($validated['positions'] as $positionData) {
+            if ($positionData['playerId'] !== null) {
+                $syncData[$positionData['playerId']] = ['position_id' => $positionData['positionId']];
+            }
+        }
+
+        $team->players()->sync($syncData);
+        return redirect()->route('teams.index')
+            ->with('success', 'Equipo Actualizado');
     }
 
     /**
@@ -102,6 +169,21 @@ class TeamController extends Controller
      */
     public function destroy(Team $team)
     {
-        //
+        $team->delete();
+
+        return redirect()->route('teams.index')
+            ->with('success', 'Equipo Eliminado');
+    }
+
+    /**
+     * Display a listing of the Story Teams.
+     */
+    public function story()
+    {
+        return view('teams.story', [
+            'teams' => Team::where('user_id', 1)
+                ->with(['formation', 'emblem', 'coach'])
+                ->get(),
+        ]);
     }
 }
