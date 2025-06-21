@@ -55,9 +55,10 @@ $isViewMode = $mode === 'show';
                                     @endforeach
                                 </select>
                                 <div class="flex justify-center mt-1">
-                                    <img id="emblem-image" ¡
+                                    <img id="emblem-image"
                                         src="{{ asset('storage/emblems/'.($currentEmblem->image ?? $emblems->first()->image)) }}"
-                                        alt="Emblem" class="w-28 h-28 object-contain">
+                                        alt="Emblem"
+                                        class="{{ isset($team) && !in_array($team->emblem->name, ['Raimon', 'Zeus']) ? 'w-28 h-28' : 'w-24 h-24 pt-4'  }} object-contain">
                                 </div>
                             </div>
 

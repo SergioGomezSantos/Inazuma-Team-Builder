@@ -15,7 +15,8 @@
             <x-input-label for="email" :value="__('Email')"
                 class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1" />
             <x-text-input id="email"
-                class="block w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-primary-500 focus:ring-primary-500 transition duration-200"
+                class="block w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm 
+                    focus:border-primary-500 focus:ring-primary-500 dark:focus:border-primary-500 dark:focus:ring-primary-500 transition duration-200"
                 type="email" name="email" :value="old('email')" required autofocus autocomplete="username" />
             <x-input-error :messages="$errors->get('email')" class="mt-2 text-sm text-red-600 dark:text-red-400" />
         </div>
@@ -25,7 +26,8 @@
             <x-input-label for="password" :value="__('Password')"
                 class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1" />
             <x-text-input id="password"
-                class="block w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-primary-500 focus:ring-primary-500 transition duration-200"
+                class="block w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm 
+                    focus:border-primary-500 focus:ring-primary-500 dark:focus:border-primary-500 dark:focus:ring-primary-500 transition duration-200"
                 type="password" name="password" required autocomplete="current-password" />
             <x-input-error :messages="$errors->get('password')" class="mt-2 text-sm text-red-600 dark:text-red-400" />
         </div>

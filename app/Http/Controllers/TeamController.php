@@ -180,10 +180,37 @@ class TeamController extends Controller
      */
     public function story()
     {
+        $extra = [1, 2, 10];
+        $regional = [6, 11, 3, 7, 13];
+        $futbolFrontier = [9, 4, 5, 12];
+        $raimon = [8];
+
+        $allTeamIds = array_merge($extra, $regional, $futbolFrontier, $raimon);
+
+        $teams = Team::with('emblem')
+            ->whereIn('id', $allTeamIds)
+            ->get();
+
+        $extraTeams = $teams->sortBy(function ($team) use ($extra) {
+            return array_search($team->id, $extra);
+        })->filter(fn($team) => in_array($team->id, $extra))->values();
+
+        $regionalTeams = $teams->sortBy(function ($team) use ($regional) {
+            return array_search($team->id, $regional);
+        })->filter(fn($team) => in_array($team->id, $regional))->values();
+
+        $futbolFrontierTeams = $teams->sortBy(function ($team) use ($futbolFrontier) {
+            return array_search($team->id, $futbolFrontier);
+        })->filter(fn($team) => in_array($team->id, $futbolFrontier))->values();
+
+        $raimonTeam = $teams->filter(fn($team) => in_array($team->id, $raimon))->first();
+
+
         return view('teams.story', [
-            'teams' => Team::where('user_id', 1)
-                ->with(['formation', 'emblem', 'coach'])
-                ->get(),
+            'extraTeams' => $extraTeams,
+            'regionalTeams' => $regionalTeams,
+            'futbolFrontierTeams' => $futbolFrontierTeams,
+            'raimonTeam' => $raimonTeam
         ]);
     }
 }

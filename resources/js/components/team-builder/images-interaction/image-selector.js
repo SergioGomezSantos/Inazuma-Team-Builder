@@ -31,6 +31,14 @@ export default class ImageSelector {
             this.emblemSelect.options[this.emblemSelect.selectedIndex];
         const imagePath = selectedOption?.getAttribute("data-image");
         this.updateImage(this.emblemImage, imagePath, "emblems");
+
+        if (["raimon", "zeus"].includes(selectedOption.text.toLowerCase())) {
+            this.emblemImage.classList.remove("w-28", "h-28");
+            this.emblemImage.classList.add("w-24", "h-24", "pt-4");
+        } else {
+            this.emblemImage.classList.remove("w-24", "h-24", "pt-4");
+            this.emblemImage.classList.add("w-28", "h-28");
+        }
     }
 
     static updateCoach() {
