@@ -91,6 +91,8 @@ class TeamController extends Controller
      */
     public function show(Team $team)
     {
+        $this->authorize('view', $team);
+
         $team->load(['players' => function ($query) {
             $query->withPivot('position_id');
         }]);
