@@ -10,11 +10,11 @@
 #players-list-container {
     display: flex;
     flex-direction: column;
-    gap: 8px; /* Espacio uniforme entre jugadores */
+    gap: 8px;
 }
 
 .list-player {
-    margin-top: 0 !important; /* Elimina cualquier margen superior individual */
+    margin-top: 0 !important;
 }
 
 .field-position {
@@ -26,18 +26,23 @@
     z-index: 20;
 }
 
-/* .player-name-tag {
-    min-width: 60px;
-    text-align: center;
-    font-weight: 500;
-    transform: translateX(-50%) scale(0.95);
-    transition: transform 0.2s ease, opacity 0.2s ease;
+th {
+    cursor: move;
+    user-select: none;
 }
 
-.field-position:hover .player-name-tag {
-    transform: translateX(-50%) scale(1);
-    opacity: 1;
-} */
+th.sortable-ghost {
+    opacity: 0.5;
+    background-color: #f3f4f6;
+}
+
+.dark th.sortable-ghost {
+    background-color: #1f2937;
+}
+
+.ignore-sort {
+    cursor: default !important;
+}
 
 @layer base {
     :root {

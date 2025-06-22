@@ -307,6 +307,7 @@ export default class FieldRenderer {
 
         // Aplicar clases de Tailwind directamente
         if (this.borderedDesign) {
+            positionEl.style.border = "none";
             positionEl.classList.add(
                 "bg-white",
                 "dark:bg-gray-800",

@@ -9,6 +9,7 @@ export default class TeamManager {
         this.toggleNamesBtn = document.getElementById("toggle-names");
         this.toggleDesignBtn = document.getElementById("toggle-design");
         this.saveTeamBtn = document.getElementById("save-team");
+        this.dataTeamBtn = document.getElementById("data-team");
 
         this.setupEventListeners();
     }
@@ -28,7 +29,8 @@ export default class TeamManager {
             this.handleToggleDesign.bind(this)
         );
 
-        this.saveTeamBtn.addEventListener("click", () => this.saveTeam());
+        this.saveTeamBtn.addEventListener("click", () => this.saveTeam("save"));
+        this.dataTeamBtn.addEventListener("click", () => this.saveTeam("data"));
     }
 
     static handleToggleNames() {
@@ -216,7 +218,12 @@ export default class TeamManager {
         return positions;
     }
 
-    static saveTeam() {
+    static saveTeam(action) {
+        if (window.isViewMode) {
+            window.location.href = `/teams/${savedTeamId}/players`;
+            return;
+        }
+
         const name = document.getElementById("team-name")?.value.trim();
         const emblem = document.getElementById("emblem-select")?.value.trim();
         const coach = document.getElementById("coach-select")?.value.trim();
@@ -231,9 +238,10 @@ export default class TeamManager {
             coach,
             formation,
             positions,
+            action: action,
         };
 
-        const isEdit = window.isEdit === "edit" && window.savedTeamId;
+        const isEdit = window.isEdit === "edit" || window.savedTeamId;
         const url = isEdit ? `/teams/${window.savedTeamId}` : "/teams";
         const method = isEdit ? "PUT" : "POST";
         console.log(method, url);

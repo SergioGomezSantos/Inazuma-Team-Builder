@@ -20,6 +20,7 @@ Route::middleware('auth')->group(function () {
     Route::get('/teams/{team}/edit', [TeamController::class, 'edit'])->name('teams.edit');
     Route::put('/teams/{team}', [TeamController::class, 'update'])->name('teams.update');
     Route::delete('/teams/{team}', [TeamController::class, 'destroy'])->name('teams.destroy');
+    Route::get('/teams/{team}/players', [TeamController::class, 'players'])->name('teams.players');
 });
 
 Route::get('/dashboard', function () {

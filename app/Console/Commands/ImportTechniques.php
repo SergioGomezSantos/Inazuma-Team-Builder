@@ -204,7 +204,7 @@ class ImportTechniques extends Command
                             $noParentheses = preg_replace('/\s*\([^)]*\)/', '', $value);
                             $noBrackets = preg_replace('/\[[^\]]*\]/', '', $noParentheses);
                             $parts = preg_split('/\s+/', trim($noBrackets));
-                            $element = end($parts);
+                            $element = $parts[0];
                         }
                     }
                 });

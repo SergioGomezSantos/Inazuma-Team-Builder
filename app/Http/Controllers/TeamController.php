@@ -70,6 +70,11 @@ class TeamController extends Controller
             }
 
             $team->players()->sync($syncData);
+
+            if ($request->action === 'data') {
+                return redirect()->route('teams.players', ['team' => $team->id]);
+            }
+
             return redirect()->route('teams.index')
                 ->with('success', 'Equipo Creado');
         } catch (\Illuminate\Validation\ValidationException $e) {
@@ -162,6 +167,11 @@ class TeamController extends Controller
         }
 
         $team->players()->sync($syncData);
+
+        if ($request->action === 'data') {
+            return redirect()->route('teams.players', ['team' => $team->id]);
+        }
+
         return redirect()->route('teams.index')
             ->with('success', 'Equipo Actualizado');
     }
@@ -213,6 +223,31 @@ class TeamController extends Controller
             'regionalTeams' => $regionalTeams,
             'futbolFrontierTeams' => $futbolFrontierTeams,
             'raimonTeam' => $raimonTeam
+        ]);
+    }
+
+    /**
+     * Display a listing of the Team's Playes Data.
+     */
+    public function players(Team $team)
+    {
+
+        $players = $team->players;
+
+
+        $posPlayers = $players->filter(function ($player) {
+            return strpos($player->pivot->position_id, 'pos-') === 0;
+        });
+
+        $benchPlayers = $players->filter(function ($player) {
+            return strpos($player->pivot->position_id, 'bench-') === 0;
+        });
+
+
+        $sortedPlayers = $posPlayers->merge($benchPlayers);
+        return view('teams.players', [
+            'team' => $team,
+            'players' => $sortedPlayers
         ]);
     }
 }

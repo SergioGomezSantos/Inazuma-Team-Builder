@@ -43,7 +43,8 @@
                                 <span class="group relative inline-block">
                                     <span class="text-gray-900 dark:text-gray-300">Inazuma Team Builder</span>
                                     <span class="absolute inset-0 overflow-hidden">
-                                        <span class="absolute top-0 left-0 h-full w-0 
+                                        <span
+                                            class="absolute top-0 left-0 h-full w-0 
                         bg-clip-text text-transparent whitespace-nowrap
                         bg-[linear-gradient(135deg,#fccd19_40%,#ee8100_80%)]
                         group-hover:w-full
@@ -66,41 +67,40 @@
                         </a>
 
                         @auth
-                        <!-- Separador visual -->
-                        <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
+                            <!-- Separador visual -->
+                            <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
 
-                        <a href="{{ route('teams.index') }}"
-                            class="{{ Route::is('teams.index') ? 'text-primary-500' : 'text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500' }} px-3 py-2 text-sm font-medium">
-                            Tus Equipos
-                        </a>
+                            <a href="{{ route('teams.index') }}"
+                                class="{{ Route::is('teams.index') ? 'text-primary-500' : 'text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500' }} px-3 py-2 text-sm font-medium">
+                                Tus Equipos
+                            </a>
 
-                        <!-- Separador visual -->
-                        <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
+                            <!-- Separador visual -->
+                            <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
 
-                        <!-- Logout -->
-                        <form method="POST" action="{{ route('logout') }}" class="inline">
-                            @csrf
-                            <button type="submit"
-                                class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
-                                Salir
-                            </button>
-                        </form>
+                            <!-- Logout -->
+                            <form method="POST" action="{{ route('logout') }}" class="inline">
+                                @csrf
+                                <button type="submit"
+                                    class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
+                                    Salir
+                                </button>
+                            </form>
                         @else
+                            <!-- Separador visual -->
+                            <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
 
-                        <!-- Separador visual -->
-                        <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
+                            <a href="{{ route('login') }}"
+                                class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
+                                Iniciar Sesión
+                            </a>
 
-                        <a href="{{ route('login') }}"
-                            class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
-                            Iniciar Sesión
-                        </a>
-
-                        @if (Route::has('register'))
-                        <a href="{{ route('register') }}"
-                            class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
-                            Registrarse
-                        </a>
-                        @endif
+                            @if (Route::has('register'))
+                                <a href="{{ route('register') }}"
+                                    class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
+                                    Registrarse
+                                </a>
+                            @endif
                         @endauth
 
                         <!-- Dark Mode Toggle -->
@@ -145,15 +145,15 @@
                 x-transition:leave-start="opacity-100 scale-100" x-transition:leave-end="opacity-0 scale-95">
                 <div class="pt-2 pb-4 space-y-1 px-4 bg-white dark:bg-gray-800 shadow-md">
                     @auth
-                    <a href="{{ route('dashboard') }}"
-                        class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 hover:bg-gray-100 dark:hover:bg-gray-700">Dashboard</a>
+                        <a href="{{ route('dashboard') }}"
+                            class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 hover:bg-gray-100 dark:hover:bg-gray-700">Dashboard</a>
                     @else
-                    <a href="{{ route('login') }}"
-                        class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 hover:bg-gray-100 dark:hover:bg-gray-700">Login</a>
-                    @if (Route::has('register'))
-                    <a href="{{ route('register') }}"
-                        class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 hover:bg-gray-100 dark:hover:bg-gray-700">Register</a>
-                    @endif
+                        <a href="{{ route('login') }}"
+                            class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 hover:bg-gray-100 dark:hover:bg-gray-700">Login</a>
+                        @if (Route::has('register'))
+                            <a href="{{ route('register') }}"
+                                class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 hover:bg-gray-100 dark:hover:bg-gray-700">Register</a>
+                        @endif
                     @endauth
 
                     <!-- Dark Mode Toggle for Mobile -->

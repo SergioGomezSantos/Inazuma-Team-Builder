@@ -22,6 +22,7 @@ class ImportTechniquesToPlayers extends Command
         'Zig Zag Chispeante' => 'Zig Zag Explosivo',
         'ZigZag Chispeante' => 'Zig Zag Explosivo',
         'Zigzag Chispeante' => 'Zig Zag Explosivo',
+        'Tiro Cruzado' => 'Pase Cruzado',
         'Cabezazo Kung-fu' => 'Cabezazo Kung-Fu',
         'Ataque Afilado' => 'Ataque Cortante',
         'Robo Rápido' => 'Robo Veloz',
@@ -57,7 +58,7 @@ class ImportTechniquesToPlayers extends Command
         'Desde la Temporada 3' => null,
     ];
 
-    protected $playersWithWikiErrors = [
+    protected $playersWithWikiErrorsInIE = [
         "Alan Coe" => [
             'Remate Tarzán',
             'Espejismo de Balón',
@@ -81,6 +82,25 @@ class ImportTechniquesToPlayers extends Command
             'Vendimia',
             'Corte Giratorio',
             'Cuchilla Asesina'
+        ]
+    ];
+
+    protected $playersWithWikiErrorsInAnime = [
+        "Seymour Hillman" => [
+            [
+                "name" => "Mano Celestial",
+                "with" => []
+            ],
+            [
+                "name" => "Ruptura Relámpago",
+                "with" => ["Jude y Axel"]
+            ]
+        ],
+        "Henry House" => [
+            [
+                "name" => "Flecha Divina",
+                "with" => []
+            ]
         ]
     ];
 
@@ -135,14 +155,17 @@ class ImportTechniquesToPlayers extends Command
             'ie' => $this->getGameTechniques($crawler)
         ];
 
-        if ($playerFullName == 'Alan Coe') {
+        if ($playerFullName == 'Alan Coe' || $playerFullName == "Alan Master") {
             $allTechs['anime'] = [];
+        }
+
+        if ($playerFullName == 'Alan Coe') {
             $allTechs['ie'] = [];
         }
 
         if (empty($allTechs['anime']) && empty($allTechs['ie'])) {
-            if (isset($this->playersWithWikiErrors[$playerFullName])) {
-                $fallbackTechs = $this->playersWithWikiErrors[$playerFullName];
+            if (isset($this->playersWithWikiErrorsInIE[$playerFullName])) {
+                $fallbackTechs = $this->playersWithWikiErrorsInIE[$playerFullName];
                 $allTechs['ie'] = array_map(function ($name) {
                     return ['name' => $name, 'with' => []];
                 }, $fallbackTechs);
@@ -151,6 +174,10 @@ class ImportTechniquesToPlayers extends Command
                 $this->warn("Techniques Not Found for $playerFullName");
                 return;
             }
+        }
+
+        if (isset($this->playersWithWikiErrorsInAnime[$playerFullName])) {
+            $allTechs['anime'] = $this->playersWithWikiErrorsInAnime[$playerFullName];
         }
 
         $player = Player::find($playerId);
@@ -169,12 +196,13 @@ class ImportTechniquesToPlayers extends Command
                 $techModel = $this->getTechniqueModel($techName, $existingTechs);
                 if (!$techModel) continue;
 
-                $player->techniques()->syncWithoutDetaching([
-                    $techModel->id => [
+                $player->techniques()->attach(
+                    $techModel->id,
+                    [
                         'source' => $source,
-                        'with' => json_encode($this->extractValidPlayerNames($tech['with'] ?? [])),
-                    ],
-                ]);
+                        'with' => json_encode($this->extractValidPlayerNames($tech['with'] ?? []))
+                    ]
+                );
             }
         }
     }
@@ -202,11 +230,31 @@ class ImportTechniquesToPlayers extends Command
 
     protected function getAnimeTechniques(Crawler $crawler): array
     {
-        $seasonHeader = $crawler->filterXPath("//p[contains(., 'Temporada 1')]")->first();
-        if ($seasonHeader->count() === 0) return [];
+        $seasonHeader = $crawler->filterXPath("//p[contains(., 'Temporada 1')] | //dt[contains(., 'Temporada 1')]")->first();
+        if ($seasonHeader->count() > 0) {
+            $techniqueList = $seasonHeader->nextAll()->filter('ul')->first();
+            if ($techniqueList->count() > 0) {
+                return $this->extractTechniquesFromList($techniqueList);
+            }
+        }
 
-        $techniqueList = $seasonHeader->nextAll()->filter('ul')->first();
-        if ($techniqueList->count() === 0) return [];
+        $supertHeader = $crawler->filterXPath('//h2[contains(., "Supertécnicas")]')->first();
+
+        if ($supertHeader->count() === 0) {
+            return [];
+        }
+
+        $animeHeader = $supertHeader->nextAll()->filterXPath('//h3[contains(., "Anime")]')->first();
+
+        if ($animeHeader->count() === 0) {
+            return [];
+        }
+
+        $techniqueList = $animeHeader->nextAll()->filter('ul')->first();
+
+        if ($techniqueList->count() === 0) {
+            return [];
+        }
 
         return $this->extractTechniquesFromList($techniqueList);
     }

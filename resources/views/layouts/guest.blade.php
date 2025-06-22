@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ isset($title) ? $title.' | ' : '' }}Inazuma Team Builder</title>
+    <title>{{ isset($title) ? $title . ' | ' : '' }}Inazuma Team Builder</title>
 
     <!-- Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
@@ -16,7 +16,8 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
     <script>
-        if (localStorage.getItem('color-theme') === 'dark' || (!localStorage.getItem('color-theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        if (localStorage.getItem('color-theme') === 'dark' || (!localStorage.getItem('color-theme') && window.matchMedia(
+                '(prefers-color-scheme: dark)').matches)) {
             document.documentElement.classList.add('dark');
         } else {
             document.documentElement.classList.remove('dark');
@@ -41,7 +42,8 @@
                             <span class="group relative inline-block">
                                 <span class="text-gray-900 dark:text-gray-300">Inazuma Team Builder</span>
                                 <span class="absolute inset-0 overflow-hidden">
-                                    <span class="absolute top-0 left-0 h-full w-0 
+                                    <span
+                                        class="absolute top-0 left-0 h-full w-0 
                         bg-clip-text text-transparent whitespace-nowrap
                         bg-[linear-gradient(135deg,#fccd19_40%,#ee8100_80%)]
                         group-hover:w-full

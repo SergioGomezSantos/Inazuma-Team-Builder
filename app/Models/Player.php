@@ -20,11 +20,14 @@ class Player extends Model
         'image'
     ];
 
-    public function teams() {
+    public function teams()
+    {
         return $this->belongsToMany(Team::class);
     }
 
-    public function techniques() {
-        return $this->belongsToMany(Technique::class);
+    public function techniques()
+    {
+        return $this->belongsToMany(Technique::class)
+            ->withPivot(['with', 'source']);
     }
 }

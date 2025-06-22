@@ -1,31 +1,31 @@
 <x-app-layout>
     @section('scripts')
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const btn = document.getElementById('toggle-names');
-            const showIcon = document.getElementById('show-names-icon');
-            const hideIcon = document.getElementById('hide-names-icon');
-            const names = document.querySelectorAll('.team-name');
+        <script>
+            document.addEventListener('DOMContentLoaded', () => {
+                const btn = document.getElementById('toggle-names');
+                const showIcon = document.getElementById('show-names-icon');
+                const hideIcon = document.getElementById('hide-names-icon');
+                const names = document.querySelectorAll('.team-name');
 
-            btn.addEventListener('click', () => {
-                const isVisible = showIcon.classList.contains('hidden');
+                btn.addEventListener('click', () => {
+                    const isVisible = showIcon.classList.contains('hidden');
 
-                if (isVisible) {
-                    names.forEach(el => {
-                        el.style.opacity = '0';
-                    });
-                    showIcon.classList.remove('hidden');
-                    hideIcon.classList.add('hidden');
-                } else {
-                    names.forEach(el => {
-                        el.style.opacity = '1'; // También puedes usar '100%' si lo prefieres, pero '1' es el valor correcto para opacidad.
-                    });
-                    showIcon.classList.add('hidden');
-                    hideIcon.classList.remove('hidden');
-                }
+                    if (isVisible) {
+                        names.forEach(el => {
+                            el.classList.add('opacity-0');
+                        });
+                        showIcon.classList.remove('hidden');
+                        hideIcon.classList.add('hidden');
+                    } else {
+                        names.forEach(el => {
+                            el.classList.remove('opacity-0');
+                        });
+                        showIcon.classList.add('hidden');
+                        hideIcon.classList.remove('hidden');
+                    }
+                });
             });
-        });
-    </script>
+        </script>
     @endsection
 
     <div class="max-w-full mx-auto sm:px-6 lg:px-8">
@@ -33,7 +33,7 @@
             <div class="p-6 text-gray-900 dark:text-gray-100">
 
                 <!-- Main Team Builder Container -->
-                <div class="h-[calc(100vh-12rem)] bg-gray-100 dark:bg-gray-700 relative p-5 flex flex-col rounded-lg">
+                <div class="h-[calc(100vh-12rem)] bg-gray-100 dark:bg-gray-700 relative p-8 flex flex-col rounded-lg">
 
                     <!-- Fixed Header With Button -->
                     <div class="p-3 pr-4 flex justify-end items-center">
@@ -67,18 +67,18 @@
                                 <h2 class="dark:text-primary-500 text-xl font-bold">Fase Clasificatoria Regional</h2>
                                 <div class="flex items-center justify-center">
                                     @foreach ($regionalTeams as $regionalTeam)
-                                    <div class="w-32 flex flex-col items-center justify-start group">
-                                        <a href="{{ route('teams.show', $regionalTeam->id) }}">
-                                            <div class="w-full h-32 flex items-center justify-center">
-                                                <img class="w-32 h-32 transition-transform group-hover:scale-110 duration-200 ease-in-out"
-                                                    src="{{ asset('/storage/emblems/' . $regionalTeam->emblem->image) }}">
+                                        <div class="w-32 flex flex-col items-center justify-start group">
+                                            <a href="{{ route('teams.show', $regionalTeam->id) }}">
+                                                <div class="w-full h-32 flex items-center justify-center">
+                                                    <img class="w-32 h-32 transition-transform group-hover:scale-110 duration-200 ease-in-out"
+                                                        src="{{ asset('/storage/emblems/' . $regionalTeam->emblem->image) }}">
+                                                </div>
+                                            </a>
+                                            <div
+                                                class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
+                                                {{ $regionalTeam->name }}
                                             </div>
-                                        </a>
-                                        <div
-                                            class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
-                                            {{ $regionalTeam->name }}
                                         </div>
-                                    </div>
                                     @endforeach
                                 </div>
                             </div>
@@ -88,18 +88,18 @@
                                 <h2 class="dark:text-primary-500 text-xl font-bold">Torneo Fútbol Frontier</h2>
                                 <div class="flex items-center justify-center">
                                     @foreach ($futbolFrontierTeams as $futbolFrontierTeam)
-                                    <div class="w-32 flex flex-col items-center justify-start group">
-                                        <a href="{{ route('teams.show', $futbolFrontierTeam->id) }}">
-                                            <div class="w-full h-32 flex items-center justify-center">
-                                                <img class="{{ $futbolFrontierTeam->name === 'Zeus' ? 'w-24 h-24' : 'w-32 h-32' }} transition-transform group-hover:scale-110 duration-200 ease-in-out"
-                                                    src="{{ asset('/storage/emblems/' . $futbolFrontierTeam->emblem->image) }}">
+                                        <div class="w-32 flex flex-col items-center justify-start group">
+                                            <a href="{{ route('teams.show', $futbolFrontierTeam->id) }}">
+                                                <div class="w-full h-32 flex items-center justify-center">
+                                                    <img class="{{ $futbolFrontierTeam->name === 'Zeus' ? 'w-24 h-24' : 'w-32 h-32' }} transition-transform group-hover:scale-110 duration-200 ease-in-out"
+                                                        src="{{ asset('/storage/emblems/' . $futbolFrontierTeam->emblem->image) }}">
+                                                </div>
+                                            </a>
+                                            <div
+                                                class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
+                                                {{ $futbolFrontierTeam->name }}
                                             </div>
-                                        </a>
-                                        <div
-                                            class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
-                                            {{ $futbolFrontierTeam->name }}
                                         </div>
-                                    </div>
                                     @endforeach
                                 </div>
                             </div>
@@ -128,18 +128,18 @@
                                 <h2 class="dark:text-primary-500 text-xl font-bold">Amistosos</h2>
                                 <div class="flex items-center justify-center">
                                     @foreach ($extraTeams as $extraTeam)
-                                    <div class="w-32 flex flex-col items-center justify-start group">
-                                        <a href="{{ route('teams.show', $extraTeam->id) }}">
-                                            <div class="w-full h-32 flex items-center justify-center">
-                                                <img class="{{ $extraTeam->name === 'Umbrella' ? 'w-24 h-24' : 'w-32 h-32' }} transition-transform group-hover:scale-110 duration-200 ease-in-out"
-                                                    src="{{ asset('/storage/emblems/' . $extraTeam->emblem->image) }}">
+                                        <div class="w-32 flex flex-col items-center justify-start group">
+                                            <a href="{{ route('teams.show', $extraTeam->id) }}">
+                                                <div class="w-full h-32 flex items-center justify-center">
+                                                    <img class="{{ $extraTeam->name === 'Umbrella' ? 'w-24 h-24' : 'w-32 h-32' }} transition-transform group-hover:scale-110 duration-200 ease-in-out"
+                                                        src="{{ asset('/storage/emblems/' . $extraTeam->emblem->image) }}">
+                                                </div>
+                                            </a>
+                                            <div
+                                                class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
+                                                {{ $extraTeam->name }}
                                             </div>
-                                        </a>
-                                        <div
-                                            class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
-                                            {{ $extraTeam->name }}
                                         </div>
-                                    </div>
                                     @endforeach
                                 </div>
                             </div>
