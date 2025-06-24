@@ -27,7 +27,11 @@
                                     @foreach ($teams as $team)
                                         <tr>
                                             <td class="px-0 py-4 whitespace-nowrap">
-                                                <img class="h-20 w-20 mx-auto"
+                                                <img class="mx-auto
+                                                    @if (in_array($team->emblem->name, ['Servicio Secreto', 'Mar de Árboles', 'Caos', 'Sallys', 'Zeus', 'Raimon'])) h-16 w-16
+                                                    @else
+                                                        h-20 w-20 @endif
+                                                "
                                                     src="{{ asset('storage/emblems/' . $team->emblem->image) }}"
                                                     alt="Team emblem">
                                             </td>

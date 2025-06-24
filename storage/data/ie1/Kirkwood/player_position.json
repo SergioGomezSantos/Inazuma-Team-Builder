@@ -1,0 +1,66 @@
+[
+    {
+        "player_name": "Neville",
+        "position_id": "pos-0"
+    },
+    {
+        "player_name": "Night",
+        "position_id": "pos-1"
+    },
+    {
+        "player_name": "Meenan",
+        "position_id": "pos-2"
+    },
+    {
+        "player_name": "Mirthful",
+        "position_id": "pos-3"
+    },
+    {
+        "player_name": "Clover",
+        "position_id": "pos-4"
+    },
+    {
+        "player_name": "Nashmith",
+        "position_id": "pos-5"
+    },
+    {
+        "player_name": "Damian",
+        "position_id": "pos-6"
+    },
+    {
+        "player_name": "Moore",
+        "position_id": "pos-7"
+    },
+    {
+        "player_name": "Thomas",
+        "position_id": "pos-8"
+    },
+    {
+        "player_name": "Marvin",
+        "position_id": "pos-9"
+    },
+    {
+        "player_name": "Tyler",
+        "position_id": "pos-10"
+    },
+    {
+        "player_name": "Calier",
+        "position_id": "bench-0"
+    },
+    {
+        "player_name": "Gloom",
+        "position_id": "bench-1"
+    },
+    {
+        "player_name": "Talis",
+        "position_id": "bench-2"
+    },
+    {
+        "player_name": "Middleton",
+        "position_id": "bench-3"
+    },
+    {
+        "player_name": "Wells",
+        "position_id": "bench-4"
+    }
+]

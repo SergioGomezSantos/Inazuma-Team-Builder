@@ -1,0 +1,254 @@
+[
+    {
+        "player": "Sam Idol",
+        "anime1": [
+            {
+                "name": "Deslizamiento de Portería",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Deslizamiento",
+            "Despeje a Presión",
+            "Bloqueo Dureza",
+            "Despeje de Fuego"
+        ],
+        "ie2": ["Suerte", "Deslizamiento", "Superpeonza", "Mandril"],
+        "ie3": ["Suerte", "Deslizamiento", "Mandril", "Mano Ultradimensional"]
+    },
+    {
+        "player": "Marcus Train",
+        "anime1": [
+            {
+                "name": "Confusión",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Bola Falsa",
+            "Psicorremate",
+            "Zigzag Chispeante",
+            "Bateo Total"
+        ],
+        "ie2": [
+            "Bola Falsa",
+            "Psicorremate",
+            "Zigzag Chispeante",
+            "Bateo Total"
+        ],
+        "ie3": ["Bola Falsa", "Psicorremate", "Zigzag Chispeante", "Tren Loco"]
+    },
+    {
+        "player": "Light Nobel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Bola Falsa", "Bateo Total", "Acelerón", "Confusión"],
+        "ie2": ["Piscinazo", "Bateo Total", "Bola Falsa", "Confusión"],
+        "ie3": ["Piscinazo", "Bateo Total", "Bola Falsa", "Bloqueo Ballena"]
+    },
+    {
+        "player": "Walter Valiant",
+        "anime1": [
+            {
+                "name": "Bola Falsa",
+                "with": []
+            },
+            {
+                "name": "Confusión",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Bola Falsa", "Coz", "Tiro del Cometa", "Tiro Dinamita"],
+        "ie2": ["Siempre a Muerte", "Bateo Total", "Bola Falsa", "Confusión"],
+        "ie3": [
+            "Siempre a Muerte",
+            "Bola Falsa",
+            "Tiro del Cometa",
+            "La Tierra"
+        ]
+    },
+    {
+        "player": "Spencer Gates",
+        "anime1": [
+            {
+                "name": "Confusión",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Bateo Total", "Bola Falsa", "Sismo", "Deslizamiento"],
+        "ie2": ["Bateo Total", "Bola Falsa", "Sismo", "Deslizamiento"],
+        "ie3": [
+            "Bateo Total",
+            "Super Pisotón de Sumo",
+            "Amago de Tiro",
+            "Piscinazo"
+        ]
+    },
+    {
+        "player": "Josh Spear",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Confusión", "Gravedad", "Escáner Defensa", "Escáner Ataque"],
+        "ie2": ["Confusión", "Gravedad", "Escáner Defensa", "Escáner Ataque"],
+        "ie3": [
+            "Confusión",
+            "Escáner Defensa",
+            "Escáner Ataque",
+            "Tormenta de Arena"
+        ]
+    },
+    {
+        "player": "Gaby Farmer",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Coz", "Confusión", "Ciclón", "Chut Congelante"],
+        "ie2": ["Suerte", "Casanova", "Confusión", "Trampolín Relámpago"],
+        "ie3": ["Suerte", "Casanova", "Confusión", "Trampolín Relámpago"]
+    },
+    {
+        "player": "Anthony Woodbridge",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Confusión",
+            "Bateo Total",
+            "Bola Falsa",
+            "Chut de los 100 Toques"
+        ],
+        "ie2": [
+            "Confusión",
+            "Bateo Total",
+            "Bola Falsa",
+            "Chut de los 100 Toques"
+        ],
+        "ie3": ["Confusión", "Bateo Total", "Bola Falsa", "Remate Combinado"]
+    },
+    {
+        "player": "Gus Gamer",
+        "anime1": [
+            {
+                "name": "Bateo Total",
+                "with": ["Artist"]
+            },
+            {
+                "name": "Confusión",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Bateo Total", "Confusión", "Bola Falsa", "Tiro Cegador"],
+        "ie2": ["Bateo Total", "Confusión", "Bola Falsa", "Tiro Cegador"],
+        "ie3": ["Bateo Total", "Confusión", "Bombazo", "Tiro Cegador"]
+    },
+    {
+        "player": "Mark Gambling",
+        "anime1": [
+            {
+                "name": "Bateo Total",
+                "with": ["Gamer"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Confusión", "Bateo Total", "Doppelgänger", "Ataque Afilado"],
+        "ie2": ["Confusión", "Bateo Total", "Doppelgänger", "Ataque Afilado"],
+        "ie3": ["Confusión", "Golf Total", "Doppelgänger", "Ataque de Paladín"]
+    },
+    {
+        "player": "Theodore Master",
+        "anime1": [
+            {
+                "name": "Confusión",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Tiro del Cometa", "Confusión", "Pase Cruzado", "Bateo Total"],
+        "ie2": ["Tiro del Cometa", "Confusión", "Pase Cruzado", "Bateo Total"],
+        "ie3": ["¡Vamos Todos!", "Confusión", "Pase Cruzado", "Bateo Total"]
+    },
+    {
+        "player": "Grant Eldorado",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Tiro Giratorio", "Remate Dragón", "Embestida", "Coz"],
+        "ie2": ["Salto del Cisne", "Remate Dragón", "Despeje a Presión", "Coz"],
+        "ie3": [
+            "Salto del Cisne",
+            "Remate Dragón",
+            "Despeje a Presión",
+            "Golpes de Luz"
+        ]
+    },
+    {
+        "player": "Ham Signalman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Confusión", "Giro Bobina", "Corte Giratorio", "Remate Misil"],
+        "ie2": ["Confusión", "Giro Bobina", "Corte Giratorio", "Remate Misil"],
+        "ie3": ["Confusión", "Giro Bobina", "Jaula de Piedra", "Remate Misil"]
+    },
+    {
+        "player": "Bill Formby",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Doppelgänger", "Bloqueo Dureza", "Telaraña", "Despeje Cohete"],
+        "ie2": ["Doppelgänger", "Bloqueo Dureza", "Telaraña", "Despeje Cohete"],
+        "ie3": ["Doppelgänger", "Bloqueo Dureza", "Telaraña", "Zapatazo Dual"]
+    },
+    {
+        "player": "Mike Vox",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Bola Falsa", "Entrada Huracán", "Escáner Defensa", "Ciclón"],
+        "ie2": ["Bola Falsa", "Entrada Huracán", "Escáner Defensa", "Ciclón"],
+        "ie3": [
+            "Bola Falsa",
+            "Entrada Huracán",
+            "Escáner Defensa",
+            "Cúpula Sónica"
+        ]
+    },
+    {
+        "player": "Ollie Webb",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Defensa",
+            "Maldición",
+            "Corte Flamígero",
+            "Pase Cruzado"
+        ],
+        "ie2": [
+            "Escáner Defensa",
+            "Maldición",
+            "Corte Flamígero",
+            "Pase Cruzado"
+        ],
+        "ie3": [
+            "Escáner Defensa",
+            "Maldición",
+            "Pase Cruzado",
+            "Gravedad Grave"
+        ]
+    }
+]

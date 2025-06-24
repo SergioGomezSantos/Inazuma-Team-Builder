@@ -1,0 +1,66 @@
+[
+    {
+        "player_name": "Mark",
+        "position_id": "pos-0"
+    },
+    {
+        "player_name": "Nathan",
+        "position_id": "pos-1"
+    },
+    {
+        "player_name": "Jack",
+        "position_id": "pos-2"
+    },
+    {
+        "player_name": "Bobby",
+        "position_id": "pos-3"
+    },
+    {
+        "player_name": "Tod",
+        "position_id": "pos-4"
+    },
+    {
+        "player_name": "Timmy",
+        "position_id": "pos-5"
+    },
+    {
+        "player_name": "Jude",
+        "position_id": "pos-6"
+    },
+    {
+        "player_name": "Erik",
+        "position_id": "pos-7"
+    },
+    {
+        "player_name": "Max",
+        "position_id": "pos-8"
+    },
+    {
+        "player_name": "Kevin",
+        "position_id": "pos-9"
+    },
+    {
+        "player_name": "Axel",
+        "position_id": "pos-10"
+    },
+    {
+        "player_name": "Jim",
+        "position_id": "bench-0"
+    },
+    {
+        "player_name": "Steve",
+        "position_id": "bench-1"
+    },
+    {
+        "player_name": "Sam",
+        "position_id": "bench-2"
+    },
+    {
+        "player_name": "Willy",
+        "position_id": "bench-3"
+    },
+    {
+        "player_name": "Peabody",
+        "position_id": "bench-4"
+    }
+]

@@ -1,0 +1,301 @@
+[
+    {
+        "player": "Suzanne Yuma",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Bloqueo Dureza",
+            "Despeje de Leñador",
+            "Despeje Explosivo",
+            "Pisotón de Sumo"
+        ],
+        "ie2": [
+            "Bloqueo Dureza",
+            "Despeje de Leñador",
+            "Despeje Explosivo",
+            "Escudo Protector"
+        ],
+        "ie3": [
+            "Bloqueo Dureza",
+            "Despeje de Leñador",
+            "Escudo Protector",
+            "Mejor Garantía"
+        ]
+    },
+    {
+        "player": "Tammy Fielding",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Maldición", "Espejismo", "Ataque Sombrío", "Trama"],
+        "ie2": ["Vagueza", "Espejismo", "Ataque Sombrío", "Trama"],
+        "ie3": ["Vagueza", "Espejismo", "Ataque Sombrío", "Emboscada Defensiva"]
+    },
+    {
+        "player": "Alex Lovely",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Equilibrismo",
+            "Remolino Cortante",
+            "Espejismo de Balón",
+            "Bola de Fango"
+        ],
+        "ie2": [
+            "Equilibrismo",
+            "Remolino Cortante",
+            "Espejismo de Balón",
+            "Bola de Fango"
+        ],
+        "ie3": [
+            "Pared Solitaria",
+            "Remolino Cortante",
+            "Espejismo de Balón",
+            "Bola de Fango"
+        ]
+    },
+    {
+        "player": "Louis Hillside",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Pisotón de Sumo", "Embestida", "Sismo", "Regate Topo"],
+        "ie2": ["Recobro", "Embestida", "Sismo", "Regate Topo"],
+        "ie3": ["Recobro", "Gravitación", "Sismo", "Regate Topo"]
+    },
+    {
+        "player": "Ness Sheldon",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Pisotón de Sumo",
+            "Cuchilla Asesina",
+            "Despeje de Leñador",
+            "Ataque Afilado"
+        ],
+        "ie2": [
+            "Pisotón de Sumo",
+            "Cuchilla Asesina",
+            "Despeje de Leñador",
+            "Ataque Afilado"
+        ],
+        "ie3": [
+            "Pisotón de Sumo",
+            "Cuchilla Asesina",
+            "Despeje de Leñador",
+            "Espada Defensora"
+        ]
+    },
+    {
+        "player": "Lizzy Squirrel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Acelerón",
+            "Truco de Magia",
+            "Barrido Defensivo",
+            "Cabezazo Kung-fu"
+        ],
+        "ie2": [
+            "Acelerón",
+            "Truco de Magia",
+            "Barrido Defensivo",
+            "Cabezazo Kung-fu"
+        ],
+        "ie3": [
+            "Acelerón",
+            "Olor Embriagador",
+            "Barrido Defensivo",
+            "Cabezazo Kung-fu"
+        ]
+    },
+    {
+        "player": "Kippy Jones",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Barrido Defensivo",
+            "Entrada Huracán",
+            "Bola Falsa",
+            "Remate Tarzán"
+        ],
+        "ie2": [
+            "Barrido Defensivo",
+            "Entrada Huracán",
+            "Bola Falsa",
+            "Remate Tarzán"
+        ],
+        "ie3": [
+            "Barrido Defensivo",
+            "Entrada Huracán",
+            "Bola Falsa",
+            "Cabezazo Megatón"
+        ]
+    },
+    {
+        "player": "Fayette Riversong",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Chut Granada",
+            "Acelerón",
+            "Tiro Dinamita",
+            "Remate Combinado"
+        ],
+        "ie2": [
+            "Chut Granada",
+            "Acelerón",
+            "Tiro Dinamita",
+            "Remate Combinado"
+        ],
+        "ie3": ["Chut Granada", "Acelerón", "Tiro Dinamita", "Golf Total"]
+    },
+    {
+        "player": "Samantha Moonlight",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro del Cometa",
+            "Pase Cruzado",
+            "Corte Flamígero",
+            "Pingüino Emperador Nº 2"
+        ],
+        "ie2": [
+            "Femme Fatale",
+            "Tiro del Cometa",
+            "Prima Donna",
+            "Baile de Mariposas"
+        ],
+        "ie3": [
+            "Femme Fatale",
+            "Tiro del Cometa",
+            "Prima Donna",
+            "Cañón de Meteoritos"
+        ]
+    },
+    {
+        "player": "Mitch Sandstone",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Chut Granada", "Remate Dragón", "Bateo Total", "Coz"],
+        "ie2": ["Recobro", "Tiro Pirueta", "Remate Dragón", "Bateo Total"],
+        "ie3": ["Recobro", "Tiro Pirueta", "Cañón Dragón", "Bateo Total"]
+    },
+    {
+        "player": "Eddie Prentice",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro Dinamita",
+            "Corte Flamígero",
+            "Remate Combinado",
+            "Robo Rápido"
+        ],
+        "ie2": [
+            "Cabezazo Yoyó",
+            "Tiro Dinamita",
+            "Pompa de Chicle",
+            "Remate Combinado"
+        ],
+        "ie3": [
+            "Cabezazo Yoyó",
+            "Bomba Acrobática",
+            "Pompa de Chicle",
+            "Remate Combinado"
+        ]
+    },
+    {
+        "player": "Alf Holmes",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Chut Granada", "Chut Congelante", "Acelerón", "Embestida"],
+        "ie2": [
+            "Despeje de Leñador",
+            "Acelerón",
+            "Cabezonería",
+            "Granada Doble"
+        ],
+        "ie3": [
+            "Despeje de Leñador",
+            "Acelerón",
+            "Escudo Protector",
+            "Granada Doble"
+        ]
+    },
+    {
+        "player": "Ian Stager",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Rapto Divino", "Bola Falsa", "Bateo Total", "Ataque Sombrío"],
+        "ie2": ["Rapto Divino", "Bola Falsa", "Golf Total", "Ataque Sombrío"],
+        "ie3": ["Rapto Divino", "Confusión", "Golf Total", "Ataque Sombrío"]
+    },
+    {
+        "player": "Fred Crumb",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Robo Rápido",
+            "Remolino Cortante",
+            "Sorpresa",
+            "Bola de Fango"
+        ],
+        "ie2": ["Robo Rápido", "Doppelgänger", "Sorpresa", "Telaraña"],
+        "ie3": ["Robo Rápido", "Doppelgänger", "Sorpresa", "Dientes de Roca"]
+    },
+    {
+        "player": "Dough Baughan",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Chut Granada",
+            "Cabezazo Kung-fu",
+            "Remate Misil",
+            "Zigzag Chispeante"
+        ],
+        "ie2": [
+            "Chut Granada",
+            "Cabezazo Kung-fu",
+            "Remate Misil",
+            "Zigzag Chispeante"
+        ],
+        "ie3": [
+            "Chut Granada",
+            "Cabezazo Kung-fu",
+            "Remate Misil",
+            "Balón Rodante"
+        ]
+    },
+    {
+        "player": "Pip Daltry",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Giro Bobina", "Equilibrismo", "Hojarasca", "Bola Falsa"],
+        "ie2": [
+            "Giro Bobina",
+            "Truco de Magia",
+            "Paisaje Helado",
+            "Olor Embriagador"
+        ],
+        "ie3": [
+            "Giro Bobina",
+            "Regate Rítmico",
+            "Tornado Doble",
+            "Olor Embriagador"
+        ]
+    }
+]

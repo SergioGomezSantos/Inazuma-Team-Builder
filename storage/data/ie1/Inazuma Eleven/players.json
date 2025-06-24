@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Hillman",
+        "full_name": "Seymour Hillman",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/11/%28IE%29_Hillman.png/revision/latest?cb=20230914205830&path-prefix=es"
+    },
+    {
+        "name": "Island",
+        "full_name": "Charles Island",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/22/%28IE%29_Island.png/revision/latest?cb=20230914205833&path-prefix=es"
+    },
+    {
+        "name": "Hairtown",
+        "full_name": "Garret Hairtown",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/22/%28IE%29_Hairtown.png/revision/latest?cb=20230914205824&path-prefix=es"
+    },
+    {
+        "name": "Sweet",
+        "full_name": "Arthur Sweet",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/44/%28IE%29_Sweet.png/revision/latest?cb=20230914205851&path-prefix=es"
+    },
+    {
+        "name": "Butler",
+        "full_name": "Peter Mildred",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f6/%28IE%29_Butler.png/revision/latest?cb=20230914205815&path-prefix=es"
+    },
+    {
+        "name": "Nathaniel",
+        "full_name": "Josh Nathaniel",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a4/%28IE%29_Nathaniel.png/revision/latest?cb=20230914205839&path-prefix=es"
+    },
+    {
+        "name": "Gladstone",
+        "full_name": "Edward Gladstone",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/03/%28IE%29_Gladstone.png/revision/latest?cb=20230914205820&path-prefix=es"
+    },
+    {
+        "name": "Tailor",
+        "full_name": "Tyler Thomas",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/93/%28IE%29_Tailor.png/revision/latest?cb=20230914205853&path-prefix=es"
+    },
+    {
+        "name": "Barista",
+        "full_name": "Joseph Yosemite",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/19/%28IE%29_Barista.png/revision/latest?cb=20230914205808&path-prefix=es"
+    },
+    {
+        "name": "Suffolk",
+        "full_name": "Ian Suffolk",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3f/%28IE%29_Suffolk.png/revision/latest?cb=20230914205849&path-prefix=es"
+    },
+    {
+        "name": "Builder",
+        "full_name": "Constant Builder",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4b/%28IE%29_Builder.png/revision/latest?cb=20230914205810&path-prefix=es"
+    },
+    {
+        "name": "Poe",
+        "full_name": "Ted Poe",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f2/%28IE%29_Poe.png/revision/latest?cb=20230914205843&path-prefix=es"
+    },
+    {
+        "name": "Heart",
+        "full_name": "Marshall Heart",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0b/%28IE%29_Heart.png/revision/latest?cb=20230914205827&path-prefix=es"
+    },
+    {
+        "name": "Foreman",
+        "full_name": "Dom Foreman",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a7/%28IE%29_Foreman.png/revision/latest?cb=20230914205817&path-prefix=es"
+    },
+    {
+        "name": "MacHines",
+        "full_name": "Slot MacHines",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c1/%28IE%29_MacHines.png/revision/latest?cb=20230914205837&path-prefix=es"
+    },
+    {
+        "name": "Steaky",
+        "full_name": "Bill Steakspear",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Inazuma Eleven",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2f/%28IE%29_Steaky.png/revision/latest?cb=20230914205846&path-prefix=es"
+    }
+]

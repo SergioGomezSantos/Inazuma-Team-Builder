@@ -1,0 +1,316 @@
+[
+    {
+        "player": "Nathan Jones",
+        "anime1": [
+            {
+                "name": "Espiral de Distorsión",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Cuchilla Asesina",
+            "Espiral de Distorsión",
+            "Ataque Afilado",
+            "Torbellino"
+        ],
+        "ie2": [
+            "Ahorro",
+            "Cuchilla Asesina",
+            "Espiral de Distorsión",
+            "Lanzallamas"
+        ],
+        "ie3": [
+            "Ahorro",
+            "Cuchilla Asesina",
+            "Espiral de Distorsión",
+            "Espada Defensora"
+        ]
+    },
+    {
+        "player": "Russell Walk",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Gravedad", "Rapto Divino", "Maldición", "Tiro Fantasma"],
+        "ie2": ["Gravedad", "Rapto Divino", "Maldición", "Tiro Fantasma"],
+        "ie3": ["Gravedad", "Tiro Fantasma", "Maldición", "Círculo de Espadas"]
+    },
+    {
+        "player": "Jason Jones",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Doppelgänger", "Truco de Magia", "Gravedad", "Bola Falsa"],
+        "ie2": ["Doppelgänger", "Truco de Magia", "Gravedad", "Bola Falsa"],
+        "ie3": ["Doppelgänger", "Descodificación", "Gravedad", "Bombazo"]
+    },
+    {
+        "player": "Ken Furan",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Despeje de Fuego",
+            "Despeje Cohete",
+            "Despeje Explosivo",
+            "Puño Vengativo"
+        ],
+        "ie2": [
+            "Despeje de Fuego",
+            "Despeje Cohete",
+            "Despeje Explosivo",
+            "Puño Vengativo"
+        ],
+        "ie3": [
+            "Cabezonería",
+            "Puños Voladores",
+            "Despeje Explosivo",
+            "Puño Vengativo"
+        ]
+    },
+    {
+        "player": "Jerry Fulton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Doppelgänger", "Tiro Fantasma", "Maldición", "Ataque Sombrío"],
+        "ie2": ["Doppelgänger", "Tiro Fantasma", "Maldición", "Ataque Sombrío"],
+        "ie3": [
+            "¡Que no Decaiga!",
+            "Tiro Fantasma",
+            "Teleportación",
+            "Ataque Sombrío"
+        ]
+    },
+    {
+        "player": "Ray Mannings",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Gravedad",
+            "Maldición",
+            "Truco de Magia",
+            "Espiral de Distorsión"
+        ],
+        "ie2": ["Gravedad", "Maldición", "Sorpresa", "Ataque Sombrío"],
+        "ie3": [
+            "Gravedad",
+            "Maldición",
+            "Rayo de Ganímedes",
+            "Tornado Venenoso"
+        ]
+    },
+    {
+        "player": "Robert Mayer",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Gravedad",
+            "Niebla Venenosa",
+            "Telaraña",
+            "Espiral de Distorsión"
+        ],
+        "ie2": [
+            "Gravedad",
+            "Niebla Venenosa",
+            "Telaraña",
+            "Espiral de Distorsión"
+        ],
+        "ie3": [
+            "Gravedad",
+            "Tornado Venenoso",
+            "Telaraña",
+            "Espiral de Distorsión"
+        ]
+    },
+    {
+        "player": "Alexander Brave",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Maldición",
+            "Ataque Sombrío",
+            "Tiro Fantasma",
+            "Remolino Cortante"
+        ],
+        "ie2": [
+            "Maldición",
+            "Ataque Sombrío",
+            "Tiro Fantasma",
+            "Remolino Cortante"
+        ],
+        "ie3": [
+            "Maldición",
+            "Flecha Huracán",
+            "Tiro Fantasma",
+            "Remolino Cortante"
+        ]
+    },
+    {
+        "player": "Johan Tassman",
+        "anime1": [
+            {
+                "name": "Tiro Fantasma",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Rapto Divino",
+            "Tiro Fantasma",
+            "Chut Congelante",
+            "Remolino Cortante"
+        ],
+        "ie2": [
+            "Rapto Divino",
+            "Tiro Fantasma",
+            "Chut Congelante",
+            "Flecha Divina"
+        ],
+        "ie3": [
+            "Rapto Divino",
+            "Tiro Fantasma",
+            "Astro Remate",
+            "Triángulo Letal"
+        ]
+    },
+    {
+        "player": "Troy Moon",
+        "anime1": [
+            {
+                "name": "Tiro Fantasma",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro Fantasma",
+            "Truco de Magia",
+            "Luna Creciente",
+            "Garra Salvaje"
+        ],
+        "ie2": [
+            "Truco de Magia",
+            "Tiro Fantasma",
+            "Luna Creciente",
+            "Remate Combinado"
+        ],
+        "ie3": [
+            "Truco de Magia",
+            "Tiro Fantasma",
+            "Ultra Lunar",
+            "Aullido de Lobo"
+        ]
+    },
+    {
+        "player": "Burt Wolf",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro Fantasma",
+            "Truco de Magia",
+            "Niebla Venenosa",
+            "Rueda Infernal"
+        ],
+        "ie2": [
+            "Anti Afinidades",
+            "Tiro Fantasma",
+            "Truco de Magia",
+            "Niebla Venenosa"
+        ],
+        "ie3": [
+            "Anti Afinidades",
+            "Tiro Fantasma",
+            "Niebla Venenosa",
+            "Escudo Bárbaro"
+        ]
+    },
+    {
+        "player": "Rob Crombie",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Pisotón de Sumo", "Doppelgänger", "Rapto Divino", "Embestida"],
+        "ie2": [
+            "Pisotón de Sumo",
+            "Espiral de Distorsión",
+            "Despeje Cohete",
+            "Embestida"
+        ],
+        "ie3": [
+            "Pisotón de Sumo",
+            "Espiral de Distorsión",
+            "Despeje Cohete",
+            "Puño Vengativo"
+        ]
+    },
+    {
+        "player": "Chuck Dollman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Tiro Fantasma", "Doppelgänger", "Maldición", "Despeje Cohete"],
+        "ie2": ["Tiro Fantasma", "Maldición", "Doppelgänger", "Aikido"],
+        "ie3": ["Tiro Fantasma", "Telaraña", "Doppelgänger", "Aikido"]
+    },
+    {
+        "player": "Uxley Allen",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro del Cometa",
+            "Psicorremate",
+            "Cabezazo Kung-fu",
+            "Gravedad"
+        ],
+        "ie2": [
+            "Tiro del Cometa",
+            "Rapto Divino",
+            "Cabezazo Kung-fu",
+            "Gravedad"
+        ],
+        "ie3": [
+            "Tiro del Cometa",
+            "Astro Remate",
+            "Cabezazo Kung-fu",
+            "Disparo Cósmico"
+        ]
+    },
+    {
+        "player": "Phil Noir",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Maldición", "Psicorremate", "Doppelgänger", "Triángulo Letal"],
+        "ie2": ["Maldición", "Psicorremate", "Doppelgänger", "Triángulo Letal"],
+        "ie3": [
+            "Maldición",
+            "Psicorremate",
+            "Regate Espejismo",
+            "Triángulo Letal"
+        ]
+    },
+    {
+        "player": "Mick Askley",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Gravedad",
+            "Rueda Infernal",
+            "Embestida",
+            "Espiral de Distorsión"
+        ],
+        "ie2": ["Gravedad", "Maldición", "Telaraña", "Rueda Infernal"],
+        "ie3": ["Gravedad", "Maldición", "Escudo Bárbaro", "Rueda Infernal"]
+    }
+]

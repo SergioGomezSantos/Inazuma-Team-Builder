@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Neville",
+        "full_name": "John Neville",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/32/%28KW%29_Neville.png/revision/latest?cb=20230913151645&path-prefix=es"
+    },
+    {
+        "name": "Night",
+        "full_name": "Malcolm Night",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/86/%28KW%29_Night.png/revision/latest?cb=20230913151631&path-prefix=es"
+    },
+    {
+        "name": "Meenan",
+        "full_name": "Alfred Meenan",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5e/%28KW%29_Meenan.png/revision/latest?cb=20230913151634&path-prefix=es"
+    },
+    {
+        "name": "Mirthful",
+        "full_name": "Dan Mirthful",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/72/%28KW%29_Mirthful.png/revision/latest?cb=20230913151638&path-prefix=es"
+    },
+    {
+        "name": "Clover",
+        "full_name": "Ricky Clover",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/02/%28KW%29_Clover.png/revision/latest?cb=20230913151624&path-prefix=es"
+    },
+    {
+        "name": "Damian",
+        "full_name": "Toby Damian",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ab/%28KW%29_Damian.png/revision/latest?cb=20230913151626&path-prefix=es"
+    },
+    {
+        "name": "Nashmith",
+        "full_name": "York Nashmith",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a8/%28KW%29_Nashmith.png/revision/latest?cb=20230913151643&path-prefix=es"
+    },
+    {
+        "name": "Moore",
+        "full_name": "Zachary Moore",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7f/%28KW%29_Moore.png/revision/latest?cb=20230913151640&path-prefix=es"
+    },
+    {
+        "name": "Marvin",
+        "full_name": "Marvin Murdock",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/00/%28KW%29_Marvin.png/revision/latest?cb=20230913151632&path-prefix=es"
+    },
+    {
+        "name": "Thomas",
+        "full_name": "Thomas Murdock",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/15/%28KW%29_Thomas.png/revision/latest?cb=20230913151650&path-prefix=es"
+    },
+    {
+        "name": "Tyler",
+        "full_name": "Tyler Murdock",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3f/%28KW%29_Tyler.png/revision/latest?cb=20230913151652&path-prefix=es"
+    },
+    {
+        "name": "Calier",
+        "full_name": "Simon Calier",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/45/%28KW%29_Calier.png/revision/latest?cb=20230913151622&path-prefix=es"
+    },
+    {
+        "name": "Gloom",
+        "full_name": "Brody Gloom",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/66/%28KW%29_Gloom.png/revision/latest?cb=20230913151629&path-prefix=es"
+    },
+    {
+        "name": "Talis",
+        "full_name": "Victor Talis",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/62/%28KW%29_Talis.png/revision/latest?cb=20230913151647&path-prefix=es"
+    },
+    {
+        "name": "Middleton",
+        "full_name": "Eren Middleton",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f6/%28KW%29_Middleton.png/revision/latest?cb=20230913151636&path-prefix=es"
+    },
+    {
+        "name": "Wells",
+        "full_name": "Peter Wells",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Kirkwood",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/59/%28KW%29_Wells.png/revision/latest?cb=20230913151654&path-prefix=es"
+    }
+]

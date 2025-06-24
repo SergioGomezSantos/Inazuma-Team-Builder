@@ -1,0 +1,306 @@
+[
+    {
+        "player": "Herman Muller",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Despeje a Presión",
+            "Despeje Cohete",
+            "Hojarasca",
+            "Bola Falsa"
+        ],
+        "ie2": [
+            "Despeje a Presión",
+            "Despeje Cohete",
+            "Bola Falsa",
+            "Hojarasca"
+        ],
+        "ie3": [
+            "Despeje a Presión",
+            "Despeje Cohete",
+            "Bola Falsa",
+            "Puños Voladores"
+        ]
+    },
+    {
+        "player": "Keth Claus",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Acelerón",
+            "Chut de los 100 Toques",
+            "Barrido Defensivo",
+            "Ataque Afilado"
+        ],
+        "ie2": [
+            "Acelerón",
+            "Chut de los 100 Toques",
+            "Ataque Afilado",
+            "Muralla Tsunami"
+        ],
+        "ie3": [
+            "Acelerón",
+            "Barrido Defensivo",
+            "Ataque Afilado",
+            "Remate Tsunami"
+        ]
+    },
+    {
+        "player": "Robert Silver",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Entrada Huracán", "Confusión", "Bola Falsa", "Sorpresa"],
+        "ie2": ["Entrada Huracán", "Confusión", "Bola Falsa", "Sorpresa"],
+        "ie3": ["Entrada Huracán", "Bombazo", "Bola Falsa", "Sorpresa"]
+    },
+    {
+        "player": "Izzy Island",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Torbellino Dragón",
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Telaraña"
+        ],
+        "ie2": ["Telaraña", "Escáner Ataque", "Escáner Defensa", "Ciclón"],
+        "ie3": ["Remate Gafas", "Escáner Ataque", "Escáner Defensa", "Ciclón"]
+    },
+    {
+        "player": "Sothern Newman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "El Muro",
+            "Superarmadillo",
+            "Despeje a Presión",
+            "Muralla Gigante"
+        ],
+        "ie2": [
+            "El Muro",
+            "Superarmadillo",
+            "Despeje a Presión",
+            "Muralla Gigante"
+        ],
+        "ie3": [
+            "El Muro",
+            "Superarmadillo",
+            "Gravedad Grave",
+            "Muralla Gigante"
+        ]
+    },
+    {
+        "player": "Irwin Hall",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Equilibrismo", "Confusión", "Tiro Cegador", "Sorpresa"],
+        "ie2": ["Equilibrismo", "Confusión", "Tiro Cegador", "Sorpresa"],
+        "ie3": ["Equilibrismo", "Regate Aurora", "Tiro Chispadraco", "Sorpresa"]
+    },
+    {
+        "player": "Taylor Higgins",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Equilibrismo",
+            "Giro Bobina",
+            "Zigzag Chispeante",
+            "Remate Combinado"
+        ],
+        "ie2": [
+            "Equilibrismo",
+            "Giro Bobina",
+            "Zigzag Chispeante",
+            "Remate Combinado"
+        ],
+        "ie3": [
+            "Equilibrismo",
+            "Giro Bobina",
+            "Zigzag Chispeante",
+            "Tiro Chispadraco"
+        ]
+    },
+    {
+        "player": "Jamie Cool",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate Halcón",
+            "Entrada Huracán",
+            "Robo Rápido",
+            "Remolino Cortante"
+        ],
+        "ie2": [
+            "Remate Halcón",
+            "Entrada Huracán",
+            "Pompa de Chicle",
+            "Remolino Cortante"
+        ],
+        "ie3": [
+            "Remate Halcón",
+            "Entrada Huracán",
+            "Pompa de Chicle",
+            "Patín Aéreo"
+        ]
+    },
+    {
+        "player": "Hans Randall",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Acelerón",
+            "Tiro del Cometa",
+            "Zigzag Chispeante",
+            "Remate Dragón"
+        ],
+        "ie2": ["Repaso", "Acelerón", "Remate Dragón", "Tornado Dragón"],
+        "ie3": ["Repaso", "Acelerón", "Tornado Dragón", "Megadragón"]
+    },
+    {
+        "player": "Michael Riverside",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Acelerón", "Robo Rápido", "Remate Tarzán", "Balón Rodante"],
+        "ie2": ["Acelerón", "Robo Rápido", "Remate Tarzán", "Balón Rodante"],
+        "ie3": ["Acelerón", "Robo Rápido", "Remate Tarzán", "Golpe de Samba"]
+    },
+    {
+        "player": "Maddie Moonlight",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro del Cometa",
+            "Pingüino Emperador Nº 2",
+            "Remate Halcón",
+            "Equilibrismo"
+        ],
+        "ie2": [
+            "Tiro del Cometa",
+            "Pingüino Emperador Nº 2",
+            "Remate Halcón",
+            "Equilibrismo"
+        ],
+        "ie3": [
+            "Tiro del Cometa",
+            "Cruz del Sur",
+            "Pingüino Espacial",
+            "Rapidez +"
+        ]
+    },
+    {
+        "player": "Bart Grantham",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Equilibrismo",
+            "Remolino Cortante",
+            "Bloqueo Dureza",
+            "Muralla Gigante"
+        ],
+        "ie2": [
+            "Bloqueo Dureza",
+            "Equilibrismo",
+            "Embestida",
+            "Muralla Gigante"
+        ],
+        "ie3": [
+            "Bloqueo Dureza",
+            "Equilibrismo",
+            "Cortina Aurora",
+            "Potenciación"
+        ]
+    },
+    {
+        "player": "Karl Blue",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Entrada Huracán", "Maldición", "Bola Falsa", "Sorpresa"],
+        "ie2": ["Entrada Huracán", "Maldición", "Bola Falsa", "Sorpresa"],
+        "ie3": ["Avance Flamígero", "Maldición", "Bola Falsa", "Sorpresa"]
+    },
+    {
+        "player": "Theakston Plank",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro del Cometa",
+            "Torbellino Dragón",
+            "Corte Giratorio",
+            "Cabezazo Kung-fu"
+        ],
+        "ie2": [
+            "Tiro del Cometa",
+            "Torbellino Dragón",
+            "Corte Giratorio",
+            "Cabezazo Kung-fu"
+        ],
+        "ie3": [
+            "Arcoiris Luminoso",
+            "Torbellino Dragón",
+            "Corte Giratorio",
+            "Cabezazo Kung-fu"
+        ]
+    },
+    {
+        "player": "Ken Cake",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate en Espiral",
+            "Pisotón de Sumo",
+            "Embestida",
+            "Pase Cruzado"
+        ],
+        "ie2": [
+            "Remate en Espiral",
+            "Pisotón de Sumo",
+            "Pase Cruzado",
+            "Técnica Kung-fu"
+        ],
+        "ie3": [
+            "Remate en Espiral",
+            "Pisotón de Sumo",
+            "Aplanadora",
+            "Técnica Kung-fu"
+        ]
+    },
+    {
+        "player": "Mitch Grumble",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Espejismo de Balón",
+            "Zigzag Chispeante",
+            "Rapto Divino",
+            "Ataque Sombrío"
+        ],
+        "ie2": [
+            "Espejismo de Balón",
+            "Zigzag Chispeante",
+            "Rapto Divino",
+            "Ataque Sombrío"
+        ],
+        "ie3": [
+            "Espejismo de Balón",
+            "Zigzag Chispeante",
+            "Súper Relámpago",
+            "Ataque Sombrío"
+        ]
+    }
+]

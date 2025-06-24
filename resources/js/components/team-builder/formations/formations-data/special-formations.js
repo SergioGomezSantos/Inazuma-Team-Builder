@@ -1,4 +1,23 @@
 export const SPECIAL_FORMATIONS = {
+    "Diamante II": {
+        positions: [
+            { x: 50, y: 90.5, role: "Portero" },
+            // Defensas (5)
+            { x: 20, y: 60, role: "Defensa" },
+            { x: 40, y: 70, role: "Defensa" },
+            { x: 50, y: 56, role: "Defensa" },
+            { x: 60, y: 70, role: "Defensa" },
+            { x: 80, y: 60, role: "Defensa" },
+            // Centrocampistas (3)
+            { x: 20, y: 32, role: "Centrocampista" },
+            { x: 50, y: 36, role: "Centrocampista" },
+            { x: 80, y: 32, role: "Centrocampista" },
+            // Delanteros (2)
+            { x: 40, y: 20, role: "Delantero" },
+            { x: 60, y: 20, role: "Delantero" },
+        ],
+        ignoreLayout: true,
+    },
     Diamante: {
         positions: [
             { x: 50, y: 90.5, role: "Portero" },
@@ -198,6 +217,120 @@ export const SPECIAL_FORMATIONS = {
             // Delanteros (2)
             { x: 50, y: 15, role: "Delantero" },
             { x: 50, y: 30, role: "Delantero" },
+        ],
+        ignoreLayout: true,
+    },
+    "Can Doble": {
+        positions: [
+            { x: 50, y: 90.5, role: "Portero" },
+            // Defensas (5)
+            { x: 20, y: 60, role: "Defensa" },
+            { x: 40, y: 70, role: "Defensa" },
+            { x: 50, y: 54, role: "Defensa" },
+            { x: 60, y: 70, role: "Defensa" },
+            { x: 80, y: 60, role: "Defensa" },
+            // Centrocampistas (3)
+            { x: 20, y: 30, role: "Centrocampista" },
+            { x: 50, y: 34, role: "Centrocampista" },
+            { x: 80, y: 30, role: "Centrocampista" },
+            // Delanteros (2)
+            { x: 40, y: 18, role: "Delantero" },
+            { x: 60, y: 18, role: "Delantero" },
+        ],
+        ignoreLayout: true,
+    },
+    Aegis: {
+        positions: [
+            { x: 50, y: 90.5, role: "Portero" },
+            // Defensas (5)
+            { x: 20, y: 60, role: "Defensa" },
+            { x: 40, y: 70, role: "Defensa" },
+            { x: 50, y: 58, role: "Defensa" },
+            { x: 60, y: 70, role: "Defensa" },
+            { x: 80, y: 60, role: "Defensa" },
+            // Centrocampistas (3)
+            { x: 20, y: 34, role: "Centrocampista" },
+            { x: 50, y: 38, role: "Centrocampista" },
+            { x: 80, y: 34, role: "Centrocampista" },
+            // Delanteros (2)
+            { x: 40, y: 22, role: "Delantero" },
+            { x: 60, y: 22, role: "Delantero" },
+        ],
+        ignoreLayout: true,
+    },
+    Géminis: {
+        positions: [
+            { x: 50, y: 90.5, role: "Portero" },
+            // Defensas (5)
+            { x: 20, y: 60, role: "Defensa" },
+            { x: 40, y: 70, role: "Defensa" },
+            { x: 50, y: 56, role: "Defensa" },
+            { x: 60, y: 70, role: "Defensa" },
+            { x: 80, y: 60, role: "Defensa" },
+            // Centrocampistas (3)
+            { x: 20, y: 32, role: "Centrocampista" },
+            { x: 50, y: 36, role: "Centrocampista" },
+            { x: 80, y: 32, role: "Centrocampista" },
+            // Delanteros (2)
+            { x: 40, y: 20, role: "Delantero" },
+            { x: 60, y: 20, role: "Delantero" },
+        ],
+        ignoreLayout: true,
+    },
+    Épsilon: {
+        positions: [
+            { x: 50, y: 90.5, role: "Portero" },
+            // Defensas (5)
+            { x: 15, y: 65, role: "Defensa" },
+            { x: 35, y: 75, role: "Defensa" },
+            { x: 50, y: 63, role: "Defensa" },
+            { x: 65, y: 75, role: "Defensa" },
+            { x: 85, y: 65, role: "Defensa" },
+            // Centrocampistas (4)
+            { x: 20, y: 38, role: "Centrocampista" },
+            { x: 50, y: 45, role: "Centrocampista" },
+            { x: 50, y: 30, role: "Centrocampista" },
+            { x: 80, y: 38, role: "Centrocampista" },
+            // Delanteros (1)
+            { x: 50, y: 15, role: "Delantero" },
+        ],
+        ignoreLayout: true,
+    },
+    Génesis: {
+        positions: [
+            { x: 50, y: 90.5, role: "Portero" },
+            // Defensas (5)
+            { x: 20, y: 60, role: "Defensa" },
+            { x: 40, y: 70, role: "Defensa" },
+            { x: 50, y: 56, role: "Defensa" },
+            { x: 60, y: 70, role: "Defensa" },
+            { x: 80, y: 60, role: "Defensa" },
+            // Centrocampistas (3)
+            { x: 20, y: 32, role: "Centrocampista" },
+            { x: 50, y: 36, role: "Centrocampista" },
+            { x: 80, y: 32, role: "Centrocampista" },
+            // Delanteros (2)
+            { x: 40, y: 20, role: "Delantero" },
+            { x: 60, y: 20, role: "Delantero" },
+        ],
+        ignoreLayout: true,
+    },
+    "Emperadores Oscuros": {
+        positions: [
+            { x: 50, y: 90.5, role: "Portero" },
+            // Defensas (4)
+            { x: 20, y: 60, role: "Defensa" },
+            { x: 40, y: 70, role: "Defensa" },
+            { x: 60, y: 70, role: "Defensa" },
+            { x: 80, y: 60, role: "Defensa" },
+            // Centrocampistas (4)
+            { x: 20, y: 38, role: "Centrocampista" },
+            { x: 40, y: 48, role: "Centrocampista" },
+            { x: 60, y: 48, role: "Centrocampista" },
+            { x: 80, y: 38, role: "Centrocampista" },
+            // Delanteros (2)
+            { x: 40, y: 25, role: "Delantero" },
+            { x: 60, y: 25, role: "Delantero" },
         ],
         ignoreLayout: true,
     },

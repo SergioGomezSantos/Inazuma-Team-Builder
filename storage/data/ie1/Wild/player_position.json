@@ -1,0 +1,66 @@
+[
+    {
+        "player_name": "Boar",
+        "position_id": "pos-0"
+    },
+    {
+        "player_name": "Fishman",
+        "position_id": "pos-1"
+    },
+    {
+        "player_name": "Lion",
+        "position_id": "pos-2"
+    },
+    {
+        "player_name": "Toad",
+        "position_id": "pos-3"
+    },
+    {
+        "player_name": "Chameleon",
+        "position_id": "pos-4"
+    },
+    {
+        "player_name": "Chicken",
+        "position_id": "pos-5"
+    },
+    {
+        "player_name": "Eagle",
+        "position_id": "pos-6"
+    },
+    {
+        "player_name": "Monkey",
+        "position_id": "pos-7"
+    },
+    {
+        "player_name": "Cheetah",
+        "position_id": "pos-8"
+    },
+    {
+        "player_name": "Gorilla",
+        "position_id": "pos-9"
+    },
+    {
+        "player_name": "Snake",
+        "position_id": "pos-10"
+    },
+    {
+        "player_name": "Bullford",
+        "position_id": "bench-0"
+    },
+    {
+        "player_name": "Koala",
+        "position_id": "bench-1"
+    },
+    {
+        "player_name": "Panda",
+        "position_id": "bench-2"
+    },
+    {
+        "player_name": "Raccoon",
+        "position_id": "bench-3"
+    },
+    {
+        "player_name": "Mouseman",
+        "position_id": "bench-4"
+    }
+]

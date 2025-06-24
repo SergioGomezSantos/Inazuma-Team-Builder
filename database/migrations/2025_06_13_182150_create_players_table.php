@@ -18,7 +18,6 @@ return new class extends Migration
             $table->enum('position', ['Portero', 'Defensa', 'Centrocampista', 'Delantero']);
             $table->enum('element', ['Aire', 'Bosque', 'Fuego', 'Montaña', 'Neutro'])->nullable();
             $table->string('original_team')->nullable();
-            $table->json('stats');
             $table->string('image');
             $table->timestamps();
         });

@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Boar",
+        "full_name": "Charlie Boardfield",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/22/%28W%29_Boar.png/revision/latest?cb=20230914154947&path-prefix=es"
+    },
+    {
+        "name": "Chicken",
+        "full_name": "Hugo Talgeese",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a0/%28W%29_Chicken.png/revision/latest?cb=20230914154958&path-prefix=es"
+    },
+    {
+        "name": "Fishman",
+        "full_name": "Wilson Fishman",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f2/%28W%29_Fishman.png/revision/latest?cb=20230914155003&path-prefix=es"
+    },
+    {
+        "name": "Toad",
+        "full_name": "Peter Johnson",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/52/%28W%29_Toad.png/revision/latest?cb=20230914155026&path-prefix=es"
+    },
+    {
+        "name": "Lion",
+        "full_name": "Leonard O'Shea",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0e/%28W%29_Lion.png/revision/latest?cb=20230914155011&path-prefix=es"
+    },
+    {
+        "name": "Chameleon",
+        "full_name": "Cham Lion",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fc/%28W%29_Chameleon.png/revision/latest?cb=20230914154953&path-prefix=es"
+    },
+    {
+        "name": "Eagle",
+        "full_name": "Steve Eagle",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/75/%28W%29_Eagle.png/revision/latest?cb=20230914155000&path-prefix=es"
+    },
+    {
+        "name": "Monkey",
+        "full_name": "Bruce Monkey",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f6/%28W%29_Monkey.png/revision/latest?cb=20230914155013&path-prefix=es"
+    },
+    {
+        "name": "Gorilla",
+        "full_name": "Gary Lancaster",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7f/%28W%29_Gorilla.png/revision/latest?cb=20230914155005&path-prefix=es"
+    },
+    {
+        "name": "Snake",
+        "full_name": "Harry Snake",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d6/%28W%29_Snake.png/revision/latest?cb=20230914155024&path-prefix=es"
+    },
+    {
+        "name": "Cheetah",
+        "full_name": "Adrian Speed",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ad/%28W%29_Cheetah.png/revision/latest?cb=20230914154955&path-prefix=es"
+    },
+    {
+        "name": "Bullford",
+        "full_name": "Chad Bullford",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e7/%28W%29_Bullford.png/revision/latest?cb=20230914154951&path-prefix=es"
+    },
+    {
+        "name": "Koala",
+        "full_name": "Alan Coe",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/53/%28W%29_Koala.png/revision/latest?cb=20230914155008&path-prefix=es"
+    },
+    {
+        "name": "Panda",
+        "full_name": "Philip Anders",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/40/%28W%29_Panda.png/revision/latest?cb=20230914155018&path-prefix=es"
+    },
+    {
+        "name": "Raccoon",
+        "full_name": "Rocky Rackham",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c5/%28W%29_Raccoon.png/revision/latest?cb=20230914155021&path-prefix=es"
+    },
+    {
+        "name": "Mouseman",
+        "full_name": "Matt Mouseman",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Wild",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/01/%28W%29_Mouseman.png/revision/latest?cb=20230914155016&path-prefix=es"
+    }
+]

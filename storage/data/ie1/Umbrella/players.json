@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Ingram",
+        "full_name": "Joe Ingram",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/09/%28U%29_Ingram.png/revision/latest?cb=20230914220805&path-prefix=es"
+    },
+    {
+        "name": "Sefton",
+        "full_name": "Kendall Sefton",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2f/%28U%29_Sefton.png/revision/latest?cb=20230914220515&path-prefix=es"
+    },
+    {
+        "name": "Strike",
+        "full_name": "Jason Strike",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a4/%28U%29_Strike.png/revision/latest?cb=20230914220517&path-prefix=es"
+    },
+    {
+        "name": "Porter",
+        "full_name": "Norman Porter",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c9/%28U%29_Porter.png/revision/latest?cb=20230914220507&path-prefix=es"
+    },
+    {
+        "name": "Chops",
+        "full_name": "Maxwell Claus",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/38/%28U%29_Chops.png/revision/latest?cb=20230914220448&path-prefix=es"
+    },
+    {
+        "name": "Chaney",
+        "full_name": "Bruce Chaney",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e3/%28U%29_Chaney.png/revision/latest?cb=20230914220445&path-prefix=es"
+    },
+    {
+        "name": "Rhymes",
+        "full_name": "Leroy Rhymes",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ee/%28U%29_Rhymes.png/revision/latest?cb=20230914220510&path-prefix=es"
+    },
+    {
+        "name": "Mildford",
+        "full_name": "Mildford Scott",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1e/%28U%29_Scott.png/revision/latest?cb=20230914220512&path-prefix=es"
+    },
+    {
+        "name": "Edmonds",
+        "full_name": "Lou Edmonds",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/ff/%28U%29_Edmonds.png/revision/latest?cb=20230914220453&path-prefix=es"
+    },
+    {
+        "name": "Morefield",
+        "full_name": "Cameron Morefield",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a4/%28U%29_Morefield.png/revision/latest?cb=20230914220500&path-prefix=es"
+    },
+    {
+        "name": "Cyborg",
+        "full_name": "Greg Bernard",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c4/%28U%29_Cyborg.png/revision/latest?cb=20230914220450&path-prefix=es"
+    },
+    {
+        "name": "Banker",
+        "full_name": "Peter Banker",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2a/%28U%29_Banker.png/revision/latest?cb=20230914220440&path-prefix=es"
+    },
+    {
+        "name": "Tunk",
+        "full_name": "Saul Tunk",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bf/%28U%29_Tunk.png/revision/latest?cb=20230914220520&path-prefix=es"
+    },
+    {
+        "name": "Most",
+        "full_name": "Alan Most",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/99/%28U%29_Most.png/revision/latest?cb=20230914220503&path-prefix=es"
+    },
+    {
+        "name": "Caperock",
+        "full_name": "Paul Caperock",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3b/%28U%29_Caperock.png/revision/latest?cb=20230914220443&path-prefix=es"
+    },
+    {
+        "name": "Molehill",
+        "full_name": "Julius Molehill",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Umbrella",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/66/%28U%29_Molehill.png/revision/latest?cb=20230914220457&path-prefix=es"
+    }
+]

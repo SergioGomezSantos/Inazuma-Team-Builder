@@ -6,10 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Player extends Model
 {
-    protected $casts = [
-        'stats' => 'array',
-    ];
-
     protected $fillable = [
         'name',
         'full_name',
@@ -29,5 +25,10 @@ class Player extends Model
     {
         return $this->belongsToMany(Technique::class)
             ->withPivot(['with', 'source']);
+    }
+
+    public function stats()
+    {
+        return $this->hasMany(Stat::class);
     }
 }

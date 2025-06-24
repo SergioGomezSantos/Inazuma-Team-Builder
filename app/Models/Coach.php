@@ -9,5 +9,6 @@ class Coach extends Model
     protected $fillable = [
         'name',
         'image',
+        'version'
     ];
 }

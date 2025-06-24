@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Robot S",
+        "full_name": "Robot S",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5a/Robot_%28PR%29.png/revision/latest?cb=20241016144649&path-prefix=es"
+    },
+    {
+        "name": "Robot P",
+        "full_name": "Robot P",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/Robot_%28JC%29.png/revision/latest?cb=20241016144704&path-prefix=es"
+    },
+    {
+        "name": "Robot T",
+        "full_name": "Robot T",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/Robot_%28JC%29.png/revision/latest?cb=20241016144704&path-prefix=es"
+    },
+    {
+        "name": "Robot V",
+        "full_name": "Robot V",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/Robot_%28JC%29.png/revision/latest?cb=20241016144704&path-prefix=es"
+    },
+    {
+        "name": "Robot C",
+        "full_name": "Robot C",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/Robot_%28JC%29.png/revision/latest?cb=20241016144704&path-prefix=es"
+    },
+    {
+        "name": "Robot O",
+        "full_name": "Robot O",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/Robot_%28JC%29.png/revision/latest?cb=20241016144704&path-prefix=es"
+    },
+    {
+        "name": "Robot B",
+        "full_name": "Robot B",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/Robot_%28JC%29.png/revision/latest?cb=20241016144704&path-prefix=es"
+    },
+    {
+        "name": "Robot G",
+        "full_name": "Robot G",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/Robot_%28JC%29.png/revision/latest?cb=20241016144704&path-prefix=es"
+    },
+    {
+        "name": "Robot K",
+        "full_name": "Robot K",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/Robot_%28JC%29.png/revision/latest?cb=20241016144704&path-prefix=es"
+    },
+    {
+        "name": "Robot F",
+        "full_name": "Robot F",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/Robot_%28JC%29.png/revision/latest?cb=20241016144704&path-prefix=es"
+    },
+    {
+        "name": "Robot L",
+        "full_name": "Robot L",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Robots Guardias",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/Robot_%28JC%29.png/revision/latest?cb=20241016144704&path-prefix=es"
+    }
+]

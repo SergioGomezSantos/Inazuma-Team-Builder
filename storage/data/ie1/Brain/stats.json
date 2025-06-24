@@ -1,0 +1,626 @@
+[
+    {
+        "player": "Thomas Feldt",
+        "ie1": {
+            "GP": 206,
+            "TP": 177,
+            "Kick": 75,
+            "Body": 69,
+            "Control": 68,
+            "Guard": 76,
+            "Speed": 75,
+            "Stamina": 78,
+            "Guts": 76,
+            "Freedom": 31
+        },
+        "ie2": {
+            "GP": 206,
+            "TP": 177,
+            "Kick": 75,
+            "Body": 69,
+            "Control": 68,
+            "Guard": 76,
+            "Speed": 75,
+            "Stamina": 78,
+            "Guts": 76,
+            "Freedom": 31
+        },
+        "ie3": {
+            "GP": 137,
+            "TP": 131,
+            "Kick": 56,
+            "Body": 69,
+            "Control": 58,
+            "Guard": 76,
+            "Speed": 68,
+            "Stamina": 50,
+            "Guts": 52,
+            "Freedom": 32
+        }
+    },
+    {
+        "player": "Harry Leading",
+        "ie1": {
+            "GP": 140,
+            "TP": 112,
+            "Kick": 52,
+            "Body": 52,
+            "Control": 44,
+            "Guard": 47,
+            "Speed": 50,
+            "Stamina": 52,
+            "Guts": 48,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 140,
+            "TP": 112,
+            "Kick": 52,
+            "Body": 52,
+            "Control": 44,
+            "Guard": 47,
+            "Speed": 50,
+            "Stamina": 52,
+            "Guts": 48,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 109,
+            "TP": 112,
+            "Kick": 52,
+            "Body": 59,
+            "Control": 48,
+            "Guard": 47,
+            "Speed": 61,
+            "Stamina": 57,
+            "Guts": 48,
+            "Freedom": 39
+        }
+    },
+    {
+        "player": "Terry Stronger",
+        "ie1": {
+            "GP": 145,
+            "TP": 121,
+            "Kick": 44,
+            "Body": 46,
+            "Control": 46,
+            "Guard": 52,
+            "Speed": 47,
+            "Stamina": 52,
+            "Guts": 52,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 145,
+            "TP": 121,
+            "Kick": 44,
+            "Body": 46,
+            "Control": 46,
+            "Guard": 52,
+            "Speed": 47,
+            "Stamina": 52,
+            "Guts": 52,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 112,
+            "TP": 121,
+            "Kick": 48,
+            "Body": 46,
+            "Control": 50,
+            "Guard": 57,
+            "Speed": 47,
+            "Stamina": 55,
+            "Guts": 68,
+            "Freedom": 31
+        }
+    },
+    {
+        "player": "Philip Marvel",
+        "ie1": {
+            "GP": 143,
+            "TP": 108,
+            "Kick": 44,
+            "Body": 53,
+            "Control": 52,
+            "Guard": 48,
+            "Speed": 49,
+            "Stamina": 50,
+            "Guts": 51,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 143,
+            "TP": 108,
+            "Kick": 44,
+            "Body": 53,
+            "Control": 52,
+            "Guard": 48,
+            "Speed": 49,
+            "Stamina": 50,
+            "Guts": 51,
+            "Freedom": 15
+        },
+        "ie3": {
+            "GP": 127,
+            "TP": 95,
+            "Kick": 50,
+            "Body": 62,
+            "Control": 52,
+            "Guard": 48,
+            "Speed": 52,
+            "Stamina": 57,
+            "Guts": 51,
+            "Freedom": 41
+        }
+    },
+    {
+        "player": "Noel Good",
+        "ie1": {
+            "GP": 134,
+            "TP": 117,
+            "Kick": 44,
+            "Body": 44,
+            "Control": 48,
+            "Guard": 55,
+            "Speed": 44,
+            "Stamina": 48,
+            "Guts": 45,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 134,
+            "TP": 117,
+            "Kick": 44,
+            "Body": 44,
+            "Control": 48,
+            "Guard": 55,
+            "Speed": 44,
+            "Stamina": 48,
+            "Guts": 45,
+            "Freedom": 8
+        },
+        "ie3": {
+            "GP": 113,
+            "TP": 110,
+            "Kick": 47,
+            "Body": 47,
+            "Control": 48,
+            "Guard": 60,
+            "Speed": 48,
+            "Stamina": 71,
+            "Guts": 50,
+            "Freedom": 34
+        }
+    },
+    {
+        "player": "Tyron Rock",
+        "ie1": {
+            "GP": 149,
+            "TP": 112,
+            "Kick": 51,
+            "Body": 46,
+            "Control": 46,
+            "Guard": 48,
+            "Speed": 48,
+            "Stamina": 47,
+            "Guts": 52,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 149,
+            "TP": 112,
+            "Kick": 51,
+            "Body": 46,
+            "Control": 46,
+            "Guard": 48,
+            "Speed": 48,
+            "Stamina": 47,
+            "Guts": 52,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 106,
+            "TP": 104,
+            "Kick": 56,
+            "Body": 46,
+            "Control": 63,
+            "Guard": 48,
+            "Speed": 48,
+            "Stamina": 52,
+            "Guts": 52,
+            "Freedom": 44
+        }
+    },
+    {
+        "player": "Francis Tell",
+        "ie1": {
+            "GP": 145,
+            "TP": 109,
+            "Kick": 44,
+            "Body": 53,
+            "Control": 48,
+            "Guard": 46,
+            "Speed": 45,
+            "Stamina": 44,
+            "Guts": 47,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 145,
+            "TP": 109,
+            "Kick": 44,
+            "Body": 53,
+            "Control": 48,
+            "Guard": 46,
+            "Speed": 45,
+            "Stamina": 44,
+            "Guts": 47,
+            "Freedom": 15
+        },
+        "ie3": {
+            "GP": 101,
+            "TP": 118,
+            "Kick": 47,
+            "Body": 53,
+            "Control": 53,
+            "Guard": 60,
+            "Speed": 62,
+            "Stamina": 48,
+            "Guts": 47,
+            "Freedom": 30
+        }
+    },
+    {
+        "player": "Samuel Buster",
+        "ie1": {
+            "GP": 125,
+            "TP": 113,
+            "Kick": 55,
+            "Body": 46,
+            "Control": 52,
+            "Guard": 49,
+            "Speed": 48,
+            "Stamina": 50,
+            "Guts": 49,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 125,
+            "TP": 113,
+            "Kick": 55,
+            "Body": 46,
+            "Control": 52,
+            "Guard": 49,
+            "Speed": 48,
+            "Stamina": 50,
+            "Guts": 49,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 115,
+            "TP": 98,
+            "Kick": 55,
+            "Body": 67,
+            "Control": 52,
+            "Guard": 49,
+            "Speed": 48,
+            "Stamina": 50,
+            "Guts": 49,
+            "Freedom": 46
+        }
+    },
+    {
+        "player": "Jonathan Seller",
+        "ie1": {
+            "GP": 132,
+            "TP": 113,
+            "Kick": 55,
+            "Body": 50,
+            "Control": 50,
+            "Guard": 49,
+            "Speed": 55,
+            "Stamina": 45,
+            "Guts": 46,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 132,
+            "TP": 113,
+            "Kick": 55,
+            "Body": 50,
+            "Control": 50,
+            "Guard": 49,
+            "Speed": 55,
+            "Stamina": 45,
+            "Guts": 46,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 120,
+            "TP": 113,
+            "Kick": 55,
+            "Body": 54,
+            "Control": 50,
+            "Guard": 49,
+            "Speed": 55,
+            "Stamina": 58,
+            "Guts": 46,
+            "Freedom": 48
+        }
+    },
+    {
+        "player": "Victor Kind",
+        "ie1": {
+            "GP": 134,
+            "TP": 109,
+            "Kick": 49,
+            "Body": 53,
+            "Control": 48,
+            "Guard": 51,
+            "Speed": 48,
+            "Stamina": 53,
+            "Guts": 46,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 134,
+            "TP": 109,
+            "Kick": 49,
+            "Body": 53,
+            "Control": 48,
+            "Guard": 51,
+            "Speed": 48,
+            "Stamina": 53,
+            "Guts": 46,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 107,
+            "TP": 109,
+            "Kick": 49,
+            "Body": 53,
+            "Control": 64,
+            "Guard": 51,
+            "Speed": 50,
+            "Stamina": 53,
+            "Guts": 49,
+            "Freedom": 34
+        }
+    },
+    {
+        "player": "Neil Turner",
+        "ie1": {
+            "GP": 121,
+            "TP": 108,
+            "Kick": 48,
+            "Body": 48,
+            "Control": 52,
+            "Guard": 52,
+            "Speed": 44,
+            "Stamina": 50,
+            "Guts": 45,
+            "Freedom": 11
+        },
+        "ie2": {
+            "GP": 121,
+            "TP": 108,
+            "Kick": 48,
+            "Body": 48,
+            "Control": 52,
+            "Guard": 52,
+            "Speed": 44,
+            "Stamina": 50,
+            "Guts": 45,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 121,
+            "TP": 125,
+            "Kick": 57,
+            "Body": 58,
+            "Control": 70,
+            "Guard": 52,
+            "Speed": 62,
+            "Stamina": 60,
+            "Guts": 55,
+            "Freedom": 21
+        }
+    },
+    {
+        "player": "Reg Underwood",
+        "ie1": {
+            "GP": 121,
+            "TP": 115,
+            "Kick": 44,
+            "Body": 40,
+            "Control": 40,
+            "Guard": 69,
+            "Speed": 48,
+            "Stamina": 42,
+            "Guts": 70,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 121,
+            "TP": 115,
+            "Kick": 44,
+            "Body": 40,
+            "Control": 40,
+            "Guard": 69,
+            "Speed": 48,
+            "Stamina": 42,
+            "Guts": 70,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 122,
+            "TP": 105,
+            "Kick": 44,
+            "Body": 40,
+            "Control": 40,
+            "Guard": 69,
+            "Speed": 48,
+            "Stamina": 61,
+            "Guts": 70,
+            "Freedom": 37
+        }
+    },
+    {
+        "player": "Patrick Stiller",
+        "ie1": {
+            "GP": 134,
+            "TP": 117,
+            "Kick": 53,
+            "Body": 45,
+            "Control": 47,
+            "Guard": 52,
+            "Speed": 44,
+            "Stamina": 46,
+            "Guts": 53,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 134,
+            "TP": 117,
+            "Kick": 53,
+            "Body": 45,
+            "Control": 47,
+            "Guard": 52,
+            "Speed": 44,
+            "Stamina": 46,
+            "Guts": 53,
+            "Freedom": 13
+        },
+        "ie3": {
+            "GP": 103,
+            "TP": 137,
+            "Kick": 56,
+            "Body": 48,
+            "Control": 47,
+            "Guard": 55,
+            "Speed": 47,
+            "Stamina": 45,
+            "Guts": 60,
+            "Freedom": 35
+        }
+    },
+    {
+        "player": "Charles Oughtry",
+        "ie1": {
+            "GP": 127,
+            "TP": 113,
+            "Kick": 55,
+            "Body": 52,
+            "Control": 45,
+            "Guard": 45,
+            "Speed": 46,
+            "Stamina": 44,
+            "Guts": 48,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 127,
+            "TP": 113,
+            "Kick": 55,
+            "Body": 52,
+            "Control": 45,
+            "Guard": 45,
+            "Speed": 46,
+            "Stamina": 44,
+            "Guts": 48,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 110,
+            "TP": 113,
+            "Kick": 55,
+            "Body": 52,
+            "Control": 45,
+            "Guard": 58,
+            "Speed": 46,
+            "Stamina": 44,
+            "Guts": 67,
+            "Freedom": 39
+        }
+    },
+    {
+        "player": "Clive Mooney",
+        "ie1": {
+            "GP": 138,
+            "TP": 101,
+            "Kick": 53,
+            "Body": 49,
+            "Control": 54,
+            "Guard": 50,
+            "Speed": 55,
+            "Stamina": 53,
+            "Guts": 46,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 138,
+            "TP": 101,
+            "Kick": 53,
+            "Body": 49,
+            "Control": 54,
+            "Guard": 50,
+            "Speed": 55,
+            "Stamina": 53,
+            "Guts": 46,
+            "Freedom": 13
+        },
+        "ie3": {
+            "GP": 109,
+            "TP": 101,
+            "Kick": 58,
+            "Body": 49,
+            "Control": 54,
+            "Guard": 50,
+            "Speed": 55,
+            "Stamina": 58,
+            "Guts": 46,
+            "Freedom": 34
+        }
+    },
+    {
+        "player": "Neil Waters",
+        "ie1": {
+            "GP": 151,
+            "TP": 101,
+            "Kick": 52,
+            "Body": 48,
+            "Control": 51,
+            "Guard": 52,
+            "Speed": 45,
+            "Stamina": 54,
+            "Guts": 45,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 151,
+            "TP": 101,
+            "Kick": 52,
+            "Body": 48,
+            "Control": 51,
+            "Guard": 52,
+            "Speed": 45,
+            "Stamina": 54,
+            "Guts": 45,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 98,
+            "TP": 101,
+            "Kick": 48,
+            "Body": 64,
+            "Control": 51,
+            "Guard": 52,
+            "Speed": 45,
+            "Stamina": 64,
+            "Guts": 45,
+            "Freedom": 15
+        }
+    }
+]

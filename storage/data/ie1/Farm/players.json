@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Greeny",
+        "full_name": "Albert Green",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/15/%28F%29_Greeny.png/revision/latest?cb=20230913204232&path-prefix=es"
+    },
+    {
+        "name": "Hayseed",
+        "full_name": "Seward Hayseed",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/89/%28F%29_Hayseed.png/revision/latest?cb=20230913204240&path-prefix=es"
+    },
+    {
+        "name": "Work",
+        "full_name": "Kent Work",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f1/%28F%29_Work.png/revision/latest?cb=20230913204316&path-prefix=es"
+    },
+    {
+        "name": "Hillvalley",
+        "full_name": "Mark Hillvalley",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1b/%28F%29_Hillvalley.png/revision/latest?cb=20230913204246&path-prefix=es"
+    },
+    {
+        "name": "Sherman",
+        "full_name": "Herb Sherman",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/65/%28F%29_Sherman.png/revision/latest?cb=20230913204311&path-prefix=es"
+    },
+    {
+        "name": "Milky",
+        "full_name": "Joe Small",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/63/%28F%29_Milky.png/revision/latest?cb=20230913204254&path-prefix=es"
+    },
+    {
+        "name": "Mother",
+        "full_name": "Ike Steiner",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b5/%28F%29_Mother.png/revision/latest?cb=20230913204256&path-prefix=es"
+    },
+    {
+        "name": "Spray",
+        "full_name": "Orville Newman",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/41/%28F%29_Spray.png/revision/latest?cb=20230913204313&path-prefix=es"
+    },
+    {
+        "name": "Roast",
+        "full_name": "Tom Walters",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e8/%28F%29_Roast.png/revision/latest?cb=20230913204309&path-prefix=es"
+    },
+    {
+        "name": "Dawson",
+        "full_name": "Daniel Dawson",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/%28F%29_Dawson.png/revision/latest?cb=20230913204228&path-prefix=es"
+    },
+    {
+        "name": "Muffs",
+        "full_name": "Stuart Racoonfur",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1c/%28F%29_Muffs.png/revision/latest?cb=20230913204302&path-prefix=es"
+    },
+    {
+        "name": "Mower",
+        "full_name": "Lorne Mower",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/30/%28F%29_Mower.png/revision/latest?cb=20230913204259&path-prefix=es"
+    },
+    {
+        "name": "Grower",
+        "full_name": "Homer Grower",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c2/%28F%29_Grower.png/revision/latest?cb=20230913204237&path-prefix=es"
+    },
+    {
+        "name": "Howells",
+        "full_name": "Rolf Howells",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f8/%28F%29_Howells.png/revision/latest?cb=20230913204248&path-prefix=es"
+    },
+    {
+        "name": "Lively",
+        "full_name": "Luke Lively",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2f/%28F%29_Lively.png/revision/latest?cb=20230913204251&path-prefix=es"
+    },
+    {
+        "name": "Nevis",
+        "full_name": "Ben Nevis",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Farm",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b8/%28F%29_Nevis.png/revision/latest?cb=20230913204305&path-prefix=es"
+    }
+]

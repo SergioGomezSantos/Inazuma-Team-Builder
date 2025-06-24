@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Ironwall",
+        "full_name": "Ken Ironwall",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fd/%28SS%29_Ironwall.png/revision/latest?cb=20230823230750&path-prefix=es"
+    },
+    {
+        "name": "Western",
+        "full_name": "Timothy Western",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3e/%28SS%29_Western.png/revision/latest?cb=20230823230814&path-prefix=es"
+    },
+    {
+        "name": "Hammond",
+        "full_name": "Wallace Hammond",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/ca/%28SS%29_Hammond.png/revision/latest?cb=20230823230748&path-prefix=es"
+    },
+    {
+        "name": "Stevens",
+        "full_name": "Shirley Stevens",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b5/%28SS%29_Stevens.png/revision/latest?cb=20230823230807&path-prefix=es"
+    },
+    {
+        "name": "Smith",
+        "full_name": "Ian Smith",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5d/%28SS%29_Smith.png/revision/latest?cb=20230823230804&path-prefix=es"
+    },
+    {
+        "name": "Firepool",
+        "full_name": "Taylor Firepool",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/97/%28SS%29_Firepool.png/revision/latest?cb=20230823230744&path-prefix=es"
+    },
+    {
+        "name": "Agente M",
+        "full_name": "Marge Fielding",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d4/%28SS%29_Agente_M.png/revision/latest?cb=20230823230739&path-prefix=es"
+    },
+    {
+        "name": "Firsthand",
+        "full_name": "Marshall Firsthand",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4c/%28SS%29_Firsthand.png/revision/latest?cb=20230823230746&path-prefix=es"
+    },
+    {
+        "name": "Mirror",
+        "full_name": "Holly Mirror",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/76/%28SS%29_Mirror.png/revision/latest?cb=20230823230755&path-prefix=es"
+    },
+    {
+        "name": "Tori",
+        "full_name": "Victoria Vanguard",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/57/%28SS%29_Tori.png/revision/latest?cb=20230823230812&path-prefix=es"
+    },
+    {
+        "name": "Kenneddy",
+        "full_name": "Joe Kenneddy",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4b/%28SS%29_Kenneddy.png/revision/latest?cb=20230823230753&path-prefix=es"
+    },
+    {
+        "name": "Sights",
+        "full_name": "Ian Sights",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/23/%28SS%29_Sights.png/revision/latest?cb=20230823230802&path-prefix=es"
+    },
+    {
+        "name": "Beray",
+        "full_name": "Greene Beray",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/dc/%28SS%29_Beray.png/revision/latest?cb=20230823230741&path-prefix=es"
+    },
+    {
+        "name": "Tappin",
+        "full_name": "Ryan Tappin",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5e/%28SS%29_Tappin.png/revision/latest?cb=20230823230809&path-prefix=es"
+    },
+    {
+        "name": "Shadey",
+        "full_name": "Linda Shadey",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3d/%28SS%29_Shadey.png/revision/latest?cb=20230823230759&path-prefix=es"
+    },
+    {
+        "name": "Safehouse",
+        "full_name": "Sid Safehouse",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Servicio Secreto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/22/%28SS%29_Safehouse.png/revision/latest?cb=20230823230757&path-prefix=es"
+    }
+]

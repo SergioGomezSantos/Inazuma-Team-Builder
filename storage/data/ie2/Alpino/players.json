@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Ropes",
+        "full_name": "Adam Ropes",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/06/%28A%29_Ropes.png/revision/latest?cb=20230821202925&path-prefix=es"
+    },
+    {
+        "name": "Downtown",
+        "full_name": "Joaquine Downtown",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a5/%28A%29_Downtown.png/revision/latest?cb=20230821202909&path-prefix=es"
+    },
+    {
+        "name": "Bindings",
+        "full_name": "Milton Bindings",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/55/%28A%29_Bindings.png/revision/latest?cb=20230821202859&path-prefix=es"
+    },
+    {
+        "name": "Gleeson",
+        "full_name": "Spike Gleeson",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cd/%28A%29_Gleeson.png/revision/latest?cb=20230821202912&path-prefix=es"
+    },
+    {
+        "name": "Snowfield",
+        "full_name": "Sean Snowfield",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ac/%28A%29_Snowfield.png/revision/latest?cb=20230821202938&path-prefix=es"
+    },
+    {
+        "name": "Bootgaiter",
+        "full_name": "Kerry Bootgaiter",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/22/%28A%29_Bootgaiter.png/revision/latest?cb=20230821202904&path-prefix=es"
+    },
+    {
+        "name": "Maddox",
+        "full_name": "Maddox Rock",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/40/%28A%29_Maddox.png/revision/latest?cb=20230821202914&path-prefix=es"
+    },
+    {
+        "name": "Skipolson",
+        "full_name": "Robert Skipolson",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b8/%28A%29_Skipolson.png/revision/latest?cb=20230821202936&path-prefix=es"
+    },
+    {
+        "name": "Shawn DF",
+        "full_name": "Shawn Froste",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c8/%28A%29_Shawn_%28DF%29.png/revision/latest?cb=20230821202930&path-prefix=es"
+    },
+    {
+        "name": "Shawn DL",
+        "full_name": "Shawn Froste",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a1/%28R%29_Shawn_%28Aiden%29.png/revision/latest?cb=20230912141822&path-prefix=es"
+    },
+    {
+        "name": "Shawn",
+        "full_name": "Shawn Froste",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c7/%28A%29_Shawn.png/revision/latest?cb=20230821202933&path-prefix=es"
+    },
+    {
+        "name": "Climbstein",
+        "full_name": "Roland Climbstein",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/45/%28A%29_Climbstein.png/revision/latest?cb=20230821202907&path-prefix=es"
+    },
+    {
+        "name": "Rackner",
+        "full_name": "Quentin Rackner",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5d/%28A%29_Rackner.png/revision/latest?cb=20230821202922&path-prefix=es"
+    },
+    {
+        "name": "Peggs",
+        "full_name": "Trent Peggs",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0f/%28A%29_Peggs.png/revision/latest?cb=20230821202920&path-prefix=es"
+    },
+    {
+        "name": "Ursus",
+        "full_name": "Martin Ursus",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/86/%28A%29_Ursus.png/revision/latest?cb=20230821202943&path-prefix=es"
+    },
+    {
+        "name": "Bogg",
+        "full_name": "Pete Bogg",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5c/%28A%29_Bogg.png/revision/latest?cb=20230821202901&path-prefix=es"
+    },
+    {
+        "name": "Strata",
+        "full_name": "Gem Strata",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e6/%28A%29_Strata.png/revision/latest?cb=20230821202940&path-prefix=es"
+    },
+    {
+        "name": "Onlign",
+        "full_name": "Horace Onlign",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Alpino",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/11/%28A%29_Onlign.png/revision/latest?cb=20230821202917&path-prefix=es"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Hood",
+        "full_name": "Morgan Sanders",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4f/%28SRK%29_Hood.png/revision/latest?cb=20230920205711&path-prefix=es"
+    },
+    {
+        "name": "Crackshot",
+        "full_name": "Newton Flust",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/00/%28SRK%29_Crackshot.png/revision/latest?cb=20230920205701&path-prefix=es"
+    },
+    {
+        "name": "Hillfort",
+        "full_name": "Jim Hillfort",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b2/%28SRK%29_Hillfort.png/revision/latest?cb=20230920205709&path-prefix=es"
+    },
+    {
+        "name": "Thunder",
+        "full_name": "Galen Thunderbird",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a9/%28SRK%29_Thunder.png/revision/latest?cb=20230920205727&path-prefix=es"
+    },
+    {
+        "name": "Bandit",
+        "full_name": "Finn Stoned",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/80/%28SRK%29_Bandit.png/revision/latest?cb=20230920205647&path-prefix=es"
+    },
+    {
+        "name": "Code",
+        "full_name": "Phil Wingate",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d1/%28SRK%29_Code.png/revision/latest?cb=20230920205658&path-prefix=es"
+    },
+    {
+        "name": "Star",
+        "full_name": "Jez Shell",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/96/%28SRK%29_Star.png/revision/latest?cb=20230920205725&path-prefix=es"
+    },
+    {
+        "name": "Cleats",
+        "full_name": "Jupiter Jumper",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ec/%28SRK%29_Cleats.png/revision/latest?cb=20230920205653&path-prefix=es"
+    },
+    {
+        "name": "Samurai",
+        "full_name": "Sam Samurai",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/dc/%28SRK%29_Samurai.png/revision/latest?cb=20230920205719&path-prefix=es"
+    },
+    {
+        "name": "Hattori",
+        "full_name": "Hank Sullivan",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6a/%28SRK%29_Hattori.png/revision/latest?cb=20230920205706&path-prefix=es"
+    },
+    {
+        "name": "Cloak",
+        "full_name": "Sail Bluesea",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5b/%28SRK%29_Cloak.png/revision/latest?cb=20230920205655&path-prefix=es"
+    },
+    {
+        "name": "Castle",
+        "full_name": "Kevin Castle",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/05/%28SRK%29_Castle.png/revision/latest?cb=20230920205650&path-prefix=es"
+    },
+    {
+        "name": "Ronin",
+        "full_name": "John Reynolds",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ab/%28SRK%29_Ronin.png/revision/latest?cb=20230920205717&path-prefix=es"
+    },
+    {
+        "name": "Hopper",
+        "full_name": "Dan Hopper",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b1/%28SRK%29_Hopper.png/revision/latest?cb=20230920205714&path-prefix=es"
+    },
+    {
+        "name": "Trops",
+        "full_name": "Cal Trops",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ac/%28SRK%29_Trops.png/revision/latest?cb=20230920205730&path-prefix=es"
+    },
+    {
+        "name": "Spook",
+        "full_name": "Winston Falls",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Shuriken",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/dc/%28SRK%29_Spook.png/revision/latest?cb=20230920205722&path-prefix=es"
+    }
+]

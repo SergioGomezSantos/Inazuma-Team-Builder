@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Nero",
+        "full_name": "Nelson Rockwell",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2a/%28G%29_Nero.png/revision/latest?cb=20230821210647&path-prefix=es"
+    },
+    {
+        "name": "Gele",
+        "full_name": "Gail Baker",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/49/%28G%29_Gele.png/revision/latest?cb=20230821210637&path-prefix=es"
+    },
+    {
+        "name": "Kiburn",
+        "full_name": "Kim Powell",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/64/%28G%29_Kiburn.png/revision/latest?cb=20230821210642&path-prefix=es"
+    },
+    {
+        "name": "Zohen",
+        "full_name": "Zack Cummings",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/61/%28G%29_Zohen.png/revision/latest?cb=20230821210653&path-prefix=es"
+    },
+    {
+        "name": "Hauser",
+        "full_name": "Hunt Mercer",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d9/%28G%29_Hauser.png/revision/latest?cb=20230821210639&path-prefix=es"
+    },
+    {
+        "name": "Kormer",
+        "full_name": "Connor Murray",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/20/%28G%29_Kormer.png/revision/latest?cb=20230821210646&path-prefix=es"
+    },
+    {
+        "name": "Kiwill",
+        "full_name": "Katie Brown",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/11/%28G%29_Kiwill.png/revision/latest?cb=20230821210644&path-prefix=es"
+    },
+    {
+        "name": "Ark",
+        "full_name": "Ashton Malone",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ec/%28G%29_Ark.png/revision/latest?cb=20230821210633&path-prefix=es"
+    },
+    {
+        "name": "Wittz",
+        "full_name": "Wilbur Watkins",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/ce/%28G%29_Wittz.png/revision/latest?cb=20230821210649&path-prefix=es"
+    },
+    {
+        "name": "Bellatrix",
+        "full_name": "Isabelle Trick",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c2/%28G%29_Bellatrix.png/revision/latest?cb=20230821210635&path-prefix=es"
+    },
+    {
+        "name": "Xene",
+        "full_name": "Xavier Foster",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Génesis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c1/%28G%29_Xene.png/revision/latest?cb=20230821210651&path-prefix=es"
+    }
+]

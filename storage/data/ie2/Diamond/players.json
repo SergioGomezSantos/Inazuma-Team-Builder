@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Beluga",
+        "full_name": "Ben North",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4d/%28PD%29_Beluga.png/revision/latest?cb=20230821203817&path-prefix=es"
+    },
+    {
+        "name": "Arkew",
+        "full_name": "Alan Downhill",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e2/%28PD%29_Arkew.png/revision/latest?cb=20230821203814&path-prefix=es"
+    },
+    {
+        "name": "Clear",
+        "full_name": "Claire Lesnow",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0b/%28PD%29_Clear.png/revision/latest?cb=20230821203820&path-prefix=es"
+    },
+    {
+        "name": "Gocker",
+        "full_name": "Albert Denver",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c5/%28PD%29_Gocker.png/revision/latest?cb=20230821203827&path-prefix=es"
+    },
+    {
+        "name": "Icer",
+        "full_name": "Lucy Hailstone",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3d/%28PD%29_Icer.png/revision/latest?cb=20230821203829&path-prefix=es"
+    },
+    {
+        "name": "Balen",
+        "full_name": "Brad Coldwater",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/aa/%28PD%29_Balen.png/revision/latest?cb=20230821203815&path-prefix=es"
+    },
+    {
+        "name": "Droll",
+        "full_name": "Dawson Foxx",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b7/%28PD%29_Droll.png/revision/latest?cb=20230821203822&path-prefix=es"
+    },
+    {
+        "name": "Rhine",
+        "full_name": "Ving Rice",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/78/%28PD%29_Rhine.png/revision/latest?cb=20230821203831&path-prefix=es"
+    },
+    {
+        "name": "Blown",
+        "full_name": "Bernie White",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/10/%28PD%29_Blown.png/revision/latest?cb=20230821203818&path-prefix=es"
+    },
+    {
+        "name": "Gazelle",
+        "full_name": "Bryce Whitingale",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8b/%28PD%29_Gazelle.png/revision/latest?cb=20230821203825&path-prefix=es"
+    },
+    {
+        "name": "Frost",
+        "full_name": "Denzel Freezer",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Diamond",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/49/%28PD%29_Frost.png/revision/latest?cb=20230821203824&path-prefix=es"
+    }
+]

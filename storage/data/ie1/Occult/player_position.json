@@ -1,0 +1,66 @@
+[
+    {
+        "player_name": "Mask",
+        "position_id": "pos-0"
+    },
+    {
+        "player_name": "Franky",
+        "position_id": "pos-1"
+    },
+    {
+        "player_name": "Styx",
+        "position_id": "pos-2"
+    },
+    {
+        "player_name": "Creepy",
+        "position_id": "pos-3"
+    },
+    {
+        "player_name": "Undead",
+        "position_id": "pos-4"
+    },
+    {
+        "player_name": "Grave",
+        "position_id": "pos-5"
+    },
+    {
+        "player_name": "Blood",
+        "position_id": "pos-6"
+    },
+    {
+        "player_name": "Jiangshi",
+        "position_id": "pos-7"
+    },
+    {
+        "player_name": "Wolfy",
+        "position_id": "pos-8"
+    },
+    {
+        "player_name": "Mummy",
+        "position_id": "pos-9"
+    },
+    {
+        "player_name": "Talisman",
+        "position_id": "pos-10"
+    },
+    {
+        "player_name": "Zombie",
+        "position_id": "bench-0"
+    },
+    {
+        "player_name": "Dollman",
+        "position_id": "bench-1"
+    },
+    {
+        "player_name": "Alien",
+        "position_id": "bench-2"
+    },
+    {
+        "player_name": "Noir",
+        "position_id": "bench-3"
+    },
+    {
+        "player_name": "Ghost",
+        "position_id": "bench-4"
+    }
+]

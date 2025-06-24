@@ -1,0 +1,365 @@
+[
+    {
+        "player": "Albert Green",
+        "anime1": [
+            {
+                "name": "Despeje de Leñador",
+                "with": []
+            },
+            {
+                "name": "Muralla Infinita",
+                "with": ["Hillvalley", "Sherman"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Despeje de Leñador",
+            "Hojarasca",
+            "Muralla Infinita",
+            "Sorpresa"
+        ],
+        "ie2": [
+            "Siempre a Muerte",
+            "Despeje de Leñador",
+            "Hojarasca",
+            "Muralla Infinita"
+        ],
+        "ie3": [
+            "Siempre a Muerte",
+            "Despeje de Leñador",
+            "Muralla Infinita",
+            "Puño de Furia"
+        ]
+    },
+    {
+        "player": "Seward Hayseed",
+        "anime1": [
+            {
+                "name": "Trama, Trama",
+                "with": ["Milky", "Work"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Sorpresa",
+            "Cabezazo Kung-Fu",
+            "Torbellino Dragón",
+            "Balón Rodante"
+        ],
+        "ie2": [
+            "Sorpresa",
+            "Torbellino Dragón",
+            "Cabezazo Kung-Fu",
+            "Emboscada Defensiva"
+        ],
+        "ie3": [
+            "Sorpresa",
+            "Telaraña",
+            "Cabezazo Kung-Fu",
+            "Emboscada Defensiva"
+        ]
+    },
+    {
+        "player": "Kent Work",
+        "anime1": [
+            {
+                "name": "Trama, Trama",
+                "with": ["Milky", "Hayseed"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Sorpresa", "Trama", "Entrada Huracán", "Cabezazo Kung-Fu"],
+        "ie2": ["Sorpresa", "Entrada Huracán", "Cabezazo Kung-Fu", "Trama"],
+        "ie3": ["Sorpresa", "Entrada Huracán", "Cabezazo Kung-Fu", "Trama"]
+    },
+    {
+        "player": "Mark Hillvalley",
+        "anime1": [
+            {
+                "name": "Muralla Infinita",
+                "with": ["Sherman", "Greeny"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Vendimia",
+            "Rueda Infernal",
+            "Pisotón de Sumo",
+            "Muralla Infinita"
+        ],
+        "ie2": [
+            "Vendimia",
+            "Superpeonza",
+            "Pisotón de Sumo",
+            "Muralla Infinita"
+        ],
+        "ie3": ["Superpeonza", "Vendimia", "Sismo", "Muralla Infinita"]
+    },
+    {
+        "player": "Herb Sherman",
+        "anime1": [
+            {
+                "name": "Muralla Infinita",
+                "with": ["Hillvalley", "Greeny"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Vendimia", "Chut Granada", "Sorpresa", "Muralla Infinita"],
+        "ie2": ["Vendimia", "Chut Granada", "Sorpresa", "Muralla Infinita"],
+        "ie3": ["Vendimia", "Bola de Fango", "Sorpresa", "Muralla Infinita"]
+    },
+    {
+        "player": "Joe Small",
+        "anime1": [
+            {
+                "name": "Trama, Trama",
+                "with": ["Hayseed", "Work"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remolino Cortante",
+            "Vendimia",
+            "Corte Giratorio",
+            "Cuchilla Asesina"
+        ],
+        "ie2": [
+            "Remolino Cortante",
+            "Vendimia",
+            "Corte Giratorio",
+            "Cuchilla Asesina"
+        ],
+        "ie3": [
+            "Remolino Cortante",
+            "Vendimia",
+            "Corte Giratorio",
+            "Paipay Gigante"
+        ]
+    },
+    {
+        "player": "Ike Steiner",
+        "anime1": [
+            {
+                "name": "Regate Topo",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Regate Topo",
+            "Tiro Cegador",
+            "Barrido Defensivo",
+            "Corte Giratorio"
+        ],
+        "ie2": [
+            "Regate Topo",
+            "Tiro Cegador",
+            "Barrido Defensivo",
+            "Corte Giratorio"
+        ],
+        "ie3": ["Regate Topo", "Tiro Cegador", "Ciclón", "Corte Giratorio"]
+    },
+    {
+        "player": "Orville Newman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Cabezazo Kung-Fu",
+            "Remolino Cortante",
+            "Garra Salvaje",
+            "Escudo de Fuerza Total"
+        ],
+        "ie2": [
+            "Cabezazo Kung-Fu",
+            "Remolino Cortante",
+            "Garra Salvaje",
+            "Escudo de Fuerza Total"
+        ],
+        "ie3": [
+            "Cabezazo Kung-Fu",
+            "Remolino Cortante",
+            "Garra Salvaje",
+            "Tiro Torre de Osaka"
+        ]
+    },
+    {
+        "player": "Tom Walters",
+        "anime1": [
+            {
+                "name": "Superbalón Rodante",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Balón Rodante",
+            "Torbellino Dragón",
+            "Regate Topo",
+            "Tiro Cegador"
+        ],
+        "ie2": [
+            "Balón Rodante",
+            "Torbellino Dragón",
+            "Regate Topo",
+            "Tiro Cegador"
+        ],
+        "ie3": [
+            "Balón Rodante",
+            "Torbellino Dragón",
+            "Tiro Cegador",
+            "Patada Canguro"
+        ]
+    },
+    {
+        "player": "Daniel Dawson",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Regate Topo",
+            "Balón Rodante",
+            "Giro Bobina",
+            "Ataque Afilado"
+        ],
+        "ie2": [
+            "Regate Topo",
+            "Balón Rodante",
+            "Giro Bobina",
+            "Ataque Afilado"
+        ],
+        "ie3": [
+            "Regate Topo",
+            "Balón Rodante",
+            "Bola de Fango",
+            "Remate de Gaia"
+        ]
+    },
+    {
+        "player": "Stuart Racoonfur",
+        "anime1": [
+            {
+                "name": "Tiro Cegador",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro Cegador",
+            "Remolino Cortante",
+            "Entrada Huracán",
+            "Sorpresa"
+        ],
+        "ie2": [
+            "Tiro Cegador",
+            "Remolino Cortante",
+            "Entrada Huracán",
+            "Sorpresa"
+        ],
+        "ie3": [
+            "Tiro Cegador",
+            "Remolino Cortante",
+            "Entrada Huracán",
+            "Rapidez +"
+        ]
+    },
+    {
+        "player": "Lorne Mower",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Barrido Defensivo",
+            "Sorpresa",
+            "Superarmadillo",
+            "Cabezazo Kung-Fu"
+        ],
+        "ie2": [
+            "Despeje de Leñador",
+            "Sorpresa",
+            "Hojarasca",
+            "Cabezazo Kung-Fu"
+        ],
+        "ie3": [
+            "Despeje de Leñador",
+            "Hojarasca",
+            "Escudo Protector",
+            "Cabezazo Kung-Fu"
+        ]
+    },
+    {
+        "player": "Homer Grower",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Regate Topo",
+            "Corte Giratorio",
+            "Sorpresa",
+            "Remolino Cortante"
+        ],
+        "ie2": [
+            "Regate Topo",
+            "Corte Giratorio",
+            "Sorpresa",
+            "Remolino Cortante"
+        ],
+        "ie3": [
+            "Regate Topo",
+            "Sorpresa",
+            "Tormenta de Arena",
+            "Remolino Cortante"
+        ]
+    },
+    {
+        "player": "Rolf Howells",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Robo Rápido", "Sorpresa", "Giro de Mono", "Ciclón"],
+        "ie2": ["Robo Rápido", "Sorpresa", "Giro de Mono", "Ciclón"],
+        "ie3": ["Robo Rápido", "Sorpresa", "Giro de Mono", "Ciclón Doble"]
+    },
+    {
+        "player": "Luke Lively",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Pisotón de Sumo", "Embestida", "Niebla Venenosa", "Vendimia"],
+        "ie2": ["Pisotón de Sumo", "Embestida", "Niebla Venenosa", "Vendimia"],
+        "ie3": ["Pisotón de Sumo", "Embestida", "Bateo Total", "Vendimia"]
+    },
+    {
+        "player": "Ben Nevis",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Rapto Divino",
+            "Escáner Defensa",
+            "Remate Tarzán",
+            "Remolino Cortante"
+        ],
+        "ie2": [
+            "Rapto Divino",
+            "Escáner Defensa",
+            "Remate Tarzán",
+            "Remolino Cortante"
+        ],
+        "ie3": [
+            "Remate Serpiente",
+            "Telaraña",
+            "Remate Tarzán",
+            "Remolino Cortante"
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Mask",
+        "full_name": "Nathan Jones",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bb/%28O%29_Mask.png/revision/latest?cb=20230913205416&path-prefix=es"
+    },
+    {
+        "name": "Styx",
+        "full_name": "Russell Walk",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d4/%28O%29_Styx.png/revision/latest?cb=20230913205422&path-prefix=es"
+    },
+    {
+        "name": "Creepy",
+        "full_name": "Jason Jones",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c7/%28O%29_Creepy.png/revision/latest?cb=20230913205401&path-prefix=es"
+    },
+    {
+        "name": "Franky",
+        "full_name": "Ken Furan",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/12/%28O%29_Franky.png/revision/latest?cb=20230913205406&path-prefix=es"
+    },
+    {
+        "name": "Undead",
+        "full_name": "Jerry Fulton",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b3/%28O%29_Undead.png/revision/latest?cb=20230913205427&path-prefix=es"
+    },
+    {
+        "name": "Jiangshi",
+        "full_name": "Ray Mannings",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7d/%28O%29_Jiangshi.png/revision/latest?cb=20230913205413&path-prefix=es"
+    },
+    {
+        "name": "Mummy",
+        "full_name": "Robert Mayer",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/89/%28O%29_Mummy.png/revision/latest?cb=20230913205418&path-prefix=es"
+    },
+    {
+        "name": "Grave",
+        "full_name": "Alexander Brave",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8a/%28O%29_Grave.png/revision/latest?cb=20230913205411&path-prefix=es"
+    },
+    {
+        "name": "Talisman",
+        "full_name": "Johan Tassman",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8b/%28O%29_Talisman.png/revision/latest?cb=20230913205425&path-prefix=es"
+    },
+    {
+        "name": "Wolfy",
+        "full_name": "Troy Moon",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/89/%28O%29_Wolfy.png/revision/latest?cb=20230913205429&path-prefix=es"
+    },
+    {
+        "name": "Blood",
+        "full_name": "Burt Wolf",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8a/%28O%29_Blood.png/revision/latest?cb=20230913205359&path-prefix=es"
+    },
+    {
+        "name": "Zombie",
+        "full_name": "Rob Crombie",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/70/%28O%29_Zombie.png/revision/latest?cb=20230913205432&path-prefix=es"
+    },
+    {
+        "name": "Dollman",
+        "full_name": "Chuck Dollman",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e9/%28O%29_Dollman.png/revision/latest?cb=20230913205404&path-prefix=es"
+    },
+    {
+        "name": "Alien",
+        "full_name": "Uxley Allen",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a8/%28O%29_Alien.png/revision/latest?cb=20230913205356&path-prefix=es"
+    },
+    {
+        "name": "Noir",
+        "full_name": "Phil Noir",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d7/%28O%29_Noir.png/revision/latest?cb=20230913205420&path-prefix=es"
+    },
+    {
+        "name": "Ghost",
+        "full_name": "Mick Askley",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Occult",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f1/%28O%29_Ghost.png/revision/latest?cb=20230913205409&path-prefix=es"
+    }
+]

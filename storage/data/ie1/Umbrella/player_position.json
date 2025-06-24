@@ -1,0 +1,66 @@
+[
+    {
+        "player_name": "Ingram",
+        "position_id": "pos-0"
+    },
+    {
+        "player_name": "Porter",
+        "position_id": "pos-1"
+    },
+    {
+        "player_name": "Sefton",
+        "position_id": "pos-2"
+    },
+    {
+        "player_name": "Chaney",
+        "position_id": "pos-3"
+    },
+    {
+        "player_name": "Strike",
+        "position_id": "pos-4"
+    },
+    {
+        "player_name": "Chops",
+        "position_id": "pos-5"
+    },
+    {
+        "player_name": "Rhymes",
+        "position_id": "pos-6"
+    },
+    {
+        "player_name": "Morefield",
+        "position_id": "pos-7"
+    },
+    {
+        "player_name": "Scott",
+        "position_id": "pos-8"
+    },
+    {
+        "player_name": "Edmonds",
+        "position_id": "pos-9"
+    },
+    {
+        "player_name": "Cyborg",
+        "position_id": "pos-10"
+    },
+    {
+        "player_name": "Banker",
+        "position_id": "bench-0"
+    },
+    {
+        "player_name": "Tunk",
+        "position_id": "bench-1"
+    },
+    {
+        "player_name": "Most",
+        "position_id": "bench-2"
+    },
+    {
+        "player_name": "Caperock",
+        "position_id": "bench-3"
+    },
+    {
+        "player_name": "Molehill",
+        "position_id": "bench-4"
+    }
+]

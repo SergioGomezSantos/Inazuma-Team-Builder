@@ -1,0 +1,122 @@
+[
+    {
+        "name": "King",
+        "full_name": "Joseph King",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2b/%28RA%29_King.png/revision/latest?cb=20230914152301&path-prefix=es"
+    },
+    {
+        "name": "Drent",
+        "full_name": "Peter Drent",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/13/%28RA%29_Drent.png/revision/latest?cb=20230914152249&path-prefix=es"
+    },
+    {
+        "name": "Simmons",
+        "full_name": "Ben Simmons",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6e/%28RA%29_Simmons.png/revision/latest?cb=20230914152321&path-prefix=es"
+    },
+    {
+        "name": "Master",
+        "full_name": "Alan Master",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/30/%28RA%29_Master.png/revision/latest?cb=20230914152312&path-prefix=es"
+    },
+    {
+        "name": "Martin",
+        "full_name": "Gus Martin",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/10/%28RA%29_Martin.png/revision/latest?cb=20230914152309&path-prefix=es"
+    },
+    {
+        "name": "Waldon",
+        "full_name": "Herman Waldon",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a7/%28RA%29_Waldon.png/revision/latest?cb=20230914152330&path-prefix=es"
+    },
+    {
+        "name": "Bloom",
+        "full_name": "John Bloom",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fd/%28RA%29_Bloom.png/revision/latest?cb=20230914152236&path-prefix=es"
+    },
+    {
+        "name": "Swing",
+        "full_name": "Derek Swing",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c6/%28RA%29_Swing.png/revision/latest?cb=20230914152324&path-prefix=es"
+    },
+    {
+        "name": "Hatch",
+        "full_name": "Daniel Hatch",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c2/%28RA%29_Hatch.png/revision/latest?cb=20230914152252&path-prefix=es"
+    },
+    {
+        "name": "Samford",
+        "full_name": "David Samford",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f0/%28RA%29_Samford.png/revision/latest?cb=20230914152317&path-prefix=es"
+    },
+    {
+        "name": "Carlton",
+        "full_name": "Bob Carlton",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bc/%28RA%29_Carlton.png/revision/latest?cb=20230914152245&path-prefix=es"
+    },
+    {
+        "name": "Tomlinson",
+        "full_name": "Cliff Tomlinson",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bc/%28RA%29_Tomlinson.png/revision/latest?cb=20230914152327&path-prefix=es"
+    },
+    {
+        "name": "Lawrenson",
+        "full_name": "Jim Lawrenson",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/58/%28RA%29_Lawrenson.png/revision/latest?cb=20230914152304&path-prefix=es"
+    },
+    {
+        "name": "Potts",
+        "full_name": "Barry Potts",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/51/%28RA%29_Potts.png/revision/latest?cb=20230914152315&path-prefix=es"
+    },
+    {
+        "name": "Ingham",
+        "full_name": "Steve Ingham",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Royal Academy",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c3/%28RA%29_Ingham.png/revision/latest?cb=20230914152254&path-prefix=es"
+    }
+]

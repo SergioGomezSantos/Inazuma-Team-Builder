@@ -1,0 +1,326 @@
+[
+    {
+        "player": "Joe Ingram",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Atajo Tornado",
+            "Tiro Giratorio",
+            "Torbellino",
+            "Tornado Inverso"
+        ],
+        "ie2": [
+            "Atajo Tornado",
+            "Tiro Giratorio",
+            "Torbellino",
+            "Tornado Inverso"
+        ],
+        "ie3": [
+            "Atajo Tornado",
+            "Tiro Giratorio",
+            "Torbellino",
+            "Parada de Capoeira"
+        ]
+    },
+    {
+        "player": "Kendall Sefton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Corte Giratorio",
+            "Torbellino Dragón",
+            "Cabezazo Kung-fu",
+            "Telaraña"
+        ],
+        "ie2": [
+            "Corte Giratorio",
+            "Torbellino Dragón",
+            "Cabezazo Kung-fu",
+            "Telaraña"
+        ],
+        "ie3": [
+            "Corte Giratorio",
+            "Cabezazo Kung-fu",
+            "Técnica Kung-fu",
+            "Estela Ígnea"
+        ]
+    },
+    {
+        "player": "Jason Strike",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Robo Rápido",
+            "Disparo Rodante",
+            "Ataque Afilado",
+            "Pase Cruzado"
+        ],
+        "ie2": [
+            "Robo Rápido",
+            "Disparo Rodante",
+            "Ataque Afilado",
+            "Pase Cruzado"
+        ],
+        "ie3": [
+            "Robo Rápido",
+            "Disparo Rodante",
+            "Ataque Afilado",
+            "Baile de Llamas"
+        ]
+    },
+    {
+        "player": "Norman Porter",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Barrido Defensivo", "Embestida", "El Muro", "Rueda Infernal"],
+        "ie2": ["Barrido Defensivo", "Embestida", "El Muro", "Rueda Infernal"],
+        "ie3": ["Truco de Magia", "Embestida", "El Muro", "Rueda Infernal"]
+    },
+    {
+        "player": "Maxwell Claus",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Giro Bobina", "Ataque Afilado", "Giro de Mono", "Ciclón"],
+        "ie2": ["Giro Bobina", "Ataque Afilado", "Giro de Mono", "Ciclón"],
+        "ie3": ["Giro Bobina", "Ataque Afilado", "Paipay Gigante", "Ciclón"]
+    },
+    {
+        "player": "Bruce Chaney",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Chut Granada",
+            "Tiro Dinamita",
+            "Bateo Total",
+            "Tornado Inverso"
+        ],
+        "ie2": [
+            "Chut Granada",
+            "Tiro Dinamita",
+            "Bateo Total",
+            "Tornado Inverso"
+        ],
+        "ie3": [
+            "Chut Granada",
+            "Tiro Dinamita",
+            "Tornado Oscuro",
+            "Tornado Inverso"
+        ]
+    },
+    {
+        "player": "Leroy Rhymes",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Equilibrismo",
+            "Torbellino Dragón",
+            "Balón Rodante",
+            "Rueda Infernal"
+        ],
+        "ie2": [
+            "Equilibrismo",
+            "Torbellino Dragón",
+            "Balón Rodante",
+            "Rueda Infernal"
+        ],
+        "ie3": [
+            "Equilibrismo",
+            "Balón Rodante",
+            "Rueda Infernal",
+            "Patín Aéreo"
+        ]
+    },
+    {
+        "player": "Mildford Scott",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Defensa",
+            "Truco de Magia",
+            "Bola Falsa",
+            "Escáner Ataque"
+        ],
+        "ie2": [
+            "Escáner Defensa",
+            "Truco de Magia",
+            "Bola Falsa",
+            "Escáner Ataque"
+        ],
+        "ie3": [
+            "Escáner Ataque",
+            "Truco de Magia",
+            "Bola Falsa",
+            "Remate Pegaso"
+        ]
+    },
+    {
+        "player": "Lou Edmonds",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Acelerón", "Tiro Giratorio", "Corte Flamígero", "Confusión"],
+        "ie2": ["¡Vamos!", "Tiro Giratorio", "Acelerón", "Corte Flamígero"],
+        "ie3": [
+            "¡Vamos!",
+            "Tiro Giratorio",
+            "Corte Flamígero",
+            "Tormenta de Fuego"
+        ]
+    },
+    {
+        "player": "Cameron Morefield",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Entrada Huracán",
+            "Tiro Giratorio",
+            "Tiro Dinamita",
+            "Chut Congelante"
+        ],
+        "ie2": [
+            "Casanova",
+            "Entrada Huracán",
+            "Tiro Dinamita",
+            "Chut Congelante"
+        ],
+        "ie3": [
+            "Casanova",
+            "Chut Congelante",
+            "Tiro Dinamita",
+            "Entrada Tormenta"
+        ]
+    },
+    {
+        "player": "Greg Bernard",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate Serpiente",
+            "Escáner Ataque",
+            "Zigzag Chispeante",
+            "Remate Misil"
+        ],
+        "ie2": [
+            "Remate Serpiente",
+            "Escáner Ataque",
+            "Zigzag Chispeante",
+            "Remate Misil"
+        ],
+        "ie3": [
+            "Remate Serpiente",
+            "Escáner Ataque",
+            "Zona de Seguridad",
+            "Remate Misil"
+        ]
+    },
+    {
+        "player": "Peter Banker",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro Giratorio",
+            "Tiro del Cometa",
+            "Tiro Fantasma",
+            "Chut de los 100 Toques"
+        ],
+        "ie2": [
+            "Atajo Tornado",
+            "Tiro del Cometa",
+            "Tiro Fantasma",
+            "Campo de Fuerza"
+        ],
+        "ie3": ["Atajo Tornado", "Campo de Fuerza", "Tiro Fantasma", "Simún"]
+    },
+    {
+        "player": "Saul Tunk",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Remate Espiral", "Maldición", "Coz", "Remate Tarzán"],
+        "ie2": ["Remate Espiral", "Maldición", "Coz", "Remate Tarzán"],
+        "ie3": ["Remate Espiral", "Coz", "Emboscada Defensiva", "Remate Tarzán"]
+    },
+    {
+        "player": "Alan Most",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Acelerón",
+            "Superarmadillo",
+            "Pisotón de Sumo",
+            "Despeje a Presión"
+        ],
+        "ie2": [
+            "Acelerón",
+            "Superarmadillo",
+            "Pisotón de Sumo",
+            "Despeje a Presión"
+        ],
+        "ie3": [
+            "Acelerón",
+            "Superarmadillo",
+            "Pisotón de Sumo",
+            "Súper Relámpago"
+        ]
+    },
+    {
+        "player": "Paul Caperock",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Barrido Defensivo",
+            "Bloqueo Dureza",
+            "Ataque Afilado",
+            "Bateo Total"
+        ],
+        "ie2": [
+            "Barrido Defensivo",
+            "Bloqueo Dureza",
+            "Ataque Afilado",
+            "Bateo Total"
+        ],
+        "ie3": [
+            "Tiro Giratorio",
+            "Bloqueo Dureza",
+            "Ataque Afilado",
+            "Bateo Total"
+        ]
+    },
+    {
+        "player": "Julius Molehill",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Disparo Rodante",
+            "Entrada Huracán",
+            "Espejismo",
+            "Remate Combinado"
+        ],
+        "ie2": [
+            "Disparo Rodante",
+            "Entrada Huracán",
+            "Espejismo",
+            "Remate Combinado"
+        ],
+        "ie3": [
+            "Disparo Rodante",
+            "Entrada Huracán",
+            "Patada Canguro",
+            "Remate Combinado"
+        ]
+    }
+]

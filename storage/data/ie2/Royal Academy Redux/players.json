@@ -1,0 +1,130 @@
+[
+    {
+        "name": "King",
+        "full_name": "Joseph King",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c1/%28RAR%29_King.png/revision/latest?cb=20230823230331&path-prefix=es"
+    },
+    {
+        "name": "Beltzer",
+        "full_name": "Rowan Beltzer",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7f/%28RAR%29_Beltzer.png/revision/latest?cb=20230823230315&path-prefix=es"
+    },
+    {
+        "name": "Healen",
+        "full_name": "Blade Healen",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/77/%28RAR%29_Healen.png/revision/latest?cb=20230823230326&path-prefix=es"
+    },
+    {
+        "name": "Bargie",
+        "full_name": "Argie Bargie",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5e/%28RAR%29_Bargie.png/revision/latest?cb=20230823230310&path-prefix=es"
+    },
+    {
+        "name": "Bamboo",
+        "full_name": "Lee Bamboo",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/71/%28RAR%29_Bamboo.png/revision/latest?cb=20230823230308&path-prefix=es"
+    },
+    {
+        "name": "Messer",
+        "full_name": "Eton Messer",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/9c/%28RAR%29_Messer.png/revision/latest?cb=20230823230336&path-prefix=es"
+    },
+    {
+        "name": "Spark",
+        "full_name": "Jonah Spark",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5f/%28RAR%29_Spark.png/revision/latest?cb=20230823230341&path-prefix=es"
+    },
+    {
+        "name": "Sparrow",
+        "full_name": "Sue Sparrow",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3e/%28RAR%29_Sparrow.png/revision/latest?cb=20230823230343&path-prefix=es"
+    },
+    {
+        "name": "Jamm",
+        "full_name": "Riley Jamm",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/44/%28RAR%29_Jamm.png/revision/latest?cb=20230823230329&path-prefix=es"
+    },
+    {
+        "name": "Caleb",
+        "full_name": "Caleb Stonewall",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/69/%28RAR%29_Caleb.png/revision/latest?cb=20230823230318&path-prefix=es"
+    },
+    {
+        "name": "Samford",
+        "full_name": "David Samford",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f6/%28RAR%29_Samford.png/revision/latest?cb=20230823230339&path-prefix=es"
+    },
+    {
+        "name": "Cellar",
+        "full_name": "Jimbo Cellar",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/90/%28RAR%29_Cellar.png/revision/latest?cb=20230823230321&path-prefix=es"
+    },
+    {
+        "name": "Wildhorse",
+        "full_name": "Zenn Wildhorse",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bf/%28RAR%29_Wildhorse.png/revision/latest?cb=20230823230345&path-prefix=es"
+    },
+    {
+        "name": "Little",
+        "full_name": "Dawson Little",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b3/%28RAR%29_Little.png/revision/latest?cb=20230823230334&path-prefix=es"
+    },
+    {
+        "name": "Beck",
+        "full_name": "Cosimo Beck",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7f/%28RAR%29_Beck.png/revision/latest?cb=20230823230313&path-prefix=es"
+    },
+    {
+        "name": "Color",
+        "full_name": "Maston Color",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Royal Academy Redux",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/93/%28RAR%29_Color.png/revision/latest?cb=20230823230323&path-prefix=es"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Yuma",
+        "full_name": "Suzanne Yuma",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b1/%28S%29_Yuma.png/revision/latest?cb=20230914215127&path-prefix=es"
+    },
+    {
+        "name": "Fielding",
+        "full_name": "Tammy Fielding",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/dd/%28S%29_Fielding.png/revision/latest?cb=20230914215056&path-prefix=es"
+    },
+    {
+        "name": "Lovely",
+        "full_name": "Alex Lovely",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/52/%28S%29_Lovely.png/revision/latest?cb=20230914215106&path-prefix=es"
+    },
+    {
+        "name": "Knuckles",
+        "full_name": "Louis Hillside",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2a/%28S%29_Knuckles.png/revision/latest?cb=20230914215104&path-prefix=es"
+    },
+    {
+        "name": "Sheldon",
+        "full_name": "Ness Sheldon",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/9d/%28S%29_Sheldon.png/revision/latest?cb=20230914215119&path-prefix=es"
+    },
+    {
+        "name": "Squirrel",
+        "full_name": "Lizzy Squirrel",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/63/%28S%29_Squirrel.png/revision/latest?cb=20230914215121&path-prefix=es"
+    },
+    {
+        "name": "Jones",
+        "full_name": "Kippy Jones",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6f/%28S%29_Jones.png/revision/latest?cb=20230914215101&path-prefix=es"
+    },
+    {
+        "name": "Riversong",
+        "full_name": "Fayette Riversong",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f2/%28S%29_Riversong.png/revision/latest?cb=20230914215112&path-prefix=es"
+    },
+    {
+        "name": "Samantha",
+        "full_name": "Samantha Moonlight",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ab/%28S%29_Samantha.png/revision/latest?cb=20230914215114&path-prefix=es"
+    },
+    {
+        "name": "Sandstone",
+        "full_name": "Mitch Sandstone",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/57/%28S%29_Sandstone.png/revision/latest?cb=20230914215117&path-prefix=es"
+    },
+    {
+        "name": "Prentice",
+        "full_name": "Eddie Prentice",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c5/%28S%29_Prentice.png/revision/latest?cb=20230914215109&path-prefix=es"
+    },
+    {
+        "name": "Holmes",
+        "full_name": "Alf Holmes",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/58/%28S%29_Holmes.png/revision/latest?cb=20230914215059&path-prefix=es"
+    },
+    {
+        "name": "Stager",
+        "full_name": "Ian Stager",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e0/%28S%29_Stager.png/revision/latest?cb=20241012132234&path-prefix=es"
+    },
+    {
+        "name": "Crumb",
+        "full_name": "Fred Crumb",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4b/%28S%29_Crumb.png/revision/latest?cb=20230914215051&path-prefix=es"
+    },
+    {
+        "name": "Baughan",
+        "full_name": "Dough Baughan",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ad/%28S%29_Baughan.png/revision/latest?cb=20230914215048&path-prefix=es"
+    },
+    {
+        "name": "Daltry",
+        "full_name": "Pip Daltry",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Sallys",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ed/%28S%29_Daltry.png/revision/latest?cb=20230914215053&path-prefix=es"
+    }
+]

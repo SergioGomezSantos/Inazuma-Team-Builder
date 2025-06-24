@@ -2,6 +2,7 @@
 
 namespace App\Console\Commands;
 
+use App\Models\Coach;
 use App\Models\User;
 use Illuminate\Console\Command;
 
@@ -26,22 +27,17 @@ class ImportAll extends Command
      */
     public function handle()
     {
-        $this->call('migrate:rollback');
-        $this->call('migrate');
-
-        User::create([
-            'name' => 'admin',
-            'email' => 'admin@admin',
-            'password' => bcrypt('1234'),
-            'is_admin' => true
-        ]);
-
         $this->info('| Iniciando importación completa... |');
 
+
+        $this->warn("⏳ Reseteando la base de datos...");
+        $this->call('migrate:fresh');
+        $this->info("✅ Base de datos reiniciada.");
+
+        $this->call('import:to-storage');
         $this->call('import:techniques');
-        $this->call('import:teams');
-        $this->call('import:players_to_teams');
-        $this->call('import:techniques_to_players');
+        $this->call('import:data');
+
         $this->call('import:images', [
             '--force' => true
         ]);

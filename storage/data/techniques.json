@@ -1,0 +1,1953 @@
+[
+    {
+        "name": "Anti Afinidades",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Ultratécnica",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Gafe",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "¡Vamos!",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "¡Vamos Todos!",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Fuerza Veloz",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Casanova",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Suerte",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Ahorro",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Fuerza de Tiro",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Portero +",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Defensa +",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Rapidez +",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Ataque +",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Tiro +",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Fuerza Ofensiva",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Lance Crítico",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Piscinazo",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Vagueza",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Repaso",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Carga Elemental",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Recobro",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Fuerza Defensiva",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Femme Fatale",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Siempre a Muerte",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "¡Que no Decaiga!",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Mejor Garantía",
+        "type": "Talento",
+        "element": null
+    },
+    {
+        "name": "Ataque de Cóndor",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Ataque Cóndor",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Ataque Sombrío",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Ataque de las Sombras",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Ataque Meteorito",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Barrido Defensivo",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Bateo Total",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Bloqueo Dureza",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Bola de Fango",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Bola Falsa",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Cabezazo Kung-Fu",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Campo de Fuerza Defensivo",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Chut de los 100 Toques",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Chut de los 200 Toques",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Chut Granada",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Ciclón",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Confusión",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Corte Giratorio",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Defensa Triple",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Deslizamiento de Portería",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Deslizamiento",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Despeje a Presión",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Despeje Cohete",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Despeje de Fuego",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Despeje de Leñador",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Despeje Explosivo",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Disparo con Rebotes",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Disparo Rodante",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "El Muro",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Empuje Gemelo F",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Corte Flamígero",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Entrada Huracán",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Entrada Tormenta",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Escudo de Fuerza",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Escudo de Fuerza Total",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Escáner Defensa",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Escáner Ataque",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Espejismo",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Espiral de Distorsión",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Flecha Divina",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Flecha Huracán",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Fénix",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Giro Bobina",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Giro de Mono",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Hora Celestial",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Luna Creciente",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Maldición",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Mano Celestial",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Mano Celestial Doble",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Trimano Celestial",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Mano Mágica",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Mega Terremoto",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Muralla Gigante",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Muralla Infinita",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Muralla Infinita Total",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Muralla Tsunami",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Pase Cruzado",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Tiro Cruzado",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Pingüino Emperador Nº 2",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Pisotón de Sumo",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Pájaro de Fuego",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Rapto Divino",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Regate Múltiple",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Regate Topo",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Remate Combinado",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Remate Dragón",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Remate Gafas",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Remate Misil",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Remate Múltiple",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Remate Serpiente",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Remate Tarzán",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Remolino Cortante",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Rueda Infernal",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Ruptura Relámpago",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Sabiduría Divina",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Superarmadillo",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Balón Rodante",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Superbalón Rodante",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Supertrampolín Relámpago",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Súper Relámpago",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Telaraña",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Tiro Cegador",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Tiro Dinamita",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Tiro Fantasma",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Tiro Giratorio",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Torbellino",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Torbellino Dragón",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Tornado de Fuego",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Tornado Dragón",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Tornado Fénix",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Tornado Inverso",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Trama",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Trampolín Relámpago",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Tri-Pegaso",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Triángulo Letal",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Triángulo Z",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Truco de Magia",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Agujero de Gusano",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Agujero Negro",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Aikido",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Arcoiris Luminoso",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Armadillo Circense",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Astro Remate",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Aullido de Lobo",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Baile de Llamas",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Baile de Mariposas",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Balón Iceberg",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Bloque de Hielo",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Bloqueo Doble",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Bomba Acrobática",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Bomba Géiser",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Cabezazo Megatón",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Campo Torbellino",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Carrera a Tres Piernas",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Cañón de Meteoritos",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Cinto Astral",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Colmillo de Pantera",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Combustión",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Constelación Estelar",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Cortafuegos",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Corte Volcánico",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Cortina Aurora",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Defensa Múltiple",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Descodificación",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Destrozataladros",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Disparo Cósmico",
+        "type": "Talento",
+        "element": "Bosque"
+    },
+    {
+        "name": "Dragón Terrestre",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Emboscada Defensiva",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Escudo Corporal",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Escudo Protector",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Espejismo de Balón",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Estrella Fugaz",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Flash de Fotones",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Fuego Helado",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Fénix Oscuro",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Golf Total",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Gravedad",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Gravedad Grave",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Gravitación",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "La Tierra",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Lanza de Odín",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Lanzallamas",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Lecho de Rosas",
+        "type": "Talento",
+        "element": "Bosque"
+    },
+    {
+        "name": "Llamarada Atómica",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Lluvia de Meteoros",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Manos Infinitas",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Muralla de Escudos",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Muro Dimensional",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Olor Embriagador",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Paipay Gigante",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Paisaje Helado",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Pared Solitaria",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Pingüino Emperador Nº 1",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Pingüino Espacial",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Pingüino Múltiple",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Pisotón de Sumo",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Pompa de Chicle",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Presa",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Prima Donna",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Puños Voladores",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Rayo de Ganímedes",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Remate Asalto",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Remate de Gaia",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Remate de Seguridad",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Remate del Águila",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Remate en Espiral",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Remate Espiral",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Remate en V",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Remate Guiverno",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Remate Triple",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Empuje Trillizo",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Remate Tsunami",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Robo Planeta",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Rompehielos",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Sorteo de Balón",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Super Pisotón de Sumo",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Super Puño Invencible",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Superaceleración",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Aceleración",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Acelerón",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Supernova",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Superpeonza",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Teleportación",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Tiro Giratorio",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Tiro Torre de Osaka",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Tormenta de Fuego",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Tormenta de Pétalos",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Tornado Oscuro",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Tornado Venenoso",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Torre Inexpugnable",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Torre Perfecta",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Tren Loco",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Triángulo Letal 2",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Tuya-mía Doble",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Técnica Kung-Fu",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Ventisca de Fuego",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Ventisca Eterna",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Ventisca Guiverno",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Voltereta Circense",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Zona de Seguridad",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Aguijón",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Amago de Tiro",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Araña Gigante",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Ataque Afilado",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Ataque Cortante",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Ataque de Paladín",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Balón Angelical",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Balón Diabólico",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Balón Galgo",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Baraja Fugaz",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Bestia del Trueno",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Big Bang",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Bloqueo Ballena",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Bomba Falsa",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Bombazo",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Campo de Fuerza",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Carga Negativa",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Acelerrelámpago",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Caída a los Infiernos",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Cañonazo",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Cañón Celestial",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Cañón Dragón",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Ciclón Doble",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Corte Diabólico",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Coz 3",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Círculo de Espadas",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Cúpula Sónica",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Danza del Viento",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Descarte",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Descenso Estelar",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Dientes de Roca",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Disparo Dual",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Zapatazo Dual",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Disparo Sagrado",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Remate Celestial",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Disparo Valiente",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Cañón X",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "El Huracán",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Huracán",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "El Olvido",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Engaño Torero",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Engaño Yoyó",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Cabezazo Yoyó",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Entrada Rodante",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Entrada Tormenta",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Espada de Odín",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Espada Defensora",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Estela Ígnea",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Excalibur",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Fuego Total",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Full Goleador",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Golpe de Samba",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Golpe de Vacío",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Golpes de Luz",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Gran Barrera de Coral",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Gran Lobo",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Gran Seísmo",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Gran Tifón",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Granada Doble",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Guardia del Coliseo",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Ignición",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Jaula de Piedra",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "La Aurora",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "La Montaña",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Lanzada Letal",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Llamarada Infernal",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Lluvia Letal",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Lluvia Oscura",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Malla Letal",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Mandíbulas Dobles",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Mano Celestial X",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Mano Diabólica",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Mano Espiritual",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Mano Omega",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Mano Ultradimensional",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Megadragón",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Megalodón",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Millón de Manos",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Muro de Hierro",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Parada Celestial",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Parada de Capoeira",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Patada Canguro",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Patín Aéreo",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Pingüino Emperador Nº 3",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Pingüino Emperador X",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Puerta Astral",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Puño de Furia",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Rechace de Fuego",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Regate Espejismo",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Remate Caótico",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Remate Celestial",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Chut Congelante",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Remate de Hielo",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Remate del Tigre",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Remate Letal",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Remate Pegaso",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Remate Tsunami",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Remate Unicornio",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Robo Rápido",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Robo Veloz",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Segadora",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Vendimia",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Simún",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Subida a los Cielos",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Súper Elástico",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Tacón Infernal",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Sismo",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Terremoto",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Tirachinas",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Tiro a Reacción",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Tiro Espejismo",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Tiro Teledirigido",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Torbellino de Fuego",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Torbellino Trampolín",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Tormenta del Tigre",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Ultra Lunar",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Zigzag Chispeante",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Zig Zag Explosivo",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Zigzag de Fuego",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Zona Sagrada",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Ángel de Nieve",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Ícaro",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Vuelo de Ícaro",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Psicorremate",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Inmersión",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Apisonadora",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Sorpresa",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Coz",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Coz 2",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Potenciación",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Tormenta de Arena",
+        "type": "Bloqueo",
+        "element": "Aire"
+    },
+    {
+        "name": "Niebla Venenosa",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Cuchilla Asesina",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Embestida",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Mandril",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Hojarasca",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Trama, Trama",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Hojarasca",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Mandril",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Garra Salvaje",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Equilibrismo",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Regate Aurora",
+        "type": "Regate",
+        "element": "Aire"
+    },
+    {
+        "name": "Tiro Chispadraco",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Cruz del Sur",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Avance Flamígero",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Puño Vengativo",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Gran Sabio",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Cometa",
+        "type": "Bloqueo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Doppelgänger",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Cabezonería",
+        "type": "Atajo",
+        "element": "Fuego"
+    },
+    {
+        "name": "Escudo Bárbaro",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Salto del Cisne",
+        "type": "Atajo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Zona Sigma",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Tornado Doble",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Regate Rítmico",
+        "type": "Regate",
+        "element": "Bosque"
+    },
+    {
+        "name": "Parada Múltiple",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Atajo Tornado",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+
+    {
+        "name": "Placaje Extremo",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    },
+    {
+        "name": "Dúo Magma",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Tiro del Cometa",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Remate Halcón",
+        "type": "Tiro",
+        "element": "Aire"
+    },
+    {
+        "name": "Tiro Pirueta",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Aplanadora",
+        "type": "Bloqueo",
+        "element": "Montaña"
+    }
+]

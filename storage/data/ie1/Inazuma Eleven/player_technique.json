@@ -1,0 +1,365 @@
+[
+    {
+        "player": "Seymour Hillman",
+        "anime1": [
+            {
+                "name": "Mano Celestial",
+                "with": []
+            },
+            {
+                "name": "Ruptura Relámpago",
+                "with": ["Jude", "Axel"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Mano Celestial",
+            "Despeje Explosivo",
+            "Mano Mágica",
+            "Ruptura Relámpago"
+        ],
+        "ie2": [
+            "Mano Celestial",
+            "Despeje Explosivo",
+            "Mano Mágica",
+            "Trimano Celestial"
+        ],
+        "ie3": [
+            "Mano Celestial",
+            "Despeje Explosivo",
+            "Mano Mágica",
+            "Super Puño Invencible"
+        ]
+    },
+    {
+        "player": "Charles Island",
+        "anime1": [
+            {
+                "name": "Pájaro de Fuego",
+                "with": ["Constant"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Ciclón",
+            "Zigzag Chispeante",
+            "Psicorremate",
+            "Trampolín Relámpago"
+        ],
+        "ie2": [
+            "Ciclón",
+            "Zigzag Chispeante",
+            "Psicorremate",
+            "Trampolín Relámpago"
+        ],
+        "ie3": ["Ciclón", "Luna Creciente", "Inmersión", "Trampolín Relámpago"]
+    },
+    {
+        "player": "Garret Hairtown",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Corte Giratorio",
+            "Pájaro de Fuego",
+            "Cabezazo Kung-Fu",
+            "Remate Serpiente"
+        ],
+        "ie2": [
+            "Corte Giratorio",
+            "Pájaro de Fuego",
+            "Cabezazo Kung-Fu",
+            "Remate Serpiente"
+        ],
+        "ie3": [
+            "Corte Volcánico",
+            "Pájaro de Fuego",
+            "Cabezazo Kung-Fu",
+            "Remate Serpiente"
+        ]
+    },
+    {
+        "player": "Arthur Sweet",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Ciclón", "Remate Dragón", "Bateo Total", "Tornado Dragón"],
+        "ie2": ["Ciclón", "Remate Dragón", "Bateo Total", "Tornado Dragón"],
+        "ie3": ["Ciclón", "Remate Dragón", "Presa", "Tornado Dragón"]
+    },
+    {
+        "player": "Peter Mildred",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Ataque Afilado",
+            "Escáner Defensa",
+            "Chut Granada",
+            "Regate Múltiple"
+        ],
+        "ie2": [
+            "Ataque Afilado",
+            "Escáner Defensa",
+            "Chut Granada",
+            "Regate Múltiple"
+        ],
+        "ie3": [
+            "Ataque Afilado",
+            "Escáner Ataque",
+            "Granada Doble",
+            "Regate Múltiple"
+        ]
+    },
+    {
+        "player": "Josh Nathaniel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Zigzag Chispeante",
+            "Bateo Total",
+            "Ataque Afilado",
+            "Despeje Cohete"
+        ],
+        "ie2": [
+            "Zigzag Chispeante",
+            "Bateo Total",
+            "Ataque Afilado",
+            "Despeje Cohete"
+        ],
+        "ie3": [
+            "Zigzag Chispeante",
+            "Bateo Total",
+            "Baile de Llamas",
+            "Despeje Cohete"
+        ]
+    },
+    {
+        "player": "Edward Gladstone",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Pase Cruzado",
+            "Corte Giratorio",
+            "Remate Combinado",
+            "Apisonadora"
+        ],
+        "ie2": [
+            "Pase Cruzado",
+            "Corte Giratorio",
+            "Remate Combinado",
+            "Apisonadora"
+        ],
+        "ie3": [
+            "Pase Cruzado",
+            "Paipay Gigante",
+            "Remate Combinado",
+            "Apisonadora"
+        ]
+    },
+    {
+        "player": "Tyler Thomas",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Truco de Magia",
+            "Pase Cruzado",
+            "Campo de Fuerza",
+            "Espejismo de Balón"
+        ],
+        "ie2": [
+            "Truco de Magia",
+            "Pase Cruzado",
+            "Campo de Fuerza",
+            "Espejismo de Balón"
+        ],
+        "ie3": [
+            "Truco de Magia",
+            "Pase Cruzado",
+            "Tirachinas",
+            "Espejismo de Balón"
+        ]
+    },
+    {
+        "player": "Joseph Yosemite",
+        "anime1": [
+            {
+                "name": "Tiro Cruzado",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro Fantasma",
+            "Trampolín Relámpago",
+            "Robo Rápido",
+            "Flecha Divina"
+        ],
+        "ie2": [
+            "Tiro Fantasma",
+            "Trampolín Relámpago",
+            "Robo Rápido",
+            "Flecha Divina"
+        ],
+        "ie3": [
+            "Tiro Fantasma",
+            "Trampolín Relámpago",
+            "Robo Rápido",
+            "Flecha Divina"
+        ]
+    },
+    {
+        "player": "Ian Suffolk",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Zigzag Chispeante", "Tiro Dinamita", "Coz", "Sorpresa"],
+        "ie2": ["Zigzag Chispeante", "Súper Relámpago", "Coz", "Sorpresa"],
+        "ie3": [
+            "Zigzag Chispeante",
+            "Súper Relámpago",
+            "Tornado Inverso",
+            "Sorpresa"
+        ]
+    },
+    {
+        "player": "Constant Builder",
+        "anime1": [
+            {
+                "name": "Pájaro de Fuego",
+                "with": ["Island"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "El Muro",
+            "Tornado de Fuego",
+            "Corte Flamígero",
+            "Pájaro de Fuego"
+        ],
+        "ie2": [
+            "El Muro",
+            "Tornado de Fuego",
+            "Corte Flamígero",
+            "Pájaro de Fuego"
+        ],
+        "ie3": [
+            "El Muro",
+            "Pájaro de Fuego",
+            "Corte Flamígero",
+            "Torbellino Trampolín"
+        ]
+    },
+    {
+        "player": "Ted Poe",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Ataque Afilado",
+            "Maldición",
+            "Escáner Ataque",
+            "Ataque Sombrío"
+        ],
+        "ie2": [
+            "Ataque Afilado",
+            "Maldición",
+            "Escáner Ataque",
+            "Ataque Sombrío"
+        ],
+        "ie3": [
+            "Ataque Afilado",
+            "Maldición",
+            "Escáner Ataque",
+            "Zona de Seguridad"
+        ]
+    },
+    {
+        "player": "Marshall Heart",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Ataque Afilado",
+            "Cabezazo Kung-Fu",
+            "Regate Múltiple",
+            "Despeje de Leñador"
+        ],
+        "ie2": [
+            "Ataque Afilado",
+            "Cabezazo Kung-Fu",
+            "Regate Múltiple",
+            "Despeje de Leñador"
+        ],
+        "ie3": [
+            "Ataque Afilado",
+            "Cabezazo Kung-Fu",
+            "Regate Múltiple",
+            "Aikido"
+        ]
+    },
+    {
+        "player": "Dom Foreman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Torbellino Dragón",
+            "Bola de Fango",
+            "Regate Topo",
+            "Potenciación"
+        ],
+        "ie2": [
+            "Torbellino Dragón",
+            "Bola de Fango",
+            "Regate Topo",
+            "Potenciación"
+        ],
+        "ie3": [
+            "Torbellino Dragón",
+            "Bola de Fango",
+            "Sorteo de Balón",
+            "Potenciación"
+        ]
+    },
+    {
+        "player": "Slot MacHines",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Barrido Defensivo", "Coz", "Sorpresa", "Niebla Venenosa"],
+        "ie2": ["Barrido Defensivo", "Coz", "Sorpresa", "Niebla Venenosa"],
+        "ie3": ["Barrido Defensivo", "Coz", "Sorpresa", "Tormenta de Arena"]
+    },
+    {
+        "player": "Bill Steakspear",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Zigzag Chispeante",
+            "Giro Bobina",
+            "Embestida",
+            "Cuchilla Asesina"
+        ],
+        "ie2": [
+            "Zigzag Chispeante",
+            "Giro Bobina",
+            "Embestida",
+            "Cuchilla Asesina"
+        ],
+        "ie3": [
+            "Zigzag Chispeante",
+            "Corte Volcánico",
+            "Embestida",
+            "Cuchilla Asesina"
+        ]
+    }
+]

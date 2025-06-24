@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Mando",
+        "full_name": "Cam Mando",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/29/%28MA%29_Mando.png/revision/latest?cb=20230823213417&path-prefix=es"
+    },
+    {
+        "name": "Boufante",
+        "full_name": "Harry Boufante",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2c/%28MA%29_Boufante.png/revision/latest?cb=20230823213403&path-prefix=es"
+    },
+    {
+        "name": "Stuhl",
+        "full_name": "Todd Stuhl",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5a/%28MA%29_Stuhl.png/revision/latest?cb=20230823213422&path-prefix=es"
+    },
+    {
+        "name": "Blewit",
+        "full_name": "Aspen Blewit",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1f/%28MA%29_Blewit.png/revision/latest?cb=20230823213401&path-prefix=es"
+    },
+    {
+        "name": "Oregon",
+        "full_name": "Marismus Oregon",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a5/%28MA%29_Oregon.png/revision/latest?cb=20230823213420&path-prefix=es"
+    },
+    {
+        "name": "Cypress",
+        "full_name": "Garjan Cypress",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7a/%28MA%29_Cypress.png/revision/latest?cb=20230823213406&path-prefix=es"
+    },
+    {
+        "name": "Deathcap",
+        "full_name": "Judas Deathcap",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e6/%28MA%29_Deathcap.png/revision/latest?cb=20230823213410&path-prefix=es"
+    },
+    {
+        "name": "Faithfull",
+        "full_name": "Chase Faithfull",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f2/%28MA%29_Faithfull.png/revision/latest?cb=20230823213415&path-prefix=es"
+    },
+    {
+        "name": "Ticker",
+        "full_name": "Chris Ticker",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/46/%28MA%29_Ticker.png/revision/latest?cb=20230823213425&path-prefix=es"
+    },
+    {
+        "name": "Daring",
+        "full_name": "Roy Daring",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/09/%28MA%29_Daring.png/revision/latest?cb=20230823213408&path-prefix=es"
+    },
+    {
+        "name": "Enoki",
+        "full_name": "Scaber Enoki",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Mar de Árboles",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b9/%28MA%29_Enoki.png/revision/latest?cb=20230823213412&path-prefix=es"
+    }
+]

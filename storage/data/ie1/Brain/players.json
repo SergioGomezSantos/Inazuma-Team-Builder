@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Feldt",
+        "full_name": "Thomas Feldt",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0b/%28B%29_Feldt.png/revision/latest?cb=20230913202434&path-prefix=es"
+    },
+    {
+        "name": "Leading",
+        "full_name": "Harry Leading",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/94/%28B%29_Leading.png/revision/latest?cb=20230913202444&path-prefix=es"
+    },
+    {
+        "name": "Stronger",
+        "full_name": "Terry Stronger",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2e/%28B%29_Stronger.png/revision/latest?cb=20230913202507&path-prefix=es"
+    },
+    {
+        "name": "Marvel",
+        "full_name": "Philip Marvel",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7f/%28B%29_Marvel.png/revision/latest?cb=20230913202447&path-prefix=es"
+    },
+    {
+        "name": "Good",
+        "full_name": "Noel Good",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6a/%28B%29_Good.png/revision/latest?cb=20230913202438&path-prefix=es"
+    },
+    {
+        "name": "Rock",
+        "full_name": "Tyron Rock",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cc/%28B%29_Rock.png/revision/latest?cb=20230913202458&path-prefix=es"
+    },
+    {
+        "name": "Tell",
+        "full_name": "Francis Tell",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3b/%28B%29_Tell.png/revision/latest?cb=20230913202511&path-prefix=es"
+    },
+    {
+        "name": "Busta",
+        "full_name": "Samuel Buster",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d5/%28B%29_Busta.png/revision/latest?cb=20230913202431&path-prefix=es"
+    },
+    {
+        "name": "Seller",
+        "full_name": "Jonathan Seller",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3e/%28B%29_Seller.png/revision/latest?cb=20230913202501&path-prefix=es"
+    },
+    {
+        "name": "Kind",
+        "full_name": "Victor Kind",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6b/%28B%29_Kind.png/revision/latest?cb=20230913202441&path-prefix=es"
+    },
+    {
+        "name": "Turner",
+        "full_name": "Neil Turner",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/91/%28B%29_Turner.png/revision/latest?cb=20230913202514&path-prefix=es"
+    },
+    {
+        "name": "Under",
+        "full_name": "Reg Underwood",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/18/%28B%29_Under.png/revision/latest?cb=20230913202518&path-prefix=es"
+    },
+    {
+        "name": "Stiller",
+        "full_name": "Patrick Stiller",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/36/%28B%29_Stiller.png/revision/latest?cb=20230913202504&path-prefix=es"
+    },
+    {
+        "name": "Oughtry",
+        "full_name": "Charles Oughtry",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2f/%28B%29_Oughtry.png/revision/latest?cb=20230913202455&path-prefix=es"
+    },
+    {
+        "name": "Mooney",
+        "full_name": "Clive Mooney",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a9/%28B%29_Mooney.png/revision/latest?cb=20230913202452&path-prefix=es"
+    },
+    {
+        "name": "Waters",
+        "full_name": "Neil Waters",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Brain",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c9/%28B%29_Waters.png/revision/latest?cb=20230913202521&path-prefix=es"
+    }
+]

@@ -1,0 +1,348 @@
+[
+    {
+        "player": "Paul Siddon",
+        "anime1": [
+            {
+                "name": "Muralla Tsunami",
+                "with": []
+            },
+            {
+                "name": "Muralla Gigante",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Muralla Tsunami",
+            "Muralla Gigante",
+            "El Muro",
+            "Pisotón de Sumo"
+        ],
+        "ie2": [
+            "Ultratécnica",
+            "Pisotón de Sumo",
+            "Muralla Gigante",
+            "Muralla Tsunami"
+        ],
+        "ie3": [
+            "Ultratécnica",
+            "Muralla Tsunami",
+            "Muralla Gigante",
+            "Jaula de Piedra"
+        ]
+    },
+    {
+        "player": "Apollo Light",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Apisonadora",
+            "Tiro Cegador",
+            "Truco de Magia",
+            "Entrada Tormenta"
+        ],
+        "ie2": [
+            "Apisonadora",
+            "Tiro Cegador",
+            "Defensa Múltiple",
+            "Entrada Tormenta"
+        ],
+        "ie3": ["Apisonadora", "Tiro Cegador", "Dúo Magma", "Entrada Tormenta"]
+    },
+    {
+        "player": "Jeff Iron",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Entrada Tormenta",
+            "Psicorremate",
+            "Tornado de Fuego",
+            "Pájaro de Fuego"
+        ],
+        "ie2": [
+            "Entrada Tormenta",
+            "Apisonadora",
+            "Tornado de Fuego",
+            "Pájaro de Fuego"
+        ],
+        "ie3": [
+            "Entrada Tormenta",
+            "Apisonadora",
+            "Llamarada Infernal",
+            "Pájaro de Fuego"
+        ]
+    },
+    {
+        "player": "Lane War",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Apisonadora", "Gravedad", "Coz", "Rueda Infernal"],
+        "ie2": ["Apisonadora", "Gravedad", "Coz", "Rueda Infernal"],
+        "ie3": ["Apisonadora", "Gravedad", "Placaje Extremo", "Rueda Infernal"]
+    },
+    {
+        "player": "Danny Wood",
+        "anime1": [
+            {
+                "name": "Mega Terremoto",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Mega Terremoto",
+            "Zigzag Chispeante",
+            "Sismo",
+            "Disparo con Rebotes"
+        ],
+        "ie2": ["Recobro", "Sismo", "Mega Terremoto", "Disparo con Rebotes"],
+        "ie3": ["Recobro", "Mega Terremoto", "Gran Sabio", "Dientes de Roca"]
+    },
+    {
+        "player": "Artie Mishman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Hora Celestial",
+            "Doppelgänger",
+            "Espejismo de Balón",
+            "Flecha Divina"
+        ],
+        "ie2": [
+            "Hora Celestial",
+            "Doppelgänger",
+            "Espejismo de Balón",
+            "Flecha Divina"
+        ],
+        "ie3": [
+            "Hora Celestial",
+            "Flash de Fotones",
+            "Espejismo de Balón",
+            "Flecha Divina"
+        ]
+    },
+    {
+        "player": "Arion Matlock",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Hora Celestial", "Ciclón", "Apisonadora", "Torbellino"],
+        "ie2": ["Piscinazo", "Hora Celestial", "Apisonadora", "Torbellino"],
+        "ie3": [
+            "Piscinazo",
+            "Hora Celestial",
+            "Apisonadora",
+            "Guardia del Coliseo"
+        ]
+    },
+    {
+        "player": "Wesley Knox",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Entrada Tormenta",
+            "Disparo con Rebotes",
+            "Escáner Defensa",
+            "Escáner Ataque"
+        ],
+        "ie2": [
+            "Entrada Tormenta",
+            "Corte Giratorio",
+            "Escáner Defensa",
+            "Escáner Ataque"
+        ],
+        "ie3": [
+            "Entrada Tormenta",
+            "Corte Giratorio",
+            "Zona de Seguridad",
+            "Zona Sigma"
+        ]
+    },
+    {
+        "player": "Jonas Demetrius",
+        "anime1": [
+            {
+                "name": "Entrada Tormenta",
+                "with": []
+            },
+            {
+                "name": "Disparo con Rebotes",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Disparo con Rebotes",
+            "Entrada Tormenta",
+            "Flecha Divina",
+            "Embestida"
+        ],
+        "ie2": [
+            "Tiro +",
+            "Disparo con Rebotes",
+            "Corte Flamígero",
+            "Flecha Divina"
+        ],
+        "ie3": [
+            "Tiro +",
+            "Teleportación",
+            "Disparo con Rebotes",
+            "Flecha Divina"
+        ]
+    },
+    {
+        "player": "Byron Love",
+        "anime1": [
+            {
+                "name": "Hora Celestial",
+                "with": []
+            },
+            {
+                "name": "Sabiduría Divina",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Sabiduría Divina",
+            "Hora Celestial",
+            "Apisonadora",
+            "Flecha Divina"
+        ],
+        "ie2": [
+            "Fuerza de Tiro",
+            "Sabiduría Divina",
+            "Hora Celestial",
+            "Disparo Sagrado"
+        ],
+        "ie3": [
+            "Fuerza de Tiro",
+            "Sabiduría Divina",
+            "Disparo Sagrado",
+            "Vuelo de Ícaro"
+        ]
+    },
+    {
+        "player": "Henry House",
+        "anime1": [
+            {
+                "name": "Flecha Divina",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Flecha Divina",
+            "Disparo con Rebotes",
+            "Barrido Defensivo",
+            "Coz"
+        ],
+        "ie2": ["Flecha Divina", "Barrido Defensivo", "Coz", "Disparo Sagrado"],
+        "ie3": [
+            "Barrido Defensivo",
+            "Robo Planeta",
+            "Flecha Divina",
+            "Disparo Sagrado"
+        ]
+    },
+    {
+        "player": "Iggy Russ",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate Halcón",
+            "Torbellino Dragón",
+            "Corte Giratorio",
+            "Hora Celestial"
+        ],
+        "ie2": [
+            "Muralla Tsunami",
+            "Remate Halcón",
+            "Corte Giratorio",
+            "Hora Celestial"
+        ],
+        "ie3": [
+            "Muralla Tsunami",
+            "Remate Halcón",
+            "Espada Defensora",
+            "Vuelo de Ícaro"
+        ]
+    },
+    {
+        "player": "Gus Heeley",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Maldición", "Ataque Afilado", "Apisonadora", "Flecha Divina"],
+        "ie2": ["Maldición", "Ataque Afilado", "Apisonadora", "Flecha Divina"],
+        "ie3": ["Maldición", "Dientes de Roca", "Apisonadora", "Flecha Divina"]
+    },
+    {
+        "player": "Harry Closs",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Pisotón de Sumo", "Sismo", "Coz", "Mega Terremoto"],
+        "ie2": ["Pisotón de Sumo", "Sismo", "Coz", "Mega Terremoto"],
+        "ie3": ["Pisotón de Sumo", "Sismo", "Engaño Torero", "Mega Terremoto"]
+    },
+    {
+        "player": "Andy Chronic",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Hora Celestial",
+            "Cabezazo Kung-fu",
+            "Espejismo de Balón",
+            "Acelerón"
+        ],
+        "ie2": [
+            "Hora Celestial",
+            "Cabezazo Kung-fu",
+            "Espejismo de Balón",
+            "Acelerón"
+        ],
+        "ie3": [
+            "Hora Celestial",
+            "Cabezazo Kung-fu",
+            "Espejismo de Balón",
+            "Muro Dimensional"
+        ]
+    },
+    {
+        "player": "Ned Yousef",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate Serpiente",
+            "Telaraña",
+            "Rueda Infernal",
+            "Chut Congelante"
+        ],
+        "ie2": [
+            "Remate Serpiente",
+            "Telaraña",
+            "Rueda Infernal",
+            "Chut Congelante"
+        ],
+        "ie3": [
+            "Remate Serpiente",
+            "Telaraña",
+            "Corte Diabólico",
+            "Escudo Bárbaro"
+        ]
+    }
+]

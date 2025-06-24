@@ -1,0 +1,254 @@
+[
+    {
+        "team": "Alpino",
+        "coach": {
+            "name": "Entrenador del Alpino",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/a/a9/Entrenador_del_Alpino_%28Sprite%29.png/revision/latest?cb=20180110113747&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/3/39/Escudo_-_Alpino_%28SD%29.png/revision/latest?cb=20240705144853&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante II",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Claustro Sagrado",
+        "coach": {
+            "name": "Entrenador del Claustro Sagrado",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/9/9a/Entrenador_del_Claustro_Sagrado_%28Sprite%29.png/revision/latest?cb=20241225010016&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/8/81/Escudo_-_Claustro_Sagrado_%28SD%29.png/revision/latest?cb=20240710141503&path-prefix=es"
+        },
+        "formation": {
+            "name": "Can Doble",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Fauxshore",
+        "coach": {
+            "name": "Director Balding",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/d/d2/Director_Balding_%28Sprite%29.png/revision/latest?cb=20241226161850&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/2/27/Escudo_-_Fauxshore_%28SD%29.png/revision/latest?cb=20240718102608&path-prefix=es"
+        },
+        "formation": {
+            "name": "Aegis",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Mary Times Memorial",
+        "coach": {
+            "name": "Entrenador del Mary Times",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/3/36/Entrenador_del_Mary_Times_%28Sprite%29.png/revision/latest?cb=20241226171556&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/2/21/Escudo_-_Mary_Times_%28SD%29.png/revision/latest?cb=20240718102605&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante II",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Triple C de Osaka",
+        "coach": {
+            "name": "Señora Hartland",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/5/5b/Se%C3%B1ora_Hartland_%28Sprite%29.png/revision/latest?cb=20241226194351&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/8/82/Escudo_-_Triple_C_de_Osaka_%28SD%29.png/revision/latest?cb=20240712003410&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante II",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Servicio Secreto",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/5/55/Servicio_Secreto_Emblema_%28Ver._Europea%29.png/revision/latest?cb=20140913004341&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante II",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Royal Academy Redux",
+        "coach": {
+            "name": "Ray Dark",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/b/b7/Ray_Dark_%281T-VJ%29.png/revision/latest?cb=20230914205857&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/2/2f/Escudo_-_Royal_Academy_Redux_%28SD%29.png/revision/latest?cb=20240610205852&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Tormenta de Géminis",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/0/0f/Escudo_-_Tormenta_de_G%C3%A9minis_%28SD%29.png/revision/latest?cb=20240411153438&path-prefix=es"
+        },
+        "formation": {
+            "name": "Géminis",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Épsilon",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/3/3f/Escudo_-_Epsilon_%28SD%29.png/revision/latest?cb=20240419203422&path-prefix=es"
+        },
+        "formation": {
+            "name": "Épsilon",
+            "layout": "5-4-1"
+        }
+    },
+    {
+        "team": "Prominence",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/8/89/Escudo_-_Prominence_%28SD%29.png/revision/latest?cb=20240430192701&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante II",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Diamond",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/1/1c/Escudo_-_Polvo_de_Diamantes_%28SD%29.png/revision/latest?cb=20240502142202&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante II",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Caos",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/a/a3/Escudo_Caos.png/revision/latest?cb=20210620185754&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Génesis",
+        "coach": {
+            "name": "Astram Schiller",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/8/8d/Astram_Schiller_%28Sprite%29.png/revision/latest?cb=20240427205330&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/9/93/Escudo_G%C3%A9nesis_%28IE_HVR%29.png/revision/latest?cb=20240401112105&path-prefix=es"
+        },
+        "formation": {
+            "name": "Génesis",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Emperadores Oscuros",
+        "coach": {
+            "name": "Godric Wyles",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/0/07/Goldric_Wyles_%28Sprite%29.png/revision/latest?cb=20240427205744&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/6/61/Escudo_-_Emperadores_Oscuros_%28SD%29.png/revision/latest?cb=20240515150219&path-prefix=es"
+        },
+        "formation": {
+            "name": "Emperadores Oscuros",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Mar de Árboles",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/7/73/Mar_de_%C3%81rboles_Emblema.png/revision/latest?cb=20140920012341&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante II",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Robots Guardias",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/9/96/Robots_Guardias_emblema.png/revision/latest?cb=20141003001202&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante II",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Jóvenes Inazuma",
+        "coach": {
+            "name": "David Evans Jóven",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/3/35/%28JI%29_David.png/revision/latest?cb=20240621204058&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/2/23/J%C3%B3venes_Inazuma_Emblema.png/revision/latest?cb=20140908012129&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Raimon 2",
+        "coach": {
+            "name": "Aquilina Schiller",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/6/6d/Lina_%28Sprite%29.png/revision/latest?cb=20201219202224&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/e/e1/Raimon_FF_Emblema.png/revision/latest?cb=20210620190405&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    }
+]

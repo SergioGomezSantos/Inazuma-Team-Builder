@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Grent",
+        "full_name": "Grant Cook",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/de/%28P%29_Grent.png/revision/latest?cb=20230821200910&path-prefix=es"
+    },
+    {
+        "name": "Baller",
+        "full_name": "Bonnie Sparks",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4e/%28P%29_Baller.png/revision/latest?cb=20230821200902&path-prefix=es"
+    },
+    {
+        "name": "Balcke",
+        "full_name": "Val Flamewood",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/69/%28P%29_Balcke.png/revision/latest?cb=20230821200900&path-prefix=es"
+    },
+    {
+        "name": "Seats",
+        "full_name": "Sean Ashford",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6f/%28P%29_Seats.png/revision/latest?cb=20230821200920&path-prefix=es"
+    },
+    {
+        "name": "Bomber",
+        "full_name": "Ben Blowton",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/73/%28P%29_Bomber.png/revision/latest?cb=20230821200905&path-prefix=es"
+    },
+    {
+        "name": "Heat",
+        "full_name": "Ethan Whitering",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/77/%28P%29_Heat.png/revision/latest?cb=20230821200912&path-prefix=es"
+    },
+    {
+        "name": "Lean",
+        "full_name": "Brenda Firequest",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d4/%28P%29_Lean.png/revision/latest?cb=20230821200915&path-prefix=es"
+    },
+    {
+        "name": "Bountine",
+        "full_name": "Sam Bournes",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b6/%28P%29_Bountine.png/revision/latest?cb=20230821200907&path-prefix=es"
+    },
+    {
+        "name": "Sidern",
+        "full_name": "Jim Flareson",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/27/%28P%29_Sidern.png/revision/latest?cb=20230821200923&path-prefix=es"
+    },
+    {
+        "name": "Torch",
+        "full_name": "Claude Beacons",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bb/%28P%29_Torch.png/revision/latest?cb=20230821200926&path-prefix=es"
+    },
+    {
+        "name": "Neppten",
+        "full_name": "Nigel August",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Prominence",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fa/%28P%29_Neppten.png/revision/latest?cb=20230821200917&path-prefix=es"
+    }
+]

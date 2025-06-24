@@ -1,0 +1,359 @@
+[
+    {
+        "player": "Morgan Sanders",
+        "anime1": [
+            {
+                "name": "Torbellino",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Torbellino",
+            "Regate Múltiple",
+            "Remate Múltiple",
+            "Espiral de Distorsión"
+        ],
+        "ie2": [
+            "Ultratécnica",
+            "Torbellino",
+            "Regate Múltiple",
+            "Parada Múltiple"
+        ],
+        "ie3": [
+            "Ultratécnica",
+            "Torbellino",
+            "Parada Múltiple",
+            "Danza del Viento"
+        ]
+    },
+    {
+        "player": "Newton Flust",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Bola de Fango",
+            "Confusión",
+            "Regate Múltiple",
+            "Ataque Sombrío"
+        ],
+        "ie2": [
+            "Ataque Sombrío",
+            "Confusión",
+            "Bola de Fango",
+            "Defensa Múltiple"
+        ],
+        "ie3": ["Ataque Sombrío", "Confusión", "Regate Múltiple", "Cañonazo"]
+    },
+    {
+        "player": "Jim Hillfort",
+        "anime1": [
+            {
+                "name": "Ataque de las Sombras",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Espejismo", "Telaraña", "Ataque Sombrío", "Remate Múltiple"],
+        "ie2": ["Espejismo", "Telaraña", "Ataque Sombrío", "Remate Múltiple"],
+        "ie3": [
+            "Telaraña",
+            "Ataque Sombrío",
+            "Remolino Cortante",
+            "Remate Múltiple"
+        ]
+    },
+    {
+        "player": "Galen Thunderbird",
+        "anime1": [
+            {
+                "name": "Pisotón de Sumo",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Niebla Venenosa",
+            "Pisotón de Sumo",
+            "Telaraña",
+            "Ataque Sombrío"
+        ],
+        "ie2": [
+            "Niebla Venenosa",
+            "Pisotón de Sumo",
+            "Telaraña",
+            "Ataque Sombrío"
+        ],
+        "ie3": [
+            "Pisotón de Sumo",
+            "Tornado Venenoso",
+            "Ataque Sombrío",
+            "Rueda Infernal"
+        ]
+    },
+    {
+        "player": "Finn Stoned",
+        "anime1": [
+            {
+                "name": "Pisotón de Sumo",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Pisotón de Sumo",
+            "Ataque Sombrío",
+            "Bola Falsa",
+            "Regate Topo"
+        ],
+        "ie2": [
+            "Pisotón de Sumo",
+            "Ataque Sombrío",
+            "Bola Falsa",
+            "Regate Topo"
+        ],
+        "ie3": [
+            "Super Pisotón de Sumo",
+            "Ataque Sombrío",
+            "Regate Topo",
+            "Sorteo de Balón"
+        ]
+    },
+    {
+        "player": "Phil Wingate",
+        "anime1": [
+            {
+                "name": "Telaraña",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Telaraña", "Espejismo", "Remolino Cortante", "Flecha Huracán"],
+        "ie2": ["Casanova", "Telaraña", "Remolino Cortante", "Flecha Huracán"],
+        "ie3": [
+            "Casanova",
+            "Telaraña",
+            "Flecha Huracán",
+            "Torbellino Trampolín"
+        ]
+    },
+    {
+        "player": "Jez Shell",
+        "anime1": [
+            {
+                "name": "Regate Múltiple",
+                "with": []
+            },
+            {
+                "name": "Espejismo",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Regate Múltiple",
+            "Tiro Fantasma",
+            "Doppelgänger",
+            "Remate Múltiple"
+        ],
+        "ie2": [
+            "Regate Múltiple",
+            "Tiro Fantasma",
+            "Doppelgänger",
+            "Remate Múltiple"
+        ],
+        "ie3": [
+            "Regate Múltiple",
+            "Regate Espejismo",
+            "Doppelgänger",
+            "Remate Múltiple"
+        ]
+    },
+    {
+        "player": "Jupiter Jumper",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Espejismo", "Giro de Mono", "Bola de Fango", "Luna Creciente"],
+        "ie2": ["Espejismo", "Giro de Mono", "Bola de Fango", "Luna Creciente"],
+        "ie3": [
+            "Giro de Mono",
+            "Avance Flamígero",
+            "Espejismo",
+            "Luna Creciente"
+        ]
+    },
+    {
+        "player": "Sam Samurai",
+        "anime1": [
+            {
+                "name": "Remate Múltiple",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate Múltiple",
+            "Ataque Sombrío",
+            "Robo Rápido",
+            "Pájaro de Fuego"
+        ],
+        "ie2": [
+            "Remate Múltiple",
+            "Ataque Sombrío",
+            "Robo Rápido",
+            "Pájaro de Fuego"
+        ],
+        "ie3": [
+            "Remate Múltiple",
+            "Tiro Pirueta",
+            "Ataque Sombrío",
+            "Pájaro de Fuego"
+        ]
+    },
+    {
+        "player": "Hank Sullivan",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Espejismo",
+            "Remate Múltiple",
+            "Entrada Huracán",
+            "Ataque Sombrío"
+        ],
+        "ie2": [
+            "Espejismo",
+            "Remate Múltiple",
+            "Entrada Huracán",
+            "Ataque Sombrío"
+        ],
+        "ie3": [
+            "Espejismo",
+            "Chut de los 200 Toques",
+            "Entrada Huracán",
+            "Trama"
+        ]
+    },
+    {
+        "player": "Sail Bluesea",
+        "anime1": [
+            {
+                "name": "Espejismo",
+                "with": []
+            },
+            {
+                "name": "Bola de Fango",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Espejismo",
+            "Bola de Fango",
+            "Niebla Venenosa",
+            "Pájaro de Fuego"
+        ],
+        "ie2": ["Rapidez +", "Espejismo", "Bola de Fango", "Pájaro de Fuego"],
+        "ie3": ["Rapidez +", "Espejismo", "Defensa Múltiple", "Pájaro de Fuego"]
+    },
+    {
+        "player": "Kevin Castle",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Giro Bobina", "Gravedad", "Hojarasca", "Bloqueo Dureza"],
+        "ie2": [
+            "Bloqueo Dureza",
+            "Hojarasca",
+            "Escudo de Fuerza",
+            "Torbellino"
+        ],
+        "ie3": ["Bloqueo Dureza", "Hojarasca", "Torbellino", "Escudo Protector"]
+    },
+    {
+        "player": "John Reynolds",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Tiro Dinamita",
+            "Remate Múltiple",
+            "Espejismo",
+            "Entrada Huracán"
+        ],
+        "ie2": [
+            "Tiro Dinamita",
+            "Remate Múltiple",
+            "Espejismo",
+            "Entrada Huracán"
+        ],
+        "ie3": ["Remate Múltiple", "Entrada Huracán", "Aikido", "Espejismo"]
+    },
+    {
+        "player": "Dan Hopper",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Pisotón de Sumo",
+            "Ataque Cóndor",
+            "Ataque Meteorito",
+            "Luna Creciente"
+        ],
+        "ie2": [
+            "Pisotón de Sumo",
+            "Ataque Cóndor",
+            "Ataque Meteorito",
+            "Luna Creciente"
+        ],
+        "ie3": [
+            "Pisotón de Sumo",
+            "Ataque Cóndor",
+            "Ataque Meteorito",
+            "Lluvia de Meteoros"
+        ]
+    },
+    {
+        "player": "Cal Trops",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate Combinado",
+            "Remate Halcón",
+            "Rueda Infernal",
+            "Vendimia"
+        ],
+        "ie2": [
+            "Remate Combinado",
+            "Remate Halcón",
+            "Rueda Infernal",
+            "Vendimia"
+        ],
+        "ie3": [
+            "Remate Combinado",
+            "Bomba Acrobática",
+            "Rueda Infernal",
+            "Vendimia"
+        ]
+    },
+    {
+        "player": "Winston Falls",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Doppelgänger", "Espejismo", "Telaraña", "Ataque Sombrío"],
+        "ie2": ["Doppelgänger", "Espejismo", "Telaraña", "Ataque Sombrío"],
+        "ie3": ["Telaraña", "Espejismo", "Descodificación", "Ataque Sombrío"]
+    }
+]

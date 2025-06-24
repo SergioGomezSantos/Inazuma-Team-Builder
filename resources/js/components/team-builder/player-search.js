@@ -11,7 +11,7 @@ export default class PlayerSearch {
     }
 
     static autoFillTeamName() {
-        if (savedTeamId >= 1 && savedTeamId <= 13) {
+        if (savedTeamId >= 1 && savedTeamId <= 28) {
             this.searchInput.value = savedTeamName;
             this.filterPlayers();
         }

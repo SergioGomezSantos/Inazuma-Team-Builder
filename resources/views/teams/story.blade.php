@@ -62,10 +62,55 @@
                     <div class="flex-1 overflow-y-auto rounded-b-lg p-4">
                         <div class="grid grid-cols-2 gap-4 justify-center items-center">
 
+                            <!-- Raimon - Ejemplo de bloque que ocupa ancho completo -->
+                            <div class="bg-white dark:bg-gray-800 text-center p-4 rounded-lg shadow-md">
+                                <h2 class="dark:text-primary-500 text-xl font-bold">Principales</h2>
+                                <div class="flex flex-wrap items-center justify-center gap-4">
+                                    @foreach ($raimonTeams as $raimonTeam)
+                                        <div class="w-32 flex flex-col items-center justify-start group">
+                                            <a href="{{ route('teams.show', $raimonTeam->id) }}">
+                                                <div class="w-full h-32 flex items-center justify-center">
+                                                    <img class="w-24 h-24 transition-transform group-hover:scale-110 duration-200 ease-in-out"
+                                                        src="{{ asset('/storage/emblems/' . $raimonTeam->emblem->image) }}">
+                                                </div>
+                                            </a>
+                                            <div
+                                                class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
+                                                {{ $raimonTeam->name }}
+                                            </div>
+                                        </div>
+                                    @endforeach
+                                </div>
+                            </div>
+
+                            <!-- Extras -->
+                            <div class="bg-white dark:bg-gray-800 text-center p-4 rounded-lg shadow-md">
+                                <h2 class="dark:text-primary-500 text-xl font-bold">Extras</h2>
+                                <div class="flex flex-wrap items-center justify-center gap-4">
+                                    @foreach ($extraTeams1 as $extraTeam1)
+                                        <div class="w-32 flex flex-col items-center justify-start group">
+                                            <a href="{{ route('teams.show', $extraTeam1->id) }}">
+                                                <div class="w-full h-32 flex items-center justify-center">
+                                                    <img class="
+                                                    {{ $extraTeam1->name === 'Umbrella' ? 'w-24 h-24' : '' }}
+                                                    {{ $extraTeam1->name === 'Sallys' || $extraTeam1->name === 'Mar de Árboles' || $extraTeam1->name === 'Servicio Secreto' ? 'w-20 h-20' : '' }}
+                                                    transition-transform group-hover:scale-110 duration-200 ease-in-out"
+                                                        src="{{ asset('/storage/emblems/' . $extraTeam1->emblem->image) }}">
+                                                </div>
+                                            </a>
+                                            <div
+                                                class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
+                                                {{ $extraTeam1->name }}
+                                            </div>
+                                        </div>
+                                    @endforeach
+                                </div>
+                            </div>
+
                             <!-- Fase Clasificatoria Regional -->
                             <div class="bg-white dark:bg-gray-800 text-center p-4 rounded-lg shadow-md">
                                 <h2 class="dark:text-primary-500 text-xl font-bold">Fase Clasificatoria Regional</h2>
-                                <div class="flex items-center justify-center">
+                                <div class="flex flex-wrap items-center justify-center gap-4">
                                     @foreach ($regionalTeams as $regionalTeam)
                                         <div class="w-32 flex flex-col items-center justify-start group">
                                             <a href="{{ route('teams.show', $regionalTeam->id) }}">
@@ -86,7 +131,7 @@
                             <!-- Torneo Fútbol Frontier -->
                             <div class="bg-white dark:bg-gray-800 text-center p-4 rounded-lg shadow-md">
                                 <h2 class="dark:text-primary-500 text-xl font-bold">Torneo Fútbol Frontier</h2>
-                                <div class="flex items-center justify-center">
+                                <div class="flex flex-wrap items-center justify-center gap-4">
                                     @foreach ($futbolFrontierTeams as $futbolFrontierTeam)
                                         <div class="w-32 flex flex-col items-center justify-start group">
                                             <a href="{{ route('teams.show', $futbolFrontierTeam->id) }}">
@@ -104,45 +149,86 @@
                                 </div>
                             </div>
 
-                            <!-- Raimon -->
+                            <!-- Equipos Temporada 2 -->
                             <div class="bg-white dark:bg-gray-800 text-center p-4 rounded-lg shadow-md">
-                                <h2 class="dark:text-primary-500 text-xl font-bold">Raimon</h2>
-                                <div class="flex items-center justify-center group flex flex-col">
-                                    <div class="w-32 flex flex-col items-center justify-start group">
-                                        <a href="{{ route('teams.show', $raimonTeam->id) }}">
-                                            <div class="w-full h-32 flex items-center justify-center">
-                                                <img class="w-24 h-24 transition-transform group-hover:scale-110 duration-200 ease-in-out"
-                                                    src="{{ asset('/storage/emblems/' . $raimonTeam->emblem->image) }}">
-                                            </div>
-                                        </a>
-                                        <div
-                                            class="team-name pt-2 text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center">
-                                            {{ $raimonTeam->name }}
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Amistosos -->
-                            <div class="bg-white dark:bg-gray-800 text-center p-4 rounded-lg shadow-md">
-                                <h2 class="dark:text-primary-500 text-xl font-bold">Amistosos</h2>
-                                <div class="flex items-center justify-center">
-                                    @foreach ($extraTeams as $extraTeam)
+                                <h2 class="dark:text-primary-500 text-xl font-bold">Institutos Temporada 2</h2>
+                                <div
+                                    class="flex flex-wrap items-center justify-center gap-4 max-w-[calc(5*8rem)] mx-auto">
+                                    <!-- 5 * (w-32 = 8rem) Adjust Number of Wrap -->
+                                    @foreach ($institutosAnime2Teams as $institutosAnime2Team)
                                         <div class="w-32 flex flex-col items-center justify-start group">
-                                            <a href="{{ route('teams.show', $extraTeam->id) }}">
+                                            <a href="{{ route('teams.show', $institutosAnime2Team->id) }}">
                                                 <div class="w-full h-32 flex items-center justify-center">
-                                                    <img class="{{ $extraTeam->name === 'Umbrella' ? 'w-24 h-24' : 'w-32 h-32' }} transition-transform group-hover:scale-110 duration-200 ease-in-out"
-                                                        src="{{ asset('/storage/emblems/' . $extraTeam->emblem->image) }}">
+                                                    <img class="'w-32 h-32' transition-transform group-hover:scale-110 duration-200 ease-in-out"
+                                                        src="{{ asset('/storage/emblems/' . $institutosAnime2Team->emblem->image) }}">
                                                 </div>
                                             </a>
                                             <div
                                                 class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
-                                                {{ $extraTeam->name }}
+                                                @if ($institutosAnime2Team->name === 'Mary Times Memorial')
+                                                    Mary Times Mem.
+                                                @elseif ($institutosAnime2Team->name === 'Royal Academy Redux')
+                                                    Royal A. Redux
+                                                @else
+                                                    {{ $institutosAnime2Team->name }}
+                                                @endif
                                             </div>
                                         </div>
                                     @endforeach
                                 </div>
                             </div>
+
+                            <!-- Academia Alius -->
+                            <div class="bg-white dark:bg-gray-800 text-center p-4 rounded-lg shadow-md">
+                                <h2 class="dark:text-primary-500 text-xl font-bold">Academia Alius</h2>
+                                <div class="flex flex-wrap items-center justify-center gap-4">
+                                    @foreach ($aliusTeams as $aliusTeam)
+                                        <div class="w-32 flex flex-col items-center justify-start group">
+                                            <a href="{{ route('teams.show', $aliusTeam->id) }}">
+                                                <div class="w-full h-32 flex items-center justify-center">
+                                                    <img class="
+                                                    {{ $aliusTeam->name === 'Caos' ? 'w-24 h-24' : '' }} 
+                                                    {{ $aliusTeam->name === 'Génesis' ? 'w-28 h-28' : '' }} 
+                                                    transition-transform group-hover:scale-110 duration-200 ease-in-out"
+                                                        src="{{ asset('/storage/emblems/' . $aliusTeam->emblem->image) }}">
+                                                </div>
+                                            </a>
+                                            <div
+                                                class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
+                                                @if ($aliusTeam->name === 'Tormenta de Géminis')
+                                                    Torm. de Géminis
+                                                @elseif ($aliusTeam->name === 'Emperadores Oscuros')
+                                                    Emp. Oscuros
+                                                @else
+                                                    {{ $aliusTeam->name }}
+                                                @endif
+                                            </div>
+                                        </div>
+                                    @endforeach
+                                </div>
+                            </div>
+
+                            <!-- Extras 2 -->
+                            <div class="bg-white dark:bg-gray-800 text-center p-4 rounded-lg shadow-md">
+                                <h2 class="dark:text-primary-500 text-xl font-bold">Extras 2</h2>
+                                <div class="flex flex-wrap items-center justify-center gap-4">
+                                    @foreach ($extraTeams2 as $extraTeam2)
+                                        <div class="w-32 flex flex-col items-center justify-start group">
+                                            <a href="{{ route('teams.show', $extraTeam2->id) }}">
+                                                <div class="w-full h-32 flex items-center justify-center">
+                                                    <img class="w-24 h-24 transition-transform group-hover:scale-110 duration-200 ease-in-out"
+                                                        src="{{ asset('/storage/emblems/' . $extraTeam2->emblem->image) }}">
+                                                </div>
+                                            </a>
+                                            <div
+                                                class="team-name text-sm text-gray-700 dark:text-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center mt-2">
+                                                {{ $extraTeam2->name }}
+                                            </div>
+                                        </div>
+                                    @endforeach
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>

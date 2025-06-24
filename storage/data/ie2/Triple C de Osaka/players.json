@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Daisy",
+        "full_name": "Daisy Fields",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/be/%28CCC%29_Daisy.png/revision/latest?cb=20230823214244&path-prefix=es"
+    },
+    {
+        "name": "Sand",
+        "full_name": "Alexia Sand",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f8/%28CCC%29_Sand.png/revision/latest?cb=20230823214258&path-prefix=es"
+    },
+    {
+        "name": "Earth",
+        "full_name": "Hellen Hearth",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/17/%28CCC%29_Earth.png/revision/latest?cb=20230823214247&path-prefix=es"
+    },
+    {
+        "name": "Pinkpetal",
+        "full_name": "Rose Pinkpetal",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bc/%28CCC%29_Pinkpetal.png/revision/latest?cb=20230823214254&path-prefix=es"
+    },
+    {
+        "name": "Greenland",
+        "full_name": "Esther Greenland",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/77/%28CCC%29_Greenland.png/revision/latest?cb=20230823214249&path-prefix=es"
+    },
+    {
+        "name": "Bluebells",
+        "full_name": "Bela Bluebells",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/32/%28CCC%29_Bluebells.png/revision/latest?cb=20230823214232&path-prefix=es"
+    },
+    {
+        "name": "Sunrise",
+        "full_name": "Natalie Sunrise",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/08/%28CCC%29_Sunrise.png/revision/latest?cb=20230823214305&path-prefix=es"
+    },
+    {
+        "name": "Bush",
+        "full_name": "Hillary Bush",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/99/%28CCC%29_Bush.png/revision/latest?cb=20230823214237&path-prefix=es"
+    },
+    {
+        "name": "Moor",
+        "full_name": "Mary Moor",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f1/%28CCC%29_Moor.png/revision/latest?cb=20230823214252&path-prefix=es"
+    },
+    {
+        "name": "Sue",
+        "full_name": "Suzette Hartland",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/22/%28CCC%29_Sue.png/revision/latest?cb=20230823214303&path-prefix=es"
+    },
+    {
+        "name": "Willow",
+        "full_name": "Lily Willow",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/81/%28CCC%29_Willow.png/revision/latest?cb=20230823214308&path-prefix=es"
+    },
+    {
+        "name": "Closeout",
+        "full_name": "Dell Closeout",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/86/%28CCC%29_Closeout.png/revision/latest?cb=20230823214242&path-prefix=es"
+    },
+    {
+        "name": "Spires",
+        "full_name": "Amy Spires",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/06/%28CCC%29_Spires.png/revision/latest?cb=20230823214301&path-prefix=es"
+    },
+    {
+        "name": "Cash",
+        "full_name": "Peony Cash",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c8/%28CCC%29_Cash.png/revision/latest?cb=20230823214239&path-prefix=es"
+    },
+    {
+        "name": "Revel",
+        "full_name": "Gayle Revel",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f2/%28CCC%29_Revel.png/revision/latest?cb=20230823214256&path-prefix=es"
+    },
+    {
+        "name": "Brook",
+        "full_name": "Janine Brook",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Triple C de Osaka",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/04/%28CCC%29_Brook.png/revision/latest?cb=20230823214235&path-prefix=es"
+    }
+]

@@ -1,0 +1,363 @@
+[
+    {
+        "player": "Thomas Feldt",
+        "anime1": [
+            {
+                "name": "Despeje Cohete",
+                "with": []
+            },
+            {
+                "name": "Campo de Fuerza Defensivo",
+                "with": []
+            }
+        ],
+        "anime2": [
+            {
+                "name": "Puños Voladores",
+                "with": []
+            },
+            {
+                "name": "Bloqueo Doble",
+                "with": ["Jim"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [
+            "Campo de Fuerza Defensivo",
+            "Despeje Cohete",
+            "Despeje Explosivo",
+            "Escáner Defensa"
+        ],
+        "ie2": [
+            "Siempre a Muerte",
+            "Campo de Fuerza Defensivo",
+            "Despeje Cohete",
+            "Puños Voladores"
+        ],
+        "ie3": [
+            "Siempre a Muerte",
+            "Campo de Fuerza Defensivo",
+            "Puños Voladores",
+            "Destrozataladros"
+        ]
+    },
+    {
+        "player": "Harry Leading",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Defensa",
+            "Sorpresa",
+            "Escáner Ataque",
+            "Remate Misil"
+        ],
+        "ie2": [
+            "Escáner Defensa",
+            "Sorpresa",
+            "Escáner Ataque",
+            "Remate Misil"
+        ],
+        "ie3": [
+            "Escáner Defensa",
+            "Remate Misil",
+            "Escáner Ataque",
+            "Descodificación"
+        ]
+    },
+    {
+        "player": "Terry Stronger",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Psicorremate",
+            "Cabezazo Kung-Fu"
+        ],
+        "ie2": [
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Psicorremate",
+            "Cabezazo Kung-Fu"
+        ],
+        "ie3": [
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Psicorremate",
+            "Remate Asalto"
+        ]
+    },
+    {
+        "player": "Philip Marvel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Defensa",
+            "Tiro Dinamita",
+            "Escáner Ataque",
+            "Rueda Infernal"
+        ],
+        "ie2": [
+            "Escáner Defensa",
+            "Tiro Dinamita",
+            "Escáner Ataque",
+            "Rueda Infernal"
+        ],
+        "ie3": [
+            "Escáner Defensa",
+            "Tiro Dinamita",
+            "Escáner Ataque",
+            "Tren Loco"
+        ]
+    },
+    {
+        "player": "Noel Good",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Escáner Defensa", "Escáner Ataque", "Psicorremate", "Sismo"],
+        "ie2": ["Escáner Defensa", "Escáner Ataque", "Psicorremate", "Sismo"],
+        "ie3": [
+            "Escáner Defensa",
+            "Escáner Ataque",
+            "Zona de Seguridad",
+            "Sismo"
+        ]
+    },
+    {
+        "player": "Tyron Rock",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Coz", "Remate Misil", "Escáner Ataque", "Escáner Defensa"],
+        "ie2": ["Coz", "Remate Misil", "Escáner Ataque", "Disparo con Rebotes"],
+        "ie3": ["Coz 2", "Remate Misil", "Escáner Ataque", "Tirachinas"]
+    },
+    {
+        "player": "Francis Tell",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Ataque",
+            "Psicorremate",
+            "Escáner Defensa",
+            "Ataque Sombrío"
+        ],
+        "ie2": [
+            "Escáner Ataque",
+            "Psicorremate",
+            "Escáner Defensa",
+            "Ataque Sombrío"
+        ],
+        "ie3": ["Escáner Ataque", "Psicorremate", "Escáner Defensa", "Cañonazo"]
+    },
+    {
+        "player": "Samuel Buster",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Ataque",
+            "Tiro Dinamita",
+            "Escáner Defensa",
+            "Disparo con Rebotes"
+        ],
+        "ie2": [
+            "Recobro",
+            "Tiro Dinamita",
+            "Escáner Ataque",
+            "Disparo con Rebotes"
+        ],
+        "ie3": ["Recobro", "Coz 2", "Escáner Ataque", "Rayo de Ganímedes"]
+    },
+    {
+        "player": "Jonathan Seller",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Psicorremate",
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Tornado de Fuego"
+        ],
+        "ie2": [
+            "Psicorremate",
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Tornado de Fuego"
+        ],
+        "ie3": [
+            "Psicorremate",
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Mandíbulas Dobles"
+        ]
+    },
+    {
+        "player": "Victor Kind",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Defensa",
+            "Psicorremate",
+            "Escáner Ataque",
+            "Remate Combinado"
+        ],
+        "ie2": [
+            "Escáner Defensa",
+            "Psicorremate",
+            "Escáner Ataque",
+            "Remate Combinado"
+        ],
+        "ie3": [
+            "Escáner Defensa",
+            "Psicorremate",
+            "Escáner Ataque",
+            "Empuje Gemelo F"
+        ]
+    },
+    {
+        "player": "Neil Turner",
+        "anime1": [
+            {
+                "name": "Tornado de Fuego",
+                "with": []
+            },
+            {
+                "name": "Remate Misil",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Lanza de Odín",
+                "with": []
+            }
+        ],
+        "ie1": [
+            "Remate Misil",
+            "Escáner Ataque",
+            "Tornado de Fuego",
+            "Escáner Defensa"
+        ],
+        "ie2": [
+            "Casanova",
+            "Remate Misil",
+            "Tornado de Fuego",
+            "Remate Asalto"
+        ],
+        "ie3": [
+            "Casanova",
+            "Lanza de Odín",
+            "Tornado de Fuego",
+            "Tormenta de Fuego"
+        ]
+    },
+    {
+        "player": "Reg Underwood",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Ataque",
+            "Psicorremate",
+            "Escáner Defensa",
+            "Tornado Inverso"
+        ],
+        "ie2": [
+            "Campo de Fuerza Defensivo",
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Remate Misil"
+        ],
+        "ie3": [
+            "Campo de Fuerza Defensivo",
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Defensa Triple"
+        ]
+    },
+    {
+        "player": "Patrick Stiller",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Ataque",
+            "Ataque Meteorito",
+            "Robo Rápido",
+            "Chut Congelante"
+        ],
+        "ie2": [
+            "Escáner Ataque",
+            "Ataque Meteorito",
+            "Robo Rápido",
+            "Chut Congelante"
+        ],
+        "ie3": ["Escáner Ataque", "Ataque Meteorito", "Mandril", "Remate Gafas"]
+    },
+    {
+        "player": "Charles Oughtry",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Psicorremate",
+            "Entrada Huracán",
+            "Escáner Defensa",
+            "Remate Misil"
+        ],
+        "ie2": [
+            "Psicorremate",
+            "Entrada Huracán",
+            "Escáner Defensa",
+            "Remate Misil"
+        ],
+        "ie3": [
+            "Psicorremate",
+            "Lluvia de Meteoros",
+            "Escáner Defensa",
+            "Remate Misil"
+        ]
+    },
+    {
+        "player": "Clive Mooney",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Remate Misil", "Barrido Defensivo", "Coz", "Bateo Total"],
+        "ie2": ["Remate Misil", "Barrido Defensivo", "Coz", "Bateo Total"],
+        "ie3": ["Remate Misil", "Barrido Defensivo", "Coz", "Golf Total"]
+    },
+    {
+        "player": "Neil Waters",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Pisotón de Sumo",
+            "Escáner Defensa",
+            "Remate Misil",
+            "El Muro"
+        ],
+        "ie2": [
+            "Pisotón de Sumo",
+            "Escáner Defensa",
+            "Remate Misil",
+            "El Muro"
+        ],
+        "ie3": [
+            "Pisotón de Sumo",
+            "Escáner Defensa",
+            "Remate Misil",
+            "Muro de Hierro"
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Darren",
+        "full_name": "Darren LaChance",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0b/%28F%29_Darren.png/revision/latest?cb=20230823221541&path-prefix=es"
+    },
+    {
+        "name": "Fake",
+        "full_name": "Drancis Fake",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c1/%28F%29_Fake.png/revision/latest?cb=20230823221549&path-prefix=es"
+    },
+    {
+        "name": "Mishap",
+        "full_name": "Mick Mishap",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/27/%28F%29_Mishap.png/revision/latest?cb=20230823221600&path-prefix=es"
+    },
+    {
+        "name": "Leave",
+        "full_name": "Louis Leave",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c8/%28F%29_Leave.png/revision/latest?cb=20230823221555&path-prefix=es"
+    },
+    {
+        "name": "Badgame",
+        "full_name": "Maurice Badgame",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0b/%28F%29_Badgame.png/revision/latest?cb=20230823221529&path-prefix=es"
+    },
+    {
+        "name": "Random",
+        "full_name": "Cannon Random",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0e/%28F%29_Random.png/revision/latest?cb=20230823221607&path-prefix=es"
+    },
+    {
+        "name": "Richmen",
+        "full_name": "Ulric Richmen",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/25/%28F%29_Richmen.png/revision/latest?cb=20230823221610&path-prefix=es"
+    },
+    {
+        "name": "Fate",
+        "full_name": "Dave Fate",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/15/%28F%29_Fate.png/revision/latest?cb=20230823221553&path-prefix=es"
+    },
+    {
+        "name": "Destiny",
+        "full_name": "Dany Destiny",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d5/%28F%29_Destiny.png/revision/latest?cb=20230823221544&path-prefix=es"
+    },
+    {
+        "name": "Duskplay",
+        "full_name": "Spencer Duskplay",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/02/%28F%29_Duskplay.png/revision/latest?cb=20230823221547&path-prefix=es"
+    },
+    {
+        "name": "Luckyman",
+        "full_name": "Jonathan Luckyman",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/75/%28F%29_Luckyman.png/revision/latest?cb=20230823221558&path-prefix=es"
+    },
+    {
+        "name": "Poker",
+        "full_name": "Joe Poker",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d8/%28F%29_Poker.png/revision/latest?cb=20230823221605&path-prefix=es"
+    },
+    {
+        "name": "Cracker",
+        "full_name": "Wiley Cracker",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d9/%28F%29_Cracker.png/revision/latest?cb=20230823221539&path-prefix=es"
+    },
+    {
+        "name": "Failing",
+        "full_name": "Mark Failing",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4f/%28F%29_Failing.png/revision/latest?cb=20231213154655&path-prefix=es"
+    },
+    {
+        "name": "Cotts",
+        "full_name": "Alton Cotts",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e8/%28F%29_Cotts.png/revision/latest?cb=20230823221536&path-prefix=es"
+    },
+    {
+        "name": "Passing",
+        "full_name": "Mike Passing",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d7/%28F%29_Passing.png/revision/latest?cb=20230823221602&path-prefix=es"
+    },
+    {
+        "name": "Bathers",
+        "full_name": "Knowle Bathers",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Fauxshore",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/53/%28F%29_Bathers.png/revision/latest?cb=20230823221532&path-prefix=es"
+    }
+]

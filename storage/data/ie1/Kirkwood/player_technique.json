@@ -1,0 +1,371 @@
+[
+    {
+        "player": "John Neville",
+        "anime1": [
+            {
+                "name": "Bloqueo Dureza",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Bloqueo Dureza",
+            "Puño Vengativo",
+            "El Muro",
+            "Muralla Gigante"
+        ],
+        "ie2": [
+            "Bloqueo Dureza",
+            "Puño Vengativo",
+            "El Muro",
+            "Muralla Gigante"
+        ],
+        "ie3": [
+            "Bloqueo Dureza",
+            "Puño Vengativo",
+            "Gran Sabio",
+            "Muralla Gigante"
+        ]
+    },
+    {
+        "player": "Malcolm Night",
+        "anime1": [
+            {
+                "name": "Tri-Pegaso",
+                "with": ["Bobby", "Erik"]
+            },
+            {
+                "name": "Corte Giratorio",
+                "with": []
+            },
+            {
+                "name": "Flecha Huracán",
+                "with": ["Meenan", "Mirthful"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Acelerón",
+            "Corte Giratorio",
+            "Chut de los 100 toques",
+            "Ciclón"
+        ],
+        "ie2": ["Acelerón", "Corte Giratorio", "Granada Doble", "Tri-Pegaso"],
+        "ie3": ["Acelerón", "Corte Giratorio", "Defensa +", "Tri-Pegaso"]
+    },
+    {
+        "player": "Alfred Meenan",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Robo Rápido",
+            "Flecha Huracán",
+            "Luna Creciente",
+            "Espejismo de Balón"
+        ],
+        "ie2": [
+            "Robo Rápido",
+            "Flecha Huracán",
+            "Luna Creciente",
+            "Espejismo de Balón"
+        ],
+        "ie3": [
+            "Robo Rápido",
+            "Flecha Huracán",
+            "Luna Creciente",
+            "Ataque de Paladín"
+        ]
+    },
+    {
+        "player": "Dan Mirthful",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Corte Giratorio", "Sismo", "Cabezazo Kung-fu", "Tiro Cegador"],
+        "ie2": ["Corte Giratorio", "Sismo", "Cabezazo Kung-fu", "Tiro Cegador"],
+        "ie3": [
+            "Corte Giratorio",
+            "Sismo",
+            "Chut de los 200 Toques",
+            "Tiro Cegador"
+        ]
+    },
+    {
+        "player": "Ricky Clover",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Giro Bobina",
+            "Flecha Huracán",
+            "Ataque Meteorito",
+            "Tornado Inverso"
+        ],
+        "ie2": [
+            "Giro Bobina",
+            "Flecha Huracán",
+            "Ataque Meteorito",
+            "Tornado Inverso"
+        ],
+        "ie3": [
+            "Giro Bobina",
+            "Flecha Huracán",
+            "Ataque Meteorito",
+            "Muro de Hierro"
+        ]
+    },
+    {
+        "player": "Toby Damian",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Luna Creciente",
+            "Tornado Inverso",
+            "Robo Rápido",
+            "Tiro Giratorio"
+        ],
+        "ie2": [
+            "Luna Creciente",
+            "Tornado Inverso",
+            "Robo Rápido",
+            "Tiro Giratorio"
+        ],
+        "ie3": ["Luna Creciente", "Tornado Inverso", "Cometa", "Tiro Giratorio"]
+    },
+    {
+        "player": "York Nashmith",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Potenciación",
+            "Remate Halcón",
+            "Giro de Mono",
+            "Tornado Inverso"
+        ],
+        "ie2": [
+            "Giro de Mono",
+            "Remate Halcón",
+            "Potenciación",
+            "Tornado Inverso"
+        ],
+        "ie3": [
+            "Giro de Mono",
+            "Remate en V",
+            "Tornado Inverso",
+            "Potenciación"
+        ]
+    },
+    {
+        "player": "Zachary Moore",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate Halcón",
+            "Espejismo de Balón",
+            "Remate Combinado",
+            "Potenciación"
+        ],
+        "ie2": [
+            "Remate Halcón",
+            "Espejismo de Balón",
+            "Remate Combinado",
+            "Potenciación"
+        ],
+        "ie3": [
+            "¡Vamos Todos!",
+            "Espejismo de Balón",
+            "Remate Combinado",
+            "Potenciación"
+        ]
+    },
+    {
+        "player": "Marvin Murdock",
+        "anime1": [
+            {
+                "name": "Tornado Inverso",
+                "with": []
+            },
+            {
+                "name": "Triángulo Z",
+                "with": ["Thomas", "Tyler"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Triángulo Z",
+            "Espejismo de Balón",
+            "Chut Granada",
+            "Potenciación"
+        ],
+        "ie2": ["¡Vamos!", "Triángulo Z", "Chut Granada", "Espejismo de Balón"],
+        "ie3": ["¡Vamos!", "Triángulo Z", "Chut Granada", "Espejismo de Balón"]
+    },
+    {
+        "player": "Thomas Murdock",
+        "anime1": [
+            {
+                "name": "Tornado Inverso",
+                "with": []
+            },
+            {
+                "name": "Triángulo Z",
+                "with": ["Marvin", "Tyler"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Luna Creciente",
+            "Tornado Inverso",
+            "Barrido Defensivo",
+            "Triángulo Z"
+        ],
+        "ie2": [
+            "¡Vamos!",
+            "Tornado Inverso",
+            "Barrido Defensivo",
+            "Triángulo Z"
+        ],
+        "ie3": ["¡Vamos!", "Tornado Inverso", "Triángulo Z", "Rueda Infernal"]
+    },
+    {
+        "player": "Tyler Murdock",
+        "anime1": [
+            {
+                "name": "Tornado Inverso",
+                "with": []
+            },
+            {
+                "name": "Triángulo Z",
+                "with": ["Marvin", "Thomas"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Corte Giratorio", "Tornado Inverso", "Coz", "Triángulo Z"],
+        "ie2": ["¡Vamos!", "Tornado Inverso", "Corte Giratorio", "Triángulo Z"],
+        "ie3": [
+            "Triángulo Z",
+            "Tornado Inverso",
+            "Corte Giratorio",
+            "Empuje Trillizo"
+        ]
+    },
+    {
+        "player": "Simon Calier",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Acelerón",
+            "Ataque Afilado",
+            "Luna Creciente",
+            "Balón Rodante"
+        ],
+        "ie2": [
+            "Casanova",
+            "Escudo de Fuerza Total",
+            "Ataque Afilado",
+            "Avance Flamígero"
+        ],
+        "ie3": [
+            "Casanova",
+            "Escudo de Fuerza Total",
+            "Ataque Afilado",
+            "Parada de Capoeira"
+        ]
+    },
+    {
+        "player": "Brody Gloom",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Acelerón", "Coz", "Gravedad", "Espiral de Distorsión"],
+        "ie2": ["Acelerón", "Coz", "Gravedad", "Espiral de Distorsión"],
+        "ie3": [
+            "Acelerón",
+            "Tiro Cegador",
+            "Potenciación",
+            "Espiral de Distorsión"
+        ]
+    },
+    {
+        "player": "Victor Talis",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Torbellino Dragón",
+            "Corte Giratorio",
+            "Tiro Dinamita",
+            "Flecha Huracán"
+        ],
+        "ie2": [
+            "Torbellino Dragón",
+            "Corte Giratorio",
+            "Tiro Dinamita",
+            "Flecha Huracán"
+        ],
+        "ie3": [
+            "Torbellino Dragón",
+            "Corte Giratorio",
+            "Tornado de Fuego",
+            "Flecha Huracán"
+        ]
+    },
+    {
+        "player": "Eren Middleton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Gravedad",
+            "Ataque Afilado",
+            "Espejismo de Balón",
+            "Bateo Total"
+        ],
+        "ie2": [
+            "Gravedad",
+            "Ataque Afilado",
+            "Espejismo de Balón",
+            "Bateo Total"
+        ],
+        "ie3": [
+            "Luna Creciente",
+            "Ataque Afilado",
+            "Espejismo de Balón",
+            "Bateo Total"
+        ]
+    },
+    {
+        "player": "Peter Wells",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Barrido Defensivo",
+            "Corte Giratorio",
+            "Ciclón",
+            "Tornado Inverso"
+        ],
+        "ie2": [
+            "Barrido Defensivo",
+            "Corte Giratorio",
+            "Ciclón",
+            "Tornado Inverso"
+        ],
+        "ie3": [
+            "Tornado Inverso",
+            "Corte Giratorio",
+            "Ciclón",
+            "Súper Relámpago"
+        ]
+    }
+]

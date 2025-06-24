@@ -1,0 +1,774 @@
+[
+    {
+        "player": "Mark Evans",
+        "anime1": [
+            {
+                "name": "Mano Celestial",
+                "with": []
+            },
+            {
+                "name": "Despeje de Fuego",
+                "with": []
+            },
+            {
+                "name": "Súper Relámpago",
+                "with": ["Axel"]
+            },
+            {
+                "name": "Despeje Explosivo",
+                "with": []
+            },
+            {
+                "name": "Mano Celestial Doble",
+                "with": []
+            },
+            {
+                "name": "Supertrampolín Relámpago",
+                "with": ["Axel", "Jack"]
+            },
+            {
+                "name": "Ruptura Relámpago",
+                "with": ["Jude", "Axel"]
+            },
+            {
+                "name": "Tri-Pegaso",
+                "with": ["Erik", "Bobby"]
+            },
+            {
+                "name": "Defensa Triple",
+                "with": ["Jack", "Tod"]
+            },
+            {
+                "name": "Fénix",
+                "with": ["Erik", "Bobby"]
+            },
+            {
+                "name": "Tornado Fénix",
+                "with": ["Erik", "Bobby", "Axel"]
+            },
+            {
+                "name": "Mano Mágica",
+                "with": []
+            }
+        ],
+        "anime2": [
+            {
+                "name": "Super Puño Invencible",
+                "with": []
+            },
+            {
+                "name": "Cabezazo Megatón",
+                "with": []
+            },
+            {
+                "name": "Triángulo Letal",
+                "with": ["Jude", "Bobby"]
+            },
+            {
+                "name": "Triángulo Letal 2",
+                "with": ["Jude", "Bobby"]
+            },
+            {
+                "name": "La Tierra",
+                "with": []
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Puño de Furia",
+                "with": []
+            },
+            {
+                "name": "Mano Ultradimensional",
+                "with": []
+            },
+            {
+                "name": "Parada Celestial",
+                "with": []
+            },
+            {
+                "name": "Tiro a Reacción",
+                "with": ["Axel", "Austin"]
+            }
+        ],
+        "ie1": [
+            "Mano Celestial",
+            "Chut Granada",
+            "Mano Mágica",
+            "Defensa Triple"
+        ],
+        "ie2": [
+            "Mano Celestial",
+            "Mano Mágica",
+            "Super Puño Invencible",
+            "La Tierra"
+        ],
+        "ie3": [
+            "Super Puño Invencible",
+            "Puño de Furia",
+            "Mano Ultradimensional",
+            "Parada Celestial"
+        ]
+    },
+    {
+        "player": "Nathan Swift",
+        "anime1": [
+            {
+                "name": "Entrada Huracán",
+                "with": []
+            },
+            {
+                "name": "Pájaro de Fuego",
+                "with": ["Axel"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Danza del Viento",
+                "with": []
+            },
+            {
+                "name": "Torbellino Trampolín",
+                "with": ["Jack"]
+            },
+            {
+                "name": "El Huracán",
+                "with": ["Shawn"]
+            }
+        ],
+        "ie1": [
+            "Entrada Huracán",
+            "Robo Rápido",
+            "Regate Múltiple",
+            "Pájaro de Fuego"
+        ],
+        "ie2": [
+            "Entrada Huracán",
+            "Regate Múltiple",
+            "Defensa Múltiple",
+            "Pájaro de Fuego"
+        ],
+        "ie3": [
+            "Entrada Huracán",
+            "Danza del Viento",
+            "Huracán",
+            "Torbellino Trampolín"
+        ]
+    },
+    {
+        "player": "Jack Wallside",
+        "anime1": [
+            {
+                "name": "Trampolín Relámpago",
+                "with": ["Axel"]
+            },
+            {
+                "name": "Supertrampolín Relámpago",
+                "with": ["Axel", "Mark"]
+            },
+            {
+                "name": "El Muro",
+                "with": []
+            },
+            {
+                "name": "Defensa Triple",
+                "with": ["Tod", "Mark"]
+            }
+        ],
+        "anime2": [
+            {
+                "name": "La Tierra",
+                "with": []
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Torbellino Trampolín",
+                "with": ["Nathan"]
+            },
+            {
+                "name": "La Montaña",
+                "with": []
+            }
+        ],
+        "ie1": ["El Muro", "Superarmadillo", "Regate Topo", "Mega Terremoto"],
+        "ie2": ["El Muro", "Superarmadillo", "Presa", "Regate Topo"],
+        "ie3": ["El Muro", "Regate Topo", "Presa", "La Montaña"]
+    },
+    {
+        "player": "Jim Wraith",
+        "anime1": [
+            {
+                "name": "Giro Bobina",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Giro Bobina", "Sorpresa", "Espejismo", "Ataque Sombrío"],
+        "ie2": ["Giro Bobina", "Sorpresa", "Ataque Sombrío", "Trama"],
+        "ie3": ["Teleportación", "Sorpresa", "Ataque Sombrío", "Inmersión"]
+    },
+    {
+        "player": "Tod Ironside",
+        "anime1": [
+            {
+                "name": "Defensa Triple",
+                "with": ["Jack", "Mark"]
+            }
+        ],
+        "anime2": [
+            {
+                "name": "Superaceleración",
+                "with": []
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Regate Espejismo",
+                "with": []
+            },
+            {
+                "name": "Corte Giratorio",
+                "with": []
+            }
+        ],
+        "ie1": [
+            "Equilibrismo",
+            "Tiro del Cometa",
+            "Giro de Mono",
+            "Balón Rodante"
+        ],
+        "ie2": [
+            "Giro de Mono",
+            "Tiro del Cometa",
+            "Bateo Total",
+            "Armadillo Circense"
+        ],
+        "ie3": [
+            "Regate Espejismo",
+            "Tiro del Cometa",
+            "Defensa +",
+            "Voltereta Circense"
+        ]
+    },
+    {
+        "player": "Steve Grim",
+        "anime1": [
+            {
+                "name": "Disparo Rodante",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Disparo Rodante",
+            "Zigzag Chispeante",
+            "Ciclón",
+            "Chut Congelante"
+        ],
+        "ie2": [
+            "Zigzag Chispeante",
+            "Disparo Rodante",
+            "Cometa",
+            "Fuerza de Tiro"
+        ],
+        "ie3": [
+            "Disparo Rodante",
+            "Zigzag Chispeante",
+            "Cometa",
+            "Espada de Odín"
+        ]
+    },
+    {
+        "player": "Tim Saunders",
+        "anime1": [
+            {
+                "name": "Cabezazo Kung-fu",
+                "with": []
+            },
+            {
+                "name": "Torbellino Dragón",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Torbellino Dragón",
+            "Cabezazo Kung-fu",
+            "Regate Múltiple",
+            "Remate Múltiple"
+        ],
+        "ie2": [
+            "Torbellino Dragón",
+            "Cabezazo Yoyó",
+            "Técnica Kung-fu",
+            "Defensa Múltiple"
+        ],
+        "ie3": [
+            "Avance Flamígero",
+            "Cabezazo Yoyó",
+            "Técnica Kung-fu",
+            "Dragón Terrestre"
+        ]
+    },
+    {
+        "player": "Sam Kincaid",
+        "anime1": [
+            {
+                "name": "Chut Granada",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Chut Granada", "Confusión", "Bola Falsa", "Remate Combinado"],
+        "ie2": [
+            "Chut Granada",
+            "Confusión",
+            "Bola Falsa",
+            "Trampolín Relámpago"
+        ],
+        "ie3": ["Chut Granada", "Confusión", "Bombazo", "Tornado Dragón"]
+    },
+    {
+        "player": "Paul Peabody",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Equilibrismo", "Sorpresa", "Mano Celestial", "Mano Mágica"],
+        "ie2": [
+            "Equilibrismo",
+            "Mano Celestial",
+            "Mano Mágica",
+            "Armadillo Circense"
+        ],
+        "ie3": ["Confusión", "Mano Celestial", "Mano Mágica", "Mano Espiritual"]
+    },
+    {
+        "player": "Maxwell Carson",
+        "anime1": [
+            {
+                "name": "Pase Cruzado",
+                "with": []
+            },
+            {
+                "name": "Robo Veloz",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Robo Rápido",
+            "Remate Espiral",
+            "Espejismo de Balón",
+            "Tornado Inverso"
+        ],
+        "ie2": [
+            "Robo Rápido",
+            "Espejismo de Balón",
+            "Entrada Tormenta",
+            "Fuerza Veloz"
+        ],
+        "ie3": [
+            "Robo Rápido",
+            "Espejismo de Balón",
+            "Entrada Tormenta",
+            "Fuerza Veloz"
+        ]
+    },
+    {
+        "player": "Axel Blaze",
+        "anime1": [
+            {
+                "name": "Tornado de Fuego",
+                "with": []
+            },
+            {
+                "name": "Tornado Dragón",
+                "with": ["Kevin"]
+            },
+            {
+                "name": "Trampolín Relámpago",
+                "with": ["Jack"]
+            },
+            {
+                "name": "Súper Relámpago",
+                "with": ["Mark"]
+            },
+            {
+                "name": "Pájaro de Fuego",
+                "with": ["Nathan"]
+            },
+            {
+                "name": "Supertrampolín Relámpago",
+                "with": ["Mark", "Jack"]
+            },
+            {
+                "name": "Ruptura Relámpago",
+                "with": ["Mark", "Jude"]
+            },
+            {
+                "name": "Pingüino Emperador Nº 2",
+                "with": ["Jude", "Erik"]
+            },
+            {
+                "name": "Empuje Gemelo F",
+                "with": ["Jude"]
+            },
+            {
+                "name": "Tornado Fénix",
+                "with": ["Erik", "Bobby", "Mark"]
+            }
+        ],
+        "anime2": [
+            {
+                "name": "Tormenta de Fuego",
+                "with": []
+            },
+            {
+                "name": "Fuego Helado",
+                "with": ["Shawn"]
+            },
+            {
+                "name": "La Tierra",
+                "with": []
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Torbellino de Fuego",
+                "with": []
+            },
+            {
+                "name": "Tormenta del Tigre",
+                "with": ["Austin"]
+            },
+            {
+                "name": "Fuego Total",
+                "with": ["Xavier", "Austin"]
+            },
+            {
+                "name": "Tiro a Reacción",
+                "with": ["Mark", "Austin"]
+            }
+        ],
+        "ie1": [
+            "Tornado de Fuego",
+            "Trampolín Relámpago",
+            "Corte Flamígero",
+            "Robo Rápido"
+        ],
+        "ie2": [
+            "Tornado de Fuego",
+            "Trampolín Relámpago",
+            "Corte Flamígero",
+            "Tormenta de Fuego"
+        ],
+        "ie3": [
+            "Tornado de Fuego",
+            "Tormenta de Fuego",
+            "Torbellino de Fuego",
+            "Fuego Total"
+        ]
+    },
+    {
+        "player": "Kevin Dragonfly",
+        "anime1": [
+            {
+                "name": "Remate Dragón",
+                "with": []
+            },
+            {
+                "name": "Tornado Dragón",
+                "with": ["Axel"]
+            },
+            {
+                "name": "Remate Gafas",
+                "with": ["Willy"]
+            }
+        ],
+        "anime2": [
+            {
+                "name": "Remate Guiverno",
+                "with": []
+            },
+            {
+                "name": "Ventisca Guiverno",
+                "with": ["Shawn"]
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Megadragón",
+                "with": []
+            }
+        ],
+        "ie1": [
+            "Remate Dragón",
+            "Tornado Dragón",
+            "Zigzag Chispeante",
+            "Rueda Infernal"
+        ],
+        "ie2": [
+            "Remate Dragón",
+            "Tornado Dragón",
+            "Remate Guiverno",
+            "Ventisca Guiverno"
+        ],
+        "ie3": [
+            "Remate Dragón",
+            "Remate Guiverno",
+            "Megadragón",
+            "Ventisca Guiverno"
+        ]
+    },
+    {
+        "player": "William Glass",
+        "anime1": [
+            {
+                "name": "Remate Gafas",
+                "with": ["Kevin"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Escáner Defensa",
+            "Escáner Ataque",
+            "Equilibrismo",
+            "Flecha Divina"
+        ],
+        "ie2": ["Gafe", "Maldición", "Escáner Ataque", "Disparo Sagrado"],
+        "ie3": ["Gafe", "Remate Gafas", "Piscinazo", "Remate Caótico"]
+    },
+    {
+        "player": "Bobby Shearer",
+        "anime1": [
+            {
+                "name": "Barrido Defensivo",
+                "with": []
+            },
+            {
+                "name": "Tri-Pegaso",
+                "with": ["Erik", "Malcolm", "Mark"]
+            },
+            {
+                "name": "Tornado Fénix",
+                "with": ["Erik", "Mark", "Axel"]
+            }
+        ],
+        "anime2": [
+            {
+                "name": "Corte Volcánico",
+                "with": []
+            },
+            {
+                "name": "Triángulo Letal",
+                "with": ["Jude", "Mark"]
+            },
+            {
+                "name": "Triángulo Letal 2",
+                "with": ["Jude", "Mark"]
+            },
+            {
+                "name": "La Tierra",
+                "with": []
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Ícaro",
+                "with": ["Krueger"]
+            }
+        ],
+        "ie1": [
+            "Barrido Defensivo",
+            "Ataque Afilado",
+            "Tornado Inverso",
+            "Flecha Huracán"
+        ],
+        "ie2": [
+            "Barrido Defensivo",
+            "Corte Volcánico",
+            "Tornado Inverso",
+            "Empuje Trillizo"
+        ],
+        "ie3": [
+            "Vuelo de Ícaro",
+            "Corte Volcánico",
+            "Tornado Inverso",
+            "Fuerza Defensiva"
+        ]
+    },
+    {
+        "player": "Jude Sharp",
+        "anime1": [
+            {
+                "name": "Remate Combinado",
+                "with": ["Samford", "Erik"]
+            },
+            {
+                "name": "Pingüino Emperador Nº 2",
+                "with": ["Samford", "Hatch", "Axel", "Kevin", "Shawn", "Nathan"]
+            },
+            {
+                "name": "Ruptura Relámpago",
+                "with": ["Axel", "Mark"]
+            },
+            {
+                "name": "Empuje Gemelo F",
+                "with": ["Axel"]
+            }
+        ],
+        "anime2": [
+            {
+                "name": "Espejismo de Balón",
+                "with": []
+            },
+            {
+                "name": "Triángulo Letal",
+                "with": ["Mark", "Bobby"]
+            },
+            {
+                "name": "Triángulo Letal 2",
+                "with": ["Mark", "Bobby"]
+            },
+            {
+                "name": "La Tierra",
+                "with": []
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Campo de Fuerza",
+                "with": ["Caleb"]
+            },
+            {
+                "name": "Pingüino Emperador Nº 3",
+                "with": ["Samford", "Caleb"]
+            },
+            {
+                "name": "Big Bang",
+                "with": ["Shawn", "Xavier"]
+            }
+        ],
+        "ie1": [
+            "Espejismo de Balón",
+            "Remate Combinado",
+            "Ruptura Relámpago",
+            "Corte Giratorio"
+        ],
+        "ie2": [
+            "Espejismo de Balón",
+            "remate Combinado",
+            "Ruptura Relámpago",
+            "Triángulo Letal 2"
+        ],
+        "ie3": [
+            "Remate Combinado",
+            "Espejismo de Balón",
+            "Pingüino Emperador Nº 3",
+            "Campo de Fuerza"
+        ]
+    },
+    {
+        "player": "Erik Eagle",
+        "anime1": [
+            {
+                "name": "Tiro Giratorio",
+                "with": []
+            },
+            {
+                "name": "Tri-Pegaso",
+                "with": ["Bobby", "Malcolm", "Mark"]
+            },
+            {
+                "name": "Fénix",
+                "with": ["Bobby", "Mark"]
+            },
+            {
+                "name": "Tornado Fénix",
+                "with": ["Bobby", "Mark", "Axel"]
+            }
+        ],
+        "anime2": [
+            {
+                "name": "Pingüino Emperador Nº 2",
+                "with": ["Jude", "Axel", "Kevin", "Shawn"]
+            },
+            {
+                "name": "Remate Combinado",
+                "with": ["Jude"]
+            },
+            {
+                "name": "Baile de Llamas",
+                "with": []
+            },
+            {
+                "name": "Remate en Espiral",
+                "with": []
+            },
+            {
+                "name": "La Tierra",
+                "with": []
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Remate Pegaso",
+                "with": []
+            },
+            {
+                "name": "Gran Lobo",
+                "with": ["Krueger", "Dylan"]
+            }
+        ],
+        "ie1": [
+            "Tiro Giratorio",
+            "Corte Giratorio",
+            "Espejismo de Balón",
+            "Fénix"
+        ],
+        "ie2": [
+            "Tiro Giratorio",
+            "Espejismo de Balón",
+            "Baile de Llamas",
+            "Fénix"
+        ],
+        "ie3": [
+            "Espejismo de Balón",
+            "Baile de Llamas",
+            "Remate Pegaso",
+            "¡Que no Decaiga!"
+        ]
+    },
+    {
+        "player": "Shadow Cimmerian",
+        "anime1": [
+            {
+                "name": "Tornado Oscuro",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Ataque Sombrío",
+            "Tornado Oscuro",
+            "Doppelgänger",
+            "Triángulo Letal"
+        ],
+        "ie2": ["Tornado Oscuro", "Ataque Sombrío", "Coz 2", "Aullido de Lobo"],
+        "ie3": [
+            "Tornado Oscuro",
+            "Full Goleador",
+            "Corte Diabólico",
+            "Fénix Oscuro"
+        ]
+    }
+]

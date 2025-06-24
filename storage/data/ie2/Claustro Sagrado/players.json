@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Kik",
+        "full_name": "Crane Kik",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6f/%28CS%29_Kik.png/revision/latest?cb=20230823220721&path-prefix=es"
+    },
+    {
+        "name": "Waxon",
+        "full_name": "Parry Waxon",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/30/%28CS%29_Waxon.png/revision/latest?cb=20230823220742&path-prefix=es"
+    },
+    {
+        "name": "Sparky",
+        "full_name": "Bri Spark",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/69/%28CS%29_Sparky.png/revision/latest?cb=20230823220733&path-prefix=es"
+    },
+    {
+        "name": "Maxi",
+        "full_name": "Max Fortune",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/90/%28CS%29_Maxi.png/revision/latest?cb=20230823220725&path-prefix=es"
+    },
+    {
+        "name": "Water",
+        "full_name": "Brendan Water",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d1/%28CS%29_Water.png/revision/latest?cb=20230823220740&path-prefix=es"
+    },
+    {
+        "name": "Fardream",
+        "full_name": "Junior Fardream",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8c/%28CS%29_Fardream.png/revision/latest?cb=20230823220716&path-prefix=es"
+    },
+    {
+        "name": "Telektual",
+        "full_name": "Ian Telektual",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/70/%28CS%29_Telektual.png/revision/latest?cb=20230823220736&path-prefix=es"
+    },
+    {
+        "name": "Dinglite",
+        "full_name": "Lee Dinglite",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4e/%28CS%29_Dinglite.png/revision/latest?cb=20230823220710&path-prefix=es"
+    },
+    {
+        "name": "Marshall",
+        "full_name": "Marshall Artz",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f0/%28CS%29_Marshall.png/revision/latest?cb=20230823220723&path-prefix=es"
+    },
+    {
+        "name": "Wando",
+        "full_name": "Tyke Wando",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/77/%28CS%29_Wando.png/revision/latest?cb=20230823220738&path-prefix=es"
+    },
+    {
+        "name": "Dirk",
+        "full_name": "Dirk Artz",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c9/%28CS%29_Dirk.png/revision/latest?cb=20230823220713&path-prefix=es"
+    },
+    {
+        "name": "Scotty",
+        "full_name": "Scott Banyan",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/9b/%28CS%29_Scotty.png/revision/latest?cb=20230823220730&path-prefix=es"
+    },
+    {
+        "name": "Scotty R",
+        "full_name": "Scott Banyan",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/07/%28CS%29_Scotty_%28Rebelde%29.png/revision/latest?cb=20230823220727&path-prefix=es"
+    },
+    {
+        "name": "Bookworm",
+        "full_name": "Earnest Bookworm",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d5/%28CS%29_Bookworm.png/revision/latest?cb=20230823220706&path-prefix=es"
+    },
+    {
+        "name": "Gami",
+        "full_name": "Ollie Gami",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/10/%28CS%29_Gami.png/revision/latest?cb=20230823220718&path-prefix=es"
+    },
+    {
+        "name": "Kandel",
+        "full_name": "Roman Kandel",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/aa/%28CS%29_Kandel.png/revision/latest?cb=20230823220708&path-prefix=es"
+    },
+    {
+        "name": "Ation",
+        "full_name": "Don Ation",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Claustro Sagrado",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/87/%28CS%29_Ation.png/revision/latest?cb=20230823220704&path-prefix=es"
+    }
+]

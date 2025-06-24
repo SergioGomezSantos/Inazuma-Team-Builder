@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Muller",
+        "full_name": "Herman Muller",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c3/%28IKFC%29_Muller.png/revision/latest?cb=20230914213540&path-prefix=es"
+    },
+    {
+        "name": "Claus",
+        "full_name": "Keth Claus",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/eb/%28IKFC%29_Claus.png/revision/latest?cb=20230914213511&path-prefix=es"
+    },
+    {
+        "name": "Silver",
+        "full_name": "Robert Silver",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bc/%28IKFC%29_Silver.png/revision/latest?cb=20230914213542&path-prefix=es"
+    },
+    {
+        "name": "Izzy",
+        "full_name": "Izzy Island",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/46/%28IKFC%29_Izzy.png/revision/latest?cb=20230914213526&path-prefix=es"
+    },
+    {
+        "name": "Newman",
+        "full_name": "Sothern Newman",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e6/%28IKFC%29_Newman.png/revision/latest?cb=20230914213533&path-prefix=es"
+    },
+    {
+        "name": "Hall",
+        "full_name": "Irwin Hall",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f8/%28IKFC%29_Hall.png/revision/latest?cb=20230914213521&path-prefix=es"
+    },
+    {
+        "name": "Higgins",
+        "full_name": "Taylor Higgins",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fd/%28IKFC%29_Higgins.png/revision/latest?cb=20230914213523&path-prefix=es"
+    },
+    {
+        "name": "Cool",
+        "full_name": "Jamie Cool",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f5/%28IKFC%29_Cool.png/revision/latest?cb=20230914213513&path-prefix=es"
+    },
+    {
+        "name": "Randall",
+        "full_name": "Hans Randall",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d8/%28IKFC%29_Randall.png/revision/latest?cb=20230914213538&path-prefix=es"
+    },
+    {
+        "name": "Riverside",
+        "full_name": "Michael Riverside",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b0/%28IKFC%29_Riverside.png/revision/latest?cb=20230914213532&path-prefix=es"
+    },
+    {
+        "name": "Maddie",
+        "full_name": "Maddie Moonlight",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e6/%28IKFC%29_Maddie_%28IE3%29.png/revision/latest?cb=20230914213531&path-prefix=es"
+    },
+    {
+        "name": "Grantham",
+        "full_name": "Bart Grantham",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3f/%28IKFC%29_Grantham.png/revision/latest?cb=20230914213516&path-prefix=es"
+    },
+    {
+        "name": "Karl",
+        "full_name": "Karl Blue",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/86/%28IKFC%29_Karl.png/revision/latest?cb=20230914213528&path-prefix=es"
+    },
+    {
+        "name": "Plank",
+        "full_name": "Theakston Plank",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/9f/%28IKFC%29_Plank.png/revision/latest?cb=20230914213536&path-prefix=es"
+    },
+    {
+        "name": "Cake",
+        "full_name": "Ken Cake",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/dd/%28IKFC%29_Cake.png/revision/latest?cb=20230914213508&path-prefix=es"
+    },
+    {
+        "name": "Grumble",
+        "full_name": "Mitch Grumble",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Inazuma Kids FC",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b7/%28IKFC%29_Grumble.png/revision/latest?cb=20230914213518&path-prefix=es"
+    }
+]

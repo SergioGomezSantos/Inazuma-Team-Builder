@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Idol",
+        "full_name": "Sam Idol",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b8/%28OTK%29_Idol.png/revision/latest?cb=20230914133223&path-prefix=es"
+    },
+    {
+        "name": "Train",
+        "full_name": "Marcus Train",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f1/%28OTK%29_Train.png/revision/latest?cb=20230914133239&path-prefix=es"
+    },
+    {
+        "name": "Novel",
+        "full_name": "Light Nobel",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/81/%28OTK%29_Novel.png/revision/latest?cb=20230914133228&path-prefix=es"
+    },
+    {
+        "name": "Hero",
+        "full_name": "Walter Valiant",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1c/%28OTK%29_Hero.png/revision/latest?cb=20230914133220&path-prefix=es"
+    },
+    {
+        "name": "Cosplay",
+        "full_name": "Spencer Gates",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a0/%28OTK%29_Cosplay.png/revision/latest?cb=20230914133207&path-prefix=es"
+    },
+    {
+        "name": "Online",
+        "full_name": "Josh Spear",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6b/%28OTK%29_Online.png/revision/latest?cb=20230914133231&path-prefix=es"
+    },
+    {
+        "name": "Custom",
+        "full_name": "Gaby Farmer",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/80/%28OTK%29_Custom.png/revision/latest?cb=20230914133209&path-prefix=es"
+    },
+    {
+        "name": "Robot",
+        "full_name": "Anthony Woodbridge",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/50/%28OTK%29_Robot.png/revision/latest?cb=20230914133233&path-prefix=es"
+    },
+    {
+        "name": "Gamer",
+        "full_name": "Gus Gamer",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ab/%28OTK%29_Gamer.png/revision/latest?cb=20230914133217&path-prefix=es"
+    },
+    {
+        "name": "Artist",
+        "full_name": "Mark Gambling",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/af/%28OTK%29_Artist.png/revision/latest?cb=20230914133204&path-prefix=es"
+    },
+    {
+        "name": "Arcade",
+        "full_name": "Theodore Master",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0e/%28OTK%29_Arcade.png/revision/latest?cb=20230914133202&path-prefix=es"
+    },
+    {
+        "name": "Eldorado",
+        "full_name": "Grant Eldorado",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7d/%28OTK%29_Eldorado.png/revision/latest?cb=20230914133212&path-prefix=es"
+    },
+    {
+        "name": "Signalman",
+        "full_name": "Ham Signalman",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b7/%28OTK%29_Signalman.png/revision/latest?cb=20230914133236&path-prefix=es"
+    },
+    {
+        "name": "Formby",
+        "full_name": "Bill Formby",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/11/%28OTK%29_Formby.png/revision/latest?cb=20230914133215&path-prefix=es"
+    },
+    {
+        "name": "Vox",
+        "full_name": "Mike Vox",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ac/%28OTK%29_Vox.png/revision/latest?cb=20230914133241&path-prefix=es"
+    },
+    {
+        "name": "Net",
+        "full_name": "Ollie Webb",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Otaku",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d1/%28OTK%29_Net.png/revision/latest?cb=20230914133225&path-prefix=es"
+    }
+]

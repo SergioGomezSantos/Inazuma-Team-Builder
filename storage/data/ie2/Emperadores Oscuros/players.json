@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Feldt",
+        "full_name": "Thomas Feldt",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d7/%28EO%29_Feldt.png/revision/latest?cb=20230821204543&path-prefix=es"
+    },
+    {
+        "name": "Night",
+        "full_name": "Malcolm Night",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/84/%28EO%29_Malcolm.png/revision/latest?cb=20230821204549&path-prefix=es"
+    },
+    {
+        "name": "Shadow",
+        "full_name": "Shadow Cimmerian",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d2/%28EO%29_Shadow.png/revision/latest?cb=20230821204557&path-prefix=es"
+    },
+    {
+        "name": "Jim",
+        "full_name": "Jim Wraith",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8f/%28EO%29_Jim.png/revision/latest?cb=20230821204545&path-prefix=es"
+    },
+    {
+        "name": "Tod",
+        "full_name": "Tod Ironside",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5e/%28EO%29_Tod.png/revision/latest?cb=20230821204603&path-prefix=es"
+    },
+    {
+        "name": "Steve",
+        "full_name": "Steve Grim",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/42/%28EO%29_Steve.png/revision/latest?cb=20230821204559&path-prefix=es"
+    },
+    {
+        "name": "Timmy",
+        "full_name": "Tim Saunders",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/18/%28EO%29_Timmy.png/revision/latest?cb=20230821204601&path-prefix=es"
+    },
+    {
+        "name": "Sam",
+        "full_name": "Sam Kincaid",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/40/%28EO%29_Sam.png/revision/latest?cb=20230821204555&path-prefix=es"
+    },
+    {
+        "name": "Max",
+        "full_name": "Maxwell Carson",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/48/%28EO%29_Max.png/revision/latest?cb=20230821204551&path-prefix=es"
+    },
+    {
+        "name": "Nathan",
+        "full_name": "Nathan Swift",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8f/%28EO%29_Nathan.png/revision/latest?cb=20230821204553&path-prefix=es"
+    },
+    {
+        "name": "Kevin",
+        "full_name": "Kevin Dragonfly",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Emperadores Oscuros",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d7/%28EO%29_Kevin.png/revision/latest?cb=20230821204547&path-prefix=es"
+    }
+]

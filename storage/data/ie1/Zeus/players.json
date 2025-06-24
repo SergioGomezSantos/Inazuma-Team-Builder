@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Poseidon",
+        "full_name": "Paul Siddon",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f4/%28Z%29_Poseidon.png/revision/latest?cb=20230914160339&path-prefix=es"
+    },
+    {
+        "name": "Apollo",
+        "full_name": "Apollo Light",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cc/%28Z%29_Apollo.png/revision/latest?cb=20230914160236&path-prefix=es"
+    },
+    {
+        "name": "Hephestus",
+        "full_name": "Jeff Iron",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6c/%28Z%29_Hephestus.png/revision/latest?cb=20230914160314&path-prefix=es"
+    },
+    {
+        "name": "Ares",
+        "full_name": "Lane War",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f9/%28Z%29_Ares.png/revision/latest?cb=20230914160241&path-prefix=es"
+    },
+    {
+        "name": "Dionysus",
+        "full_name": "Danny Wood",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/60/%28Z%29_Dionysus.png/revision/latest?cb=20230914160309&path-prefix=es"
+    },
+    {
+        "name": "Artemis",
+        "full_name": "Artie Mishman",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bc/%28Z%29_Artemis.png/revision/latest?cb=20230914160245&path-prefix=es"
+    },
+    {
+        "name": "Hermes",
+        "full_name": "Arion Matlock",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/56/%28Z%29_Hermes.png/revision/latest?cb=20230914160329&path-prefix=es"
+    },
+    {
+        "name": "Athena",
+        "full_name": "Wesley Knox",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4f/%28Z%29_Athena.png/revision/latest?cb=20230914160250&path-prefix=es"
+    },
+    {
+        "name": "Demeter",
+        "full_name": "Jonas Demetrius",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/60/%28Z%29_Demeter.png/revision/latest?cb=20230914160303&path-prefix=es"
+    },
+    {
+        "name": "Aphrodite",
+        "full_name": "Byron Love",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/ce/%28Z%29_Byron_%28IE3%29.png/revision/latest?cb=20230914160255&path-prefix=es"
+    },
+    {
+        "name": "Hera",
+        "full_name": "Henry House",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1d/%28Z%29_Hera.png/revision/latest?cb=20230914160321&path-prefix=es"
+    },
+    {
+        "name": "Icarus",
+        "full_name": "Iggy Russ",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c3/%28Z%29_Icarus.png/revision/latest?cb=20230914160331&path-prefix=es"
+    },
+    {
+        "name": "Achilles",
+        "full_name": "Gus Heeley",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a3/%28Z%29_Achilles.png/revision/latest?cb=20230914160231&path-prefix=es"
+    },
+    {
+        "name": "Heracles",
+        "full_name": "Harry Closs",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/28/%28Z%29_Heracles.png/revision/latest?cb=20230914160323&path-prefix=es"
+    },
+    {
+        "name": "Chronos",
+        "full_name": "Andy Chronic",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/40/%28Z%29_Chronos.png/revision/latest?cb=20230914160258&path-prefix=es"
+    },
+    {
+        "name": "Medusa",
+        "full_name": "Ned Yousef",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Zeus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4f/%28Z%29_Medusa.png/revision/latest?cb=20230914160334&path-prefix=es"
+    }
+]

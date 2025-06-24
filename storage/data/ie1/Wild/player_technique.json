@@ -1,0 +1,321 @@
+[
+    {
+        "player": "Charlie Boardfield",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Garra Salvaje", "Sismo", "Despeje de Fuego", "Superarmadillo"],
+        "ie2": [
+            "Recobro",
+            "Garra Salvaje",
+            "Despeje de Fuego",
+            "Escudo Protector"
+        ],
+        "ie3": ["Recobro", "Garra Salvaje", "Escudo Protector", "Combustión"]
+    },
+    {
+        "player": "Hugo Talgeese",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Acelerón",
+            "Remate Halcón",
+            "Remolino Cortante",
+            "Potenciación"
+        ],
+        "ie2": [
+            "Acelerón",
+            "Remate Halcón",
+            "Remolino Cortante",
+            "Potenciación"
+        ],
+        "ie3": [
+            "Acelerón",
+            "Pájaro de Fuego",
+            "Remolino Cortante",
+            "Potenciación"
+        ]
+    },
+    {
+        "player": "Wilson Fishman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Balón Rodante",
+            "Equilibrismo",
+            "Robo Rápido",
+            "Corte Giratorio"
+        ],
+        "ie2": [
+            "Robo Rápido",
+            "Corte Giratorio",
+            "Equilibrismo",
+            "Balón Rodante"
+        ],
+        "ie3": [
+            "Robo Rápido",
+            "Corte Giratorio",
+            "Remate Tsunami",
+            "Bomba Géiser"
+        ]
+    },
+    {
+        "player": "Peter Johnson",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Barrido Defensivo", "Bola Falsa", "Acelerón", "Telaraña"],
+        "ie2": ["Barrido Defensivo", "Bola Falsa", "Acelerón", "Telaraña"],
+        "ie3": ["Pompa de Chicle", "Teleportación", "Bola Falsa", "Telaraña"]
+    },
+    {
+        "player": "Leonard O'Shea",
+        "anime1": [
+            {
+                "name": "Superarmadillo",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Embestida",
+            "Superarmadillo",
+            "Puño Vengativo",
+            "Balón Rodante"
+        ],
+        "ie2": [
+            "Embestida",
+            "Superarmadillo",
+            "Puño Vengativo",
+            "Balón Rodante"
+        ],
+        "ie3": [
+            "Superarmadillo",
+            "Embestida",
+            "Sorteo de Balón",
+            "Colmillo de Pantera"
+        ]
+    },
+    {
+        "player": "Cham Lion",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Robo Rápido", "Espejismo", "Sorpresa", "Rapto Divino"],
+        "ie2": ["Casanova", "Robo Rápido", "Sorpresa", "Descodificación"],
+        "ie3": ["Casanova", "Robo Rápido", "Descodificación", "Tiro Espejismo"]
+    },
+    {
+        "player": "Steve Eagle",
+        "anime1": [
+            {
+                "name": "Ataque de Cóndor",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Ataque Cóndor",
+            "Remate Halcón",
+            "Espejismo de Balón",
+            "Potenciación"
+        ],
+        "ie2": [
+            "Ataque Cóndor",
+            "Remate Halcón",
+            "Espejismo de Balón",
+            "Remate del Águila"
+        ],
+        "ie3": [
+            "Ataque Cóndor",
+            "Remate Halcón",
+            "Remolino Cortante",
+            "Remate del Águila"
+        ]
+    },
+    {
+        "player": "Bruce Monkey",
+        "anime1": [
+            {
+                "name": "Giro de Mono",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Giro de Mono",
+            "Remate Tarzán",
+            "Giro Bobina",
+            "Luna Creciente"
+        ],
+        "ie2": [
+            "Giro de Mono",
+            "Remate Tarzán",
+            "Giro Bobina",
+            "Luna Creciente"
+        ],
+        "ie3": [
+            "Giro de Mono",
+            "Remate Tarzán",
+            "Patada Canguro",
+            "Luna Creciente"
+        ]
+    },
+    {
+        "player": "Gary Lancaster",
+        "anime1": [
+            {
+                "name": "Remate Tarzán",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Remate Tarzán", "Superarmadillo", "Confusión", "Bateo Total"],
+        "ie2": ["Recobro", "Remate Tarzán", "Superarmadillo", "Bateo Total"],
+        "ie3": ["Recobro", "Remate Tarzán", "Superarmadillo", "Placaje Extremo"]
+    },
+    {
+        "player": "Harry Snake",
+        "anime1": [
+            {
+                "name": "Remate Serpiente",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate Serpiente",
+            "Pase Cruzado",
+            "Zigzag Chispeante",
+            "Flecha Divina"
+        ],
+        "ie2": [
+            "Remate Serpiente",
+            "Pase Cruzado",
+            "Zigzag Chispeante",
+            "Dragón Terrestre"
+        ],
+        "ie3": [
+            "Remate Serpiente",
+            "Zigzag Chispeante",
+            "Pase Cruzado",
+            "Acelerrelámpago"
+        ]
+    },
+    {
+        "player": "Adrian Speed",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate Tarzán",
+            "Tiro Dinamita",
+            "Acelerón",
+            "Remate Múltiple"
+        ],
+        "ie2": [
+            "Remate Tarzán",
+            "Tiro Dinamita",
+            "Acelerón",
+            "Remate Múltiple"
+        ],
+        "ie3": [
+            "Remate Tarzán",
+            "Cruz del Sur",
+            "Tiro Dinamita",
+            "Remate Múltiple"
+        ]
+    },
+    {
+        "player": "Chad Bullford",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Embestida",
+            "Pisotón de Sumo",
+            "Garra Salvaje",
+            "Bloqueo Dureza"
+        ],
+        "ie2": [
+            "Embestida",
+            "Garra Salvaje",
+            "Bloqueo Dureza",
+            "Despeje Explosivo"
+        ],
+        "ie3": [
+            "Despeje Explosivo",
+            "Bloqueo Dureza",
+            "Garra Salvaje",
+            "Muralla Gigante"
+        ]
+    },
+    {
+        "player": "Alan Coe",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Remate Tarzán",
+            "Espejismo de Balón",
+            "Balón Rodante",
+            "Giro de Mono"
+        ],
+        "ie2": [
+            "Remate Tarzán",
+            "Espejismo de Balón",
+            "Balón Rodante",
+            "Giro de Mono"
+        ],
+        "ie3": [
+            "Remate Tarzán",
+            "Espejismo de Balón",
+            "Balón Rodante",
+            "Giro de Mono"
+        ]
+    },
+    {
+        "player": "Philip Anders",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Barrido Defensivo", "Cabezazo Kung-fu", "Equilibrismo", "Coz"],
+        "ie2": ["Barrido Defensivo", "Cabezazo Kung-fu", "Equilibrismo", "Coz"],
+        "ie3": [
+            "Barrido Defensivo",
+            "Cabezazo Kung-fu",
+            "Equilibrismo",
+            "Armadillo Circense"
+        ]
+    },
+    {
+        "player": "Rocky Rackham",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Superarmadillo", "Chut Granada", "Embestida", "Sorpresa"],
+        "ie2": ["Superarmadillo", "Chut Granada", "Embestida", "Sorpresa"],
+        "ie3": [
+            "Superarmadillo",
+            "Chut Granada",
+            "Armadillo Circense",
+            "Sorpresa"
+        ]
+    },
+    {
+        "player": "Matt Mouseman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Bola Falsa", "Confusión", "Rapto Divino", "Espejismo"],
+        "ie2": ["Bola Falsa", "Confusión", "Rapto Divino", "Espejismo"],
+        "ie3": ["Bola Falsa", "Confusión", "Arcoiris Luminoso", "Espejismo"]
+    }
+]

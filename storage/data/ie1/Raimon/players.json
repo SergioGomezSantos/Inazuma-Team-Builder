@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Mark",
+        "full_name": "Mark Evans",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/22/%28R%29_Mark_%28PR%29.png/revision/latest?cb=20230912133740&path-prefix=es"
+    },
+    {
+        "name": "Nathan",
+        "full_name": "Nathan Swift",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8f/%28R%29_Nathan.png/revision/latest?cb=20230912133746&path-prefix=es"
+    },
+    {
+        "name": "Jack",
+        "full_name": "Jack Wallside",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c5/%28R%29_Jack.png/revision/latest?cb=20230912133725&path-prefix=es"
+    },
+    {
+        "name": "Jim",
+        "full_name": "Jim Wraith",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/87/%28R%29_Jim.png/revision/latest?cb=20230912133728&path-prefix=es"
+    },
+    {
+        "name": "Tod",
+        "full_name": "Tod Ironside",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/db/%28R%29_Tod.png/revision/latest?cb=20230912133804&path-prefix=es"
+    },
+    {
+        "name": "Steve",
+        "full_name": "Steve Grim",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cd/%28R%29_Steve.png/revision/latest?cb=20230912133759&path-prefix=es"
+    },
+    {
+        "name": "Timmy",
+        "full_name": "Tim Saunders",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/36/%28R%29_Timmy.png/revision/latest?cb=20230912133801&path-prefix=es"
+    },
+    {
+        "name": "Sam",
+        "full_name": "Sam Kincaid",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3e/%28R%29_Sam.png/revision/latest?cb=20230912133752&path-prefix=es"
+    },
+    {
+        "name": "Peabody",
+        "full_name": "Paul Peabody",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8d/%28R%29_Paul.png/revision/latest?cb=20230912133749&path-prefix=es"
+    },
+    {
+        "name": "Max",
+        "full_name": "Maxwell Carson",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/61/%28R%29_Max.png/revision/latest?cb=20230912133744&path-prefix=es"
+    },
+    {
+        "name": "Axel",
+        "full_name": "Axel Blaze",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ae/%28R%29_Axel.png/revision/latest?cb=20230912133709&path-prefix=es"
+    },
+    {
+        "name": "Kevin",
+        "full_name": "Kevin Dragonfly",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b0/%28R%29_Kevin.png/revision/latest?cb=20230912133733&path-prefix=es"
+    },
+    {
+        "name": "Willy",
+        "full_name": "William Glass",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e3/%28R%29_Willy.png/revision/latest?cb=20230912133807&path-prefix=es"
+    },
+    {
+        "name": "Bobby",
+        "full_name": "Bobby Shearer",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/13/%28R%29_Bobby_%28IE3%29.png/revision/latest?cb=20230912133719&path-prefix=es"
+    },
+    {
+        "name": "Jude",
+        "full_name": "Jude Sharp",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c1/%28R%29_Jude.png/revision/latest?cb=20230912133731&path-prefix=es"
+    },
+    {
+        "name": "Erik",
+        "full_name": "Erik Eagle",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6b/%28R%29_Erik.png/revision/latest?cb=20230912133723&path-prefix=es"
+    },
+    {
+        "name": "Shadow",
+        "full_name": "Shadow Cimmerian",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Raimon",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/12/%28R%29_Shadow.png/revision/latest?cb=20230912133755&path-prefix=es"
+    }
+]

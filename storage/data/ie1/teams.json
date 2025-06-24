@@ -1,0 +1,198 @@
+[
+    {
+        "team": "Brain",
+        "coach": {
+            "name": "Newton Thomas",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/6/6c/%28B%29_Thommo.png/revision/latest?cb=20231230150715&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/b/b7/Escudo_-_Brain_%28Strikers%29.png/revision/latest?cb=20240105135927&path-prefix=es"
+        },
+        "formation": {
+            "name": "Reja",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Farm",
+        "coach": {
+            "name": "Turtle Newfield",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/a/ae/%28F%29_Newfield.png/revision/latest?cb=20240117133337&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/8/88/Escudo_-_Farm_%28SD%29.png/revision/latest?cb=20240114155232&path-prefix=es"
+        },
+        "formation": {
+            "name": "Árbol de Navidad",
+            "layout": "4-3-2-1"
+        }
+    },
+    {
+        "team": "Inazuma Eleven",
+        "coach": {
+            "name": "David Evans",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/d/dd/%28LG%29_David.png/revision/latest?cb=20231214124945&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/b/bd/Escudo_-_Veteranos_del_Raimon_%28SD%29.png/revision/latest?cb=20240613190636&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Inazuma Kids FC",
+        "coach": {
+            "name": "Arthur Sweet",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/4/44/%28IE%29_Sweet.png/revision/latest?cb=20230914205851&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/0/01/Escudo_-_Inazuma_Kids_FC_%28SD%29.png/revision/latest?cb=20241009131229&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Kirkwood",
+        "coach": {
+            "name": "Seth Nichols",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/%28F%29_Nichols.png/revision/latest?cb=20240117230541&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/4/40/Escudo_-_Kirkwood_%28SD%29.png/revision/latest?cb=20240117213804&path-prefix=es"
+        },
+        "formation": {
+            "name": "Ataque Trillizo",
+            "layout": "4-3-3"
+        }
+    },
+    {
+        "team": "Occult",
+        "coach": {
+            "name": "Hekyll Jyde",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/e/e1/%28O%29_Jyde.png/revision/latest?cb=20231224211958&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/4/4a/Escudo_-_Occult_%28SD%29.png/revision/latest?cb=20231220153417&path-prefix=es"
+        },
+        "formation": {
+            "name": "Flecha Espectral",
+            "layout": "4-5-1"
+        }
+    },
+    {
+        "team": "Otaku",
+        "coach": {
+            "name": "Manny Artic",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/a/a7/%28OTK%29_Artic.png/revision/latest?cb=20240107194708&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/c/cc/Escudo_-_Otaku_%28SD%29.png/revision/latest?cb=20240107195534&path-prefix=es"
+        },
+        "formation": {
+            "name": "Pirámide",
+            "layout": "2-3-5"
+        }
+    },
+    {
+        "team": "Raimon",
+        "coach": {
+            "name": "Seymour Hillman",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/b/b8/Hillman_%28Sprite%29.png/revision/latest?cb=20201025114237&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/e/e1/Raimon_FF_Emblema.png/revision/latest?cb=20210620190405&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Shuriken",
+        "coach": {
+            "name": "Sam Igajima",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/c/cb/%28SRK%29_Igajima.png/revision/latest?cb=20231230192111&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/b/be/Escudo_-_Shuriken_%28SD%29.png/revision/latest?cb=20240110190201&path-prefix=es"
+        },
+        "formation": {
+            "name": "Alas de Grulla",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Umbrella",
+        "coach": {
+            "name": "Clint Loggan",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/9/9a/Clint_Loggan.png/revision/latest?cb=20200512093612&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/9/96/Umbrella_Emblema.png/revision/latest?cb=20140909011811&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Wild",
+        "coach": {
+            "name": "Harry Savage",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/c/ca/%28W%29_Savage.png/revision/latest?cb=20231230143557&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/9/92/Escudo_-_Wild_%28SD%29.png/revision/latest?cb=20240102131220&path-prefix=es"
+        },
+        "formation": {
+            "name": "Jungla",
+            "layout": "3-4-3"
+        }
+    },
+    {
+        "team": "Zeus",
+        "coach": {
+            "name": "Ray Dark",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/b/b7/Ray_Dark_%281T-VJ%29.png/revision/latest?cb=20230914205857&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/f/ff/Escudo_Zeus_FF.png/revision/latest?cb=20210620190427&path-prefix=es"
+        },
+        "formation": {
+            "name": "Puerta al Cielo",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Royal Academy",
+        "coach": {
+            "name": "Stephen Black",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/d/d3/%28RA%29_Black.png/revision/latest?cb=20231225144618&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/5/52/Escudo_-_Royal_Academy_%28SD%29.png/revision/latest?cb=20231225133321&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Sallys",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/a/a3/Sallys_Emblema.png/revision/latest?cb=20241015230151&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
+        }
+    }
+]

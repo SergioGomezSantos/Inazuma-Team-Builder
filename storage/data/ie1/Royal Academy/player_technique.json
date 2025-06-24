@@ -1,0 +1,367 @@
+[
+    {
+        "player": "Joseph King",
+        "anime1": [
+            {
+                "name": "Escudo de Fuerza",
+                "with": []
+            },
+            {
+                "name": "Escudo de Fuerza Total",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Destrozataladros",
+                "with": []
+            },
+            {
+                "name": "Muralla Infinita Total",
+                "with": ["Hillvalley", "Topher"]
+            }
+        ],
+        "ie1": [
+            "Escudo de Fuerza",
+            "Escudo de Fuerza Total",
+            "Remate Halcón",
+            "Corte Giratorio"
+        ],
+        "ie2": [
+            "Lance Crítico",
+            "Escudo de Fuerza",
+            "Escudo de Fuerza Total",
+            "Colmillo de Pantera"
+        ],
+        "ie3": [
+            "Lance Crítico",
+            "Ahorro",
+            "Muralla Infinita",
+            "Destrozataladros"
+        ]
+    },
+    {
+        "player": "Peter Drent",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Espejismo de Balón",
+            "Sismo",
+            "Disparo con Rebotes",
+            "Mega Terremoto"
+        ],
+        "ie2": [
+            "Superpeonza",
+            "Sismo",
+            "Disparo con Rebotes",
+            "Mega Terremoto"
+        ],
+        "ie3": ["Superpeonza", "Sismo", "Disparo con Rebotes", "Gran Seísmo"]
+    },
+    {
+        "player": "Ben Simmons",
+        "anime1": [
+            {
+                "name": "Ciclón",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Coz", "Ciclón", "Espejismo de Balón", "Flecha Divina"],
+        "ie2": ["Coz", "Ciclón", "Robo Rápido", "Ciclón Doble"],
+        "ie3": ["Coz", "Ciclón", "Balón Galgo", "Ciclón Doble"]
+    },
+    {
+        "player": "Alan Master",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Barrido Defensivo",
+                "with": []
+            }
+        ],
+        "ie1": [
+            "Espejismo de Balón",
+            "Tiro Dinamita",
+            "Barrido Defensivo",
+            "Coz"
+        ],
+        "ie2": [
+            "Espejismo de Balón",
+            "Tiro Dinamita",
+            "Barrido Defensivo",
+            "Coz"
+        ],
+        "ie3": [
+            "Fuerza Ofensiva",
+            "Barrido Defensivo",
+            "Espejismo de Balón",
+            "Cúpula Sónica"
+        ]
+    },
+    {
+        "player": "Gus Martin",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Barrido Defensivo",
+            "Regate Múltiple",
+            "Escáner Defensa",
+            "Escáner Ataque"
+        ],
+        "ie2": [
+            "Barrido Defensivo",
+            "Regate Múltiple",
+            "Escáner Defensa",
+            "Escáner Ataque"
+        ],
+        "ie3": [
+            "Barrido Defensivo",
+            "Regate Múltiple",
+            "Escáner Defensa",
+            "Zona Sigma"
+        ]
+    },
+    {
+        "player": "Herman Waldon",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Barrido Defensivo", "Coz", "Triángulo Letal", "Ciclón"],
+        "ie2": [
+            "Barrido Defensivo",
+            "Coz",
+            "Chut Congelante",
+            "Triángulo Letal"
+        ],
+        "ie3": [
+            "Barrido Defensivo",
+            "Coz",
+            "Chut Congelante",
+            "Círculo de Espadas"
+        ]
+    },
+    {
+        "player": "John Bloom",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Coz",
+            "Chut de los 100 Toques",
+            "Barrido Defensivo",
+            "Chut Congelante"
+        ],
+        "ie2": ["Piscinazo", "Coz", "Chut de los 100 Toques", "Coz 2"],
+        "ie3": ["Piscinazo", "Coz 2", "Chut de los 100 Toques", "Coz 3"]
+    },
+    {
+        "player": "Derek Swing",
+        "anime1": [
+            {
+                "name": "Triángulo Letal",
+                "with": ["Samford", "Hatch"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Barrido Defensivo",
+            "Regate Múltiple",
+            "Chut Congelante",
+            "Triángulo Letal"
+        ],
+        "ie2": [
+            "Piscinazo",
+            "Barrido Defensivo",
+            "Regate Múltiple",
+            "Triángulo Letal"
+        ],
+        "ie3": [
+            "Piscinazo",
+            "Pompa de Chicle",
+            "Regate Múltiple",
+            "Triángulo Letal 2"
+        ]
+    },
+    {
+        "player": "Daniel Hatch",
+        "anime1": [
+            {
+                "name": "Triángulo Letal",
+                "with": ["Swing", "Samford"]
+            },
+            {
+                "name": "Chut de los 100 Toques",
+                "with": []
+            },
+            {
+                "name": "Pingüino Emperador Nº 2",
+                "with": ["Jude", "Samford"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Ciclón Doble",
+                "with": ["Bargie"]
+            }
+        ],
+        "ie1": [
+            "Triángulo Letal",
+            "Chut de los 100 Toques",
+            "Remolino Cortante",
+            "Barrido Defensivo"
+        ],
+        "ie2": [
+            "Piscinazo",
+            "Chut de los 100 Toques",
+            "Remolino Cortante",
+            "Chut de los 200 Toques"
+        ],
+        "ie3": [
+            "Piscinazo",
+            "Barrido Defensivo",
+            "Ciclón Doble",
+            "Chut de los 200 Toques"
+        ]
+    },
+    {
+        "player": "David Samford",
+        "anime1": [
+            {
+                "name": "Triángulo Letal",
+                "with": ["Hatch", "Swing"]
+            },
+            {
+                "name": "Remate Combinado",
+                "with": ["Jude"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Pingüino Emperador Nº 3",
+                "with": ["Jude", "Caleb"]
+            }
+        ],
+        "ie1": [
+            "Barrido Defensivo",
+            "Regate Múltiple",
+            "Pingüino Emperador Nº 2",
+            "Flecha Divina"
+        ],
+        "ie2": [
+            "Fuerza Ofensiva",
+            "Coz",
+            "Pingüino Emperador Nº 2",
+            "Pingüino Emperador Nº 1"
+        ],
+        "ie3": [
+            "Fuerza Ofensiva",
+            "Avance Flamígero",
+            "Pingüino Emperador Nº 2",
+            "Pingüino Espacial"
+        ]
+    },
+    {
+        "player": "Bob Carlton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Terremoto",
+            "Superaceleración",
+            "Remate Misil",
+            "Balón Rodante"
+        ],
+        "ie2": [
+            "Escudo de Fuerza",
+            "Cabezonería",
+            "Terremoto",
+            "Escudo de Fuerza Total"
+        ],
+        "ie3": [
+            "Escudo de Fuerza",
+            "Escudo de Fuerza Total",
+            "Terremoto",
+            "Araña Gigante"
+        ]
+    },
+    {
+        "player": "Cliff Tomlinson",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Chut Granada", "Coz", "Barrido Defensivo", "Remate Combinado"],
+        "ie2": ["Chut Granada", "Coz", "Barrido Defensivo", "Remate Combinado"],
+        "ie3": ["Chut Granada", "Barrido Defensivo", "Coz", "Empuje Gemelo F"]
+    },
+    {
+        "player": "Jim Lawrenson",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Coz",
+            "Remate Espiral",
+            "Chut de los 100 Toques",
+            "Remate Halcón"
+        ],
+        "ie2": [
+            "Coz",
+            "Remate Espiral",
+            "Chut de los 100 Toques",
+            "Tiro Chispadraco"
+        ],
+        "ie3": [
+            "Coz",
+            "Remate Espiral",
+            "Chut de los 200 Toques",
+            "Tiro Chispadraco"
+        ]
+    },
+    {
+        "player": "Barry Potts",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Barrido Defensivo",
+            "Torbellino Dragón",
+            "Superarmadillo",
+            "Cabezazo Kung-fu"
+        ],
+        "ie2": [
+            "Barrido Defensivo",
+            "Torbellino Dragón",
+            "Superarmadillo",
+            "Cabezazo Kung-fu"
+        ],
+        "ie3": [
+            "Luna Creciente",
+            "Torbellino Dragón",
+            "Superarmadillo",
+            "Cabezazo Kung-fu"
+        ]
+    },
+    {
+        "player": "Steve Ingham",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Chut Granada", "Rapto Divino", "Coz", "Barrido Defensivo"],
+        "ie2": ["Rapto Divino", "Gravedad", "Remate Halcón", "Psicorremate"],
+        "ie3": [
+            "Siempre a Muerte",
+            "Tacón Infernal",
+            "Remate Halcón",
+            "Tiro del Cometa"
+        ]
+    }
+]
