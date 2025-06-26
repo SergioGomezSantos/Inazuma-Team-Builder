@@ -1,0 +1,339 @@
+[
+    {
+        "player": "Rocky Black",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Escudo Protector",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Ultratécnica",
+            "Escudo Protector",
+            "Muralla Tsunami",
+            "Garra Salvaje"
+        ],
+        "ie3": [
+            "Ultratécnica",
+            "Escudo Protector",
+            "Muralla Tsunami",
+            "Gran Barrera de Coral"
+        ]
+    },
+    {
+        "player": "Chad Taylor",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Emboscada Defensiva",
+                "with": ["Hills", "Redding"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Giro Bobina",
+            "Torbellino Dragón",
+            "Luna Creciente",
+            "Bombazo"
+        ],
+        "ie3": ["Giro Bobina", "Bomba Géiser", "Paipay Gigante", "Bombazo"]
+    },
+    {
+        "player": "Victor Hills",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Emboscada Defensiva",
+                "with": ["Diver", "Redding"]
+            },
+            {
+                "name": "Remate del Águila",
+                "with": ["Contented", "Shark"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Emboscada Defensiva",
+            "Bloqueo Dureza",
+            "Escudo de Fuerza",
+            "Pisotón de Sumo"
+        ],
+        "ie3": [
+            "Emboscada Defensiva",
+            "Bloqueo Dureza",
+            "Muralla Tsunami",
+            "Siempre a Muerte"
+        ]
+    },
+    {
+        "player": "Hurley Kane",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Remate Tsunami",
+                "with": []
+            },
+            {
+                "name": "Torre Perfecta",
+                "with": ["Tori", "Scotty"]
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Gran Tifón",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [
+            "¡Vamos Todos!",
+            "Remate Tsunami",
+            "Corte Giratorio",
+            "Bloqueo Ballena"
+        ],
+        "ie3": [
+            "¡Vamos Todos!",
+            "Remate Tsunami",
+            "Bloqueo Ballena",
+            "Gran Tifón"
+        ]
+    },
+    {
+        "player": "Hector Redding",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Emboscada Defensiva",
+                "with": ["Diver", "Hills"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Barrido Defensivo",
+            "Corte Flamígero",
+            "Despeje a Presión",
+            "Bombazo"
+        ],
+        "ie3": [
+            "¡Vamos!",
+            "Corte Flamígero",
+            "Entrada Rodante",
+            "Parada de Capoeira"
+        ]
+    },
+    {
+        "player": "Mackenzie Fordline",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Tiro Fantasma", "Ataque Afilado", "Coz", "Ciclón"],
+        "ie3": ["Tiro Fantasma", "Ataque Afilado", "Bloqueo Ballena", "Ciclón"]
+    },
+    {
+        "player": "Cadence Soundtown",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Baile de Llamas",
+            "Pompa de Chicle",
+            "Escáner Defensa",
+            "Sorteo de Balón"
+        ],
+        "ie3": [
+            "Baile de Llamas",
+            "Pompa de Chicle",
+            "Cúpula Sónica",
+            "Golpe de Samba"
+        ]
+    },
+    {
+        "player": "Dora Delight",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Siempre a Muerte",
+            "Pompa de Chicle",
+            "Baile de Llamas",
+            "Armadillo Circense"
+        ],
+        "ie3": [
+            "Siempre a Muerte",
+            "Pompa de Chicle",
+            "Huracán",
+            "Bloqueo Ballena"
+        ]
+    },
+    {
+        "player": "Tom Contented",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Remate del Águila",
+                "with": ["Shark", "Hills"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Remate del Águila",
+            "Remate Halcón",
+            "Tiro Pirueta",
+            "Giro de Mono"
+        ],
+        "ie3": [
+            "Remate del Águila",
+            "Remate Halcón",
+            "Tiro Pirueta",
+            "Muro Dimensional"
+        ]
+    },
+    {
+        "player": "Joston Easton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Sprint Triple",
+            "Equilibrismo",
+            "Pompa de Chicle",
+            "Luna Creciente"
+        ],
+        "ie3": [
+            "Acelerrelámpago",
+            "Bomba Géiser",
+            "Pompa de Chicle",
+            "Luna Creciente"
+        ]
+    },
+    {
+        "player": "Spring Millpond",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Remate del Águila",
+                "with": ["Contented", "Hills"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Tiro Cegador",
+            "Zigzag Chispeante",
+            "Pase Cruzado",
+            "Remate del Águila"
+        ],
+        "ie3": [
+            "Tiro Cegador",
+            "Zigzag Chispeante",
+            "Pase Cruzado",
+            "Megalodón"
+        ]
+    },
+    {
+        "player": "Gaston Cooley",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Salto del Cisne",
+            "Torbellino Dragón",
+            "Hojarasca",
+            "Muralla Tsunami"
+        ],
+        "ie3": [
+            "Salto del Cisne",
+            "Torbellino Dragón",
+            "Muralla Tsunami",
+            "Bloque de Hielo"
+        ]
+    },
+    {
+        "player": "Bevan Breakfast",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Giro de Mono",
+            "Truco de Magia",
+            "Bola de Fango",
+            "Emboscada Defensiva"
+        ],
+        "ie3": [
+            "Giro de Mono",
+            "Sorpresa",
+            "Bola de Fango",
+            "Emboscada Defensiva"
+        ]
+    },
+    {
+        "player": "Jack Griddle",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Remate Tarzán",
+            "Ataque de Cóndor",
+            "Confusión",
+            "Sorteo de Balón"
+        ],
+        "ie3": [
+            "Remate Tarzán",
+            "Ataque de Cóndor",
+            "Baile de Llamas",
+            "Sorteo de Balón"
+        ]
+    },
+    {
+        "player": "Stan Andagi",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Pisotón de Sumo",
+            "Superarmadillo",
+            "Sismo",
+            "Corte Volcánico"
+        ],
+        "ie3": [
+            "Remate en Espiral",
+            "Superarmadillo",
+            "Sismo",
+            "Corte Volcánico"
+        ]
+    },
+    {
+        "player": "Coral Talent",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Chut de los 100 Toques",
+            "Pared Solitaria",
+            "Tiro Cegador",
+            "Baile de Mariposas"
+        ],
+        "ie3": [
+            "Chut de los 200 Toques",
+            "Pared Solitaria",
+            "Tiro Cegador",
+            "Baile de Mariposas"
+        ]
+    }
+]

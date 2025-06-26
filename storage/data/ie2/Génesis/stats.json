@@ -1,0 +1,310 @@
+[
+    {
+        "player": "Nelson Rockwell",
+        "ie1": {},
+        "ie2": {
+            "GP": 169,
+            "TP": 89,
+            "Kick": 77,
+            "Body": 60,
+            "Control": 57,
+            "Guard": 63,
+            "Speed": 78,
+            "Stamina": 60,
+            "Guts": 70,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 104,
+            "TP": 113,
+            "Kick": 59,
+            "Body": 60,
+            "Control": 57,
+            "Guard": 73,
+            "Speed": 72,
+            "Stamina": 56,
+            "Guts": 58,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Gail Baker",
+        "ie1": {},
+        "ie2": {
+            "GP": 117,
+            "TP": 118,
+            "Kick": 57,
+            "Body": 53,
+            "Control": 60,
+            "Guard": 55,
+            "Speed": 79,
+            "Stamina": 60,
+            "Guts": 59,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 117,
+            "TP": 118,
+            "Kick": 57,
+            "Body": 53,
+            "Control": 60,
+            "Guard": 55,
+            "Speed": 79,
+            "Stamina": 60,
+            "Guts": 56,
+            "Freedom": 20
+        }
+    },
+    {
+        "player": "Kim Powell",
+        "ie1": {},
+        "ie2": {
+            "GP": 156,
+            "TP": 77,
+            "Kick": 56,
+            "Body": 63,
+            "Control": 77,
+            "Guard": 54,
+            "Speed": 62,
+            "Stamina": 60,
+            "Guts": 62,
+            "Freedom": 19
+        },
+        "ie3": {
+            "GP": 120,
+            "TP": 136,
+            "Kick": 56,
+            "Body": 63,
+            "Control": 77,
+            "Guard": 54,
+            "Speed": 62,
+            "Stamina": 57,
+            "Guts": 58,
+            "Freedom": 4
+        }
+    },
+    {
+        "player": "Zack Cummings",
+        "ie1": {},
+        "ie2": {
+            "GP": 156,
+            "TP": 72,
+            "Kick": 68,
+            "Body": 76,
+            "Control": 71,
+            "Guard": 70,
+            "Speed": 77,
+            "Stamina": 56,
+            "Guts": 56,
+            "Freedom": 15
+        },
+        "ie3": {
+            "GP": 115,
+            "TP": 118,
+            "Kick": 68,
+            "Body": 76,
+            "Control": 53,
+            "Guard": 70,
+            "Speed": 56,
+            "Stamina": 56,
+            "Guts": 58,
+            "Freedom": 10
+        }
+    },
+    {
+        "player": "Hunt Mercer",
+        "ie1": {},
+        "ie2": {
+            "GP": 167,
+            "TP": 89,
+            "Kick": 64,
+            "Body": 66,
+            "Control": 65,
+            "Guard": 66,
+            "Speed": 58,
+            "Stamina": 68,
+            "Guts": 66,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 119,
+            "TP": 120,
+            "Kick": 60,
+            "Body": 61,
+            "Control": 60,
+            "Guard": 61,
+            "Speed": 53,
+            "Stamina": 63,
+            "Guts": 61,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Connor Murray",
+        "ie1": {},
+        "ie2": {
+            "GP": 185,
+            "TP": 100,
+            "Kick": 60,
+            "Body": 64,
+            "Control": 78,
+            "Guard": 61,
+            "Speed": 65,
+            "Stamina": 55,
+            "Guts": 60,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 125,
+            "TP": 121,
+            "Kick": 57,
+            "Body": 61,
+            "Control": 72,
+            "Guard": 58,
+            "Speed": 62,
+            "Stamina": 52,
+            "Guts": 57,
+            "Freedom": 24
+        }
+    },
+    {
+        "player": "Katie Brown",
+        "ie1": {},
+        "ie2": {
+            "GP": 154,
+            "TP": 81,
+            "Kick": 55,
+            "Body": 58,
+            "Control": 68,
+            "Guard": 57,
+            "Speed": 69,
+            "Stamina": 59,
+            "Guts": 61,
+            "Freedom": 14
+        },
+        "ie3": {
+            "GP": 115,
+            "TP": 135,
+            "Kick": 58,
+            "Body": 58,
+            "Control": 68,
+            "Guard": 57,
+            "Speed": 60,
+            "Stamina": 59,
+            "Guts": 61,
+            "Freedom": 10
+        }
+    },
+    {
+        "player": "Ashton Malone",
+        "ie1": {},
+        "ie2": {
+            "GP": 165,
+            "TP": 77,
+            "Kick": 56,
+            "Body": 60,
+            "Control": 78,
+            "Guard": 69,
+            "Speed": 72,
+            "Stamina": 62,
+            "Guts": 70,
+            "Freedom": 10
+        },
+        "ie3": {
+            "GP": 118,
+            "TP": 77,
+            "Kick": 56,
+            "Body": 60,
+            "Control": 78,
+            "Guard": 69,
+            "Speed": 72,
+            "Stamina": 62,
+            "Guts": 70,
+            "Freedom": 10
+        }
+    },
+    {
+        "player": "Wilbur Watkins",
+        "ie1": {},
+        "ie2": {
+            "GP": 195,
+            "TP": 88,
+            "Kick": 68,
+            "Body": 67,
+            "Control": 62,
+            "Guard": 63,
+            "Speed": 70,
+            "Stamina": 68,
+            "Guts": 67,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 117,
+            "TP": 123,
+            "Kick": 78,
+            "Body": 67,
+            "Control": 62,
+            "Guard": 53,
+            "Speed": 48,
+            "Stamina": 46,
+            "Guts": 67,
+            "Freedom": 15
+        }
+    },
+    {
+        "player": "Isabelle Trick",
+        "ie1": {},
+        "ie2": {
+            "GP": 158,
+            "TP": 97,
+            "Kick": 65,
+            "Body": 65,
+            "Control": 79,
+            "Guard": 55,
+            "Speed": 78,
+            "Stamina": 64,
+            "Guts": 68,
+            "Freedom": 27
+        },
+        "ie3": {
+            "GP": 112,
+            "TP": 130,
+            "Kick": 64,
+            "Body": 60,
+            "Control": 69,
+            "Guard": 55,
+            "Speed": 62,
+            "Stamina": 55,
+            "Guts": 60,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Xavier Foster",
+        "ie1": {},
+        "ie2": {
+            "GP": 178,
+            "TP": 92,
+            "Kick": 79,
+            "Body": 79,
+            "Control": 73,
+            "Guard": 63,
+            "Speed": 62,
+            "Stamina": 68,
+            "Guts": 63,
+            "Freedom": 23
+        },
+        "ie3": {
+            "GP": 125,
+            "TP": 128,
+            "Kick": 71,
+            "Body": 71,
+            "Control": 63,
+            "Guard": 64,
+            "Speed": 61,
+            "Stamina": 62,
+            "Guts": 61,
+            "Freedom": 6
+        }
+    }
+]

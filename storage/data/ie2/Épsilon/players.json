@@ -8,14 +8,6 @@
         "image": "https://static.wikia.nocookie.net/inazuma/images/8/8c/%28E%29_Dvalin.png/revision/latest?cb=20230821204928&path-prefix=es"
     },
     {
-        "name": "Dvalin",
-        "full_name": "Dave Quagmire",
-        "position": "Delantero",
-        "element": "Fuego",
-        "original_team": "Épsilon",
-        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fb/%28E-PLUS%29_Dvalin_%28DL%29.png/revision/latest?cb=20230821205839&path-prefix=es"
-    },
-    {
         "name": "Kenville",
         "full_name": "Craven Kenville",
         "position": "Defensa",
@@ -94,13 +86,5 @@
         "element": "Aire",
         "original_team": "Épsilon",
         "image": "https://static.wikia.nocookie.net/inazuma/images/0/07/%28E%29_Zell.png/revision/latest?cb=20230821204945&path-prefix=es"
-    },
-    {
-        "name": "Zell",
-        "full_name": "Zeke Valanche",
-        "position": "Portero",
-        "element": "Aire",
-        "original_team": "Épsilon",
-        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e3/%28E-PLUS%29_Zell_%28PR%29.png/revision/latest?cb=20230821205859&path-prefix=es"
     }
 ]

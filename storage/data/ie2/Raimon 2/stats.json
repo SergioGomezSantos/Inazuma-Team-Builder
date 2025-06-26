@@ -1,0 +1,521 @@
+[
+    {
+        "player": "Darren LaChance",
+        "ie1": {},
+        "ie2": {
+            "GP": 217,
+            "TP": 157,
+            "Kick": 60,
+            "Body": 76,
+            "Control": 66,
+            "Guard": 79,
+            "Speed": 56,
+            "Stamina": 71,
+            "Guts": 64,
+            "Freedom": 28
+        },
+        "ie3": {
+            "GP": 113,
+            "TP": 142,
+            "Kick": 59,
+            "Body": 54,
+            "Control": 66,
+            "Guard": 72,
+            "Speed": 56,
+            "Stamina": 60,
+            "Guts": 64,
+            "Freedom": 25
+        }
+    },
+    {
+        "player": "Mark Evans PR",
+        "ie1": {
+            "GP": 191,
+            "TP": 184,
+            "Kick": 72,
+            "Body": 72,
+            "Control": 70,
+            "Guard": 77,
+            "Speed": 68,
+            "Stamina": 69,
+            "Guts": 79,
+            "Freedom": 35
+        },
+        "ie2": {
+            "GP": 191,
+            "TP": 184,
+            "Kick": 72,
+            "Body": 72,
+            "Control": 70,
+            "Guard": 77,
+            "Speed": 68,
+            "Stamina": 69,
+            "Guts": 79,
+            "Freedom": 35
+        },
+        "ie3": {
+            "GP": 125,
+            "TP": 135,
+            "Kick": 53,
+            "Body": 53,
+            "Control": 49,
+            "Guard": 80,
+            "Speed": 52,
+            "Stamina": 69,
+            "Guts": 79,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Hurley Kane",
+        "ie1": {},
+        "ie2": {
+            "GP": 171,
+            "TP": 145,
+            "Kick": 72,
+            "Body": 70,
+            "Control": 71,
+            "Guard": 73,
+            "Speed": 74,
+            "Stamina": 71,
+            "Guts": 65,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 132,
+            "TP": 117,
+            "Kick": 75,
+            "Body": 70,
+            "Control": 51,
+            "Guard": 61,
+            "Speed": 51,
+            "Stamina": 71,
+            "Guts": 65,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Jack Wallside",
+        "ie1": {
+            "GP": 206,
+            "TP": 165,
+            "Kick": 62,
+            "Body": 68,
+            "Control": 62,
+            "Guard": 66,
+            "Speed": 49,
+            "Stamina": 54,
+            "Guts": 54,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 206,
+            "TP": 165,
+            "Kick": 62,
+            "Body": 68,
+            "Control": 62,
+            "Guard": 66,
+            "Speed": 49,
+            "Stamina": 54,
+            "Guts": 54,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 113,
+            "TP": 116,
+            "Kick": 40,
+            "Body": 53,
+            "Control": 62,
+            "Guard": 66,
+            "Speed": 49,
+            "Stamina": 65,
+            "Guts": 54,
+            "Freedom": 35
+        }
+    },
+    {
+        "player": "Scott Banyan",
+        "ie1": {},
+        "ie2": {
+            "GP": 198,
+            "TP": 160,
+            "Kick": 63,
+            "Body": 71,
+            "Control": 64,
+            "Guard": 64,
+            "Speed": 65,
+            "Stamina": 61,
+            "Guts": 70,
+            "Freedom": 23
+        },
+        "ie3": {
+            "GP": 126,
+            "TP": 114,
+            "Kick": 44,
+            "Body": 58,
+            "Control": 57,
+            "Guard": 63,
+            "Speed": 65,
+            "Stamina": 72,
+            "Guts": 50,
+            "Freedom": 31
+        }
+    },
+    {
+        "player": "Mark Evans DF",
+        "ie1": {
+            "GP": 191,
+            "TP": 184,
+            "Kick": 72,
+            "Body": 72,
+            "Control": 70,
+            "Guard": 77,
+            "Speed": 68,
+            "Stamina": 69,
+            "Guts": 79,
+            "Freedom": 35
+        },
+        "ie2": {
+            "GP": 191,
+            "TP": 184,
+            "Kick": 72,
+            "Body": 72,
+            "Control": 70,
+            "Guard": 77,
+            "Speed": 68,
+            "Stamina": 69,
+            "Guts": 79,
+            "Freedom": 35
+        },
+        "ie3": {
+            "GP": 125,
+            "TP": 135,
+            "Kick": 53,
+            "Body": 53,
+            "Control": 49,
+            "Guard": 80,
+            "Speed": 52,
+            "Stamina": 69,
+            "Guts": 79,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Bobby Shearer",
+        "ie1": {
+            "GP": 202,
+            "TP": 176,
+            "Kick": 76,
+            "Body": 61,
+            "Control": 72,
+            "Guard": 76,
+            "Speed": 60,
+            "Stamina": 72,
+            "Guts": 72,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 202,
+            "TP": 176,
+            "Kick": 76,
+            "Body": 61,
+            "Control": 72,
+            "Guard": 76,
+            "Speed": 60,
+            "Stamina": 72,
+            "Guts": 72,
+            "Freedom": 31
+        },
+        "ie3": {
+            "GP": 129,
+            "TP": 125,
+            "Kick": 56,
+            "Body": 61,
+            "Control": 62,
+            "Guard": 76,
+            "Speed": 60,
+            "Stamina": 72,
+            "Guts": 52,
+            "Freedom": 6
+        }
+    },
+    {
+        "player": "Jude Sharp",
+        "ie1": {
+            "GP": 191,
+            "TP": 180,
+            "Kick": 63,
+            "Body": 79,
+            "Control": 79,
+            "Guard": 79,
+            "Speed": 76,
+            "Stamina": 76,
+            "Guts": 68,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 191,
+            "TP": 180,
+            "Kick": 63,
+            "Body": 79,
+            "Control": 79,
+            "Guard": 79,
+            "Speed": 76,
+            "Stamina": 76,
+            "Guts": 68,
+            "Freedom": 34
+        },
+        "ie3": {
+            "GP": 123,
+            "TP": 126,
+            "Kick": 63,
+            "Body": 59,
+            "Control": 79,
+            "Guard": 52,
+            "Speed": 68,
+            "Stamina": 56,
+            "Guts": 68,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Erik Eagle",
+        "ie1": {
+            "GP": 154,
+            "TP": 197,
+            "Kick": 79,
+            "Body": 60,
+            "Control": 76,
+            "Guard": 64,
+            "Speed": 63,
+            "Stamina": 53,
+            "Guts": 71,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 154,
+            "TP": 197,
+            "Kick": 79,
+            "Body": 60,
+            "Control": 76,
+            "Guard": 64,
+            "Speed": 63,
+            "Stamina": 53,
+            "Guts": 71,
+            "Freedom": 36
+        },
+        "ie3": {
+            "GP": 130,
+            "TP": 128,
+            "Kick": 79,
+            "Body": 60,
+            "Control": 72,
+            "Guard": 64,
+            "Speed": 63,
+            "Stamina": 53,
+            "Guts": 71,
+            "Freedom": 0
+        }
+    },
+    {
+        "player": "Victoria Vanguard",
+        "ie1": {},
+        "ie2": {
+            "GP": 167,
+            "TP": 176,
+            "Kick": 70,
+            "Body": 69,
+            "Control": 78,
+            "Guard": 66,
+            "Speed": 52,
+            "Stamina": 69,
+            "Guts": 67,
+            "Freedom": 30
+        },
+        "ie3": {
+            "GP": 108,
+            "TP": 139,
+            "Kick": 61,
+            "Body": 51,
+            "Control": 62,
+            "Guard": 61,
+            "Speed": 52,
+            "Stamina": 61,
+            "Guts": 52,
+            "Freedom": 38
+        }
+    },
+    {
+        "player": "Suzette Hartland",
+        "ie1": {},
+        "ie2": {
+            "GP": 182,
+            "TP": 173,
+            "Kick": 62,
+            "Body": 65,
+            "Control": 70,
+            "Guard": 62,
+            "Speed": 69,
+            "Stamina": 60,
+            "Guts": 64,
+            "Freedom": 27
+        },
+        "ie3": {
+            "GP": 107,
+            "TP": 128,
+            "Kick": 65,
+            "Body": 60,
+            "Control": 59,
+            "Guard": 54,
+            "Speed": 60,
+            "Stamina": 52,
+            "Guts": 64,
+            "Freedom": 25
+        }
+    },
+    {
+        "player": "Shawn Frost",
+        "ie1": {},
+        "ie2": {
+            "GP": 190,
+            "TP": 140,
+            "Kick": 80,
+            "Body": 71,
+            "Control": 68,
+            "Guard": 68,
+            "Speed": 77,
+            "Stamina": 70,
+            "Guts": 57,
+            "Freedom": 24
+        },
+        "ie3": {
+            "GP": 160,
+            "TP": 140,
+            "Kick": 80,
+            "Body": 66,
+            "Control": 72,
+            "Guard": 68,
+            "Speed": 77,
+            "Stamina": 70,
+            "Guts": 57,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Axel Blaze",
+        "ie1": {
+            "GP": 200,
+            "TP": 176,
+            "Kick": 79,
+            "Body": 66,
+            "Control": 76,
+            "Guard": 64,
+            "Speed": 75,
+            "Stamina": 68,
+            "Guts": 60,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 200,
+            "TP": 176,
+            "Kick": 79,
+            "Body": 66,
+            "Control": 76,
+            "Guard": 64,
+            "Speed": 72,
+            "Stamina": 68,
+            "Guts": 60,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 133,
+            "TP": 123,
+            "Kick": 78,
+            "Body": 66,
+            "Control": 62,
+            "Guard": 58,
+            "Speed": 63,
+            "Stamina": 60,
+            "Guts": 60,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Byron Love",
+        "ie1": {
+            "GP": 167,
+            "TP": 184,
+            "Kick": 79,
+            "Body": 69,
+            "Control": 77,
+            "Guard": 70,
+            "Speed": 72,
+            "Stamina": 68,
+            "Guts": 67,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 167,
+            "TP": 184,
+            "Kick": 79,
+            "Body": 69,
+            "Control": 77,
+            "Guard": 70,
+            "Speed": 72,
+            "Stamina": 68,
+            "Guts": 67,
+            "Freedom": 23
+        },
+        "ie3": {
+            "GP": 103,
+            "TP": 132,
+            "Kick": 79,
+            "Body": 69,
+            "Control": 77,
+            "Guard": 59,
+            "Speed": 61,
+            "Stamina": 49,
+            "Guts": 52,
+            "Freedom": 27
+        }
+    },
+    {
+        "player": "William Glass",
+        "ie1": {
+            "GP": 147,
+            "TP": 168,
+            "Kick": 56,
+            "Body": 51,
+            "Control": 68,
+            "Guard": 57,
+            "Speed": 56,
+            "Stamina": 53,
+            "Guts": 60,
+            "Freedom": 14
+        },
+        "ie2": {
+            "GP": 147,
+            "TP": 168,
+            "Kick": 56,
+            "Body": 51,
+            "Control": 68,
+            "Guard": 57,
+            "Speed": 56,
+            "Stamina": 53,
+            "Guts": 60,
+            "Freedom": 14
+        },
+        "ie3": {
+            "GP": 98,
+            "TP": 144,
+            "Kick": 56,
+            "Body": 51,
+            "Control": 68,
+            "Guard": 57,
+            "Speed": 56,
+            "Stamina": 53,
+            "Guts": 60,
+            "Freedom": 22
+        }
+    }
+]

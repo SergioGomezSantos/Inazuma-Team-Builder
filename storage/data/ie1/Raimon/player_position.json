@@ -1,66 +1,66 @@
 [
     {
-        "player_name": "Mark",
+        "player": "Mark Evans",
         "position_id": "pos-0"
     },
     {
-        "player_name": "Nathan",
+        "player": "Nathan Swift",
         "position_id": "pos-1"
     },
     {
-        "player_name": "Jack",
+        "player": "Jack Wallside",
         "position_id": "pos-2"
     },
     {
-        "player_name": "Bobby",
+        "player": "Bobby Shearer",
         "position_id": "pos-3"
     },
     {
-        "player_name": "Tod",
+        "player": "Tod Ironside",
         "position_id": "pos-4"
     },
     {
-        "player_name": "Timmy",
+        "player": "Tim Saunders",
         "position_id": "pos-5"
     },
     {
-        "player_name": "Jude",
+        "player": "Jude Sharp",
         "position_id": "pos-6"
     },
     {
-        "player_name": "Erik",
+        "player": "Erik Eagle",
         "position_id": "pos-7"
     },
     {
-        "player_name": "Max",
+        "player": "Maxwell Carson",
         "position_id": "pos-8"
     },
     {
-        "player_name": "Kevin",
+        "player": "Kevin Dragonfly",
         "position_id": "pos-9"
     },
     {
-        "player_name": "Axel",
+        "player": "Axel Blaze",
         "position_id": "pos-10"
     },
     {
-        "player_name": "Jim",
+        "player": "Jim Wraith",
         "position_id": "bench-0"
     },
     {
-        "player_name": "Steve",
+        "player": "Steve Grim",
         "position_id": "bench-1"
     },
     {
-        "player_name": "Sam",
+        "player": "Sam Kincaid",
         "position_id": "bench-2"
     },
     {
-        "player_name": "Willy",
+        "player": "William Glass",
         "position_id": "bench-3"
     },
     {
-        "player_name": "Peabody",
+        "player": "Paul Peabody",
         "position_id": "bench-4"
     }
 ]

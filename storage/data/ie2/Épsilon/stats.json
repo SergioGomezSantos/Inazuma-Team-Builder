@@ -1,0 +1,310 @@
+[
+    {
+        "player": "Dave Quagmire",
+        "ie1": {},
+        "ie2": {
+            "GP": 195,
+            "TP": 72,
+            "Kick": 80,
+            "Body": 70,
+            "Control": 57,
+            "Guard": 60,
+            "Speed": 60,
+            "Stamina": 69,
+            "Guts": 54,
+            "Freedom": 21
+        },
+        "ie3": {
+            "GP": 124,
+            "TP": 128,
+            "Kick": 70,
+            "Body": 70,
+            "Control": 57,
+            "Guard": 60,
+            "Speed": 60,
+            "Stamina": 51,
+            "Guts": 50,
+            "Freedom": 20
+        }
+    },
+    {
+        "player": "Craven Kenville",
+        "ie1": {},
+        "ie2": {
+            "GP": 173,
+            "TP": 69,
+            "Kick": 59,
+            "Body": 53,
+            "Control": 64,
+            "Guard": 52,
+            "Speed": 64,
+            "Stamina": 70,
+            "Guts": 60,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 107,
+            "TP": 115,
+            "Kick": 59,
+            "Body": 53,
+            "Control": 64,
+            "Guard": 52,
+            "Speed": 64,
+            "Stamina": 60,
+            "Guts": 60,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Anna Mole",
+        "ie1": {},
+        "ie2": {
+            "GP": 151,
+            "TP": 76,
+            "Kick": 71,
+            "Body": 59,
+            "Control": 73,
+            "Guard": 56,
+            "Speed": 76,
+            "Stamina": 62,
+            "Guts": 58,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 121,
+            "TP": 134,
+            "Kick": 58,
+            "Body": 57,
+            "Control": 63,
+            "Guard": 54,
+            "Speed": 66,
+            "Stamina": 60,
+            "Guts": 54,
+            "Freedom": 25
+        }
+    },
+    {
+        "player": "Kayson Wattever",
+        "ie1": {},
+        "ie2": {
+            "GP": 162,
+            "TP": 84,
+            "Kick": 67,
+            "Body": 65,
+            "Control": 68,
+            "Guard": 60,
+            "Speed": 68,
+            "Stamina": 70,
+            "Guts": 64,
+            "Freedom": 15
+        },
+        "ie3": {
+            "GP": 103,
+            "TP": 112,
+            "Kick": 62,
+            "Body": 65,
+            "Control": 58,
+            "Guard": 60,
+            "Speed": 59,
+            "Stamina": 56,
+            "Guts": 55,
+            "Freedom": 6
+        }
+    },
+    {
+        "player": "Chris Tytan",
+        "ie1": {},
+        "ie2": {
+            "GP": 193,
+            "TP": 77,
+            "Kick": 70,
+            "Body": 64,
+            "Control": 54,
+            "Guard": 52,
+            "Speed": 60,
+            "Stamina": 78,
+            "Guts": 74,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 118,
+            "TP": 104,
+            "Kick": 70,
+            "Body": 64,
+            "Control": 54,
+            "Guard": 52,
+            "Speed": 57,
+            "Stamina": 61,
+            "Guts": 64,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Mads Hatter",
+        "ie1": {},
+        "ie2": {
+            "GP": 127,
+            "TP": 93,
+            "Kick": 56,
+            "Body": 56,
+            "Control": 63,
+            "Guard": 52,
+            "Speed": 60,
+            "Stamina": 57,
+            "Guts": 60,
+            "Freedom": 13
+        },
+        "ie3": {
+            "GP": 116,
+            "TP": 118,
+            "Kick": 63,
+            "Body": 56,
+            "Control": 63,
+            "Guard": 52,
+            "Speed": 60,
+            "Stamina": 57,
+            "Guts": 60,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Karen Ripton",
+        "ie1": {},
+        "ie2": {
+            "GP": 129,
+            "TP": 85,
+            "Kick": 59,
+            "Body": 71,
+            "Control": 61,
+            "Guard": 56,
+            "Speed": 72,
+            "Stamina": 53,
+            "Guts": 62,
+            "Freedom": 18
+        },
+        "ie3": {
+            "GP": 107,
+            "TP": 129,
+            "Kick": 59,
+            "Body": 62,
+            "Control": 58,
+            "Guard": 56,
+            "Speed": 65,
+            "Stamina": 53,
+            "Guts": 56,
+            "Freedom": 19
+        }
+    },
+    {
+        "player": "Yakker Plantsworm",
+        "ie1": {},
+        "ie2": {
+            "GP": 160,
+            "TP": 69,
+            "Kick": 53,
+            "Body": 68,
+            "Control": 75,
+            "Guard": 63,
+            "Speed": 71,
+            "Stamina": 61,
+            "Guts": 68,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 119,
+            "TP": 117,
+            "Kick": 53,
+            "Body": 68,
+            "Control": 70,
+            "Guard": 63,
+            "Speed": 59,
+            "Stamina": 61,
+            "Guts": 52,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Carrie McCuring",
+        "ie1": {},
+        "ie2": {
+            "GP": 149,
+            "TP": 76,
+            "Kick": 70,
+            "Body": 58,
+            "Control": 61,
+            "Guard": 52,
+            "Speed": 71,
+            "Stamina": 53,
+            "Guts": 53,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 112,
+            "TP": 132,
+            "Kick": 67,
+            "Body": 53,
+            "Control": 61,
+            "Guard": 52,
+            "Speed": 64,
+            "Stamina": 53,
+            "Guts": 53,
+            "Freedom": 37
+        }
+    },
+    {
+        "player": "Ronny Metcalf",
+        "ie1": {},
+        "ie2": {
+            "GP": 149,
+            "TP": 72,
+            "Kick": 70,
+            "Body": 60,
+            "Control": 71,
+            "Guard": 63,
+            "Speed": 67,
+            "Stamina": 65,
+            "Guts": 64,
+            "Freedom": 14
+        },
+        "ie3": {
+            "GP": 114,
+            "TP": 116,
+            "Kick": 63,
+            "Body": 60,
+            "Control": 71,
+            "Guard": 54,
+            "Speed": 67,
+            "Stamina": 55,
+            "Guts": 59,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Zeke Valanche",
+        "ie1": {},
+        "ie2": {
+            "GP": 180,
+            "TP": 72,
+            "Kick": 69,
+            "Body": 64,
+            "Control": 52,
+            "Guard": 75,
+            "Speed": 63,
+            "Stamina": 68,
+            "Guts": 60,
+            "Freedom": 22
+        },
+        "ie3": {
+            "GP": 125,
+            "TP": 128,
+            "Kick": 58,
+            "Body": 57,
+            "Control": 52,
+            "Guard": 75,
+            "Speed": 63,
+            "Stamina": 68,
+            "Guts": 60,
+            "Freedom": 9
+        }
+    }
+]

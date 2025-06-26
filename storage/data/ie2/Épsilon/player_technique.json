@@ -1,0 +1,230 @@
+[
+    {
+        "player": "Dave Quagmire",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Agujero de Gusano",
+                "with": []
+            },
+            {
+                "name": "Destrozataladros",
+                "with": []
+            },
+            {
+                "name": "Lanza de Odín",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Agujero de Gusano",
+            "Destrozataladros",
+            "Robo Rápido",
+            "Gravitación"
+        ],
+        "ie3": [
+            "Lanza de Odín",
+            "Coz",
+            "Espejismo de Balón",
+            "Rayo de Ganímedes"
+        ]
+    },
+    {
+        "player": "Craven Kenville",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Teleportación",
+            "Gravedad Grave",
+            "Remolino Cortante",
+            "Cinto Astral"
+        ],
+        "ie3": [
+            "Teleportación",
+            "Gravedad Grave",
+            "Tiro Cegador",
+            "Cinto Astral"
+        ]
+    },
+    {
+        "player": "Anna Mole",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Teleportación",
+            "Flash de Fotones",
+            "Agujero de Gusano",
+            "Destrozataladros"
+        ],
+        "ie3": [
+            "Teleportación",
+            "Pompa de Chicle",
+            "Lanzallamas",
+            "Destrozataladros"
+        ]
+    },
+    {
+        "player": "Kayson Wattever",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Gravedad Grave", "Cinto Astral", "Niebla Venenosa", "Coz"],
+        "ie3": ["Gravedad Grave", "Cinto Astral", "Tornado Venenoso", "Coz"]
+    },
+    {
+        "player": "Chris Tytan",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Gravitación", "Sismo", "Gravedad Grave", "Robo Planeta"],
+        "ie3": ["Gravitación", "Sismo", "Gravedad Grave", "Tren Loco"]
+    },
+    {
+        "player": "Mads Hatter",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Lluvia de Meteoros",
+            "Flash de Fotones",
+            "Ataque Afilado",
+            "Remate Asalto"
+        ],
+        "ie3": [
+            "Lluvia de Meteoros",
+            "Bombazo",
+            "Flash de Fotones",
+            "Remate Asalto"
+        ]
+    },
+    {
+        "player": "Karen Ripton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Astro Remate",
+            "Lluvia de Meteoros",
+            "Olor Embriagador",
+            "Cruz del Sur"
+        ],
+        "ie3": [
+            "Astro Remate",
+            "Lluvia de Meteoros",
+            "Tirachinas",
+            "Cruz del Sur"
+        ]
+    },
+    {
+        "player": "Yakker Plantsworm",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Lluvia de Meteoros",
+            "Flash de Fotones",
+            "Cabezazo Yoyó",
+            "Rayo de Ganímedes"
+        ],
+        "ie3": [
+            "Lluvia de Meteoros",
+            "Flash de Fotones",
+            "Rayo de Ganímedes",
+            "Disparo Cósmico"
+        ]
+    },
+    {
+        "player": "Carrie McCuring",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Lluvia de Meteoros",
+                "with": []
+            },
+            {
+                "name": "Remate de Gaia",
+                "with": ["Metron", "Zell"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Remate de Gaia",
+            "Lluvia de Meteoros",
+            "Lecho de Rosas",
+            "Lanza de Odín"
+        ],
+        "ie3": [
+            "Tornado Inverso",
+            "Lluvia de Meteoros",
+            "Cañonazo",
+            "Lanza de Odín"
+        ]
+    },
+    {
+        "player": "Ronny Metcalf",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Remate de Gaia",
+                "with": ["Mercury", "Zell"]
+            },
+            {
+                "name": "Lluvia de Meteoros",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Remate de Gaia",
+            "Teleportación",
+            "Pase Cruzado",
+            "Astro Remate"
+        ],
+        "ie3": ["Remate de Gaia", "Teleportación", "Piscinazo", "Astro Remate"]
+    },
+    {
+        "player": "Zeke Valanche",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Agujero de Gusano",
+                "with": []
+            },
+            {
+                "name": "Rayo de Ganímedes",
+                "with": []
+            },
+            {
+                "name": "Remate de Gaia",
+                "with": ["Mercury", "Metron"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Rayo de Ganímedes",
+            "Remate de Gaia",
+            "Agujero de Gusano",
+            "Muro Dimensional"
+        ],
+        "ie3": [
+            "Rayo de Ganímedes",
+            "Disparo con Rebotes",
+            "Triángulo Z",
+            "Agujero de Gusano"
+        ]
+    }
+]

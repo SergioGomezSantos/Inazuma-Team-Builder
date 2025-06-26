@@ -72,6 +72,7 @@ class ImportData extends Command
                 'Mary Times Memorial',
                 'Tormenta de Géminis',
                 'Épsilon',
+                'Épsilon Plus',
                 'Prominence',
                 'Diamond',
                 'Caos',
@@ -197,7 +198,7 @@ class ImportData extends Command
 
                     if ($statEntry) {
                         foreach (['ie1', 'ie2', 'ie3'] as $v) {
-                            if (isset($statEntry[$v])) {
+                            if (!empty($statEntry[$v]) && is_array($statEntry[$v])) {
                                 $statValues = $statEntry[$v];
                                 $statValues['version'] = $v;
                                 $statValues['player_id'] = $player->id;
@@ -212,8 +213,8 @@ class ImportData extends Command
                 if (File::exists($positionsPath)) {
                     $positions = json_decode(File::get($positionsPath), true);
                     foreach ($positions as $pos) {
-                        $player = Player::where('name', $pos['player_name'])
-                            ->orderBy('created_at', 'desc')->first();
+                        $player = Player::where('full_name', $pos['player'])
+                            ->where('original_team', $team->name)->first();
 
                         if ($player) {
                             if (!$team->players()->where('player_id', $player->id)->exists()) {
@@ -229,7 +230,7 @@ class ImportData extends Command
                     $playersTechniques = json_decode(File::get($techniquesPath), true);
                     foreach ($playersTechniques as $playerTech) {
                         $player = Player::where('full_name', $playerTech['player'])
-                            ->orderBy('created_at', 'desc')->first();
+                            ->where('original_team', $team->name)->first();
                         if (!$player) {
                             $this->warn("⚠️ Jugador {$playerTech['player']} no encontrado para técnicas");
                             continue;

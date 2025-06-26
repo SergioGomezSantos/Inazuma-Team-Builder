@@ -1,0 +1,46 @@
+[
+    {
+        "player": "Gordon Star",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Grant Icewater",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Connor Shuttle",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Pat Box",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Jim Landing",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Charles Riverboat",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Gregory Saturn",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Jordan Greenway",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Izzy Jupiter",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Rhona Countdown",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Dylan Bluemoon",
+        "position_id": "pos-10"
+    }
+]

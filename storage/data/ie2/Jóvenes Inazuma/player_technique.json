@@ -1,0 +1,171 @@
+[
+    {
+        "player": "Seymour Hillman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Fuerza Defensiva",
+            "Mano Celestial",
+            "Despeje Explosivo",
+            "Trimano Celestial"
+        ],
+        "ie3": [
+            "Fuerza Defensiva",
+            "Mano Celestial",
+            "Trimano Celestial",
+            "Millón de Manos"
+        ]
+    },
+    {
+        "player": "Charles Island",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Casanova", "Ciclón", "Ciclón Doble", "Dúo Magma"],
+        "ie3": ["Casanova", "Ciclón Doble", "Ultra Lunar", "Dúo Magma"]
+    },
+    {
+        "player": "Garret Hairtown",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Corte Giratorio",
+            "Pájaro de Fuego",
+            "Ciclón",
+            "Voltereta Circense"
+        ],
+        "ie3": [
+            "Corte Giratorio",
+            "Remolino Cortante",
+            "Pájaro de Fuego",
+            "Voltereta Circense"
+        ]
+    },
+    {
+        "player": "Arthur Sweet",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Piscinazo", "Remate Dragón", "El Muro", "Remate Guiverno"],
+        "ie3": ["Piscinazo", "Remate Dragón", "Remate Guiverno", "Gran Sabio"]
+    },
+    {
+        "player": "Peter Mildred",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Ataque Afilado",
+            "Espejismo",
+            "Zona de Seguridad",
+            "Dúo Magma"
+        ],
+        "ie3": ["Ataque Afilado", "Aikido", "Zona de Seguridad", "Dúo Magma"]
+    },
+    {
+        "player": "Josh Nathaniel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Zigzag Chispeante", "Coz", "Telaraña", "Paipay Gigante"],
+        "ie3": [
+            "Zigzag Chispeante",
+            "Telaraña",
+            "Paipay Gigante",
+            "Potenciación"
+        ]
+    },
+    {
+        "player": "Edward Gladstone",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Cañón Dragón", "Pared Solitaria", "Bombazo", "Apisonadora"],
+        "ie3": ["Cañón Dragón", "Pared Solitaria", "Aikido", "Apisonadora"]
+    },
+    {
+        "player": "Tyler Thomas",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Truco de Magia",
+            "Escáner Ataque",
+            "Bombazo",
+            "Bomba Acrobática"
+        ],
+        "ie3": [
+            "Truco de Magia",
+            "Descodificación",
+            "Bombazo",
+            "Bomba Acrobática"
+        ]
+    },
+    {
+        "player": "Joseph Yosemite",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Trampolín Relámpago",
+            "Ruptura Relámpago",
+            "Luna Creciente",
+            "Remate en V"
+        ],
+        "ie3": [
+            "Torbellino Trampolín",
+            "Trampolín Relámpago",
+            "Ruptura Relámpago",
+            "Remate en V"
+        ]
+    },
+    {
+        "player": "Ian Suffolk",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Pájaro de Fuego",
+            "Corte Flamígero",
+            "Bateo Total",
+            "Zigzag Chispeante"
+        ],
+        "ie3": [
+            "Pájaro de Fuego",
+            "Corte Flamígero",
+            "Zigzag Chispeante",
+            "Fénix"
+        ]
+    },
+    {
+        "player": "Constant Builder",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Lance Crítico",
+            "Súper Relámpago",
+            "Corte Flamígero",
+            "Dragón Terrestre"
+        ],
+        "ie3": [
+            "Lance Crítico",
+            "Súper Relámpago",
+            "Avance Flamígero",
+            "Neo Tiro Galáctico"
+        ]
+    }
+]

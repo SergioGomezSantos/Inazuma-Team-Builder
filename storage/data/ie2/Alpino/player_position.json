@@ -1,0 +1,66 @@
+[
+    {
+        "player": "Adam Ropes",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Spike Gleeson",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Shawn Froste DF",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Kerry Bootgaiter",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Milton Bindings",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Sean Snowfield",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Maddox Rock",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Roland Climbstein",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Robert Skipolson",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Joaquine Downtown",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Quentin Rackner",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Trent Peggs",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Martin Ursus",
+        "position_id": "bench-1"
+    },
+    {
+        "player": "Pete Bogg",
+        "position_id": "bench-2"
+    },
+    {
+        "player": "Gem Strata",
+        "position_id": "bench-3"
+    },
+    {
+        "player": "Horace Onlign",
+        "position_id": "bench-4"
+    }
+]

@@ -176,12 +176,7 @@
                 "with": ["Tod", "Mark"]
             }
         ],
-        "anime2": [
-            {
-                "name": "La Tierra",
-                "with": []
-            }
-        ],
+        "anime2": [],
         "anime3": [
             {
                 "name": "Torbellino Trampolín",
@@ -574,10 +569,6 @@
             {
                 "name": "Triángulo Letal 2",
                 "with": ["Jude", "Mark"]
-            },
-            {
-                "name": "La Tierra",
-                "with": []
             }
         ],
         "anime3": [
@@ -637,10 +628,6 @@
             {
                 "name": "Triángulo Letal 2",
                 "with": ["Mark", "Bobby"]
-            },
-            {
-                "name": "La Tierra",
-                "with": []
             }
         ],
         "anime3": [
@@ -665,7 +652,7 @@
         ],
         "ie2": [
             "Espejismo de Balón",
-            "remate Combinado",
+            "Remate Combinado",
             "Ruptura Relámpago",
             "Triángulo Letal 2"
         ],
@@ -711,10 +698,6 @@
             },
             {
                 "name": "Remate en Espiral",
-                "with": []
-            },
-            {
-                "name": "La Tierra",
                 "with": []
             }
         ],

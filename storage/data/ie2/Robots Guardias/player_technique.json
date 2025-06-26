@@ -1,0 +1,156 @@
+[
+    {
+        "player": "Robot S",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Muralla de Escudos", "Despeje Cohete"],
+        "ie3": [
+            "Mano Celestial",
+            "Muralla de Escudos",
+            "La Tierra",
+            "Manos Infinitas"
+        ]
+    },
+    {
+        "player": "Robot P",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Remate Asalto", "Escáner Ataque"],
+        "ie3": [
+            "Remate Asalto",
+            "Campo Torbellino",
+            "Gravitación",
+            "Agujero de Gusano"
+        ]
+    },
+    {
+        "player": "Robot T",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Zona de Seguridad"],
+        "ie3": [
+            "Zona de Seguridad",
+            "Paisaje Helado",
+            "Lanza de Odín",
+            "Pingüino Espacial"
+        ]
+    },
+    {
+        "player": "Robot V",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Remate Asalto", "Escáner Ataque"],
+        "ie3": [
+            "Remate Asalto",
+            "Escáner Ataque",
+            "Gravedad Grave",
+            "Tormenta de Fuego"
+        ]
+    },
+    {
+        "player": "Robot C",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Zona de Seguridad"],
+        "ie3": [
+            "Acelerrelámpago",
+            "Torre Inexpugnable",
+            "Baile de Mariposas",
+            "Zona de Seguridad"
+        ]
+    },
+    {
+        "player": "Robot O",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Escáner Ataque"],
+        "ie3": [
+            "Escáner Ataque",
+            "Super Puño Invencible",
+            "Remate Guiverno",
+            "Pingüino Emperador Nº 1"
+        ]
+    },
+    {
+        "player": "Robot B",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Escáner Defensa"],
+        "ie3": [
+            "Escáner Defensa",
+            "Mano Mágica",
+            "Cañon de Meteoritos",
+            "Remate Tsunami"
+        ]
+    },
+    {
+        "player": "Robot G",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Escáner Ataque"],
+        "ie3": [
+            "Escáner Ataque",
+            "Rayo de Ganímedes",
+            "Lluvia de Meteoros",
+            "Destrozataladros"
+        ]
+    },
+    {
+        "player": "Robot K",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Descodificación"],
+        "ie3": [
+            "Descodificación",
+            "Robo Planeta",
+            "Astro Remate",
+            "Aullido de Lobo"
+        ]
+    },
+    {
+        "player": "Robot F",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Chut de los 200 Toques"],
+        "ie3": [
+            "Chut de los 200 Toques",
+            "Ventisca Eterna",
+            "Teleportación",
+            "Triángulo Letal 2"
+        ]
+    },
+    {
+        "player": "Robot L",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Remate de Seguridad"],
+        "ie3": [
+            "Remate de Seguridad",
+            "Cruz del Sur",
+            "Baile de Llamas",
+            "Supernova"
+        ]
+    }
+]

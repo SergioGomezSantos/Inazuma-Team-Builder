@@ -1,0 +1,269 @@
+[
+    {
+        "player": "Joseph King",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Colmillo de Pantera",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Lance Crítico",
+            "Colmillo de Pantera",
+            "Escudo de Fuerza",
+            "Escudo de Fuerza Total"
+        ],
+        "ie3": [
+            "Mejor Garantía",
+            "Colmillo de Pantera",
+            "Escudo de Fuerza",
+            "Escudo de Fuerza Total"
+        ]
+    },
+    {
+        "player": "Rowan Beltzer",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Ciclón", "Ciclón Doble", "Chut Granada", "Tornado Inverso"],
+        "ie3": ["Ciclón", "Ciclón Doble", "Tornado Inverso", "Tornado Doble"]
+    },
+    {
+        "player": "Blade Healen",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Barrido Defensivo", "Coz 2", "Sorpresa", "Pared Solitaria"],
+        "ie3": ["Barrido Defensivo", "Coz 2", "Sorpresa", "Regate Múltiple"]
+    },
+    {
+        "player": "Argie Bargie",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Ciclón Doble",
+                "with": ["Hatch"]
+            },
+            {
+                "name": "Segadora",
+                "with": ["Cummings"]
+            },
+            {
+                "name": "Muralla Infinita Total",
+                "with": ["Hillvaley", "King"]
+            }
+        ],
+        "ie1": [],
+        "ie2": ["Recobro", "Embestida", "Remate Tarzán", "Mega Terremoto"],
+        "ie3": ["Recobro", "Barrido Defensivo", "Ciclón Doble", "Tren Loco"]
+    },
+    {
+        "player": "Lee Bamboo",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Barrido Defensivo",
+            "Coz 2",
+            "Corte Giratorio",
+            "Acelerrelámpago"
+        ],
+        "ie3": ["Barrido Defensivo", "Coz", "Corte Giratorio", "Coz 2"]
+    },
+    {
+        "player": "Eton Messer",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Chut de los 100 Toques",
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Descodificación"
+        ],
+        "ie3": [
+            "Chut de los 200 Toques",
+            "Escáner Ataque",
+            "Escáner Defensa",
+            "Descodificación"
+        ]
+    },
+    {
+        "player": "Jonah Spark",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Gravedad",
+            "Espejismo de Balón",
+            "Tornado Venenoso",
+            "Ataque Sombrío"
+        ],
+        "ie3": [
+            "Gravedad",
+            "Espejismo de Balón",
+            "Tornado Venenoso",
+            "Gravedad Grave"
+        ]
+    },
+    {
+        "player": "Sue Sparrow",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Tornado Inverso",
+            "Ciclón",
+            "Niebla Venenosa",
+            "Regate Múltiple"
+        ],
+        "ie3": [
+            "Tornado Inverso",
+            "Barrido Defensivo",
+            "Lluvia de Meteoros",
+            "Dúo Magma"
+        ]
+    },
+    {
+        "player": "Riley Jamm",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Chut de los 100 Toques",
+            "Chut de los 200 Toques",
+            "Coz",
+            "Triángulo Letal"
+        ],
+        "ie3": [
+            "Chut de los 100 Toques",
+            "Chut de los 200 Toques",
+            "Voltereta Circense",
+            "Triángulo Letal"
+        ]
+    },
+    {
+        "player": "Caleb Stonewall",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["¡Vamos!", "Empuje Trillizo", "Coz 2", "Barrido Defensivo"],
+        "ie3": ["¡Vamos!", "Empuje Trillizo", "Coz 2", "Engaño Yoyó"]
+    },
+    {
+        "player": "David Samford",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Fuerza Ofensiva",
+            "Pingüino Emperador Nº 1",
+            "Coz",
+            "Pingüino Emperador Nº 2"
+        ],
+        "ie3": [
+            "Fuerza Ofensiva",
+            "Pingüino Emperador Nº 1",
+            "Tacón Infernal",
+            "Pingüino Emperador Nº 2"
+        ]
+    },
+    {
+        "player": "Jimbo Cellar",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Barrido Defensivo",
+            "Campo de Fuerza Defensivo",
+            "Escudo de Fuerza Total",
+            "Corte Giratorio"
+        ],
+        "ie3": [
+            "Barrido Defensivo",
+            "Campo de Fuerza Defensivo",
+            "Tirachinas",
+            "Espada Defensora"
+        ]
+    },
+    {
+        "player": "Zenn Wildhorse",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Equilibrismo",
+            "Tiro Fantasma",
+            "Tornado Inverso",
+            "Armadillo Circense"
+        ],
+        "ie3": [
+            "Equilibrismo",
+            "Tiro Fantasma",
+            "Espejismo de Balón",
+            "Armadillo Circense"
+        ]
+    },
+    {
+        "player": "Dawson Little",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Robo Rápido",
+            "Escáner Defensa",
+            "Zigzag Chispeante",
+            "Ciclón"
+        ],
+        "ie3": [
+            "Robo Rápido",
+            "Escáner Defensa",
+            "Zigzag Chispeante",
+            "Apisonadora"
+        ]
+    },
+    {
+        "player": "Cosimo Beck",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Acelerón", "Luna Creciente", "Bateo Total", "Golf Total"],
+        "ie3": ["Bateo Total", "Golf Total", "Engaño Torero", "Golpes de Luz"]
+    },
+    {
+        "player": "Maston Color",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Truco de Magia",
+            "Barrido Defensivo",
+            "Super Pisotón de Sumo",
+            "Regate Topo"
+        ],
+        "ie3": [
+            "Truco de Magia",
+            "Gafe",
+            "Super Pisotón de Sumo",
+            "Regate Topo"
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Dvalin",
+        "full_name": "Dave Quagmire PR",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/50/%28E-PLUS%29_Dvalin_%28PR%29.png/revision/latest?cb=20230821210301&path-prefix=es"
+    },
+    {
+        "name": "Dvalin",
+        "full_name": "Dave Quagmire DL",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fb/%28E-PLUS%29_Dvalin_%28DL%29.png/revision/latest?cb=20230821205839&path-prefix=es"
+    },
+    {
+        "name": "Kenville",
+        "full_name": "Craven Kenville",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/ce/%28E-PLUS%29_Kenville.png/revision/latest?cb=20230821205845&path-prefix=es"
+    },
+    {
+        "name": "Mole",
+        "full_name": "Anna Mole",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/74/%28E-PLUS%29_Mole.png/revision/latest?cb=20230821205852&path-prefix=es"
+    },
+    {
+        "name": "Kayson",
+        "full_name": "Kayson Wattever",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/24/%28E-PLUS%29_Kayson.png/revision/latest?cb=20230821205843&path-prefix=es"
+    },
+    {
+        "name": "Tytan",
+        "full_name": "Chris Tytan",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a5/%28E-PLUS%29_Tytan.png/revision/latest?cb=20230821205856&path-prefix=es"
+    },
+    {
+        "name": "Fedora",
+        "full_name": "Mads Hatter",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/55/%28E-PLUS%29_Fedora.png/revision/latest?cb=20230821205842&path-prefix=es"
+    },
+    {
+        "name": "Krypto",
+        "full_name": "Karen Ripton",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b5/%28E-PLUS%29_Krypto.png/revision/latest?cb=20230821205847&path-prefix=es"
+    },
+    {
+        "name": "Sworm",
+        "full_name": "Yakker Plantsworm",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/69/%28E-PLUS%29_Sworm.png/revision/latest?cb=20230821205854&path-prefix=es"
+    },
+    {
+        "name": "Mercury",
+        "full_name": "Carrie McCuring",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e7/%28E-PLUS%29_Mercury.png/revision/latest?cb=20230821205849&path-prefix=es"
+    },
+    {
+        "name": "Metron",
+        "full_name": "Ronny Metcalf",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/39/%28E-PLUS%29_Metron.png/revision/latest?cb=20230821205850&path-prefix=es"
+    },
+    {
+        "name": "Zell",
+        "full_name": "Zeke Valanche DL",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5a/%28E-PLUS%29_Zell_%28DL%29.png/revision/latest?cb=20230821205857&path-prefix=es"
+    },
+    {
+        "name": "Zell",
+        "full_name": "Zeke Valanche PR",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Épsilon Plus",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e3/%28E-PLUS%29_Zell_%28PR%29.png/revision/latest?cb=20230821205859&path-prefix=es"
+    }
+]

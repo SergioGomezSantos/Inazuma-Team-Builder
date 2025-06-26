@@ -1,0 +1,66 @@
+[
+    {
+        "player": "Rocky Black",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Hurley Kane",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Chad Taylor",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Mackenzie Fordline",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Victor Hills",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Hector Redding",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Cadence Soundtown",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Joston Easton",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Dora Delight",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Tom Contented",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Spring Millpond",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Gaston Cooley",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Bevan Breakfast",
+        "position_id": "bench-1"
+    },
+    {
+        "player": "Jack Griddle",
+        "position_id": "bench-2"
+    },
+    {
+        "player": "Stan Andagi",
+        "position_id": "bench-3"
+    },
+    {
+        "player": "Coral Talent",
+        "position_id": "bench-4"
+    }
+]

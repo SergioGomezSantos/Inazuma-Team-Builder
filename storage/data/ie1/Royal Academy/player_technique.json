@@ -232,6 +232,39 @@
         ]
     },
     {
+        "player": "Jude Sharp",
+        "anime1": [
+            {
+                "name": "Remate Combinado",
+                "with": ["Samford"]
+            },
+            {
+                "name": "Pingüino Emperador Nº 2",
+                "with": ["Samford", "Hatch"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Espejismo de Balón",
+            "Remate Combinado",
+            "Ruptura Relámpago",
+            "Corte Giratorio"
+        ],
+        "ie2": [
+            "Espejismo de Balón",
+            "Corte Giratorio",
+            "Remate Combinado",
+            "Empuje Trillizo"
+        ],
+        "ie3": [
+            "Ruptura Relámpago",
+            "Triángulo Letal 2",
+            "Aikido",
+            "Corte Giratorio"
+        ]
+    },
+    {
         "player": "David Samford",
         "anime1": [
             {

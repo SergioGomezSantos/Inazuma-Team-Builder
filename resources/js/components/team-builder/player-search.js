@@ -11,7 +11,7 @@ export default class PlayerSearch {
     }
 
     static autoFillTeamName() {
-        if (savedTeamId >= 1 && savedTeamId <= 28) {
+        if (savedTeamId >= 1 && savedTeamId <= 33) {
             this.searchInput.value = savedTeamName;
             this.filterPlayers();
         }
@@ -30,6 +30,11 @@ export default class PlayerSearch {
         const searchTerm = this.searchInput.value.toLowerCase().trim();
         let anyChange = false;
 
+        // Acentos
+        const normalizedSearchTerm = searchTerm
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "");
+
         const positionMap = {
             pr: "portero",
             df: "defensa",
@@ -42,15 +47,37 @@ export default class PlayerSearch {
         const translatedPosition = positionMap[searchTerm] || null;
 
         this.playerItems.forEach((player) => {
+            // Normalizar y convertir a minúsculas los datos de cada jugador
+            const playerName = player.dataset.name
+                .normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "")
+                .toLowerCase();
+            const playerFullName = player.dataset.fullname
+                .normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "")
+                .toLowerCase();
+            const playerTeam = player.dataset.team
+                .normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "")
+                .toLowerCase();
+            const playerPosition = player.dataset.position
+                .normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "")
+                .toLowerCase();
+            const playerElement = player.dataset.element
+                .normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "")
+                .toLowerCase();
+
             const shouldBeVisible =
                 searchTerm === "" ||
-                player.dataset.name.includes(searchTerm) ||
-                player.dataset.fullname.includes(searchTerm) ||
-                player.dataset.team.includes(searchTerm) ||
-                player.dataset.position.includes(searchTerm) ||
-                player.dataset.element.includes(searchTerm) ||
+                playerName.includes(normalizedSearchTerm) ||
+                playerFullName.includes(normalizedSearchTerm) ||
+                playerTeam.includes(normalizedSearchTerm) ||
+                playerPosition.includes(normalizedSearchTerm) ||
+                playerElement.includes(normalizedSearchTerm) ||
                 (translatedPosition &&
-                    player.dataset.position.includes(translatedPosition));
+                    playerPosition.includes(translatedPosition));
 
             if (player.style.display !== (shouldBeVisible ? "flex" : "none")) {
                 player.style.display = shouldBeVisible ? "flex" : "none";

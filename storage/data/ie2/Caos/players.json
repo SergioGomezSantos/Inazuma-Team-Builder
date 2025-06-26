@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Grent",
+        "full_name": "Grant Cook",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/ce/%28C%29_Grent.png/revision/latest?cb=20230821204226&path-prefix=es"
+    },
+    {
+        "name": "Baller",
+        "full_name": "Bonnie Sparks",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4f/%28C%29_Baller.png/revision/latest?cb=20230821204214&path-prefix=es"
+    },
+    {
+        "name": "Gocker",
+        "full_name": "Albert Denver",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8a/%28C%29_Gocker.png/revision/latest?cb=20230821204224&path-prefix=es"
+    },
+    {
+        "name": "Bomber",
+        "full_name": "Ben Blowton",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a1/%28C%29_Bomber.png/revision/latest?cb=20230821204215&path-prefix=es"
+    },
+    {
+        "name": "Clear",
+        "full_name": "Claire Lesnow",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/26/%28C%29_Clear.png/revision/latest?cb=20230821204217&path-prefix=es"
+    },
+    {
+        "name": "Heat",
+        "full_name": "Ethan Whitering",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/75/%28C%29_Heat.png/revision/latest?cb=20230821204227&path-prefix=es"
+    },
+    {
+        "name": "Droll",
+        "full_name": "Dawson Foxx",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/86/%28C%29_Droll.png/revision/latest?cb=20230821204220&path-prefix=es"
+    },
+    {
+        "name": "Rhine",
+        "full_name": "Ving Rice",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/77/%28C%29_Rhine.png/revision/latest?cb=20230821204231&path-prefix=es"
+    },
+    {
+        "name": "Gazelle",
+        "full_name": "Bryce Whitingale",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bf/%28C%29_Gazelle.png/revision/latest?cb=20230821204222&path-prefix=es"
+    },
+    {
+        "name": "Torch",
+        "full_name": "Claude Beacons",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/53/%28C%29_Torch.png/revision/latest?cb=20230821204233&path-prefix=es"
+    },
+    {
+        "name": "Neppten",
+        "full_name": "Nigel August",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Caos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c5/%28C%29_Neppten.png/revision/latest?cb=20230821204229&path-prefix=es"
+    }
+]

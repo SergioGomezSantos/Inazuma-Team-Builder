@@ -1,0 +1,310 @@
+[
+    {
+        "player": "Robot S",
+        "ie1": {},
+        "ie2": {
+            "GP": 191,
+            "TP": 176,
+            "Kick": 60,
+            "Body": 63,
+            "Control": 53,
+            "Guard": 70,
+            "Speed": 55,
+            "Stamina": 78,
+            "Guts": 68,
+            "Freedom": 13
+        },
+        "ie3": {
+            "GP": 118,
+            "TP": 124,
+            "Kick": 57,
+            "Body": 60,
+            "Control": 50,
+            "Guard": 67,
+            "Speed": 52,
+            "Stamina": 72,
+            "Guts": 64,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Robot P",
+        "ie1": {},
+        "ie2": {
+            "GP": 187,
+            "TP": 173,
+            "Kick": 56,
+            "Body": 52,
+            "Control": 52,
+            "Guard": 62,
+            "Speed": 52,
+            "Stamina": 70,
+            "Guts": 66,
+            "Freedom": 8
+        },
+        "ie3": {
+            "GP": 121,
+            "TP": 106,
+            "Kick": 56,
+            "Body": 52,
+            "Control": 52,
+            "Guard": 62,
+            "Speed": 52,
+            "Stamina": 70,
+            "Guts": 66,
+            "Freedom": 4
+        }
+    },
+    {
+        "player": "Robot T",
+        "ie1": {},
+        "ie2": {
+            "GP": 213,
+            "TP": 168,
+            "Kick": 62,
+            "Body": 52,
+            "Control": 59,
+            "Guard": 66,
+            "Speed": 56,
+            "Stamina": 68,
+            "Guts": 66,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 124,
+            "TP": 107,
+            "Kick": 60,
+            "Body": 50,
+            "Control": 57,
+            "Guard": 64,
+            "Speed": 54,
+            "Stamina": 66,
+            "Guts": 64,
+            "Freedom": 14
+        }
+    },
+    {
+        "player": "Robot V",
+        "ie1": {},
+        "ie2": {
+            "GP": 187,
+            "TP": 168,
+            "Kick": 57,
+            "Body": 56,
+            "Control": 58,
+            "Guard": 70,
+            "Speed": 60,
+            "Stamina": 77,
+            "Guts": 60,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 119,
+            "TP": 109,
+            "Kick": 54,
+            "Body": 53,
+            "Control": 55,
+            "Guard": 67,
+            "Speed": 67,
+            "Stamina": 74,
+            "Guts": 57,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Robot C",
+        "ie1": {},
+        "ie2": {
+            "GP": 217,
+            "TP": 153,
+            "Kick": 58,
+            "Body": 62,
+            "Control": 62,
+            "Guard": 63,
+            "Speed": 57,
+            "Stamina": 78,
+            "Guts": 61,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 122,
+            "TP": 104,
+            "Kick": 55,
+            "Body": 59,
+            "Control": 59,
+            "Guard": 60,
+            "Speed": 54,
+            "Stamina": 75,
+            "Guts": 58,
+            "Freedom": 14
+        }
+    },
+    {
+        "player": "Robot O",
+        "ie1": {},
+        "ie2": {
+            "GP": 211,
+            "TP": 157,
+            "Kick": 52,
+            "Body": 60,
+            "Control": 53,
+            "Guard": 56,
+            "Speed": 62,
+            "Stamina": 69,
+            "Guts": 64,
+            "Freedom": 13
+        },
+        "ie3": {
+            "GP": 110,
+            "TP": 106,
+            "Kick": 52,
+            "Body": 60,
+            "Control": 53,
+            "Guard": 56,
+            "Speed": 62,
+            "Stamina": 69,
+            "Guts": 64,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Robot B",
+        "ie1": {},
+        "ie2": {
+            "GP": 215,
+            "TP": 157,
+            "Kick": 61,
+            "Body": 62,
+            "Control": 60,
+            "Guard": 52,
+            "Speed": 57,
+            "Stamina": 69,
+            "Guts": 61,
+            "Freedom": 8
+        },
+        "ie3": {
+            "GP": 118,
+            "TP": 105,
+            "Kick": 61,
+            "Body": 62,
+            "Control": 60,
+            "Guard": 52,
+            "Speed": 57,
+            "Stamina": 69,
+            "Guts": 61,
+            "Freedom": 4
+        }
+    },
+    {
+        "player": "Robot G",
+        "ie1": {},
+        "ie2": {
+            "GP": 200,
+            "TP": 176,
+            "Kick": 58,
+            "Body": 54,
+            "Control": 63,
+            "Guard": 60,
+            "Speed": 54,
+            "Stamina": 70,
+            "Guts": 65,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 117,
+            "TP": 118,
+            "Kick": 58,
+            "Body": 54,
+            "Control": 63,
+            "Guard": 60,
+            "Speed": 54,
+            "Stamina": 70,
+            "Guts": 65,
+            "Freedom": 10
+        }
+    },
+    {
+        "player": "Robot K",
+        "ie1": {},
+        "ie2": {
+            "GP": 187,
+            "TP": 153,
+            "Kick": 57,
+            "Body": 55,
+            "Control": 64,
+            "Guard": 52,
+            "Speed": 52,
+            "Stamina": 70,
+            "Guts": 71,
+            "Freedom": 8
+        },
+        "ie3": {
+            "GP": 113,
+            "TP": 108,
+            "Kick": 57,
+            "Body": 55,
+            "Control": 64,
+            "Guard": 52,
+            "Speed": 52,
+            "Stamina": 70,
+            "Guts": 71,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Robot F",
+        "ie1": {},
+        "ie2": {
+            "GP": 215,
+            "TP": 160,
+            "Kick": 63,
+            "Body": 59,
+            "Control": 55,
+            "Guard": 58,
+            "Speed": 62,
+            "Stamina": 69,
+            "Guts": 62,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 121,
+            "TP": 112,
+            "Kick": 63,
+            "Body": 59,
+            "Control": 55,
+            "Guard": 58,
+            "Speed": 62,
+            "Stamina": 69,
+            "Guts": 62,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Robot L",
+        "ie1": {},
+        "ie2": {
+            "GP": 198,
+            "TP": 157,
+            "Kick": 68,
+            "Body": 53,
+            "Control": 58,
+            "Guard": 55,
+            "Speed": 52,
+            "Stamina": 70,
+            "Guts": 68,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 120,
+            "TP": 109,
+            "Kick": 68,
+            "Body": 53,
+            "Control": 58,
+            "Guard": 55,
+            "Speed": 52,
+            "Stamina": 70,
+            "Guts": 68,
+            "Freedom": 5
+        }
+    }
+]

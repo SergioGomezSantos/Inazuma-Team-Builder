@@ -64,28 +64,20 @@
         "image": "https://static.wikia.nocookie.net/inazuma/images/b/b8/%28A%29_Skipolson.png/revision/latest?cb=20230821202936&path-prefix=es"
     },
     {
-        "name": "Shawn DF",
-        "full_name": "Shawn Froste",
+        "name": "Shawn",
+        "full_name": "Shawn Froste DF",
         "position": "Defensa",
         "element": "Aire",
         "original_team": "Alpino",
         "image": "https://static.wikia.nocookie.net/inazuma/images/c/c8/%28A%29_Shawn_%28DF%29.png/revision/latest?cb=20230821202930&path-prefix=es"
     },
     {
-        "name": "Shawn DL",
-        "full_name": "Shawn Froste",
-        "position": "Delantero",
-        "element": "Aire",
-        "original_team": "Alpino",
-        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a1/%28R%29_Shawn_%28Aiden%29.png/revision/latest?cb=20230912141822&path-prefix=es"
-    },
-    {
         "name": "Shawn",
-        "full_name": "Shawn Froste",
+        "full_name": "Shawn Froste DL",
         "position": "Delantero",
         "element": "Aire",
         "original_team": "Alpino",
-        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c7/%28A%29_Shawn.png/revision/latest?cb=20230821202933&path-prefix=es"
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/dd/%28A%29_Shawn_%28Aiden%29.png/revision/latest?cb=20230821202928&path-prefix=es"
     },
     {
         "name": "Climbstein",

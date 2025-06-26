@@ -1,0 +1,46 @@
+[
+    {
+        "player": "Robot S",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Robot V",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Robot P",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Robot C",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Robot T",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Robot O",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Robot B",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Robot F",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Robot G",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Robot K",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Robot L",
+        "position_id": "pos-10"
+    }
+]

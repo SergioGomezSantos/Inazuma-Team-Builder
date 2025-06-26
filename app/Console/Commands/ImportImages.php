@@ -33,16 +33,25 @@ class ImportImages extends Command
     {
         foreach ($models as $model) {
             try {
-
-                $this->info("Importing Image for: {$model->name}");                
+                $this->info("Importing Image for: {$model->name}");
                 $originalUrl = $model->image;
 
-                $filename = Str::slug($model->{$nameAttribute}) . '.png';
+                // Obtener el full_name
+                $fullName = Str::slug($model->{$nameAttribute});
+
+
+                if ($model instanceof Player) {
+                    $teamName = Str::slug($model->original_team);
+                    $filename = "{$fullName}-{$teamName}.png";
+                } else {
+                    $filename = "{$fullName}.png";
+                }
+
                 $path = "{$folder}/{$filename}";
 
                 // --force
                 if (!$this->option('force') && Storage::disk('public')->exists($path)) {
-                    $this->info("Image Already Exists for: {$model->name}");   
+                    $this->info("Image Already Exists for: {$model->name}");
                     continue;
                 }
 
@@ -54,7 +63,6 @@ class ImportImages extends Command
 
                 Storage::disk('public')->put($path, $imageContent);
                 $model->update(['image' => $filename]);
-
             } catch (\Exception $e) {
                 $this->warn("Importing Image Error for {$model->{$nameAttribute}}: " . $e->getMessage());
             }

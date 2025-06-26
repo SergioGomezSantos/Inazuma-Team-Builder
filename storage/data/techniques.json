@@ -1949,5 +1949,35 @@
         "name": "Aplanadora",
         "type": "Bloqueo",
         "element": "Montaña"
+    },
+    {
+        "name": "Neo Tiro Galáctico",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Tiro Galáctico",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Uñas Afiladas",
+        "type": "Atajo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Sprint Triple",
+        "type": "Regate",
+        "element": "Montaña"
+    },
+    {
+        "name": "Relámpago Saltón",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Pantalla Ígnea",
+        "type": "Regate",
+        "element": "Fuego"
     }
 ]

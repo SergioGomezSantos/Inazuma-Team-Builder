@@ -198,8 +198,8 @@ class TeamController extends Controller
         $futbolFrontier = [7, 8, 9, 10];
         $extra1 = [11, 12, 13, 14];
         $institutosAnime2 = [16, 17, 18, 19, 20, 21];
-        $alius = [22, 23, 24, 25, 26, 27, 28];
-        $extra2 = [29, 30, 31, 32];
+        $alius = [22, 23, 24, 25, 26, 27, 28, 29];
+        $extra2 = [30, 31, 32, 33];
 
         $allTeamIds = array_merge($raimon, $regional, $futbolFrontier, $extra1, $alius, $institutosAnime2, $extra2);
 

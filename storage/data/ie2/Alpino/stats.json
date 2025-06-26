@@ -1,0 +1,478 @@
+[
+    {
+        "player": "Adam Ropes",
+        "ie1": {},
+        "ie2": {
+            "GP": 195,
+            "TP": 129,
+            "Kick": 62,
+            "Body": 56,
+            "Control": 62,
+            "Guard": 62,
+            "Speed": 77,
+            "Stamina": 67,
+            "Guts": 66,
+            "Freedom": 8
+        },
+        "ie3": {
+            "GP": 188,
+            "TP": 129,
+            "Kick": 57,
+            "Body": 56,
+            "Control": 53,
+            "Guard": 69,
+            "Speed": 51,
+            "Stamina": 67,
+            "Guts": 66,
+            "Freedom": 15
+        }
+    },
+    {
+        "player": "Joaquine Downtown",
+        "ie1": {},
+        "ie2": {
+            "GP": 127,
+            "TP": 133,
+            "Kick": 57,
+            "Body": 54,
+            "Control": 68,
+            "Guard": 59,
+            "Speed": 58,
+            "Stamina": 56,
+            "Guts": 60,
+            "Freedom": 26
+        },
+        "ie3": {
+            "GP": 109,
+            "TP": 133,
+            "Kick": 54,
+            "Body": 54,
+            "Control": 55,
+            "Guard": 63,
+            "Speed": 52,
+            "Stamina": 56,
+            "Guts": 63,
+            "Freedom": 36
+        }
+    },
+    {
+        "player": "Milton Bindings",
+        "ie1": {},
+        "ie2": {
+            "GP": 169,
+            "TP": 153,
+            "Kick": 52,
+            "Body": 67,
+            "Control": 57,
+            "Guard": 55,
+            "Speed": 54,
+            "Stamina": 60,
+            "Guts": 62,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 109,
+            "TP": 110,
+            "Kick": 52,
+            "Body": 62,
+            "Control": 54,
+            "Guard": 55,
+            "Speed": 54,
+            "Stamina": 60,
+            "Guts": 62,
+            "Freedom": 19
+        }
+    },
+    {
+        "player": "Spike Gleeson",
+        "ie1": {},
+        "ie2": {
+            "GP": 154,
+            "TP": 149,
+            "Kick": 60,
+            "Body": 63,
+            "Control": 65,
+            "Guard": 52,
+            "Speed": 52,
+            "Stamina": 60,
+            "Guts": 69,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 104,
+            "TP": 122,
+            "Kick": 57,
+            "Body": 61,
+            "Control": 65,
+            "Guard": 52,
+            "Speed": 52,
+            "Stamina": 53,
+            "Guts": 69,
+            "Freedom": 23
+        }
+    },
+    {
+        "player": "Sean Snowfield",
+        "ie1": {},
+        "ie2": {
+            "GP": 195,
+            "TP": 169,
+            "Kick": 59,
+            "Body": 65,
+            "Control": 60,
+            "Guard": 72,
+            "Speed": 72,
+            "Stamina": 76,
+            "Guts": 68,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 113,
+            "TP": 115,
+            "Kick": 53,
+            "Body": 65,
+            "Control": 51,
+            "Guard": 72,
+            "Speed": 58,
+            "Stamina": 52,
+            "Guts": 68,
+            "Freedom": 10
+        }
+    },
+    {
+        "player": "Kerry Bootgaiter",
+        "ie1": {},
+        "ie2": {
+            "GP": 154,
+            "TP": 136,
+            "Kick": 62,
+            "Body": 59,
+            "Control": 57,
+            "Guard": 60,
+            "Speed": 63,
+            "Stamina": 64,
+            "Guts": 60,
+            "Freedom": 17
+        },
+        "ie3": {
+            "GP": 102,
+            "TP": 136,
+            "Kick": 48,
+            "Body": 59,
+            "Control": 57,
+            "Guard": 54,
+            "Speed": 63,
+            "Stamina": 57,
+            "Guts": 60,
+            "Freedom": 30
+        }
+    },
+    {
+        "player": "Maddox Rock",
+        "ie1": {},
+        "ie2": {
+            "GP": 167,
+            "TP": 140,
+            "Kick": 56,
+            "Body": 60,
+            "Control": 61,
+            "Guard": 54,
+            "Speed": 61,
+            "Stamina": 53,
+            "Guts": 65,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 106,
+            "TP": 124,
+            "Kick": 56,
+            "Body": 60,
+            "Control": 61,
+            "Guard": 54,
+            "Speed": 61,
+            "Stamina": 53,
+            "Guts": 65,
+            "Freedom": 20
+        }
+    },
+    {
+        "player": "Robert Skipolson",
+        "ie1": {},
+        "ie2": {
+            "GP": 132,
+            "TP": 137,
+            "Kick": 56,
+            "Body": 52,
+            "Control": 62,
+            "Guard": 53,
+            "Speed": 68,
+            "Stamina": 54,
+            "Guts": 55,
+            "Freedom": 21
+        },
+        "ie3": {
+            "GP": 117,
+            "TP": 119,
+            "Kick": 56,
+            "Body": 52,
+            "Control": 62,
+            "Guard": 53,
+            "Speed": 68,
+            "Stamina": 54,
+            "Guts": 55,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Shawn Froste DF",
+        "ie1": {},
+        "ie2": {
+            "GP": 187,
+            "TP": 136,
+            "Kick": 72,
+            "Body": 71,
+            "Control": 68,
+            "Guard": 64,
+            "Speed": 68,
+            "Stamina": 69,
+            "Guts": 53,
+            "Freedom": 24
+        },
+        "ie3": {
+            "GP": 120,
+            "TP": 120,
+            "Kick": 68,
+            "Body": 59,
+            "Control": 64,
+            "Guard": 46,
+            "Speed": 77,
+            "Stamina": 60,
+            "Guts": 50,
+            "Freedom": 29
+        }
+    },
+    {
+        "player": "Shawn Froste DL",
+        "ie1": {},
+        "ie2": {
+            "GP": 187,
+            "TP": 136,
+            "Kick": 76,
+            "Body": 70,
+            "Control": 64,
+            "Guard": 68,
+            "Speed": 77,
+            "Stamina": 60,
+            "Guts": 50,
+            "Freedom": 24
+        },
+        "ie3": {
+            "GP": 120,
+            "TP": 120,
+            "Kick": 68,
+            "Body": 59,
+            "Control": 64,
+            "Guard": 46,
+            "Speed": 78,
+            "Stamina": 60,
+            "Guts": 50,
+            "Freedom": 29
+        }
+    },
+    {
+        "player": "Roland Climbstein",
+        "ie1": {},
+        "ie2": {
+            "GP": 156,
+            "TP": 129,
+            "Kick": 65,
+            "Body": 62,
+            "Control": 52,
+            "Guard": 59,
+            "Speed": 58,
+            "Stamina": 58,
+            "Guts": 61,
+            "Freedom": 15
+        },
+        "ie3": {
+            "GP": 125,
+            "TP": 127,
+            "Kick": 65,
+            "Body": 62,
+            "Control": 52,
+            "Guard": 59,
+            "Speed": 58,
+            "Stamina": 58,
+            "Guts": 61,
+            "Freedom": 27
+        }
+    },
+    {
+        "player": "Quentin Rackner",
+        "ie1": {},
+        "ie2": {
+            "GP": 145,
+            "TP": 149,
+            "Kick": 56,
+            "Body": 57,
+            "Control": 56,
+            "Guard": 58,
+            "Speed": 64,
+            "Stamina": 65,
+            "Guts": 64,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 118,
+            "TP": 117,
+            "Kick": 56,
+            "Body": 57,
+            "Control": 56,
+            "Guard": 58,
+            "Speed": 64,
+            "Stamina": 65,
+            "Guts": 64,
+            "Freedom": 18
+        }
+    },
+    {
+        "player": "Trent Peggs",
+        "ie1": {},
+        "ie2": {
+            "GP": 147,
+            "TP": 144,
+            "Kick": 60,
+            "Body": 60,
+            "Control": 59,
+            "Guard": 66,
+            "Speed": 57,
+            "Stamina": 66,
+            "Guts": 78,
+            "Freedom": 13
+        },
+        "ie3": {
+            "GP": 113,
+            "TP": 121,
+            "Kick": 47,
+            "Body": 58,
+            "Control": 59,
+            "Guard": 66,
+            "Speed": 57,
+            "Stamina": 63,
+            "Guts": 71,
+            "Freedom": 16
+        }
+    },
+    {
+        "player": "Martin Ursus",
+        "ie1": {},
+        "ie2": {
+            "GP": 189,
+            "TP": 132,
+            "Kick": 60,
+            "Body": 69,
+            "Control": 56,
+            "Guard": 68,
+            "Speed": 56,
+            "Stamina": 58,
+            "Guts": 56,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 124,
+            "TP": 104,
+            "Kick": 60,
+            "Body": 69,
+            "Control": 51,
+            "Guard": 68,
+            "Speed": 56,
+            "Stamina": 58,
+            "Guts": 58,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Pete Bogg",
+        "ie1": {},
+        "ie2": {
+            "GP": 123,
+            "TP": 109,
+            "Kick": 60,
+            "Body": 54,
+            "Control": 69,
+            "Guard": 57,
+            "Speed": 60,
+            "Stamina": 53,
+            "Guts": 58,
+            "Freedom": 14
+        },
+        "ie3": {
+            "GP": 111,
+            "TP": 109,
+            "Kick": 60,
+            "Body": 54,
+            "Control": 69,
+            "Guard": 57,
+            "Speed": 60,
+            "Stamina": 53,
+            "Guts": 58,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Gem Strata",
+        "ie1": {},
+        "ie2": {
+            "GP": 143,
+            "TP": 116,
+            "Kick": 56,
+            "Body": 57,
+            "Control": 52,
+            "Guard": 53,
+            "Speed": 60,
+            "Stamina": 53,
+            "Guts": 60,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 107,
+            "TP": 116,
+            "Kick": 56,
+            "Body": 57,
+            "Control": 52,
+            "Guard": 53,
+            "Speed": 60,
+            "Stamina": 53,
+            "Guts": 60,
+            "Freedom": 26
+        }
+    },
+    {
+        "player": "Horace Onlign",
+        "ie1": {},
+        "ie2": {
+            "GP": 132,
+            "TP": 113,
+            "Kick": 55,
+            "Body": 63,
+            "Control": 52,
+            "Guard": 52,
+            "Speed": 60,
+            "Stamina": 58,
+            "Guts": 60,
+            "Freedom": 28
+        },
+        "ie3": {
+            "GP": 105,
+            "TP": 118,
+            "Kick": 55,
+            "Body": 63,
+            "Control": 52,
+            "Guard": 52,
+            "Speed": 60,
+            "Stamina": 58,
+            "Guts": 60,
+            "Freedom": 12
+        }
+    }
+]

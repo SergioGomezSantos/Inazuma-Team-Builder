@@ -1,0 +1,298 @@
+[
+    {
+        "player": "Daisy Fields",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Tormenta de Pétalos",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Tormenta de Pétalos",
+            "Uñas Afiladas",
+            "Superpeonza",
+            "Escudo Protector"
+        ],
+        "ie3": [
+            "Tormenta de Pétalos",
+            "Uñas Afiladas",
+            "Rechace de Fuego",
+            "Mejor Garantía"
+        ]
+    },
+    {
+        "player": "Alexia Sand",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Equilibrismo",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Equilibrismo", "Bombazo", "Confusión", "Voltereta Circense"],
+        "ie3": ["Equilibrismo", "Bombazo", "Confusión", "Voltereta Circense"]
+    },
+    {
+        "player": "Hellen Hearth",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Femme Fatale",
+            "Olor Embriagador",
+            "Prima Donna",
+            "Lecho de Rosas"
+        ],
+        "ie3": [
+            "Femme Fatale",
+            "Olor Embriagador",
+            "Lecho de Rosas",
+            "Hora Celestial"
+        ]
+    },
+    {
+        "player": "Rose Pinkpetal",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Bombazo",
+            "Pompa de Chicle",
+            "Luna Creciente",
+            "Regate Rítmico"
+        ],
+        "ie3": [
+            "Bombazo",
+            "Pompa de Chicle",
+            "Regate Rítmico",
+            "Olor Embriagador"
+        ]
+    },
+    {
+        "player": "Esther Greenland",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Olor Embriagador",
+            "Ataque Afilado",
+            "Tiro del Cometa",
+            "Tiro Cegador"
+        ],
+        "ie3": [
+            "Olor Embriagador",
+            "Ataque Afilado",
+            "Cañón de Meteoritos",
+            "Aguijón"
+        ]
+    },
+    {
+        "player": "Bela Bluebells",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Tiro Giratorio", "Sorpresa", "Giro de Mono", "Regate Rítmico"],
+        "ie3": [
+            "Tiro Giratorio",
+            "Sorpresa",
+            "Regate Rítmico",
+            "Dragón Terrestre"
+        ]
+    },
+    {
+        "player": "Natalie Sunrise",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Pompa de Chicle", "Sorpresa", "Bombazo", "Coz"],
+        "ie3": ["Pompa de Chicle", "Sorpresa", "Bombazo", "Ultra Lunar"]
+    },
+    {
+        "player": "Hillary Bush",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Regate Rítmico",
+            "Remate en Espiral",
+            "Giro Bobina",
+            "Arcoiris Luminoso"
+        ],
+        "ie3": ["Regate Rítmico", "Arcoiris Luminoso", "Giro Bobina", "Aikido"]
+    },
+    {
+        "player": "Mary Moor",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Disparo Rodante",
+            "Luna Creciente",
+            "Regate Rítmico",
+            "Bateo Total"
+        ],
+        "ie3": [
+            "Disparo Rodante",
+            "Luna Creciente",
+            "Regate Rítmico",
+            "Súper Elástico"
+        ]
+    },
+    {
+        "player": "Suzette Hartland",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Lecho de Rosas",
+                "with": []
+            },
+            {
+                "name": "Baile de Mariposas",
+                "with": ["Lilly", "Tori"]
+            },
+            {
+                "name": "Tiro Torre de Osaka",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Lecho de Rosas",
+            "Baile de Mariposas",
+            "Prima Donna",
+            "Tiro Torre de Osaka"
+        ],
+        "ie3": [
+            "Femme Fatale",
+            "Lecho de Rosas",
+            "Baile de Mariposas",
+            "Carrera a Tres Piernas"
+        ]
+    },
+    {
+        "player": "Lily Willow",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Prima Donna",
+                "with": []
+            },
+            {
+                "name": "Baile de Mariposas",
+                "with": ["Sue"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Femme Fatale",
+            "Baile de Mariposas",
+            "Regate Rítmico",
+            "Olor Embriagador"
+        ],
+        "ie3": [
+            "Femme Fatale",
+            "Baile de Mariposas",
+            "Prima Donna",
+            "Engaño Torero"
+        ]
+    },
+    {
+        "player": "Dell Closeout",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Cuchilla Asesina",
+            "Tormenta de Pétalos",
+            "Sorpresa",
+            "Uñas Afiladas"
+        ],
+        "ie3": ["Ahorro", "Tormenta de Pétalos", "Sorpresa", "Escudo Protector"]
+    },
+    {
+        "player": "Amy Spires",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Equilibrismo",
+            "Ataque Afilado",
+            "Telaraña",
+            "Tiro Torre de Osaka"
+        ],
+        "ie3": [
+            "Equilibrismo",
+            "Tiro Torre de Osaka",
+            "Olor Embriagador",
+            "Paipay Gigante"
+        ]
+    },
+    {
+        "player": "Peony Cash",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Pared Solitaria",
+            "Pompa de Chicle",
+            "Regate Rítmico",
+            "Prima Donna"
+        ],
+        "ie3": [
+            "Pared Solitaria",
+            "Pompa de Chicle",
+            "Regate Rítmico",
+            "Ataque de Paladín"
+        ]
+    },
+    {
+        "player": "Gayle Revel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Remate en Espiral",
+            "Luna Creciente",
+            "Tiro Dinamita",
+            "Paipay Gigante"
+        ],
+        "ie3": [
+            "¡Vamos!",
+            "Remate en Espiral",
+            "Tormenta de Arena",
+            "Paipay Gigante"
+        ]
+    },
+    {
+        "player": "Janine Brook",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Bloqueo Dureza",
+            "Superpeonza",
+            "Bateo Total",
+            "Deslizamiento"
+        ],
+        "ie3": ["Uñas Afiladas", "Superpeonza", "Bateo Total", "Golpes de Luz"]
+    }
+]

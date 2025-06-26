@@ -1,66 +1,66 @@
 [
     {
-        "player_name": "Boar",
+        "player": "Charlie Boardfield",
         "position_id": "pos-0"
     },
     {
-        "player_name": "Fishman",
+        "player": "Wilson Fishman",
         "position_id": "pos-1"
     },
     {
-        "player_name": "Lion",
+        "player": "Leonard O'Shea",
         "position_id": "pos-2"
     },
     {
-        "player_name": "Toad",
+        "player": "Peter Johnson",
         "position_id": "pos-3"
     },
     {
-        "player_name": "Chameleon",
+        "player": "Cham Lion",
         "position_id": "pos-4"
     },
     {
-        "player_name": "Chicken",
+        "player": "Hugo Talgeese",
         "position_id": "pos-5"
     },
     {
-        "player_name": "Eagle",
+        "player": "Steve Eagle",
         "position_id": "pos-6"
     },
     {
-        "player_name": "Monkey",
+        "player": "Bruce Monkey",
         "position_id": "pos-7"
     },
     {
-        "player_name": "Cheetah",
+        "player": "Adrian Speed",
         "position_id": "pos-8"
     },
     {
-        "player_name": "Gorilla",
+        "player": "Gary Lancaster",
         "position_id": "pos-9"
     },
     {
-        "player_name": "Snake",
+        "player": "Harry Snake",
         "position_id": "pos-10"
     },
     {
-        "player_name": "Bullford",
+        "player": "Chad Bullford",
         "position_id": "bench-0"
     },
     {
-        "player_name": "Koala",
+        "player": "Alan Coe",
         "position_id": "bench-1"
     },
     {
-        "player_name": "Panda",
+        "player": "Philip Anders",
         "position_id": "bench-2"
     },
     {
-        "player_name": "Raccoon",
+        "player": "Rocky Rackham",
         "position_id": "bench-3"
     },
     {
-        "player_name": "Mouseman",
+        "player": "Matt Mouseman",
         "position_id": "bench-4"
     }
 ]

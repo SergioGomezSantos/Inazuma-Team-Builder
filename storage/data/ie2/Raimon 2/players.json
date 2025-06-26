@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Darren",
+        "full_name": "Darren LaChance",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c8/%28R%29_Darren_%28PR%29.png/revision/latest?cb=20230912141811&path-prefix=es"
+    },
+    {
+        "name": "Mark",
+        "full_name": "Mark Evans PR",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/22/%28R%29_Mark_%28PR%29.png/revision/latest?cb=20230912133740&path-prefix=es"
+    },
+    {
+        "name": "Hurley",
+        "full_name": "Hurley Kane",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/18/%28R%29_Hurley.png/revision/latest?cb=20230912141814&path-prefix=es"
+    },
+    {
+        "name": "Jack",
+        "full_name": "Jack Wallside",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c5/%28R%29_Jack.png/revision/latest?cb=20230912133725&path-prefix=es"
+    },
+    {
+        "name": "Scotty",
+        "full_name": "Scott Banyan",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3b/%28R%29_Scotty_%28Normal%29.png/revision/latest?cb=20230912141817&path-prefix=es"
+    },
+    {
+        "name": "Mark",
+        "full_name": "Mark Evans DF",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/18/%28R%29_Mark_%28Libero%29.png/revision/latest?cb=20230912133737&path-prefix=es"
+    },
+    {
+        "name": "Bobby",
+        "full_name": "Bobby Shearer",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/13/%28R%29_Bobby_%28IE3%29.png/revision/latest?cb=20230912133719&path-prefix=es"
+    },
+    {
+        "name": "Jude",
+        "full_name": "Jude Sharp",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c1/%28R%29_Jude.png/revision/latest?cb=20230912133731&path-prefix=es"
+    },
+    {
+        "name": "Erik",
+        "full_name": "Erik Eagle",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6b/%28R%29_Erik.png/revision/latest?cb=20230912133723&path-prefix=es"
+    },
+    {
+        "name": "Tori",
+        "full_name": "Victoria Vanguard",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5b/%28R%29_Tori.png/revision/latest?cb=20230912141837&path-prefix=es"
+    },
+    {
+        "name": "Sue",
+        "full_name": "Suzette Hartland",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/65/%28R%29_Sue.png/revision/latest?cb=20230912141830&path-prefix=es"
+    },
+    {
+        "name": "Shawn",
+        "full_name": "Shawn Froste",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/30/%28R%29_Shawn.png/revision/latest?cb=20230912141827&path-prefix=es"
+    },
+    {
+        "name": "Axel",
+        "full_name": "Axel Blaze",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ae/%28R%29_Axel.png/revision/latest?cb=20230912133709&path-prefix=es"
+    },
+    {
+        "name": "Aphrodite",
+        "full_name": "Byron Love",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/19/%28R%29_Byron_%28IE_3-Zeus%29.png/revision/latest?cb=20230912141803&path-prefix=es"
+    },
+    {
+        "name": "Willy",
+        "full_name": "William Glass",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Raimon 2",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e3/%28R%29_Willy.png/revision/latest?cb=20230912133807&path-prefix=es"
+    }
+]

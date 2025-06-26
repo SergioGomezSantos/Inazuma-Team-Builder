@@ -1,0 +1,450 @@
+[
+    {
+        "player": "Daisy Fields",
+        "ie1": {},
+        "ie2": {
+            "GP": 182,
+            "TP": 133,
+            "Kick": 60,
+            "Body": 61,
+            "Control": 70,
+            "Guard": 67,
+            "Speed": 69,
+            "Stamina": 52,
+            "Guts": 71,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 95,
+            "TP": 148,
+            "Kick": 48,
+            "Body": 65,
+            "Control": 59,
+            "Guard": 67,
+            "Speed": 50,
+            "Stamina": 52,
+            "Guts": 71,
+            "Freedom": 18
+        }
+    },
+    {
+        "player": "Alexia Sand",
+        "ie1": {},
+        "ie2": {
+            "GP": 151,
+            "TP": 137,
+            "Kick": 61,
+            "Body": 56,
+            "Control": 61,
+            "Guard": 65,
+            "Speed": 60,
+            "Stamina": 52,
+            "Guts": 52,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 108,
+            "TP": 137,
+            "Kick": 61,
+            "Body": 56,
+            "Control": 61,
+            "Guard": 65,
+            "Speed": 60,
+            "Stamina": 52,
+            "Guts": 52,
+            "Freedom": 28
+        }
+    },
+    {
+        "player": "Hellen Hearth",
+        "ie1": {},
+        "ie2": {
+            "GP": 123,
+            "TP": 144,
+            "Kick": 63,
+            "Body": 52,
+            "Control": 56,
+            "Guard": 55,
+            "Speed": 60,
+            "Stamina": 55,
+            "Guts": 57,
+            "Freedom": 14
+        },
+        "ie3": {
+            "GP": 104,
+            "TP": 137,
+            "Kick": 58,
+            "Body": 52,
+            "Control": 56,
+            "Guard": 55,
+            "Speed": 54,
+            "Stamina": 55,
+            "Guts": 57,
+            "Freedom": 33
+        }
+    },
+    {
+        "player": "Rose Pinkpetal",
+        "ie1": {},
+        "ie2": {
+            "GP": 138,
+            "TP": 133,
+            "Kick": 52,
+            "Body": 60,
+            "Control": 68,
+            "Guard": 60,
+            "Speed": 66,
+            "Stamina": 52,
+            "Guts": 57,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 138,
+            "TP": 133,
+            "Kick": 52,
+            "Body": 60,
+            "Control": 68,
+            "Guard": 60,
+            "Speed": 66,
+            "Stamina": 52,
+            "Guts": 57,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Esther Greenland",
+        "ie1": {},
+        "ie2": {
+            "GP": 154,
+            "TP": 132,
+            "Kick": 62,
+            "Body": 67,
+            "Control": 60,
+            "Guard": 58,
+            "Speed": 68,
+            "Stamina": 52,
+            "Guts": 63,
+            "Freedom": 10
+        },
+        "ie3": {
+            "GP": 119,
+            "TP": 132,
+            "Kick": 56,
+            "Body": 54,
+            "Control": 58,
+            "Guard": 58,
+            "Speed": 56,
+            "Stamina": 52,
+            "Guts": 63,
+            "Freedom": 44
+        }
+    },
+    {
+        "player": "Bela Bluebells",
+        "ie1": {},
+        "ie2": {
+            "GP": 125,
+            "TP": 116,
+            "Kick": 56,
+            "Body": 55,
+            "Control": 64,
+            "Guard": 63,
+            "Speed": 61,
+            "Stamina": 63,
+            "Guts": 59,
+            "Freedom": 19
+        },
+        "ie3": {
+            "GP": 121,
+            "TP": 112,
+            "Kick": 54,
+            "Body": 55,
+            "Control": 56,
+            "Guard": 55,
+            "Speed": 52,
+            "Stamina": 60,
+            "Guts": 52,
+            "Freedom": 25
+        }
+    },
+    {
+        "player": "Natalie Sunrise",
+        "ie1": {},
+        "ie2": {
+            "GP": 160,
+            "TP": 156,
+            "Kick": 57,
+            "Body": 58,
+            "Control": 63,
+            "Guard": 57,
+            "Speed": 67,
+            "Stamina": 60,
+            "Guts": 58,
+            "Freedom": 14
+        },
+        "ie3": {
+            "GP": 108,
+            "TP": 129,
+            "Kick": 52,
+            "Body": 58,
+            "Control": 60,
+            "Guard": 53,
+            "Speed": 57,
+            "Stamina": 60,
+            "Guts": 58,
+            "Freedom": 25
+        }
+    },
+    {
+        "player": "Hillary Bush",
+        "ie1": {},
+        "ie2": {
+            "GP": 143,
+            "TP": 132,
+            "Kick": 63,
+            "Body": 66,
+            "Control": 59,
+            "Guard": 71,
+            "Speed": 53,
+            "Stamina": 60,
+            "Guts": 54,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 115,
+            "TP": 132,
+            "Kick": 63,
+            "Body": 59,
+            "Control": 59,
+            "Guard": 55,
+            "Speed": 53,
+            "Stamina": 60,
+            "Guts": 54,
+            "Freedom": 27
+        }
+    },
+    {
+        "player": "Mary Moor",
+        "ie1": {},
+        "ie2": {
+            "GP": 143,
+            "TP": 129,
+            "Kick": 56,
+            "Body": 65,
+            "Control": 58,
+            "Guard": 56,
+            "Speed": 66,
+            "Stamina": 54,
+            "Guts": 69,
+            "Freedom": 15
+        },
+        "ie3": {
+            "GP": 111,
+            "TP": 129,
+            "Kick": 54,
+            "Body": 61,
+            "Control": 58,
+            "Guard": 53,
+            "Speed": 55,
+            "Stamina": 54,
+            "Guts": 69,
+            "Freedom": 29
+        }
+    },
+    {
+        "player": "Suzette Hartland",
+        "ie1": {},
+        "ie2": {
+            "GP": 182,
+            "TP": 173,
+            "Kick": 62,
+            "Body": 65,
+            "Control": 70,
+            "Guard": 62,
+            "Speed": 69,
+            "Stamina": 60,
+            "Guts": 64,
+            "Freedom": 27
+        },
+        "ie3": {
+            "GP": 107,
+            "TP": 128,
+            "Kick": 65,
+            "Body": 60,
+            "Control": 59,
+            "Guard": 54,
+            "Speed": 60,
+            "Stamina": 52,
+            "Guts": 64,
+            "Freedom": 25
+        }
+    },
+    {
+        "player": "Lily Willow",
+        "ie1": {},
+        "ie2": {
+            "GP": 151,
+            "TP": 132,
+            "Kick": 67,
+            "Body": 64,
+            "Control": 62,
+            "Guard": 63,
+            "Speed": 53,
+            "Stamina": 56,
+            "Guts": 61,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 103,
+            "TP": 132,
+            "Kick": 57,
+            "Body": 52,
+            "Control": 58,
+            "Guard": 63,
+            "Speed": 53,
+            "Stamina": 56,
+            "Guts": 54,
+            "Freedom": 31
+        }
+    },
+    {
+        "player": "Dell Closeout",
+        "ie1": {},
+        "ie2": {
+            "GP": 145,
+            "TP": 133,
+            "Kick": 52,
+            "Body": 60,
+            "Control": 52,
+            "Guard": 60,
+            "Speed": 55,
+            "Stamina": 58,
+            "Guts": 52,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 145,
+            "TP": 133,
+            "Kick": 52,
+            "Body": 60,
+            "Control": 52,
+            "Guard": 60,
+            "Speed": 55,
+            "Stamina": 58,
+            "Guts": 52,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Amy Spires",
+        "ie1": {},
+        "ie2": {
+            "GP": 121,
+            "TP": 112,
+            "Kick": 54,
+            "Body": 55,
+            "Control": 56,
+            "Guard": 55,
+            "Speed": 52,
+            "Stamina": 60,
+            "Guts": 52,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 121,
+            "TP": 112,
+            "Kick": 54,
+            "Body": 55,
+            "Control": 56,
+            "Guard": 55,
+            "Speed": 52,
+            "Stamina": 60,
+            "Guts": 52,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Peony Cash",
+        "ie1": {},
+        "ie2": {
+            "GP": 154,
+            "TP": 124,
+            "Kick": 52,
+            "Body": 58,
+            "Control": 60,
+            "Guard": 52,
+            "Speed": 58,
+            "Stamina": 62,
+            "Guts": 68,
+            "Freedom": 21
+        },
+        "ie3": {
+            "GP": 114,
+            "TP": 128,
+            "Kick": 52,
+            "Body": 58,
+            "Control": 55,
+            "Guard": 57,
+            "Speed": 58,
+            "Stamina": 51,
+            "Guts": 62,
+            "Freedom": 26
+        }
+    },
+    {
+        "player": "Gayle Revel",
+        "ie1": {},
+        "ie2": {
+            "GP": 167,
+            "TP": 109,
+            "Kick": 71,
+            "Body": 64,
+            "Control": 60,
+            "Guard": 56,
+            "Speed": 64,
+            "Stamina": 63,
+            "Guts": 70,
+            "Freedom": 14
+        },
+        "ie3": {
+            "GP": 124,
+            "TP": 127,
+            "Kick": 64,
+            "Body": 59,
+            "Control": 53,
+            "Guard": 51,
+            "Speed": 57,
+            "Stamina": 63,
+            "Guts": 64,
+            "Freedom": 24
+        }
+    },
+    {
+        "player": "Janine Brook",
+        "ie1": {},
+        "ie2": {
+            "GP": 149,
+            "TP": 109,
+            "Kick": 62,
+            "Body": 70,
+            "Control": 63,
+            "Guard": 62,
+            "Speed": 61,
+            "Stamina": 57,
+            "Guts": 58,
+            "Freedom": 14
+        },
+        "ie3": {
+            "GP": 108,
+            "TP": 142,
+            "Kick": 54,
+            "Body": 60,
+            "Control": 54,
+            "Guard": 62,
+            "Speed": 55,
+            "Stamina": 57,
+            "Guts": 63,
+            "Freedom": 26
+        }
+    }
+]

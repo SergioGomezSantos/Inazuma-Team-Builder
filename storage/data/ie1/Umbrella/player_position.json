@@ -1,66 +1,66 @@
 [
     {
-        "player_name": "Ingram",
+        "player": "Joe Ingram",
         "position_id": "pos-0"
     },
     {
-        "player_name": "Porter",
+        "player": "Norman Porter",
         "position_id": "pos-1"
     },
     {
-        "player_name": "Sefton",
+        "player": "Kendall Sefton",
         "position_id": "pos-2"
     },
     {
-        "player_name": "Chaney",
+        "player": "Bruce Chaney",
         "position_id": "pos-3"
     },
     {
-        "player_name": "Strike",
+        "player": "Jason Strike",
         "position_id": "pos-4"
     },
     {
-        "player_name": "Chops",
+        "player": "Maxwell Claus",
         "position_id": "pos-5"
     },
     {
-        "player_name": "Rhymes",
+        "player": "Leroy Rhymes",
         "position_id": "pos-6"
     },
     {
-        "player_name": "Morefield",
+        "player": "Cameron Morefield",
         "position_id": "pos-7"
     },
     {
-        "player_name": "Scott",
+        "player": "Mildford Scott",
         "position_id": "pos-8"
     },
     {
-        "player_name": "Edmonds",
+        "player": "Lou Edmonds",
         "position_id": "pos-9"
     },
     {
-        "player_name": "Cyborg",
+        "player": "Greg Bernard",
         "position_id": "pos-10"
     },
     {
-        "player_name": "Banker",
+        "player": "Peter Banker",
         "position_id": "bench-0"
     },
     {
-        "player_name": "Tunk",
+        "player": "Saul Tunk",
         "position_id": "bench-1"
     },
     {
-        "player_name": "Most",
+        "player": "Alan Most",
         "position_id": "bench-2"
     },
     {
-        "player_name": "Caperock",
+        "player": "Paul Caperock",
         "position_id": "bench-3"
     },
     {
-        "player_name": "Molehill",
+        "player": "Julius Molehill",
         "position_id": "bench-4"
     }
 ]

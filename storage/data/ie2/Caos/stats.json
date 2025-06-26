@@ -1,0 +1,310 @@
+[
+    {
+        "player": "Grant Cook",
+        "ie1": {},
+        "ie2": {
+            "GP": 193,
+            "TP": 152,
+            "Kick": 79,
+            "Body": 64,
+            "Control": 64,
+            "Guard": 77,
+            "Speed": 76,
+            "Stamina": 65,
+            "Guts": 76,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 108,
+            "TP": 121,
+            "Kick": 68,
+            "Body": 60,
+            "Control": 52,
+            "Guard": 68,
+            "Speed": 52,
+            "Stamina": 56,
+            "Guts": 48,
+            "Freedom": 37
+        }
+    },
+    {
+        "player": "Bonnie Sparks",
+        "ie1": {},
+        "ie2": {
+            "GP": 187,
+            "TP": 102,
+            "Kick": 76,
+            "Body": 64,
+            "Control": 60,
+            "Guard": 68,
+            "Speed": 71,
+            "Stamina": 68,
+            "Guts": 76,
+            "Freedom": 8
+        },
+        "ie3": {
+            "GP": 115,
+            "TP": 132,
+            "Kick": 62,
+            "Body": 64,
+            "Control": 62,
+            "Guard": 59,
+            "Speed": 61,
+            "Stamina": 58,
+            "Guts": 51,
+            "Freedom": 15
+        }
+    },
+    {
+        "player": "Albert Denver",
+        "ie1": {},
+        "ie2": {
+            "GP": 204,
+            "TP": 106,
+            "Kick": 79,
+            "Body": 66,
+            "Control": 66,
+            "Guard": 69,
+            "Speed": 73,
+            "Stamina": 62,
+            "Guts": 75,
+            "Freedom": 15
+        },
+        "ie3": {
+            "GP": 125,
+            "TP": 110,
+            "Kick": 57,
+            "Body": 70,
+            "Control": 52,
+            "Guard": 70,
+            "Speed": 53,
+            "Stamina": 66,
+            "Guts": 63,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Ben Blowton",
+        "ie1": {},
+        "ie2": {
+            "GP": 217,
+            "TP": 120,
+            "Kick": 74,
+            "Body": 79,
+            "Control": 72,
+            "Guard": 61,
+            "Speed": 79,
+            "Stamina": 74,
+            "Guts": 69,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 135,
+            "TP": 115,
+            "Kick": 55,
+            "Body": 63,
+            "Control": 52,
+            "Guard": 62,
+            "Speed": 58,
+            "Stamina": 70,
+            "Guts": 65,
+            "Freedom": 21
+        }
+    },
+    {
+        "player": "Claire Lesnow",
+        "ie1": {},
+        "ie2": {
+            "GP": 198,
+            "TP": 106,
+            "Kick": 68,
+            "Body": 61,
+            "Control": 65,
+            "Guard": 76,
+            "Speed": 79,
+            "Stamina": 76,
+            "Guts": 79,
+            "Freedom": 8
+        },
+        "ie3": {
+            "GP": 115,
+            "TP": 138,
+            "Kick": 52,
+            "Body": 58,
+            "Control": 60,
+            "Guard": 73,
+            "Speed": 50,
+            "Stamina": 60,
+            "Guts": 56,
+            "Freedom": 24
+        }
+    },
+    {
+        "player": "Ethan Whitering",
+        "ie1": {},
+        "ie2": {
+            "GP": 211,
+            "TP": 102,
+            "Kick": 72,
+            "Body": 79,
+            "Control": 68,
+            "Guard": 60,
+            "Speed": 79,
+            "Stamina": 79,
+            "Guts": 72,
+            "Freedom": 14
+        },
+        "ie3": {
+            "GP": 133,
+            "TP": 128,
+            "Kick": 52,
+            "Body": 79,
+            "Control": 60,
+            "Guard": 60,
+            "Speed": 62,
+            "Stamina": 71,
+            "Guts": 55,
+            "Freedom": 50
+        }
+    },
+    {
+        "player": "Dawson Foxx",
+        "ie1": {},
+        "ie2": {
+            "GP": 217,
+            "TP": 106,
+            "Kick": 76,
+            "Body": 68,
+            "Control": 73,
+            "Guard": 68,
+            "Speed": 79,
+            "Stamina": 76,
+            "Guts": 71,
+            "Freedom": 14
+        },
+        "ie3": {
+            "GP": 120,
+            "TP": 115,
+            "Kick": 62,
+            "Body": 59,
+            "Control": 62,
+            "Guard": 64,
+            "Speed": 59,
+            "Stamina": 62,
+            "Guts": 61,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Ving Rice",
+        "ie1": {},
+        "ie2": {
+            "GP": 217,
+            "TP": 126,
+            "Kick": 70,
+            "Body": 76,
+            "Control": 74,
+            "Guard": 61,
+            "Speed": 77,
+            "Stamina": 73,
+            "Guts": 70,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 112,
+            "TP": 135,
+            "Kick": 63,
+            "Body": 61,
+            "Control": 54,
+            "Guard": 58,
+            "Speed": 60,
+            "Stamina": 60,
+            "Guts": 60,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Bryce Whitingale",
+        "ie1": {},
+        "ie2": {
+            "GP": 204,
+            "TP": 150,
+            "Kick": 78,
+            "Body": 78,
+            "Control": 79,
+            "Guard": 79,
+            "Speed": 79,
+            "Stamina": 72,
+            "Guts": 76,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 110,
+            "TP": 125,
+            "Kick": 62,
+            "Body": 65,
+            "Control": 65,
+            "Guard": 68,
+            "Speed": 66,
+            "Stamina": 56,
+            "Guts": 60,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Claude Beacons",
+        "ie1": {},
+        "ie2": {
+            "GP": 213,
+            "TP": 130,
+            "Kick": 76,
+            "Body": 79,
+            "Control": 73,
+            "Guard": 72,
+            "Speed": 79,
+            "Stamina": 76,
+            "Guts": 77,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 120,
+            "TP": 128,
+            "Kick": 74,
+            "Body": 71,
+            "Control": 64,
+            "Guard": 58,
+            "Speed": 66,
+            "Stamina": 52,
+            "Guts": 60,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Nigel August",
+        "ie1": {},
+        "ie2": {
+            "GP": 193,
+            "TP": 106,
+            "Kick": 68,
+            "Body": 76,
+            "Control": 76,
+            "Guard": 68,
+            "Speed": 79,
+            "Stamina": 75,
+            "Guts": 79,
+            "Freedom": 11
+        },
+        "ie3": {
+            "GP": 123,
+            "TP": 118,
+            "Kick": 63,
+            "Body": 60,
+            "Control": 61,
+            "Guard": 59,
+            "Speed": 61,
+            "Stamina": 67,
+            "Guts": 60,
+            "Freedom": 11
+        }
+    }
+]

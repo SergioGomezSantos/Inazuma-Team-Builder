@@ -126,6 +126,20 @@
         }
     },
     {
+        "team": "Épsilon Plus",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/e/e4/Escudo_-_Epsilon_Plus_%28SD%29.png/revision/latest?cb=20240427150021&path-prefix=es"
+        },
+        "formation": {
+            "name": "Épsilon",
+            "layout": "5-4-1"
+        }
+    },
+    {
         "team": "Prominence",
         "coach": {
             "name": "Sin Entrenador",
@@ -247,7 +261,7 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/e/e1/Raimon_FF_Emblema.png/revision/latest?cb=20210620190405&path-prefix=es"
         },
         "formation": {
-            "name": "Diamante",
+            "name": "Diamante II",
             "layout": "4-4-2"
         }
     }

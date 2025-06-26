@@ -1,0 +1,151 @@
+[
+    {
+        "player": "Cam Mando",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "Muralla Gigante", "Garra Salvaje"],
+        "ie3": [
+            "Anti Afinidades",
+            "Mano Celestial",
+            "Defensa Triple",
+            "Constelación Estelar"
+        ]
+    },
+    {
+        "player": "Harry Boufante",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "Pájaro de Fuego"],
+        "ie3": [
+            "Anti Afinidades",
+            "Pájaro de Fuego",
+            "Emboscada Defensiva",
+            "Carrera a Tres Piernas"
+        ]
+    },
+    {
+        "player": "Todd Stuhl",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "El Muro"],
+        "ie3": [
+            "Anti Afinidades",
+            "Bateo Total",
+            "Emboscada Defensiva",
+            "Presa"
+        ]
+    },
+    {
+        "player": "Aspen Blewit",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "Ciclón", "Telaraña"],
+        "ie3": ["Anti Afinidades", "Ciclón", "Emboscada Defensiva", "Inmersión"]
+    },
+    {
+        "player": "Marismus Oregon",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "Apisonadora"],
+        "ie3": [
+            "Anti Afinidades",
+            "Apisonadora",
+            "Emboscada Defensiva",
+            "Tiro Espejismo"
+        ]
+    },
+    {
+        "player": "Garjan Cypress",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "Tornado Venenoso"],
+        "ie3": [
+            "Anti Afinidades",
+            "Vagueza",
+            "Remate Serpiente",
+            "Tuya-mía Doble"
+        ]
+    },
+    {
+        "player": "Judas Deathcap",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "Telaraña", "Niebla Venenosa"],
+        "ie3": [
+            "Anti Afinidades",
+            "Tornado Venenoso",
+            "Emboscada Defensiva",
+            "Voltereta Circense"
+        ]
+    },
+    {
+        "player": "Chase Faithfull",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "Dragón Terrestre", "Confusión"],
+        "ie3": [
+            "Anti Afinidades",
+            "Dragón Terrestre",
+            "Emboscada Defensiva",
+            "Descodificación"
+        ]
+    },
+    {
+        "player": "Chris Ticker",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "Remate Halcón"],
+        "ie3": [
+            "Anti Afinidades",
+            "Remate Halcón",
+            "Emboscada Defensiva",
+            "Carrera a Tres Piernas"
+        ]
+    },
+    {
+        "player": "Roy Daring",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "Remate Múltiple"],
+        "ie3": [
+            "Anti Afinidades",
+            "Remate Múltiple",
+            "Emboscada Defensiva",
+            "Casanova"
+        ]
+    },
+    {
+        "player": "Scaber Enoki",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Anti Afinidades", "Tiro Cegador"],
+        "ie3": [
+            "Anti Afinidades",
+            "Tiro Cegador",
+            "Emboscada Defensiva",
+            "Tiro Galáctico"
+        ]
+    }
+]

@@ -1,0 +1,229 @@
+[
+    {
+        "player": "Thomas Feldt",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Puños Voladores",
+                "with": []
+            },
+            {
+                "name": "Bloqueo Doble",
+                "with": ["Jim"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Ultratécnica",
+            "Bloqueo Doble",
+            "Puños Voladores",
+            "Campo de Fuerza Defensivo"
+        ],
+        "ie3": [
+            "Ultratécnica",
+            "Puños Voladores",
+            "Malla Letal",
+            "Mano Diabólica"
+        ]
+    },
+    {
+        "player": "Malcolm Night",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Fuerza Defensiva", "Empuje Trillizo", "Corte Giratorio"],
+        "ie3": [
+            "Fuerza Defensiva",
+            "Robo Rápido",
+            "Corte Volcánico",
+            "Empuje Trillizo"
+        ]
+    },
+    {
+        "player": "Shadow Cimmerian",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Tornado Oscuro",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Ultratécnica",
+            "Tornado Oscuro",
+            "Triángulo Letal",
+            "Ataque Sombrío"
+        ],
+        "ie3": [
+            "Ultratécnica",
+            "Tornado Oscuro",
+            "Ataque Sombrío",
+            "Triángulo Letal 2"
+        ]
+    },
+    {
+        "player": "Jim Wraith",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Bloqueo Doble",
+                "with": ["Feldt"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Siempre a Muerte", "Doppelgänger", "Trama", "Zapatazo Dual"],
+        "ie3": ["Siempre a Muerte", "Doppelgänger", "Trama", "Zapatazo Dual"]
+    },
+    {
+        "player": "Tod Ironside",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Superaceleración",
+                "with": []
+            },
+            {
+                "name": "Remate Triple",
+                "with": ["Nathan", "Sam"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Carga Elemental",
+            "Giro de Mono",
+            "Bateo Total",
+            "Sprint Triple"
+        ],
+        "ie3": [
+            "Carga Elemental",
+            "Giro de Mono",
+            "Bateo Total",
+            "Sprint Triple"
+        ]
+    },
+    {
+        "player": "Steve Grim",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Remate en V",
+                "with": ["Max"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Casanova", "Remate en V", "Sorteo de Balón"],
+        "ie3": ["Casanova", "Remate en V", "Sorteo de Balón", "Espada de Odín"]
+    },
+    {
+        "player": "Tim Saunders",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Estrella Fugaz",
+                "with": ["Sam"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["¡Vamos!", "Técnica Kung-fu", "Cometa"],
+        "ie3": ["¡Vamos!", "Técnica Kung-fu", "Cometa", "Campo Torbellino"]
+    },
+    {
+        "player": "Sam Kincaid",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Estrella Fugaz",
+                "with": ["Timmy"]
+            },
+            {
+                "name": "Remate Triple",
+                "with": ["Nathan", "Tod"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Piscinazo", "Granada Doble", "Coz 2"],
+        "ie3": ["Piscinazo", "Granada Doble", "Gravedad Grave", "Coz 2"]
+    },
+    {
+        "player": "Maxwell Carson",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Remate en V",
+                "with": ["Steve"]
+            },
+            {
+                "name": "Fénix Oscuro",
+                "with": ["Nathan", "Kevin"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Lance Crítico", "Entrada Tormenta", "Remate en V"],
+        "ie3": [
+            "Lance Crítico",
+            "Entrada Tormenta",
+            "Remate en V",
+            "Disparo Sagrado"
+        ]
+    },
+    {
+        "player": "Nathan Swift",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Defensa Múltiple",
+                "with": []
+            },
+            {
+                "name": "Remate Triple",
+                "with": ["Sam", "Tod"]
+            },
+            {
+                "name": "Fénix Oscuro",
+                "with": ["Kevin", "Max"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Ultratécnica",
+            "Fuerza Veloz",
+            "Fénix Oscuro",
+            "Regate Múltiple"
+        ],
+        "ie3": ["Ultratécnica", "Fuerza Veloz", "Fénix Oscuro", "Excalibur"]
+    },
+    {
+        "player": "Kevin Dragonfly",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Remate Guiverno",
+                "with": []
+            },
+            {
+                "name": "Fénix Oscuro",
+                "with": ["Nathan", "Max"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["¡Vamos!", "Remate Dragón", "Remate Guiverno"],
+        "ie3": [
+            "¡Vamos!",
+            "Cañón Dragón",
+            "Remate Guiverno",
+            "Pingüino Emperador Nº 1"
+        ]
+    }
+]

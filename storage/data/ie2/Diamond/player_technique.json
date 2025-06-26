@@ -1,0 +1,204 @@
+[
+    {
+        "player": "Ben North",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Bloque de Hielo",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Bloque de Hielo", "Ciclón", "Atajo Tornado", "Rompehielos"],
+        "ie3": ["Bloque de Hielo", "Suerte", "Agujero de Gusano", "Rompehielos"]
+    },
+    {
+        "player": "Alan Downhill",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Casanova",
+            "Rompehielos",
+            "Escáner Defensa",
+            "Bloque de Hielo"
+        ],
+        "ie3": ["Casanova", "Rompehielos", "Balón Iceberg", "Repaso"]
+    },
+    {
+        "player": "Claire Lesnow",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Rompehielos",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Flash de Fotones",
+            "Bomba Géiser",
+            "Agujero de Gusano",
+            "Bloque de Hielo"
+        ],
+        "ie3": ["Rompehielos", "Bloque de Hielo", "Ahorro", "Mano Celestial X"]
+    },
+    {
+        "player": "Albert Denver",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Rompehielos",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Rompehielos", "Robo Planeta", "Pisotón de Sumo", "Aplanadora"],
+        "ie3": ["Pisotón de Sumo", "Defensa +", "Paipay Gigante", "Gran Seísmo"]
+    },
+    {
+        "player": "Lucy Hailstone",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Femme Fatale",
+            "Rompehielos",
+            "Regate Aurora",
+            "Balón Iceberg"
+        ],
+        "ie3": ["Cinto Astral", "Chut Congelante", "Femme Fatale", "Gran Lobo"]
+    },
+    {
+        "player": "Brad Coldwater",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Bomba Géiser",
+            "Corte Giratorio",
+            "Flash de Fotones",
+            "Técnica Kung-fu"
+        ],
+        "ie3": [
+            "Bomba Géiser",
+            "Corte Giratorio",
+            "Entrada Rodante",
+            "Pingüino Emperador Nº 2"
+        ]
+    },
+    {
+        "player": "Dawson Foxx",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Bomba Géiser",
+                "with": []
+            },
+            {
+                "name": "Rompehielos",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Bomba Géiser",
+            "Robo Rápido",
+            "Entrada Huracán",
+            "Disparo Cósmico"
+        ],
+        "ie3": [
+            "Bomba Géiser",
+            "Paisaje Helado",
+            "Hora Celestial",
+            "Disparo Cósmico"
+        ]
+    },
+    {
+        "player": "Ving Rice",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Bomba Géiser",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Relámpago Saltón",
+            "Acelerrelámpago",
+            "Remate Espiral",
+            "Balón Iceberg"
+        ],
+        "ie3": [
+            "Acelerrelámpago",
+            "Remate Espiral",
+            "Bomba Géiser",
+            "Pingüino Espacial"
+        ]
+    },
+    {
+        "player": "Bernie White",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Astro Remate", "Bomba Géiser", "Giro Bobina", "Balón Iceberg"],
+        "ie3": [
+            "Astro Remate",
+            "Bomba Géiser",
+            "Regate Aurora",
+            "Balón Iceberg"
+        ]
+    },
+    {
+        "player": "Bryce Whitingale",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Balón Iceberg",
+                "with": []
+            },
+            {
+                "name": "Ventisca de Fuego",
+                "with": ["Torch"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Carga Elemental",
+            "Balón Iceberg",
+            "Bomba Géiser",
+            "Ventisca de Fuego"
+        ],
+        "ie3": [
+            "Carga Elemental",
+            "Balón Iceberg",
+            "Hora Celestial",
+            "Ventisca de Fuego"
+        ]
+    },
+    {
+        "player": "Denzel Freezer",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Astro Remate", "Flecha Divina", "Bomba Géiser", "Supernova"],
+        "ie3": [
+            "Astro Remate",
+            "Ventisca Guiverno",
+            "Bomba Géiser",
+            "Puerta Astral"
+        ]
+    }
+]

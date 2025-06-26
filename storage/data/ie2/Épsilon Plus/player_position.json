@@ -1,0 +1,54 @@
+[
+    {
+        "player": "Zeke Valanche PR",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Chris Tytan",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Craven Kenville",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Kayson Wattever",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Anna Mole",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Mads Hatter",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Karen Ripton",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Ronny Metcalf",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Yakker Plantsworm",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Carrie McCuring",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Dave Quagmire DL",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Dave Quagmire PR",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Zeke Valanche DL",
+        "position_id": "bench-1"
+    }
+]

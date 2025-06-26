@@ -1,30 +1,7 @@
-[
-    {
+[    {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -40,30 +17,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -79,30 +34,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -118,30 +51,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -157,30 +68,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -196,30 +85,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -235,30 +102,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -274,30 +119,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -313,30 +136,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -352,30 +153,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -391,30 +170,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -430,30 +187,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -469,30 +204,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -508,30 +221,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -547,30 +238,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -586,30 +255,8 @@
     },
     {
         "player": "",
-        "ie1": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 0
-        },
-        "ie2": {
-            "GP": ,
-            "TP": ,
-            "Kick": ,
-            "Body": ,
-            "Control": ,
-            "Guard": ,
-            "Speed": ,
-            "Stamina": ,
-            "Guts": ,
-            "Freedom": 
-        },
+        "ie1": {},
+        "ie2": {},
         "ie3": {
             "GP": ,
             "TP": ,
@@ -622,5 +269,5 @@
             "Guts": ,
             "Freedom": 
         }
-    },
+    }
 ]

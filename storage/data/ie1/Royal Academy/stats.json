@@ -351,6 +351,45 @@
         }
     },
     {
+        "player": "Jude Sharp",
+        "ie1": {
+            "GP": 191,
+            "TP": 180,
+            "Kick": 63,
+            "Body": 79,
+            "Control": 79,
+            "Guard": 79,
+            "Speed": 76,
+            "Stamina": 76,
+            "Guts": 68,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 191,
+            "TP": 180,
+            "Kick": 63,
+            "Body": 79,
+            "Control": 79,
+            "Guard": 79,
+            "Speed": 76,
+            "Stamina": 76,
+            "Guts": 68,
+            "Freedom": 34
+        },
+        "ie3": {
+            "GP": 123,
+            "TP": 126,
+            "Kick": 63,
+            "Body": 59,
+            "Control": 79,
+            "Guard": 52,
+            "Speed": 68,
+            "Stamina": 56,
+            "Guts": 68,
+            "Freedom": 17
+        }
+    },
+    {
         "player": "David Samford",
         "ie1": {
             "GP": 193,

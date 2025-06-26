@@ -1,0 +1,299 @@
+[
+    {
+        "player": "Adam Ropes",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Cortina Aurora",
+            "Hojarasca",
+            "Paisaje Helado",
+            "Ciclón Doble"
+        ],
+        "ie3": [
+            "Cortina Aurora",
+            "Carga Elemental",
+            "Paisaje Helado",
+            "Bloque de Hielo"
+        ]
+    },
+    {
+        "player": "Joaquine Downtown",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Paisaje Helado",
+            "Olor Embriagador",
+            "Arcoiris Luminoso",
+            "Regate Aurora"
+        ],
+        "ie3": [
+            "Paisaje Helado",
+            "Pájaro de Fuego",
+            "Ángel de Nieve",
+            "¡Que no Decaiga!"
+        ]
+    },
+    {
+        "player": "Milton Bindings",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Gravedad", "Paisaje Helado", "Balón Rodante", "Ciclón"],
+        "ie3": ["Bola Falsa", "Paisaje Helado", "Balón Rodante", "Rompehielos"]
+    },
+    {
+        "player": "Spike Gleeson",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Equilibrismo", "Doppelgänger", "Telaraña", "Ataque Sombrío"],
+        "ie3": [
+            "Corte Giratorio",
+            "Doppelgänger",
+            "Regate Aurora",
+            "Ataque Sombrío"
+        ]
+    },
+    {
+        "player": "Sean Snowfield",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Siempre a Muerte",
+            "Sorpresa",
+            "Super Pisotón de Sumo",
+            "Mega Terremoto"
+        ],
+        "ie3": [
+            "Siempre a Muerte",
+            "Sorpresa",
+            "Patada Canguro",
+            "Mega Terremoto"
+        ]
+    },
+    {
+        "player": "Kerry Bootgaiter",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Torbellino Dragón",
+            "Sorpresa",
+            "Regate Espejismo",
+            "Rueda Infernal"
+        ],
+        "ie3": ["Sorpresa", "Rompehielos", "Remate en V", "Amago de Tiro"]
+    },
+    {
+        "player": "Maddox Rock",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Regate Espejismo",
+            "Pared Solitaria",
+            "Cabezazo Yoyó",
+            "Regate Aurora"
+        ],
+        "ie3": [
+            "Regate Espejismo",
+            "Arcoiris Luminoso",
+            "Cabezazo Yoyó",
+            "Regate Aurora"
+        ]
+    },
+    {
+        "player": "Robert Skipolson",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Tiro del Cometa",
+            "Pase Cruzado",
+            "Remate Halcón",
+            "Regate Espejismo"
+        ],
+        "ie3": [
+            "Tiro del Cometa",
+            "Regate Espejismo",
+            "Remate Halcón",
+            "Patín Aéreo"
+        ]
+    },
+    {
+        "player": "Shawn Froste DF",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Paisaje Helado",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Paisaje Helado", "Giro Bobina", "Ciclón", "Ciclón Doble"],
+        "ie3": [
+            "Paisaje Helado",
+            "Corte Giratorio",
+            "Ventisca Eterna",
+            "Rompehielos"
+        ]
+    },
+    {
+        "player": "Shawn Froste DL",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Ventisca Eterna",
+                "with": []
+            },
+            {
+                "name": "Ventisca Guiverno",
+                "with": ["Kevin"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Ventisca Eterna",
+            "Entrada Huracán",
+            "Regate Aurora",
+            "Chut Congelante"
+        ],
+        "ie3": [
+            "Ventisca Eterna",
+            "Regate Aurora",
+            "Balón Galgo",
+            "Balón Iceberg"
+        ]
+    },
+    {
+        "player": "Roland Climbstein",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Casanova",
+            "Paisaje Helado",
+            "Chut Congelante",
+            "Ventisca Eterna"
+        ],
+        "ie3": [
+            "Casanova",
+            "Paisaje Helado",
+            "Ventisca Eterna",
+            "Balón Iceberg"
+        ]
+    },
+    {
+        "player": "Quentin Rackner",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Chut Congelante",
+            "Entrada Huracán",
+            "Remolino Cortante",
+            "Ventisca Eterna"
+        ],
+        "ie3": [
+            "Pingüino Emperador Nº 2",
+            "Ventisca Eterna",
+            "Remolino Cortante",
+            "Bomba Géiser"
+        ]
+    },
+    {
+        "player": "Trent Peggs",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Despeje de Leñador",
+            "Hojarasca",
+            "Torbellino",
+            "Cortina Aurora"
+        ],
+        "ie3": ["Despeje de Leñador", "Cortina Aurora", "Hojarasca", "Simún"]
+    },
+    {
+        "player": "Martin Ursus",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Barrido Defensivo",
+            "Regate Topo",
+            "Paisaje Helado",
+            "Corte Volcánico"
+        ],
+        "ie3": ["Defensa +", "Regate Topo", "Paisaje Helado", "Corte Volcánico"]
+    },
+    {
+        "player": "Pete Bogg",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Pared Solitaria",
+            "Ataque Meteorito",
+            "Regate Aurora",
+            "Bateo Total"
+        ],
+        "ie3": [
+            "Pared Solitaria",
+            "Ataque Meteorito",
+            "Regate Aurora",
+            "Zapatazo Dual"
+        ]
+    },
+    {
+        "player": "Gem Strata",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Embestida", "Superarmadillo", "El Muro", "Sismo"],
+        "ie3": [
+            "Luna Creciente",
+            "Ultra Lunar",
+            "Dragón Terrestre",
+            "Jaula de Piedra"
+        ]
+    },
+    {
+        "player": "Horace Onlign",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Disparo Rodante",
+            "Entrada Huracán",
+            "Balón Rodante",
+            "Chut Congelante"
+        ],
+        "ie3": [
+            "Disparo Rodante",
+            "Entrada Huracán",
+            "Chut Congelante",
+            "Bomba Géiser"
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "player": "Darren LaChance",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Hurley Kane",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Jack Wallside",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Victoria Vanguard",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Mark Evans DF",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Scott Banyan",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Bobby Shearer",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Jude Sharp",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Erik Eagle",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Shawn Froste",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Axel Blaze",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Suzette Hartland",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Byron Love",
+        "position_id": "bench-1"
+    },
+    {
+        "player": "William Glass",
+        "position_id": "bench-2"
+    },
+    {
+        "player": "Mark Evans PR",
+        "position_id": "bench-3"
+    }
+]

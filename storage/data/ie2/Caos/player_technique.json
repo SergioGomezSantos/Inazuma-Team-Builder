@@ -1,0 +1,198 @@
+[
+    {
+        "player": "Grant Cook",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Combustión",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Ultratécnica", "Combustión"],
+        "ie3": ["Combustión", "Suerte", "Despeje Explosivo", "Cortafuegos"]
+    },
+    {
+        "player": "Bonnie Sparks",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Femme Fatale", "Cortafuegos"],
+        "ie3": [
+            "Cortafuegos",
+            "Zigzag de Fuego",
+            "Lluvia de Meteoros",
+            "Combustión"
+        ]
+    },
+    {
+        "player": "Albert Denver",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Rompehielos",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Defensa +", "Rompehielos"],
+        "ie3": ["Pisotón de Sumo", "Defensa +", "Paipay Gigante", "Gran Seísmo"]
+    },
+    {
+        "player": "Ben Blowton",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Cortafuegos",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Ultratécnica", "Cortafuegos"],
+        "ie3": [
+            "Cortafuegos",
+            "Estela Ígnea",
+            "Superarmadillo",
+            "Colmillo de Pantera"
+        ]
+    },
+    {
+        "player": "Claire Lesnow",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Rompehielos",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Femme Fatale", "Rompehielos"],
+        "ie3": ["Rompehielos", "Bloque de Hielo", "Ahorro", "Mano Celestial X"]
+    },
+    {
+        "player": "Ethan Whitering",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Fuerza Veloz", "Lluvia de Meteoros", "Remate de Gaia"],
+        "ie3": [
+            "Casanova",
+            "Lluvia de Meteoros",
+            "Colmillo de Pantera",
+            "Empuje Gemelo F"
+        ]
+    },
+    {
+        "player": "Dawson Foxx",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Bomba Géiser",
+                "with": []
+            },
+            {
+                "name": "Rompehielos",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Siempre a Muerte", "Bomba Géiser"],
+        "ie3": [
+            "Bomba Géiser",
+            "Paisaje Helado",
+            "Hora Celestial",
+            "Disparo Cósmico"
+        ]
+    },
+    {
+        "player": "Ving Rice",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Bomba Géiser",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Femme Fatale", "Balón Iceberg", "Bomba Géiser"],
+        "ie3": [
+            "Acelerrelámpago",
+            "Remate Espiral",
+            "Bomba Géiser",
+            "Pingüino Espacial"
+        ]
+    },
+    {
+        "player": "Bryce Whitingale",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Balón Iceberg",
+                "with": []
+            },
+            {
+                "name": "Ventisca de Fuego",
+                "with": ["Torch"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Lance Crítico", "Bomba Géiser", "Ventisca de Fuego"],
+        "ie3": [
+            "Carga Elemental",
+            "Balón Iceberg",
+            "Hora Celestial",
+            "Ventisca de Fuego"
+        ]
+    },
+    {
+        "player": "Claude Beacons",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Llamarada Atómica",
+                "with": []
+            },
+            {
+                "name": "Ventisca de Fuego",
+                "with": ["Gazelle"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Lance Crítico", "Pantalla Ígnea", "Ventisca de Fuego"],
+        "ie3": [
+            "Carga Elemental",
+            "Llamarada Atómica",
+            "Balón Galgo",
+            "Ventisca de Fuego"
+        ]
+    },
+    {
+        "player": "Nigel August",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Anti Afinidades",
+            "Llamarada Atómica",
+            "Pantalla Ígnea",
+            "Cortafuegos"
+        ],
+        "ie3": [
+            "Empuje Gemelo F",
+            "Pantalla Ígnea",
+            "Llamarada Atómica",
+            "Rapidez +"
+        ]
+    }
+]

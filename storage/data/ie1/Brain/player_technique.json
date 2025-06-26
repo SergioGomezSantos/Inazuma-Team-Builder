@@ -11,16 +11,7 @@
                 "with": []
             }
         ],
-        "anime2": [
-            {
-                "name": "Puños Voladores",
-                "with": []
-            },
-            {
-                "name": "Bloqueo Doble",
-                "with": ["Jim"]
-            }
-        ],
+        "anime2": [],
         "anime3": [],
         "ie1": [
             "Campo de Fuerza Defensivo",

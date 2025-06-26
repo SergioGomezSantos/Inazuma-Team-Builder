@@ -1,0 +1,310 @@
+[
+    {
+        "player": "Cam Mando",
+        "ie1": {},
+        "ie2": {
+            "GP": 213,
+            "TP": 197,
+            "Kick": 76,
+            "Body": 74,
+            "Control": 72,
+            "Guard": 78,
+            "Speed": 68,
+            "Stamina": 77,
+            "Guts": 68,
+            "Freedom": 10
+        },
+        "ie3": {
+            "GP": 117,
+            "TP": 141,
+            "Kick": 59,
+            "Body": 61,
+            "Control": 53,
+            "Guard": 70,
+            "Speed": 59,
+            "Stamina": 63,
+            "Guts": 61,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Harry Boufante",
+        "ie1": {},
+        "ie2": {
+            "GP": 187,
+            "TP": 193,
+            "Kick": 79,
+            "Body": 79,
+            "Control": 72,
+            "Guard": 79,
+            "Speed": 76,
+            "Stamina": 71,
+            "Guts": 79,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 99,
+            "TP": 125,
+            "Kick": 54,
+            "Body": 57,
+            "Control": 61,
+            "Guard": 59,
+            "Speed": 62,
+            "Stamina": 58,
+            "Guts": 55,
+            "Freedom": 20
+        }
+    },
+    {
+        "player": "Todd Stuhl",
+        "ie1": {},
+        "ie2": {
+            "GP": 191,
+            "TP": 185,
+            "Kick": 76,
+            "Body": 68,
+            "Control": 69,
+            "Guard": 77,
+            "Speed": 78,
+            "Stamina": 73,
+            "Guts": 72,
+            "Freedom": 13
+        },
+        "ie3": {
+            "GP": 108,
+            "TP": 121,
+            "Kick": 57,
+            "Body": 60,
+            "Control": 52,
+            "Guard": 57,
+            "Speed": 58,
+            "Stamina": 62,
+            "Guts": 54,
+            "Freedom": 19
+        }
+    },
+    {
+        "player": "Aspen Blewit",
+        "ie1": {},
+        "ie2": {
+            "GP": 211,
+            "TP": 169,
+            "Kick": 70,
+            "Body": 72,
+            "Control": 71,
+            "Guard": 79,
+            "Speed": 76,
+            "Stamina": 75,
+            "Guts": 70,
+            "Freedom": 10
+        },
+        "ie3": {
+            "GP": 102,
+            "TP": 127,
+            "Kick": 53,
+            "Body": 53,
+            "Control": 56,
+            "Guard": 60,
+            "Speed": 54,
+            "Stamina": 54,
+            "Guts": 47,
+            "Freedom": 35
+        }
+    },
+    {
+        "player": "Marismus Oregon",
+        "ie1": {},
+        "ie2": {
+            "GP": 200,
+            "TP": 184,
+            "Kick": 73,
+            "Body": 68,
+            "Control": 68,
+            "Guard": 79,
+            "Speed": 68,
+            "Stamina": 75,
+            "Guts": 79,
+            "Freedom": 13
+        },
+        "ie3": {
+            "GP": 105,
+            "TP": 117,
+            "Kick": 62,
+            "Body": 58,
+            "Control": 51,
+            "Guard": 55,
+            "Speed": 61,
+            "Stamina": 67,
+            "Guts": 51,
+            "Freedom": 15
+        }
+    },
+    {
+        "player": "Garjan Cypress",
+        "ie1": {},
+        "ie2": {
+            "GP": 195,
+            "TP": 181,
+            "Kick": 69,
+            "Body": 79,
+            "Control": 72,
+            "Guard": 78,
+            "Speed": 78,
+            "Stamina": 78,
+            "Guts": 79,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 97,
+            "TP": 119,
+            "Kick": 56,
+            "Body": 51,
+            "Control": 55,
+            "Guard": 49,
+            "Speed": 66,
+            "Stamina": 53,
+            "Guts": 42,
+            "Freedom": 42
+        }
+    },
+    {
+        "player": "Judas Deathcap",
+        "ie1": {},
+        "ie2": {
+            "GP": 198,
+            "TP": 169,
+            "Kick": 70,
+            "Body": 79,
+            "Control": 70,
+            "Guard": 71,
+            "Speed": 79,
+            "Stamina": 79,
+            "Guts": 68,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 98,
+            "TP": 124,
+            "Kick": 46,
+            "Body": 57,
+            "Control": 49,
+            "Guard": 48,
+            "Speed": 68,
+            "Stamina": 60,
+            "Guts": 53,
+            "Freedom": 34
+        }
+    },
+    {
+        "player": "Chase Faithfull",
+        "ie1": {},
+        "ie2": {
+            "GP": 189,
+            "TP": 172,
+            "Kick": 72,
+            "Body": 79,
+            "Control": 79,
+            "Guard": 76,
+            "Speed": 79,
+            "Stamina": 73,
+            "Guts": 70,
+            "Freedom": 15
+        },
+        "ie3": {
+            "GP": 106,
+            "TP": 122,
+            "Kick": 58,
+            "Body": 62,
+            "Control": 52,
+            "Guard": 56,
+            "Speed": 57,
+            "Stamina": 57,
+            "Guts": 58,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Chris Ticker",
+        "ie1": {},
+        "ie2": {
+            "GP": 204,
+            "TP": 180,
+            "Kick": 72,
+            "Body": 77,
+            "Control": 79,
+            "Guard": 70,
+            "Speed": 79,
+            "Stamina": 77,
+            "Guts": 69,
+            "Freedom": 13
+        },
+        "ie3": {
+            "GP": 104,
+            "TP": 131,
+            "Kick": 54,
+            "Body": 52,
+            "Control": 60,
+            "Guard": 50,
+            "Speed": 63,
+            "Stamina": 56,
+            "Guts": 52,
+            "Freedom": 29
+        }
+    },
+    {
+        "player": "Roy Daring",
+        "ie1": {},
+        "ie2": {
+            "GP": 217,
+            "TP": 197,
+            "Kick": 79,
+            "Body": 68,
+            "Control": 79,
+            "Guard": 70,
+            "Speed": 70,
+            "Stamina": 70,
+            "Guts": 69,
+            "Freedom": 15
+        },
+        "ie3": {
+            "GP": 100,
+            "TP": 128,
+            "Kick": 59,
+            "Body": 55,
+            "Control": 57,
+            "Guard": 46,
+            "Speed": 64,
+            "Stamina": 58,
+            "Guts": 51,
+            "Freedom": 36
+        }
+    },
+    {
+        "player": "Scaber Enoki",
+        "ie1": {},
+        "ie2": {
+            "GP": 191,
+            "TP": 197,
+            "Kick": 79,
+            "Body": 76,
+            "Control": 69,
+            "Guard": 76,
+            "Speed": 74,
+            "Stamina": 76,
+            "Guts": 78,
+            "Freedom": 9
+        },
+        "ie3": {
+            "GP": 113,
+            "TP": 121,
+            "Kick": 63,
+            "Body": 60,
+            "Control": 48,
+            "Guard": 43,
+            "Speed": 59,
+            "Stamina": 57,
+            "Guts": 54,
+            "Freedom": 38
+        }
+    }
+]

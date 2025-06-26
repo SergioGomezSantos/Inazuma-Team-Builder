@@ -1,0 +1,337 @@
+[
+    {
+        "player": "Ken Ironwall",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Muralla de Escudos",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Muralla de Escudos",
+            "Bloqueo Dureza",
+            "El Muro",
+            "Muralla Gigante"
+        ],
+        "ie3": [
+            "Muralla de Escudos",
+            "Despeje Cohete",
+            "El Muro",
+            "Muro de Hierro"
+        ]
+    },
+    {
+        "player": "Timothy Western",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Escudo Corporal",
+                "with": ["Smith", "Wallace"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Escáner Defensa",
+            "Escáner Ataque",
+            "Zona de Seguridad",
+            "Apisonadora"
+        ],
+        "ie3": [
+            "Escáner Defensa",
+            "Escáner Ataque",
+            "Zona de Seguridad",
+            "Zona Sigma"
+        ]
+    },
+    {
+        "player": "Wallace Hammond",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Escudo Corporal",
+                "with": ["Smith", "Western"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Entrada Huracán",
+            "Descodificación",
+            "Zona de Seguridad",
+            "Rueda Infernal"
+        ],
+        "ie3": [
+            "Entrada Huracán",
+            "Descodificación",
+            "Zona de Seguridad",
+            "Acelerrelámpago"
+        ]
+    },
+    {
+        "player": "Shirley Stevens",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Zona de Seguridad",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Zona de Seguridad",
+            "Voltereta Circense",
+            "Escudo Corporal",
+            "Cabezonería"
+        ],
+        "ie3": [
+            "Zona de Seguridad",
+            "Voltereta Circense",
+            "Remate de Seguridad",
+            "Escudo Corporal"
+        ]
+    },
+    {
+        "player": "Ian Smith",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Escudo Corporal",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Escudo Corporal",
+            "Bloqueo Dureza",
+            "Escáner Defensa",
+            "Muralla de Escudos"
+        ],
+        "ie3": [
+            "Escudo Corporal",
+            "Bloqueo Dureza",
+            "Muralla de Escudos",
+            "Apisonadora"
+        ]
+    },
+    {
+        "player": "Taylor Firepool",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Aikido",
+                "with": ["Agente M"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Truco de Magia", "Remate Misil", "Aikido", "Remate Asalto"],
+        "ie3": ["Aikido", "Remate Misil", "Bomba Acrobática", "Remate Asalto"]
+    },
+    {
+        "player": "Marge Fielding",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Aikido",
+                "with": ["Firepool"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Femme Fatale", "Aikido", "Escáner Defensa", "Remate en V"],
+        "ie3": ["Femme Fatale", "Aikido", "Torre Inexpugnable", "Remate en V"]
+    },
+    {
+        "player": "Marshall Firsthand",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Escáner Ataque",
+            "Bombazo",
+            "Zona de Seguridad",
+            "Remate de Seguridad"
+        ],
+        "ie3": [
+            "Escáner Ataque",
+            "Bombazo",
+            "Zona de Seguridad",
+            "Remate de Seguridad"
+        ]
+    },
+    {
+        "player": "Holly Mirror",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Remate de Seguridad",
+                "with": ["Kenneddy"]
+            },
+            {
+                "name": "Bomba Acrobática",
+                "with": ["Kenneddy"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Remate de Seguridad",
+            "Remate en Espiral",
+            "Zigzag Chispeante",
+            "Remate en V"
+        ],
+        "ie3": [
+            "Remate de Seguridad",
+            "Remate en Espiral",
+            "Zona de Seguridad",
+            "Torre Inexpugnable"
+        ]
+    },
+    {
+        "player": "Victoria Vanguard",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Torre Inexpugnable",
+                "with": []
+            },
+            {
+                "name": "Baile de Mariposas",
+                "with": ["Sue"]
+            },
+            {
+                "name": "Torre Perfecta",
+                "with": ["Hurley", "Scotty"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Torre Inexpugnable",
+            "Arcoiris Luminoso",
+            "Bomba Acrobática",
+            "Torre Perfecta"
+        ],
+        "ie3": [
+            "Torre Inexpugnable",
+            "Baile de Mariposas",
+            "Aikido",
+            "Torre Perfecta"
+        ]
+    },
+    {
+        "player": "Joe Kenneddy",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Bomba Acrobática",
+                "with": ["Mirror"]
+            },
+            {
+                "name": "Remate de Seguridad",
+                "with": ["Mirror"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Bomba Acrobática",
+            "Tiro Dinamita",
+            "Bombazo",
+            "Remate de Seguridad"
+        ],
+        "ie3": ["Bomba Acrobática", "Tiro Dinamita", "Bombazo", "Cañonazo"]
+    },
+    {
+        "player": "Ian Sights",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Cuchilla Asesina",
+            "Despeje Cohete",
+            "Confusión",
+            "Muralla de Escudos"
+        ],
+        "ie3": ["Cuchilla Asesina", "Puños Voladores", "Confusión", "Cañonazo"]
+    },
+    {
+        "player": "Greene Beray",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Giro Bobina", "Bola Falsa", "Confusión", "Zona de Seguridad"],
+        "ie3": [
+            "Corte Volcánico",
+            "Bola Falsa",
+            "Confusión",
+            "Zona de Seguridad"
+        ]
+    },
+    {
+        "player": "Ryan Tappin",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Barrido Defensivo",
+            "Doppelgänger",
+            "Zigzag Chispeante",
+            "Descodificación"
+        ],
+        "ie3": [
+            "Zigzag Chispeante",
+            "Doppelgänger",
+            "Regate Múltiple",
+            "Descodificación"
+        ]
+    },
+    {
+        "player": "Linda Shadey",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Disparo Rodante",
+            "Torbellino Dragón",
+            "Aikido",
+            "Bomba Acrobática"
+        ],
+        "ie3": [
+            "Disparo Rodante",
+            "Torbellino Dragón",
+            "Aikido",
+            "Baile de Mariposas"
+        ]
+    },
+    {
+        "player": "Sid Safehouse",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Superpeonza",
+            "Pisotón de Sumo",
+            "Escudo Corporal",
+            "Bloqueo Dureza"
+        ],
+        "ie3": [
+            "Superpeonza",
+            "Gran Sabio",
+            "Millón de Manos",
+            "Escudo Corporal"
+        ]
+    }
+]

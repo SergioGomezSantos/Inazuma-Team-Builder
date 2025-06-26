@@ -1,0 +1,322 @@
+[
+    {
+        "player": "Darren LaChance",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Mano Celestial",
+                "with": []
+            },
+            {
+                "name": "Mano Mágica",
+                "with": []
+            },
+            {
+                "name": "Manos Infinitas",
+                "with": []
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Mano Diabólica",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [
+            "Mano Celestial",
+            "Mano Mágica",
+            "Paipay Gigante",
+            "Manos Infinitas"
+        ],
+        "ie3": [
+            "Mano Celestial",
+            "Mano Mágica",
+            "Manos Infinitas",
+            "Mano Diabólica"
+        ]
+    },
+    {
+        "player": "Drancis Fake",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Voltereta Circense",
+                "with": ["Badgame"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Casanova",
+            "Voltereta Circense",
+            "Giro Bobina",
+            "Paipay Gigante"
+        ],
+        "ie3": [
+            "Casanova",
+            "Voltereta Circense",
+            "Paipay Gigante",
+            "Ataque de Paladín"
+        ]
+    },
+    {
+        "player": "Mick Mishap",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Cometa", "Embestida", "Entrada Huracán", "Rueda Infernal"],
+        "ie3": ["Cometa", "Embestida", "Avance Flamígero", "Inmersión"]
+    },
+    {
+        "player": "Louis Leave",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Golf Total", "Embestida", "Corte Flamígero", "Bombazo"],
+        "ie3": ["Golf Total", "Embestida", "Corte Flamígero", "Tren Loco"]
+    },
+    {
+        "player": "Maurice Badgame",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Voltereta Circense",
+                "with": ["Fake"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "El Muro",
+            "Paipay Gigante",
+            "Despeje de Leñador",
+            "Escudo Protector"
+        ],
+        "ie3": [
+            "El Muro",
+            "Paipay Gigante",
+            "Muro de Hierro",
+            "Escudo Protector"
+        ]
+    },
+    {
+        "player": "Cannon Random",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Carrera a Tres Piernas",
+                "with": ["Poker"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Robo Rápido",
+            "Armadillo Circense",
+            "Cabezonería",
+            "Lanzallamas"
+        ],
+        "ie3": [
+            "Robo Rápido",
+            "Armadillo Circense",
+            "Cabezonería",
+            "Llamarada Infernal"
+        ]
+    },
+    {
+        "player": "Ulric Richmen",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Remate Serpiente",
+            "Voltereta Circense",
+            "Bola de Fango",
+            "Bomba Acrobática"
+        ],
+        "ie3": [
+            "Remate Serpiente",
+            "Voltereta Circense",
+            "Remate Gafas",
+            "Bomba Acrobática"
+        ]
+    },
+    {
+        "player": "Dave Fate",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "¡Vamos!",
+            "Pisotón de Sumo",
+            "Paipay Gigante",
+            "Super Pisotón de Sumo"
+        ],
+        "ie3": [
+            "¡Vamos!",
+            "Super Pisotón de Sumo",
+            "Paipay Gigante",
+            "Remate en V"
+        ]
+    },
+    {
+        "player": "Dany Destiny",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Torbellino Dragón",
+            "Sorpresa",
+            "Corte Volcánico",
+            "Paipay Gigante"
+        ],
+        "ie3": [
+            "Torbellino Dragón",
+            "Baile de Llamas",
+            "Corte Volcánico",
+            "Paipay Gigante"
+        ]
+    },
+    {
+        "player": "Spencer Duskplay",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Granada Doble",
+            "Truco de Magia",
+            "Paipay Gigante",
+            "Golf Total"
+        ],
+        "ie3": [
+            "Granada Doble",
+            "Súper Relámpago",
+            "Paipay Gigante",
+            "Golf Total"
+        ]
+    },
+    {
+        "player": "Jonathan Luckyman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Siempre a Muerte",
+            "Arcoiris Luminoso",
+            "Carrera a Tres Piernas",
+            "Tiro Dinamita"
+        ],
+        "ie3": [
+            "Siempre a Muerte",
+            "Arcoiris Luminoso",
+            "Carrera a Tres Piernas",
+            "Ruptura Relámpago"
+        ]
+    },
+    {
+        "player": "Joe Poker",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Carrera a Tres Piernas",
+                "with": ["Random"]
+            },
+            {
+                "name": "Arcoiris Luminoso",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Bateo Total",
+            "Paipay Gigante",
+            "Ataque Meteorito",
+            "Carrera a Tres Piernas"
+        ],
+        "ie3": [
+            "Bateo Total",
+            "Arcoiris Luminoso",
+            "Ataque Meteorito",
+            "Dúo Magma"
+        ]
+    },
+    {
+        "player": "Wiley Cracker",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Bloqueo Dureza",
+            "Despeje de Fuego",
+            "Mandril",
+            "Puño Vengativo"
+        ],
+        "ie3": [
+            "Deslizamiento",
+            "Despeje de Fuego",
+            "Mandril",
+            "Puño Vengativo"
+        ]
+    },
+    {
+        "player": "Mark Failing",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Pompa de Chicle", "Chut Granada", "Tiro Dinamita", "Coz"],
+        "ie3": ["Pompa de Chicle", "Chut Granada", "Tiro Dinamita", "Aikido"]
+    },
+    {
+        "player": "Alton Cotts",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Chut Granada", "Embestida", "Arcoiris Luminoso", "Bombazo"],
+        "ie3": ["Chut Granada", "Gran Sabio", "Arcoiris Luminoso", "Bombazo"]
+    },
+    {
+        "player": "Mike Passing",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Remate en Espiral",
+            "Cabezazo Yoyó",
+            "Remate Combinado",
+            "Carrera a Tres Piernas"
+        ],
+        "ie3": [
+            "Suerte",
+            "Cabezazo Yoyó",
+            "Remate Combinado",
+            "Carrera a Tres Piernas"
+        ]
+    },
+    {
+        "player": "Knowle Bathers",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Escudo de Fuerza", "Cabezonería", "Corte Giratorio", "Cometa"],
+        "ie3": [
+            "Torbellino",
+            "Cabezonería",
+            "Corte Giratorio",
+            "Puños Voladores"
+        ]
+    }
+]

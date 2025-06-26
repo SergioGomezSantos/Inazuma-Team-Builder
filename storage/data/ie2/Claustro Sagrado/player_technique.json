@@ -1,0 +1,299 @@
+[
+    {
+        "player": "Crane Kik",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Lanzallamas",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Siempre a Muerte",
+            "Lanzallamas",
+            "Despeje de Leñador",
+            "Parada Múltiple"
+        ],
+        "ie3": [
+            "Siempre a Muerte",
+            "Lanzallamas",
+            "Super Puño Invencible",
+            "Parada Múltiple"
+        ]
+    },
+    {
+        "player": "Parry Waxon",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Telaraña", "Defensa Múltiple", "Maldición", "Apisonadora"],
+        "ie3": ["Telaraña", "Defensa Múltiple", "Espejismo", "Apisonadora"]
+    },
+    {
+        "player": "Bri Spark",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Niebla Venenosa",
+            "Ataque Sombrío",
+            "Tornado Venenoso",
+            "Regate Múltiple"
+        ],
+        "ie3": [
+            "Niebla Venenosa",
+            "Técnica Kung-fu",
+            "Tornado Venenoso",
+            "Regate Múltiple"
+        ]
+    },
+    {
+        "player": "Max Fortune",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Torbellino Dragón",
+            "Robo Rápido",
+            "Técnica Kung-fu",
+            "Apisonadora"
+        ],
+        "ie3": [
+            "Torbellino Dragón",
+            "Defensa Múltiple",
+            "Técnica Kung-fu",
+            "Apisonadora"
+        ]
+    },
+    {
+        "player": "Brendan Water",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Pisotón de Sumo",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Pisotón de Sumo",
+            "Super Pisotón de Sumo",
+            "Corte Flamígero",
+            "Regate Topo"
+        ],
+        "ie3": [
+            "Pisotón de Sumo",
+            "Super Pisotón de Sumo",
+            "Estela Ígnea",
+            "Regate Topo"
+        ]
+    },
+    {
+        "player": "Ian Telektual",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Regate Múltiple",
+            "Confusión",
+            "Bateo Total",
+            "Remolino Cortante"
+        ],
+        "ie3": ["Repaso", "Regate Múltiple", "Confusión", "Rueda Infernal"]
+    },
+    {
+        "player": "Lee Dinglite",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Cabezazo Kung-fu",
+            "Remate Múltiple",
+            "Doppelgänger",
+            "Luna Creciente"
+        ],
+        "ie3": [
+            "Cabezazo Kung-fu",
+            "Remate Múltiple",
+            "Doppelgänger",
+            "Remolino Cortante"
+        ]
+    },
+    {
+        "player": "Marshall Artz",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Técnica Kung-fu",
+                "with": []
+            },
+            {
+                "name": "Torbellino Dragón",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Ultratécnica",
+            "Técnica Kung-fu",
+            "Torbellino Dragón",
+            "Zapatazo Dual"
+        ],
+        "ie3": [
+            "Ultratécnica",
+            "Técnica Kung-fu",
+            "Torbellino Dragón",
+            "Tormenta de Fuego"
+        ]
+    },
+    {
+        "player": "Tyke Wando",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Pared Solitaria",
+            "Remate Dragón",
+            "Ataque Sombrío",
+            "Cañón Dragón"
+        ],
+        "ie3": [
+            "Pared Solitaria",
+            "Remate Dragón",
+            "Cabezazo Megatón",
+            "Cañón Dragón"
+        ]
+    },
+    {
+        "player": "Dirk Artz",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Técnica Kung-fu",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Lance Crítico",
+            "Cañón Dragón",
+            "Avance Flamígero",
+            "Remate del Águila"
+        ],
+        "ie3": [
+            "Lance Crítico",
+            "Cañón Dragón",
+            "Campo Torbellino",
+            "Avance Flamígero"
+        ]
+    },
+    {
+        "player": "Scott Banyan",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Campo Torbellino",
+                "with": []
+            },
+            {
+                "name": "Torre Perfecta",
+                "with": ["Tori", "Hurley"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Campo Torbellino",
+            "Confusión",
+            "Sorpresa",
+            "Torbellino Dragón"
+        ],
+        "ie3": ["Campo Torbellino", "Sorpresa", "Avance Flamígero", "Vendimia"]
+    },
+    {
+        "player": "Scott Banyan R",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Gafe", "Cabezazo Kung-fu", "Avance Flamígero", "Cañón Dragón"],
+        "ie3": []
+    },
+    {
+        "player": "Earnest Bookworm",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Atajo Tornado",
+            "Cabezonería",
+            "Cabezazo Kung-fu",
+            "Lanzallamas"
+        ],
+        "ie3": [
+            "Atajo Tornado",
+            "Cabezonería",
+            "Lanzallamas",
+            "Escudo Protector"
+        ]
+    },
+    {
+        "player": "Ollie Gami",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Gravedad", "Maldición", "Rapto Divino", "Telaraña"],
+        "ie3": ["Gravedad", "Maldición", "Rapto Divino", "Trama, Trama"]
+    },
+    {
+        "player": "Roman Kandel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Giro de Mono",
+            "Corte Flamígero",
+            "Tornado de Fuego",
+            "Corte Volcánico"
+        ],
+        "ie3": [
+            "Giro de Mono",
+            "Corte Flamígero",
+            "Llamarada Infernal",
+            "Corte Volcánico"
+        ]
+    },
+    {
+        "player": "Don Ation",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Rapto Divino",
+            "Cabezazo Kung-fu",
+            "Torbellino Dragón",
+            "Cañón Dragón"
+        ],
+        "ie3": [
+            "Rapto Divino",
+            "Cabezazo Kung-fu",
+            "Campo Torbellino",
+            "Cañón Dragón"
+        ]
+    }
+]

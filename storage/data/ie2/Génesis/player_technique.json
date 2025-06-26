@@ -1,0 +1,226 @@
+[
+    {
+        "player": "Nelson Rockwell",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Constelación Estelar",
+                "with": []
+            },
+            {
+                "name": "Muro Dimensional",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Constelación Estelar",
+            "Muro Dimensional",
+            "Flash de Fotones",
+            "Espiral de Distorsión"
+        ],
+        "ie3": [
+            "Constelación Estelar",
+            "Muro Dimensional",
+            "Lance Crítico",
+            "Carga Elemental"
+        ]
+    },
+    {
+        "player": "Gail Baker",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Flash de Fotones",
+            "Zona Sigma",
+            "Espejismo",
+            "Acelerrelámpago"
+        ],
+        "ie3": [
+            "Acelerrelámpago",
+            "Tormenta de Arena",
+            "Escudo Bárbaro",
+            "Zona Sigma"
+        ]
+    },
+    {
+        "player": "Kim Powell",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Acelerrelámpago",
+            "Gravitación",
+            "Agujero Negro",
+            "Constelación Estelar"
+        ],
+        "ie3": [
+            "Acelerrelámpago",
+            "Gravitación",
+            "Cañonazo",
+            "Constelación Estelar"
+        ]
+    },
+    {
+        "player": "Zack Cummings",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Recobro", "Robo Planeta", "Superarmadillo", "Gravitación"],
+        "ie3": ["Recobro", "Sismo", "Vendimia", "Potenciación"]
+    },
+    {
+        "player": "Hunt Mercer",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Gravedad Grave",
+            "Pisotón de Sumo",
+            "Superarmadillo",
+            "Gravitación"
+        ],
+        "ie3": [
+            "Gravedad Grave",
+            "Super Pisotón de Sumo",
+            "Robo Planeta",
+            "Disparo Cósmico"
+        ]
+    },
+    {
+        "player": "Connor Murray",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Acelerrelámpago",
+            "Rapto Divino",
+            "Luna Creciente",
+            "Pingüino Espacial"
+        ],
+        "ie3": [
+            "Acelerrelámpago",
+            "Rapto Divino",
+            "Ultra Lunar",
+            "Pingüino Espacial"
+        ]
+    },
+    {
+        "player": "Katie Brown",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Cruz del Sur",
+            "Equilibrismo",
+            "Pompa de Chicle",
+            "Zona Sigma"
+        ],
+        "ie3": ["Cruz del Sur", "Remate Espiral", "Amago de Tiro", "Zona Sigma"]
+    },
+    {
+        "player": "Ashton Malone",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Acelerrelámpago",
+            "Psicorremate",
+            "Cañón de Meteoritos",
+            "Cruz del Sur"
+        ],
+        "ie3": [
+            "Acelerrelámpago",
+            "Psicorremate",
+            "Cañón de Meteoritos",
+            "Engaño Yoyó"
+        ]
+    },
+    {
+        "player": "Wilbur Watkins",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Supernova",
+                "with": ["Xene", "Bellatrix"]
+            },
+            {
+                "name": "Pingüino Espacial",
+                "with": ["Xene", "Bellatrix"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Ultratécnica",
+            "Astro Remate",
+            "Rayo de Ganímedes",
+            "Supernova"
+        ],
+        "ie3": ["Ultratécnica", "Rayo de Ganímedes", "Apisonadora", "Supernova"]
+    },
+    {
+        "player": "Isabelle Trick",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Supernova",
+                "with": ["Xene", "Wittz"]
+            },
+            {
+                "name": "Pingüino Espacial",
+                "with": ["Xene", "Wittz"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Astro Remate",
+            "Lluvia de Meteoros",
+            "Pingüino Espacial",
+            "Zigzag Chispeante"
+        ],
+        "ie3": ["Astro Remate", "Engaño Torero", "Súper Elástico", "Cañon X"]
+    },
+    {
+        "player": "Xavier Foster",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Cañón de Meteoritos",
+                "with": []
+            },
+            {
+                "name": "Supernova",
+                "with": ["Bellatrix", "Wittz"]
+            },
+            {
+                "name": "Pingüino Espacial",
+                "with": ["Bellatrix", "Wittz"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Cañón de Meteoritos",
+            "Supernova",
+            "Flash de Fotones",
+            "Cruz del Sur"
+        ],
+        "ie3": [
+            "Cañón de Meteoritos",
+            "Ignición",
+            "Supernova",
+            "Flash de Fotones"
+        ]
+    }
+]

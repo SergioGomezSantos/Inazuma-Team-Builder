@@ -1,66 +1,66 @@
 [
     {
-        "player_name": "Poseidon",
+        "player": "Paul Siddon",
         "position_id": "pos-0"
     },
     {
-        "player_name": "Apollo",
+        "player": "Apollo Light",
         "position_id": "pos-1"
     },
     {
-        "player_name": "Ares",
+        "player": "Lane War",
         "position_id": "pos-2"
     },
     {
-        "player_name": "Dionysus",
+        "player": "Danny Wood",
         "position_id": "pos-3"
     },
     {
-        "player_name": "Hephestus",
+        "player": "Jeff Iron",
         "position_id": "pos-4"
     },
     {
-        "player_name": "Artemis",
+        "player": "Artie Mishman",
         "position_id": "pos-5"
     },
     {
-        "player_name": "Hermes",
+        "player": "Arion Matlock",
         "position_id": "pos-6"
     },
     {
-        "player_name": "Hera",
+        "player": "Henry House",
         "position_id": "pos-7"
     },
     {
-        "player_name": "Athena",
+        "player": "Wesley Knox",
         "position_id": "pos-8"
     },
     {
-        "player_name": "Aphrodite",
+        "player": "Jonas Demetrius",
         "position_id": "pos-9"
     },
     {
-        "player_name": "Demeter",
+        "player": "Byron Love",
         "position_id": "pos-10"
     },
     {
-        "player_name": "Icarus",
+        "player": "Iggy Russ",
         "position_id": "bench-0"
     },
     {
-        "player_name": "Achilles",
+        "player": "Gus Heeley",
         "position_id": "bench-1"
     },
     {
-        "player_name": "Heracles",
+        "player": "Harry Closs",
         "position_id": "bench-2"
     },
     {
-        "player_name": "Chronos",
+        "player": "Andy Chronic",
         "position_id": "bench-3"
     },
     {
-        "player_name": "Medusa",
+        "player": "Ned Yousef",
         "position_id": "bench-4"
     }
 ]

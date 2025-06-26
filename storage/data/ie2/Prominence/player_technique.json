@@ -1,0 +1,200 @@
+[
+    {
+        "player": "Grant Cook",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Combustión",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Combustión", "Bombazo", "Despeje de Fuego", "Cortafuegos"],
+        "ie3": ["Combustión", "Suerte", "Despeje Explosivo", "Cortafuegos"]
+    },
+    {
+        "player": "Bonnie Sparks",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Cortafuegos",
+            "Escáner Defensa",
+            "Escáner Ataque",
+            "Combustión"
+        ],
+        "ie3": [
+            "Cortafuegos",
+            "Zigzag de Fuego",
+            "Lluvia de Meteoros",
+            "Combustión"
+        ]
+    },
+    {
+        "player": "Val Flamewood",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Gravitación", "Cruz del Sur", "Empuje Trillizo", "Combustión"],
+        "ie3": [
+            "Gravitación",
+            "Cruz del Sur",
+            "Robo Planeta",
+            "Pingüino Emperador X"
+        ]
+    },
+    {
+        "player": "Sean Ashford",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Remate Asalto",
+            "Doppelgänger",
+            "Gravedad Grave",
+            "Cortafuegos"
+        ],
+        "ie3": ["Tacón Infernal", "Cortafuegos", "Remate Asalto", "Supernova"]
+    },
+    {
+        "player": "Ben Blowton",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Cortafuegos",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Cortafuegos", "Bombazo", "Superarmadillo", "Muro Dimensional"],
+        "ie3": [
+            "Cortafuegos",
+            "Estela Ígnea",
+            "Superarmadillo",
+            "Colmillo de Pantera"
+        ]
+    },
+    {
+        "player": "Ethan Whitering",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Casanova",
+            "Lluvia de Meteoros",
+            "Remate de Gaia",
+            "Empuje Gemelo F"
+        ],
+        "ie3": [
+            "Casanova",
+            "Lluvia de Meteoros",
+            "Colmillo de Pantera",
+            "Empuje Gemelo F"
+        ]
+    },
+    {
+        "player": "Brenda Firequest",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Astro Remate",
+            "Cruz del Sur",
+            "Prima Donna",
+            "Llamarada Atómica"
+        ],
+        "ie3": [
+            "Corte Flamígero",
+            "Llamarada Infernal",
+            "Ataque +",
+            "Fuego Total"
+        ]
+    },
+    {
+        "player": "Sam Bournes",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Pantalla Ígnea",
+            "Espejismo de Balón",
+            "Lecho de Rosas",
+            "Lanza de Odín"
+        ],
+        "ie3": ["Prima Donna", "Femme Fatale", "Lanza de Odín", "Cortafuegos"]
+    },
+    {
+        "player": "Jim Flareson",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Ultratécnica",
+            "Astro Remate",
+            "Pájaro de Fuego",
+            "Llamarada Atómica"
+        ],
+        "ie3": [
+            "Ultratécnica",
+            "Placaje Extremo",
+            "Pájaro de Fuego",
+            "Llamarada Atómica"
+        ]
+    },
+    {
+        "player": "Claude Beacons",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Llamarada Atómica",
+                "with": []
+            },
+            {
+                "name": "Ventisca de Fuego",
+                "with": ["Gazelle"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Carga Elemental",
+            "Llamarada Atómica",
+            "Pantalla Ígnea",
+            "Ventisca de Fuego"
+        ],
+        "ie3": [
+            "Carga Elemental",
+            "Llamarada Atómica",
+            "Balón Galgo",
+            "Ventisca de Fuego"
+        ]
+    },
+    {
+        "player": "Nigel August",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Rayo de Ganímedes",
+            "Pantalla Ígnea",
+            "Empuje Gemelo F",
+            "Llamarada Atómica"
+        ],
+        "ie3": [
+            "Empuje Gemelo F",
+            "Pantalla Ígnea",
+            "Llamarada Atómica",
+            "Rapidez +"
+        ]
+    }
+]

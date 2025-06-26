@@ -1,0 +1,46 @@
+[
+    {
+        "player": "Thomas Feldt",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Malcolm Night",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Sam Kincaid",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Jim Wraith",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Tod Ironside",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Steve Grim",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Tim Saunders",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Shadow Cimmerian",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Maxwell Carson",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Nathan Swift",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Kevin Dragonfly",
+        "position_id": "pos-10"
+    }
+]

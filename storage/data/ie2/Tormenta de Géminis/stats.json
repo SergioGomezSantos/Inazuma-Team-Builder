@@ -1,0 +1,310 @@
+[
+    {
+        "player": "Gordon Star",
+        "ie1": {},
+        "ie2": {
+            "GP": 202,
+            "TP": 85,
+            "Kick": 77,
+            "Body": 68,
+            "Control": 58,
+            "Guard": 67,
+            "Speed": 58,
+            "Stamina": 76,
+            "Guts": 59,
+            "Freedom": 17
+        },
+        "ie3": {
+            "GP": 108,
+            "TP": 138,
+            "Kick": 55,
+            "Body": 68,
+            "Control": 56,
+            "Guard": 67,
+            "Speed": 53,
+            "Stamina": 51,
+            "Guts": 59,
+            "Freedom": 15
+        }
+    },
+    {
+        "player": "Connor Shuttle",
+        "ie1": {},
+        "ie2": {
+            "GP": 147,
+            "TP": 73,
+            "Kick": 53,
+            "Body": 57,
+            "Control": 76,
+            "Guard": 63,
+            "Speed": 79,
+            "Stamina": 56,
+            "Guts": 56,
+            "Freedom": 19
+        },
+        "ie3": {
+            "GP": 106,
+            "TP": 113,
+            "Kick": 53,
+            "Body": 54,
+            "Control": 69,
+            "Guard": 63,
+            "Speed": 68,
+            "Stamina": 56,
+            "Guts": 56,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Jim Landing",
+        "ie1": {},
+        "ie2": {
+            "GP": 147,
+            "TP": 91,
+            "Kick": 60,
+            "Body": 55,
+            "Control": 69,
+            "Guard": 67,
+            "Speed": 70,
+            "Stamina": 56,
+            "Guts": 55,
+            "Freedom": 10
+        },
+        "ie3": {
+            "GP": 118,
+            "TP": 116,
+            "Kick": 55,
+            "Body": 58,
+            "Control": 61,
+            "Guard": 67,
+            "Speed": 70,
+            "Stamina": 56,
+            "Guts": 55,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Grant Icewater",
+        "ie1": {},
+        "ie2": {
+            "GP": 189,
+            "TP": 81,
+            "Kick": 64,
+            "Body": 68,
+            "Control": 67,
+            "Guard": 58,
+            "Speed": 69,
+            "Stamina": 68,
+            "Guts": 56,
+            "Freedom": 12
+        },
+        "ie3": {
+            "GP": 112,
+            "TP": 108,
+            "Kick": 64,
+            "Body": 68,
+            "Control": 58,
+            "Guard": 53,
+            "Speed": 59,
+            "Stamina": 55,
+            "Guts": 56,
+            "Freedom": 16
+        }
+    },
+    {
+        "player": "Charles Riverboat",
+        "ie1": {},
+        "ie2": {
+            "GP": 167,
+            "TP": 88,
+            "Kick": 56,
+            "Body": 55,
+            "Control": 57,
+            "Guard": 70,
+            "Speed": 61,
+            "Stamina": 52,
+            "Guts": 70,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 104,
+            "TP": 120,
+            "Kick": 56,
+            "Body": 55,
+            "Control": 57,
+            "Guard": 70,
+            "Speed": 61,
+            "Stamina": 52,
+            "Guts": 70,
+            "Freedom": 10
+        }
+    },
+    {
+        "player": "Pat Box",
+        "ie1": {},
+        "ie2": {
+            "GP": 147,
+            "TP": 81,
+            "Kick": 60,
+            "Body": 61,
+            "Control": 76,
+            "Guard": 54,
+            "Speed": 66,
+            "Stamina": 60,
+            "Guts": 60,
+            "Freedom": 26
+        },
+        "ie3": {
+            "GP": 105,
+            "TP": 129,
+            "Kick": 58,
+            "Body": 59,
+            "Control": 67,
+            "Guard": 54,
+            "Speed": 58,
+            "Stamina": 56,
+            "Guts": 54,
+            "Freedom": 26
+        }
+    },
+    {
+        "player": "Gregory Saturn",
+        "ie1": {},
+        "ie2": {
+            "GP": 176,
+            "TP": 96,
+            "Kick": 56,
+            "Body": 66,
+            "Control": 52,
+            "Guard": 69,
+            "Speed": 57,
+            "Stamina": 67,
+            "Guts": 65,
+            "Freedom": 13
+        },
+        "ie3": {
+            "GP": 110,
+            "TP": 115,
+            "Kick": 53,
+            "Body": 66,
+            "Control": 52,
+            "Guard": 64,
+            "Speed": 57,
+            "Stamina": 61,
+            "Guts": 65,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Izzy Jupiter",
+        "ie1": {},
+        "ie2": {
+            "GP": 165,
+            "TP": 76,
+            "Kick": 52,
+            "Body": 60,
+            "Control": 66,
+            "Guard": 69,
+            "Speed": 73,
+            "Stamina": 67,
+            "Guts": 64,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 113,
+            "TP": 108,
+            "Kick": 52,
+            "Body": 55,
+            "Control": 62,
+            "Guard": 63,
+            "Speed": 70,
+            "Stamina": 54,
+            "Guts": 63,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Rhona Countdown",
+        "ie1": {},
+        "ie2": {
+            "GP": 121,
+            "TP": 72,
+            "Kick": 60,
+            "Body": 61,
+            "Control": 72,
+            "Guard": 61,
+            "Speed": 68,
+            "Stamina": 63,
+            "Guts": 57,
+            "Freedom": 16
+        },
+        "ie3": {
+            "GP": 112,
+            "TP": 124,
+            "Kick": 60,
+            "Body": 54,
+            "Control": 58,
+            "Guard": 49,
+            "Speed": 62,
+            "Stamina": 63,
+            "Guts": 57,
+            "Freedom": 29
+        }
+    },
+    {
+        "player": "Jordan Greenway",
+        "ie1": {},
+        "ie2": {
+            "GP": 173,
+            "TP": 89,
+            "Kick": 63,
+            "Body": 63,
+            "Control": 73,
+            "Guard": 61,
+            "Speed": 68,
+            "Stamina": 51,
+            "Guts": 71,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 108,
+            "TP": 104,
+            "Kick": 63,
+            "Body": 55,
+            "Control": 73,
+            "Guard": 52,
+            "Speed": 71,
+            "Stamina": 51,
+            "Guts": 60,
+            "Freedom": 23
+        }
+    },
+    {
+        "player": "Dylan Bluemoon",
+        "ie1": {},
+        "ie2": {
+            "GP": 154,
+            "TP": 97,
+            "Kick": 79,
+            "Body": 69,
+            "Control": 68,
+            "Guard": 61,
+            "Speed": 52,
+            "Stamina": 67,
+            "Guts": 52,
+            "Freedom": 20
+        },
+        "ie3": {
+            "GP": 119,
+            "TP": 115,
+            "Kick": 73,
+            "Body": 59,
+            "Control": 59,
+            "Guard": 50,
+            "Speed": 52,
+            "Stamina": 54,
+            "Guts": 52,
+            "Freedom": 38
+        }
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "player": "Gordon Star",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Agujero Negro",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Ultratécnica", "Agujero Negro", "Sismo", "Destrozataladros"],
+        "ie3": [
+            "Ultratécnica",
+            "Agujero Negro",
+            "Agujero de Gusano",
+            "Destrozataladros"
+        ]
+    },
+    {
+        "player": "Connor Shuttle",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Cinto Astral",
+            "Luna Creciente",
+            "Flash de Fotones",
+            "Constelación Estelar"
+        ],
+        "ie3": [
+            "Cinto Astral",
+            "Luna Creciente",
+            "Ataque Sombrío",
+            "Constelación Estelar"
+        ]
+    },
+    {
+        "player": "Jim Landing",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Recobro",
+            "Gravitación",
+            "Super Pisotón de Sumo",
+            "Teleportación"
+        ],
+        "ie3": [
+            "Recobro",
+            "Gravitación",
+            "Super Pisotón de Sumo",
+            "Puño de Furia"
+        ]
+    },
+    {
+        "player": "Grant Icewater",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Gravitación",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Rayo de Ganímedes",
+            "Psicorremate",
+            "Gravitación",
+            "Gravedad Grave"
+        ],
+        "ie3": [
+            "Gravitación",
+            "Rayo de Ganímedes",
+            "Gravedad Grave",
+            "Granada Doble"
+        ]
+    },
+    {
+        "player": "Charles Riverboat",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Flash de Fotones",
+                "with": []
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Flash de Fotones", "Ciclón", "Astro Remate", "Cinto Astral"],
+        "ie3": ["Coz", "Ciclón Doble", "Astro Remate", "Cinto Astral"]
+    },
+    {
+        "player": "Pat Box",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Gravitación",
+            "Teleportación",
+            "Agujero de Gusano",
+            "Muro Dimensional"
+        ],
+        "ie3": [
+            "Gravitación",
+            "Teleportación",
+            "Bomba Géiser",
+            "Muro Dimensional"
+        ]
+    },
+    {
+        "player": "Gregory Saturn",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Teleportación",
+            "Truco de Magia",
+            "Doppelgänger",
+            "Lanza de Odín"
+        ],
+        "ie3": ["Gafe", "Lance Crítico", "Teleportación", "Lanza de Odín"]
+    },
+    {
+        "player": "Izzy Jupiter",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Teleportación",
+            "Tiro Dinamita",
+            "Gravitación",
+            "Cañón de Meteoritos"
+        ],
+        "ie3": [
+            "Teleportación",
+            "Gravitación",
+            "Pantalla Ígnea",
+            "Cañón de Meteoritos"
+        ]
+    },
+    {
+        "player": "Rhona Countdown",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Disparo Cósmico",
+            "Teleportación",
+            "Tiro Fantasma",
+            "Pingüino Espacial"
+        ],
+        "ie3": [
+            "Disparo Cósmico",
+            "Teleportación",
+            "Cometa",
+            "Pingüino Espacial"
+        ]
+    },
+    {
+        "player": "Jordan Greenway",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Astro Remate",
+                "with": []
+            },
+            {
+                "name": "Disparo Cósmico",
+                "with": ["Diam"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Astro Remate",
+            "Teleportación",
+            "Disparo Cósmico",
+            "Remate de Gaia"
+        ],
+        "ie3": [
+            "Astro Remate",
+            "Teleportación",
+            "Rayo de Ganímedes",
+            "Ataque +"
+        ]
+    },
+    {
+        "player": "Dylan Bluemoon",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Disparo Cósmico",
+                "with": ["Janus"]
+            }
+        ],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Astro Remate",
+            "Teleportación",
+            "Cinto Astral",
+            "Disparo Cósmico"
+        ],
+        "ie3": [
+            "Tornado Oscuro",
+            "Vendimia",
+            "Teleportación",
+            "Disparo Cósmico"
+        ]
+    }
+]
