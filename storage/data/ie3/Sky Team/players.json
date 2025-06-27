@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Anorel",
+        "full_name": "Anorel",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/67/%28ST%29_Anorel.png/revision/latest?cb=20230912213003&path-prefix=es"
+    },
+    {
+        "name": "Nenel",
+        "full_name": "Nenel",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3c/%28ST%29_Nenel.png/revision/latest?cb=20230912213014&path-prefix=es"
+    },
+    {
+        "name": "Genel",
+        "full_name": "Genel",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2e/%28ST%29_Genel.png/revision/latest?cb=20230912213009&path-prefix=es"
+    },
+    {
+        "name": "Ekadel",
+        "full_name": "Ekadel",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/ff/%28ST%29_Ekadel.png/revision/latest?cb=20230912213005&path-prefix=es"
+    },
+    {
+        "name": "Lephiel",
+        "full_name": "Lephiel",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/58/%28ST%29_Lephiel.png/revision/latest?cb=20230912213012&path-prefix=es"
+    },
+    {
+        "name": "Sachinel",
+        "full_name": "Sachinel",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/05/%28ST%29_Sachinel.png/revision/latest?cb=20230912213019&path-prefix=es"
+    },
+    {
+        "name": "Wenel",
+        "full_name": "Wenel",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8f/%28ST%29_Wenel.png/revision/latest?cb=20230912213024&path-prefix=es"
+    },
+    {
+        "name": "Nuel",
+        "full_name": "Nuel",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/05/%28ST%29_Nuel.png/revision/latest?cb=20230912213016&path-prefix=es"
+    },
+    {
+        "name": "Ientel",
+        "full_name": "Ientel",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/71/%28ST%29_Ientel.png/revision/latest?cb=20230912213001&path-prefix=es"
+    },
+    {
+        "name": "Gaiel",
+        "full_name": "Gaiel",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3b/%28ST%29_Gaiel.png/revision/latest?cb=20230912213007&path-prefix=es"
+    },
+    {
+        "name": "Sael",
+        "full_name": "Sael",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Sky Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/20/%28ST%29_Sael.png/revision/latest?cb=20230912213022&path-prefix=es"
+    }
+]

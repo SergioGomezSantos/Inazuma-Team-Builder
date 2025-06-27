@@ -1,0 +1,189 @@
+[
+    {
+        "player": "Lars Luceafăr",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 160,
+            "TP": 180,
+            "Kick": 50,
+            "Body": 50,
+            "Control": 50,
+            "Guard": 99,
+            "Speed": 58,
+            "Stamina": 60,
+            "Guts": 63,
+            "Freedom": 2
+        }
+    },
+    {
+        "player": "Bump Trungus",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 154,
+            "Kick": 49,
+            "Body": 73,
+            "Control": 48,
+            "Guard": 81,
+            "Speed": 63,
+            "Stamina": 49,
+            "Guts": 59,
+            "Freedom": 14
+        }
+    },
+    {
+        "player": "Lump Trungus",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 142,
+            "Kick": 48,
+            "Body": 71,
+            "Control": 49,
+            "Guard": 76,
+            "Speed": 62,
+            "Stamina": 50,
+            "Guts": 60,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Radd Ischer",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 124,
+            "TP": 156,
+            "Kick": 52,
+            "Body": 74,
+            "Control": 50,
+            "Guard": 78,
+            "Speed": 55,
+            "Stamina": 70,
+            "Guts": 57,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Jynx Jenkins",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 131,
+            "TP": 145,
+            "Kick": 49,
+            "Body": 73,
+            "Control": 46,
+            "Guard": 76,
+            "Speed": 54,
+            "Stamina": 68,
+            "Guts": 64,
+            "Freedom": 10
+        }
+    },
+    {
+        "player": "Oni Triumvir",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 126,
+            "TP": 149,
+            "Kick": 50,
+            "Body": 80,
+            "Control": 71,
+            "Guard": 53,
+            "Speed": 58,
+            "Stamina": 64,
+            "Guts": 65,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Drachen Gunther",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 135,
+            "TP": 153,
+            "Kick": 51,
+            "Body": 75,
+            "Control": 53,
+            "Guard": 50,
+            "Speed": 60,
+            "Stamina": 68,
+            "Guts": 71,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Ichabod Stark",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 140,
+            "Kick": 51,
+            "Body": 72,
+            "Control": 74,
+            "Guard": 49,
+            "Speed": 54,
+            "Stamina": 68,
+            "Guts": 59,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Escavan Malice",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 126,
+            "TP": 150,
+            "Kick": 78,
+            "Body": 48,
+            "Control": 54,
+            "Guard": 48,
+            "Speed": 72,
+            "Stamina": 60,
+            "Guts": 63,
+            "Freedom": 24
+        }
+    },
+    {
+        "player": "Bash Lancer",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 152,
+            "Kick": 81,
+            "Body": 51,
+            "Control": 52,
+            "Guard": 52,
+            "Speed": 72,
+            "Stamina": 72,
+            "Guts": 65,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Mystral Callous",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 158,
+            "Kick": 73,
+            "Body": 53,
+            "Control": 51,
+            "Guard": 54,
+            "Speed": 76,
+            "Stamina": 59,
+            "Guts": 58,
+            "Freedom": 14
+        }
+    }
+]

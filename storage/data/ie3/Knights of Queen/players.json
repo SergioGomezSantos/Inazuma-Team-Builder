@@ -1,0 +1,130 @@
+[
+    {
+        "name": "McQueen",
+        "full_name": "Freddy McQueen",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5c/%28KQ%29_McQueen.png/revision/latest?cb=20230910142458&path-prefix=es"
+    },
+    {
+        "name": "Gazzer",
+        "full_name": "Jonny Gascoigne",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/80/%28KQ%29_Gazzer.png/revision/latest?cb=20230910142445&path-prefix=es"
+    },
+    {
+        "name": "Buckingham",
+        "full_name": "David Buckingham",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f9/%28KQ%29_Buckingham.png/revision/latest?cb=20230910142432&path-prefix=es"
+    },
+    {
+        "name": "Ralton",
+        "full_name": "Lance Ralton",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1a/%28KQ%29_Ralton.png/revision/latest?cb=20230910142522&path-prefix=es"
+    },
+    {
+        "name": "Ripper",
+        "full_name": "Edge Ripper",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ac/%28KQ%29_Ripper.png/revision/latest?cb=20230910142517&path-prefix=es"
+    },
+    {
+        "name": "Coole",
+        "full_name": "Peter Coole",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/77/%28KQ%29_Coole.png/revision/latest?cb=20230910142437&path-prefix=es"
+    },
+    {
+        "name": "Mane",
+        "full_name": "Gary Mane",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/63/%28KQ%29_Mane.png/revision/latest?cb=20230910142451&path-prefix=es"
+    },
+    {
+        "name": "Appleton",
+        "full_name": "Paul Appleton",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/83/%28KQ%29_Appleton.png/revision/latest?cb=20230910142428&path-prefix=es"
+    },
+    {
+        "name": "Purpleton",
+        "full_name": "Eric Purpleton",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/%28KQ%29_Purpleton.png/revision/latest?cb=20230910142510&path-prefix=es"
+    },
+    {
+        "name": "Partinus",
+        "full_name": "Edgar Partinus",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4c/%28KQ%29_Edgar.png/revision/latest?cb=20230910142442&path-prefix=es"
+    },
+    {
+        "name": "Arwen",
+        "full_name": "Philip Arwen",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/92/%28KQ%29_Arwen.png/revision/latest?cb=20230910142501&path-prefix=es"
+    },
+    {
+        "name": "Jeeves",
+        "full_name": "Servilius Jeeves",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f3/%28KQ%29_Jeeves.png/revision/latest?cb=20230910142448&path-prefix=es"
+    },
+    {
+        "name": "Squall",
+        "full_name": "Martin Squall",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/07/%28KQ%29_Squall.png/revision/latest?cb=20230910142527&path-prefix=es"
+    },
+    {
+        "name": "Woodgate",
+        "full_name": "Nick Woodgate",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a1/%28KQ%29_Woodgate.png/revision/latest?cb=20230910142530&path-prefix=es"
+    },
+    {
+        "name": "Richards",
+        "full_name": "Mikey Richards",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e3/%28KQ%29_Richards.png/revision/latest?cb=20230910142514&path-prefix=es"
+    },
+    {
+        "name": "Pounding",
+        "full_name": "Sirius Pounding",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Knights of Queen",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ef/%28KQ%29_Pounding.png/revision/latest?cb=20230910142506&path-prefix=es"
+    }
+]

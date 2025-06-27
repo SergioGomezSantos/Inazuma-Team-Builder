@@ -1,0 +1,66 @@
+[
+    {
+        "player": "Gene Whalon",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "David Waterman",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Sonny Shore",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Kjell Snapper",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Ken Crackham",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Shawn Princeton",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Matt Fischer",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Dolph Hensen",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Hank Tennyson",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Joe Dawes",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Hamilton Reith",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Quincy Horace",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Holly Summers",
+        "position_id": "bench-1"
+    },
+    {
+        "player": "Derek Rabson",
+        "position_id": "bench-2"
+    },
+    {
+        "player": "Barack Daniels",
+        "position_id": "bench-3"
+    },
+    {
+        "player": "Bruce Marlin",
+        "position_id": "bench-4"
+    }
+]

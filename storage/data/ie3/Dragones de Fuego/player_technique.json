@@ -1,0 +1,292 @@
+[
+    {
+        "player": "Jang Cho",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Rechace de Fuego",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Rechace de Fuego",
+            "Lanzallamas",
+            "Combustión",
+            "Mejor Garantía"
+        ]
+    },
+    {
+        "player": "Umi Wang",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Estela Ígnea",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Barrido Defensivo", "Estela Ígnea", "Ciclón", "Cometa"]
+    },
+    {
+        "player": "Doyo Hong",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Corte Volcánico",
+            "Estela Ígnea",
+            "Barrido Defensivo",
+            "Equilibrismo"
+        ]
+    },
+    {
+        "player": "Minho Cho",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Baile de Llamas",
+            "Barrido Defensivo",
+            "Estela Ígnea",
+            "Flecha Divina"
+        ]
+    },
+    {
+        "player": "Songwan Ko",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Estela Ígnea",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Estela Ígnea", "Bateo Total", "Mandril", "Defensa +"]
+    },
+    {
+        "player": "Changsu Choi",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Tacón Infernal",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Lance Crítico",
+            "Tacón Infernal",
+            "Cañón Dragón",
+            "Dragón Terrestre"
+        ]
+    },
+    {
+        "player": "Pekyong Park",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Estela Ígnea",
+            "Pantalla Ígnea",
+            "Corte Flamígero",
+            "Piscinazo"
+        ]
+    },
+    {
+        "player": "Enyong Kim",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Tacón Infernal", "Pantalla Ígnea", "Vagueza", "Rueda Infernal"]
+    },
+    {
+        "player": "Byron Love",
+        "anime1": [
+            {
+                "name": "Hora Celestial",
+                "with": []
+            },
+            {
+                "name": "Sabiduría Divina",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Remate Celestial",
+                "with": []
+            },
+            {
+                "name": "Remate Caótico",
+                "with": ["Torch", "Gazelle"]
+            }
+        ],
+        "ie1": [
+            "Sabiduría Divina",
+            "Hora Celestial",
+            "Apisonadora",
+            "Flecha Divina"
+        ],
+        "ie2": [
+            "Fuerza de Tiro",
+            "Sabiduría Divina",
+            "Hora Celestial",
+            "Disparo Sagrado"
+        ],
+        "ie3": [
+            "Fuerza de Tiro",
+            "Sabiduría Divina",
+            "Hora Celestial",
+            "Remate Caótico"
+        ]
+    },
+    {
+        "player": "Claude Beacons",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Llamarada Atómica",
+                "with": []
+            },
+            {
+                "name": "Ventisca de Fuego",
+                "with": ["Gazelle"]
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Remate Caótico",
+                "with": ["Gazelle", "Aphrodite"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [
+            "Carga Elemental",
+            "Llamarada Atómica",
+            "Pantalla Ígnea",
+            "Ventisca de Fuego"
+        ],
+        "ie3": [
+            "Carga Elemental",
+            "Pantalla Ígnea",
+            "Llamarada Atómica",
+            "Ventisca de Fuego"
+        ]
+    },
+    {
+        "player": "Bryce Whitingale",
+        "anime1": [],
+        "anime2": [
+            {
+                "name": "Balón Iceberg",
+                "with": []
+            },
+            {
+                "name": "Ventisca de Fuego",
+                "with": []
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Remate Caótico",
+                "with": ["Torch", "Aphrodite"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [
+            "Carga Elemental",
+            "Balón Iceberg",
+            "Bomba Géiser",
+            "Ventisca de Fuego"
+        ],
+        "ie3": [
+            "Carga Elemental",
+            "Balón Iceberg",
+            "Bomba Géiser",
+            "Ventisca de Fuego"
+        ]
+    },
+    {
+        "player": "Chi-Won Ho",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Rechace de Fuego",
+            "Despeje Explosivo",
+            "Lance Crítico",
+            "Combustión"
+        ]
+    },
+    {
+        "player": "Dong-Hyun Seul",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Estela Ígnea",
+            "Barrido Defensivo",
+            "Cinto Astral",
+            "Placaje Extremo"
+        ]
+    },
+    {
+        "player": "Jung-Hoon Yi",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Tacón Infernal", "Telaraña", "Rueda Infernal", "Coz 2"]
+    },
+    {
+        "player": "Sung-Jin Noh",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Pantalla Ígnea",
+            "Torbellino Dragón",
+            "Casanova",
+            "Remate del Águila"
+        ]
+    },
+    {
+        "player": "Joon-Ho Ja",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tacón Infernal",
+            "Rueda Infernal",
+            "Escáner Defensa",
+            "Remate Gafas"
+        ]
+    }
+]

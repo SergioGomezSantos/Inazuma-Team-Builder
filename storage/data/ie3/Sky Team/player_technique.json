@@ -1,0 +1,170 @@
+[
+    {
+        "player": "Anorel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Zona Sagrada",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Zona Sagrada",
+            "Hora Celestial",
+            "Paisaje Helado",
+            "Parada Celestial"
+        ]
+    },
+    {
+        "player": "Nenel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Subida a los Cielos",
+            "Balón Angelical",
+            "Espejismo de Balón",
+            "Fuerza Veloz"
+        ]
+    },
+    {
+        "player": "Genel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Subida a los Cielos",
+            "Descodificación",
+            "Hora Celestial",
+            "Estela Ígnea"
+        ]
+    },
+    {
+        "player": "Ekadel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Subida a los Cielos",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Subida a los Cielos",
+            "Balón Angelical",
+            "Espejismo de Balón",
+            "Fuerza Veloz"
+        ]
+    },
+    {
+        "player": "Lephiel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Subida a los Cielos",
+            "Círculo de Espadas",
+            "Cúpula Sónica",
+            "Zona Sagrada"
+        ]
+    },
+    {
+        "player": "Sachinel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Balón Angelical", "Excalibur", "¡Vamos Todos!", "Ultra Lunar"]
+    },
+    {
+        "player": "Wenel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Balón Angelical",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Balón Angelical",
+            "Ángel de Nieve",
+            "Vuelo de Ícaro",
+            "Hora Celestial"
+        ]
+    },
+    {
+        "player": "Nuel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Balón Angelical",
+            "Estela Ígnea",
+            "Mandíbulas Dobles",
+            "Cúpula Sónica"
+        ]
+    },
+    {
+        "player": "Ientel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Subida a los Cielos",
+            "Balón Angelical",
+            "Espada de Odín",
+            "Olor Embriagador"
+        ]
+    },
+    {
+        "player": "Gaiel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Remate Celestial",
+            "Vuelo de Ícaro",
+            "Prima Donna",
+            "Lanza de Odín"
+        ]
+    },
+    {
+        "player": "Sael",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Remate Celestial",
+                "with": []
+            },
+            {
+                "name": "Lluvia Oscura",
+                "with": ["Destra"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Remate Celestial", "Ultra Lunar", "Lluvia Oscura", "Excalibur"]
+    }
+]

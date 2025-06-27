@@ -1,0 +1,66 @@
+[
+    {
+        "player": "Hector Helio PR",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Zephyr Vitesse",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Walter Mountain",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Jimi Gaines",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Ian Ferrum",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Quint Hampton",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Yasir Haddad",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Keith Ryan",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Maximino Cruz",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Gareth Flare",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Drago Hill",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Keenan DiFortune",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Jarell Mangrove",
+        "position_id": "bench-1"
+    },
+    {
+        "player": "Vic Vitrum",
+        "position_id": "bench-2"
+    },
+    {
+        "player": "Li Leung",
+        "position_id": "bench-3"
+    },
+    {
+        "player": "Jazzy Hedgeer",
+        "position_id": "bench-4"
+    }
+]

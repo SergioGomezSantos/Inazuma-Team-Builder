@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Astaroth",
+        "full_name": "Astaroth",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/25/%28AO%29_Astaroth.png/revision/latest?cb=20230910132935&path-prefix=es"
+    },
+    {
+        "name": "Hebimos",
+        "full_name": "Hebimos",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/92/%28AO%29_Hebimos.png/revision/latest?cb=20230910132942&path-prefix=es"
+    },
+    {
+        "name": "Rubú",
+        "full_name": "Rubú",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e4/%28AO%29_Rub%C3%BA.png/revision/latest?cb=20230910132956&path-prefix=es"
+    },
+    {
+        "name": "Nenel",
+        "full_name": "Nenel",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c8/%28AO%29_Nenel.png/revision/latest?cb=20230910132953&path-prefix=es"
+    },
+    {
+        "name": "Lephiel",
+        "full_name": "Lephiel",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e3/%28AO%29_Lephiel.png/revision/latest?cb=20230910132947&path-prefix=es"
+    },
+    {
+        "name": "Malphas",
+        "full_name": "Malphas",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d8/%28AO%29_Malphas.png/revision/latest?cb=20230910132950&path-prefix=es"
+    },
+    {
+        "name": "Zanos",
+        "full_name": "Zanos",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/02/%28AO%29_Zanos.png/revision/latest?cb=20230910133005&path-prefix=es"
+    },
+    {
+        "name": "Gaiel",
+        "full_name": "Gaiel",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b2/%28AO%29_Gaiel.png/revision/latest?cb=20230910132940&path-prefix=es"
+    },
+    {
+        "name": "Wenel",
+        "full_name": "Wenel",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bf/%28AO%29_Wenel.png/revision/latest?cb=20230910133002&path-prefix=es"
+    },
+    {
+        "name": "Destra",
+        "full_name": "Destra",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/72/%28AO%29_Destra.png/revision/latest?cb=20230910132938&path-prefix=es"
+    },
+    {
+        "name": "Sael",
+        "full_name": "Sael",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Ángel Oscuro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/de/%28AO%29_Sael.png/revision/latest?cb=20230910132959&path-prefix=es"
+    }
+]

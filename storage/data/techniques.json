@@ -290,6 +290,11 @@
         "element": "Fuego"
     },
     {
+        "name": "Entrada de Llamas",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
         "name": "Entrada Huracán",
         "type": "Regate",
         "element": "Aire"
@@ -1225,6 +1230,11 @@
         "element": "Fuego"
     },
     {
+        "name": "Carrera Relámpago",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
         "name": "Caída a los Infiernos",
         "type": "Bloqueo",
         "element": "Bosque"
@@ -1256,6 +1266,11 @@
     },
     {
         "name": "Coz 3",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
+        "name": "Arrollador 3",
         "type": "Regate",
         "element": "Fuego"
     },
@@ -1455,6 +1470,11 @@
         "element": "Montaña"
     },
     {
+        "name": "Lanza Letal",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
         "name": "Lanzada Letal",
         "type": "Tiro",
         "element": "Bosque"
@@ -1466,6 +1486,11 @@
     },
     {
         "name": "Lluvia Letal",
+        "type": "Tiro",
+        "element": "Fuego"
+    },
+    {
+        "name": "Diluvio Letal",
         "type": "Tiro",
         "element": "Fuego"
     },
@@ -1780,6 +1805,11 @@
         "element": "Fuego"
     },
     {
+        "name": "Coz 3",
+        "type": "Regate",
+        "element": "Fuego"
+    },
+    {
         "name": "Potenciación",
         "type": "Regate",
         "element": "Fuego"
@@ -1979,5 +2009,50 @@
         "name": "Pantalla Ígnea",
         "type": "Regate",
         "element": "Fuego"
+    },
+    {
+        "name": "Emboscada",
+        "type": "Bloqueo",
+        "element": "Bosque"
+    },
+    {
+        "name": "Triángulo Múltiple",
+        "type": "Tiro",
+        "element": "Bosque"
+    },
+    {
+        "name": "Martillo Defensor",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Electrotrampa",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Malla Eléctrica",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Voltaje Dual",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Martillo Defensor",
+        "type": "Atajo",
+        "element": "Aire"
+    },
+    {
+        "name": "Mangual Letal",
+        "type": "Tiro",
+        "element": "Montaña"
+    },
+    {
+        "name": "Remate Letal",
+        "type": "Tiro",
+        "element": "Montaña"
     }
 ]

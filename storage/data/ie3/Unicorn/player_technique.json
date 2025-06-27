@@ -1,0 +1,327 @@
+[
+    {
+        "player": "Billy Dash",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Golpes de Luz",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Golpes de Luz", "Ahorro", "Despeje Cohete", "Cañonazo"]
+    },
+    {
+        "player": "Ted Bryan",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Placaje Extremo",
+            "Robo Rápido",
+            "Luna Creciente",
+            "Baile de Llamas"
+        ]
+    },
+    {
+        "player": "Tony Strider",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Barrido Defensivo",
+            "Placaje Extremo",
+            "Remate Misil",
+            "Embestida"
+        ]
+    },
+    {
+        "player": "Drake Dynamo",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Placaje Extremo",
+            "Golpes de Luz",
+            "Mega Terremoto",
+            "Super Puño Invencible"
+        ]
+    },
+    {
+        "player": "Bobby Shearer",
+        "anime1": [
+            {
+                "name": "Barrido Defensivo",
+                "with": []
+            },
+            {
+                "name": "Tri-Pegaso",
+                "with": ["Erik", "Malcolm", "Mark"]
+            },
+            {
+                "name": "Tornado Fénix",
+                "with": ["Erik", "Mark", "Axel"]
+            }
+        ],
+        "anime2": [
+            {
+                "name": "Corte Volcánico",
+                "with": []
+            },
+            {
+                "name": "Triángulo Letal",
+                "with": ["Jude", "Mark"]
+            },
+            {
+                "name": "Triángulo Letal 2",
+                "with": ["Jude", "Mark"]
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Ícaro",
+                "with": ["Krueger"]
+            }
+        ],
+        "ie1": [
+            "Barrido Defensivo",
+            "Ataque Afilado",
+            "Tornado Inverso",
+            "Flecha Huracán"
+        ],
+        "ie2": [
+            "Barrido Defensivo",
+            "Corte Volcánico",
+            "Tornado Inverso",
+            "Empuje Trillizo"
+        ],
+        "ie3": [
+            "Vuelo de Ícaro",
+            "Corte Volcánico",
+            "Tornado Inverso",
+            "Fuerza Defensiva"
+        ]
+    },
+    {
+        "player": "Steve Woodmark",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Barrido Defensivo",
+            "Espejismo de Balón",
+            "Remate Combinado",
+            "Vuelo de Ícaro"
+        ]
+    },
+    {
+        "player": "Erik Eagle",
+        "anime1": [
+            {
+                "name": "Tiro Giratorio",
+                "with": []
+            },
+            {
+                "name": "Tri-Pegaso",
+                "with": ["Bobby", "Malcolm", "Mark"]
+            },
+            {
+                "name": "Fénix",
+                "with": ["Bobby", "Mark"]
+            },
+            {
+                "name": "Tornado Fénix",
+                "with": ["Bobby", "Mark", "Axel"]
+            }
+        ],
+        "anime2": [
+            {
+                "name": "Pingüino Emperador Nº 2",
+                "with": ["Jude", "Axel", "Kevin", "Shawn"]
+            },
+            {
+                "name": "Remate Combinado",
+                "with": ["Jude"]
+            },
+            {
+                "name": "Baile de Llamas",
+                "with": []
+            },
+            {
+                "name": "Remate en Espiral",
+                "with": []
+            }
+        ],
+        "anime3": [
+            {
+                "name": "Remate Pegaso",
+                "with": []
+            },
+            {
+                "name": "Gran Lobo",
+                "with": ["Krueger", "Dylan"]
+            }
+        ],
+        "ie1": [
+            "Tiro Giratorio",
+            "Corte Giratorio",
+            "Espejismo de Balón",
+            "Fénix"
+        ],
+        "ie2": [
+            "Tiro Giratorio",
+            "Espejismo de Balón",
+            "Baile de Llamas",
+            "Fénix"
+        ],
+        "ie3": [
+            "Espejismo de Balón",
+            "Baile de Llamas",
+            "Remate Pegaso",
+            "¡Que no Decaiga!"
+        ]
+    },
+    {
+        "player": "Shane Pierce",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Zigzag Chispeante",
+            "Repaso",
+            "Chut Congelante",
+            "Remate Pegaso"
+        ]
+    },
+    {
+        "player": "Mark Krueger",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Remate Unicornio",
+                "with": ["Dylan"]
+            },
+            {
+                "name": "Gran Lobo",
+                "with": ["Dylan", "Erik"]
+            },
+            {
+                "name": "Ícaro",
+                "with": ["Bobby"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Gran Lobo", "Vuelo de Ícaro", "Fuerza Ofensiva", "Tri-Pegaso"]
+    },
+    {
+        "player": "Dylan Keats",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Remate Unicornio",
+                "with": ["Krueger"]
+            },
+            {
+                "name": "Gran Lobo",
+                "with": ["Krueger", "Erik"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Remate Unicornio",
+            "Pompa de Chicle",
+            "Remate en V",
+            "Ultratécnica"
+        ]
+    },
+    {
+        "player": "Gabriel Jax",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Tri-Pegaso", "Zigzag Chispeante", "Remate en V", "Ultra Lunar"]
+    },
+    {
+        "player": "Alex Hawke",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Puño Vengativo",
+            "Remate Halcón",
+            "Espejismo",
+            "Remate del Águila"
+        ]
+    },
+    {
+        "player": "Corey Washington",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Bomba Acrobática",
+            "Placaje Extremo",
+            "Ataque Afilado",
+            "Remate Asalto"
+        ]
+    },
+    {
+        "player": "Bob Bobbins",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Pompa de Chicle",
+            "Vagueza",
+            "Ataque Afilado",
+            "Muralla Infinita"
+        ]
+    },
+    {
+        "player": "Petie Pooma",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Cabezazo Yoyó",
+            "Zigzag Chispeante",
+            "Ciclón Doble",
+            "Equilibrismo"
+        ]
+    },
+    {
+        "player": "Norbert Poindexter",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Corte Giratorio", "Tiro Giratorio", "Rueda Infernal", "Cometa"]
+    }
+]

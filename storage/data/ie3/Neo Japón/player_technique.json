@@ -1,0 +1,427 @@
+[
+    {
+        "player": "Joseph King",
+        "anime1": [
+            {
+                "name": "Escudo de Fuerza",
+                "with": []
+            },
+            {
+                "name": "Escudo de Fuerza Total",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Destrozataladros",
+                "with": []
+            },
+            {
+                "name": "Muralla Infinita Total",
+                "with": ["Hillvalley", "Topher"]
+            }
+        ],
+        "ie1": [
+            "Escudo de Fuerza",
+            "Escudo de Fuerza Total",
+            "Remate Halcón",
+            "Corte Giratorio"
+        ],
+        "ie2": [
+            "Lance Crítico",
+            "Escudo de Fuerza",
+            "Escudo de Fuerza Total",
+            "Colmillo de Pantera"
+        ],
+        "ie3": [
+            "Lance Crítico",
+            "Ahorro",
+            "Muralla Infinita",
+            "Destrozataladros"
+        ]
+    },
+    {
+        "player": "Alan Master",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Barrido Defensivo",
+                "with": []
+            }
+        ],
+        "ie1": [
+            "Espejismo de Balón",
+            "Tiro Dinamita",
+            "Barrido Defensivo",
+            "Coz"
+        ],
+        "ie2": [
+            "Espejismo de Balón",
+            "Tiro Dinamita",
+            "Barrido Defensivo",
+            "Coz"
+        ],
+        "ie3": [
+            "Fuerza Ofensiva",
+            "Barrido Defensivo",
+            "Espejismo de Balón",
+            "Cúpula Sónica"
+        ]
+    },
+    {
+        "player": "Zack Cummings",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": ["Recobro", "Robo Planeta", "Superarmadillo", "Gravitación"],
+        "ie3": ["Recobro", "Sismo", "Vendimia", "Potenciación"]
+    },
+    {
+        "player": "Argie Bargie",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Ciclón Doble",
+                "with": ["Hatch"]
+            },
+            {
+                "name": "Segadora",
+                "with": ["Cummings"]
+            },
+            {
+                "name": "Muralla Infinita Total",
+                "with": ["Hillvaley", "King"]
+            }
+        ],
+        "ie1": [],
+        "ie2": ["Recobro", "Embestida", "Remate Tarzán", "Mega Terremoto"],
+        "ie3": ["Recobro", "Barrido Defensivo", "Ciclón Doble", "Tren Loco"]
+    },
+    {
+        "player": "Daniel Hatch",
+        "anime1": [
+            {
+                "name": "Triángulo Letal",
+                "with": ["Swing", "Samford"]
+            },
+            {
+                "name": "Chut de los 100 Toques",
+                "with": []
+            },
+            {
+                "name": "Pingüino Emperador Nº 2",
+                "with": ["Jude", "Samford"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Ciclón Doble",
+                "with": ["Bargie"]
+            }
+        ],
+        "ie1": [
+            "Triángulo Letal",
+            "Chut de los 100 Toques",
+            "Remolino Cortante",
+            "Barrido Defensivo"
+        ],
+        "ie2": [
+            "Piscinazo",
+            "Chut de los 100 Toques",
+            "Remolino Cortante",
+            "Chut de los 200 Toques"
+        ],
+        "ie3": [
+            "Piscinazo",
+            "Barrido Defensivo",
+            "Ciclón Doble",
+            "Chut de los 200 Toques"
+        ]
+    },
+    {
+        "player": "Neil Turner",
+        "anime1": [
+            {
+                "name": "Tornado de Fuego",
+                "with": []
+            },
+            {
+                "name": "Remate Misil",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Lanza de Odín",
+                "with": []
+            }
+        ],
+        "ie1": [
+            "Remate Misil",
+            "Escáner Ataque",
+            "Tornado de Fuego",
+            "Escáner Defensa"
+        ],
+        "ie2": [
+            "Casanova",
+            "Remate Misil",
+            "Tornado de Fuego",
+            "Remate Asalto"
+        ],
+        "ie3": [
+            "Casanova",
+            "Lanza de Odín",
+            "Tornado de Fuego",
+            "Tormenta de Fuego"
+        ]
+    },
+    {
+        "player": "Sail Bluesea",
+        "anime1": [
+            {
+                "name": "Espejismo",
+                "with": []
+            },
+            {
+                "name": "Bola de Fango",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Espejismo",
+            "Bola de Fango",
+            "Niebla Venenosa",
+            "Pájaro de Fuego"
+        ],
+        "ie2": ["Rapidez +", "Espejismo", "Bola de Fango", "Pájaro de Fuego"],
+        "ie3": ["Rapidez +", "Espejismo", "Defensa Múltiple", "Pájaro de Fuego"]
+    },
+    {
+        "player": "Johan Tassman",
+        "anime1": [
+            {
+                "name": "Tiro Fantasma",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Rapto Divino",
+            "Tiro Fantasma",
+            "Chut Congelante",
+            "Remolino Cortante"
+        ],
+        "ie2": [
+            "Rapto Divino",
+            "Tiro Fantasma",
+            "Chut Congelante",
+            "Flecha Divina"
+        ],
+        "ie3": [
+            "Rapto Divino",
+            "Tiro Fantasma",
+            "Astro Remate",
+            "Triángulo Letal"
+        ]
+    },
+    {
+        "player": "Wilbur Watkins",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Triángulo Z",
+                "with": ["Zell", "Quagmire"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Ultratécnica", "Rayo de Ganímedes", "Apisonadora", "Supernova"]
+    },
+    {
+        "player": "Dave Quagmire",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Sabiduría Divina",
+                "with": []
+            },
+            {
+                "name": "Triángulo Z",
+                "with": ["Zell", "Wittz"]
+            },
+            {
+                "name": "Espejismo de Balón",
+                "with": []
+            },
+            {
+                "name": "Entrada Tormenta",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Espejismo de Balón",
+            "Entrada Tormenta",
+            "Sabiduría Divina",
+            "Lanza de Odín"
+        ]
+    },
+    {
+        "player": "Zeke Valanche",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Disparo con Rebotes",
+                "with": []
+            },
+            {
+                "name": "Triángulo Z",
+                "with": ["Quagmire", "Wittz"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Rayo de Ganímedes",
+            "Disparo con Rebotes",
+            "Triángulo Z",
+            "Agujero de Gusano"
+        ]
+    },
+    {
+        "player": "Ethan Whitering",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [
+            "Casanova",
+            "Lluvia de Meteoros",
+            "Remate de Gaia",
+            "Empuje Gemelo F"
+        ],
+        "ie3": [
+            "Casanova",
+            "Lluvia de Meteoros",
+            "Colmillo de Pantera",
+            "Empuje Gemelo F"
+        ]
+    },
+    {
+        "player": "Henry House",
+        "anime1": [
+            {
+                "name": "Flecha Divina",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Flecha Divina",
+            "Disparo con Rebotes",
+            "Barrido Defensivo",
+            "Coz"
+        ],
+        "ie2": ["Flecha Divina", "Barrido Defensivo", "Coz", "Disparo Sagrado"],
+        "ie3": [
+            "Barrido Defensivo",
+            "Robo Planeta",
+            "Flecha Divina",
+            "Disparo Sagrado"
+        ]
+    },
+    {
+        "player": "Tyler Murdock",
+        "anime1": [
+            {
+                "name": "Tornado Inverso",
+                "with": []
+            },
+            {
+                "name": "Triángulo Z",
+                "with": ["Marvin", "Thomas"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": ["Corte Giratorio", "Tornado Inverso", "Coz", "Triángulo Z"],
+        "ie2": ["¡Vamos!", "Tornado Inverso", "Corte Giratorio", "Triángulo Z"],
+        "ie3": [
+            "Triángulo Z",
+            "Tornado Inverso",
+            "Corte Giratorio",
+            "Empuje Trillizo"
+        ]
+    },
+    {
+        "player": "Jonas Demetrius",
+        "anime1": [
+            {
+                "name": "Entrada Tormenta",
+                "with": []
+            },
+            {
+                "name": "Disparo con Rebotes",
+                "with": []
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Disparo con Rebotes",
+            "Entrada Tormenta",
+            "Flecha Divina",
+            "Embestida"
+        ],
+        "ie2": [
+            "Tiro +",
+            "Disparo con Rebotes",
+            "Corte Flamígero",
+            "Flecha Divina"
+        ],
+        "ie3": [
+            "Tiro +",
+            "Teleportación",
+            "Disparo con Rebotes",
+            "Flecha Divina"
+        ]
+    },
+    {
+        "player": "Mark Hillvalley",
+        "anime1": [
+            {
+                "name": "Muralla Infinita",
+                "with": ["Sherman", "Greeny"]
+            }
+        ],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [
+            "Vendimia",
+            "Rueda Infernal",
+            "Pisotón de Sumo",
+            "Muralla Infinita"
+        ],
+        "ie2": [
+            "Vendimia",
+            "Superpeonza",
+            "Pisotón de Sumo",
+            "Muralla Infinita"
+        ],
+        "ie3": ["Superpeonza", "Vendimia", "Sismo", "Muralla Infinita"]
+    }
+]

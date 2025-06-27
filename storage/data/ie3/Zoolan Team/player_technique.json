@@ -1,0 +1,214 @@
+[
+    {
+        "player": "Cyril Fox",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Araña Gigante",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Araña Gigante",
+            "Cuchilla Asesina",
+            "Lluvia de Meteoros",
+            "Portero +"
+        ]
+    },
+    {
+        "player": "Jacques Allemand",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Coz 2", "Corte Diabólico", "Tacón Infernal", "Ataque Sombrío"]
+    },
+    {
+        "player": "Phil A. Minion",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Coz 3", "Piscinazo", "Corte Diabólico", "Hora Celestial"]
+    },
+    {
+        "player": "Buddy Plains",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Coz 2", "Recobro", "Aplanadora", "Araña Gigante"]
+    },
+    {
+        "player": "Dean Goddard",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Espejismo de Balón",
+            "Cinto Astral",
+            "Aikido",
+            "Carrera a Tres Piernas"
+        ]
+    },
+    {
+        "player": "Cecil Crowley",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Arrollador 3",
+                "with": ["Mantis"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Remate Halcón", "Coz 3", "Ataque Meteorito", "Tornado Oscuro"]
+    },
+    {
+        "player": "Seth Hedges",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tornado Venenoso",
+            "Bloqueo Dureza",
+            "Escudo Corporal",
+            "Gravedad Grave"
+        ]
+    },
+    {
+        "player": "Niccolò Mantegna",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Espejismo de Balón",
+                "with": []
+            },
+            {
+                "name": "Arrollador 3",
+                "with": ["Búho"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Gravitación", "Coz 2", "Lance Crítico", "Muro Dimensional"]
+    },
+    {
+        "player": "Damien Crawford",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Corte Diabólico",
+                "with": []
+            },
+            {
+                "name": "Arrollador 3",
+                "with": ["Mantis"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Corte Diabólico",
+            "Triángulo Letal",
+            "Rueda Infernal",
+            "Pingüino Emperador X"
+        ]
+    },
+    {
+        "player": "Avinash Chowdhury",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Cañonazo",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Niebla Venenosa", "Tiro +", "Tornado Oscuro", "Gravedad Grave"]
+    },
+    {
+        "player": "Sedgley Scofield",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Entrada Tormenta",
+            "Fénix Oscuro",
+            "Regate Múltiple",
+            "Rayo de Ganímedes"
+        ]
+    },
+    {
+        "player": "Grizzler Bruin",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Barrido Defensivo",
+            "Araña Gigante",
+            "Salto del Cisne",
+            "Robo Planeta"
+        ]
+    },
+    {
+        "player": "Ian C. Wincy",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Gravedad", "Telaraña", "Araña Gigante", "Gravitación"]
+    },
+    {
+        "player": "Bandy Horsman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Coz 2", "Corte Diabólico", "Tacón Infernal", "Ataque Sombrío"]
+    },
+    {
+        "player": "Ali Caiman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Teleportación", "Tornado Oscuro", "Tormenta de Arena", "Coz 2"]
+    },
+    {
+        "player": "Chris Ellis",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Corte Diabólico",
+            "Psicorremate",
+            "Cinto Astral",
+            "Bloque de Hielo"
+        ]
+    }
+]

@@ -181,7 +181,8 @@
                             <div class="mb-3 pb-3 border-b border-gray-200 dark:border-gray-600">
                                 <input type="text" id="player-search"
                                     placeholder="Name / Team / Element / Position ..."
-                                    class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-yellow-500 focus:ring-yellow-500">
+                                    class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-yellow-500 focus:ring-yellow-500"
+                                    @if ($isViewMode) disabled @endif>
                             </div>
 
                             <!-- Players List Container -->

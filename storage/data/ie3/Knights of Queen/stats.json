@@ -1,0 +1,274 @@
+[
+    {
+        "player": "Freddy McQueen",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 120,
+            "TP": 140,
+            "Kick": 50,
+            "Body": 67,
+            "Control": 48,
+            "Guard": 82,
+            "Speed": 51,
+            "Stamina": 46,
+            "Guts": 64,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Jonny Gascoigne",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 127,
+            "Kick": 52,
+            "Body": 62,
+            "Control": 67,
+            "Guard": 68,
+            "Speed": 62,
+            "Stamina": 62,
+            "Guts": 54,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "David Buckingham",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 108,
+            "Kick": 54,
+            "Body": 60,
+            "Control": 78,
+            "Guard": 66,
+            "Speed": 53,
+            "Stamina": 55,
+            "Guts": 50,
+            "Freedom": 15
+        }
+    },
+    {
+        "player": "Lance Ralton",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 126,
+            "TP": 120,
+            "Kick": 65,
+            "Body": 71,
+            "Control": 56,
+            "Guard": 58,
+            "Speed": 54,
+            "Stamina": 54,
+            "Guts": 77,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Edge Ripper",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 123,
+            "TP": 117,
+            "Kick": 54,
+            "Body": 54,
+            "Control": 53,
+            "Guard": 71,
+            "Speed": 63,
+            "Stamina": 58,
+            "Guts": 52,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Peter Coole",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 133,
+            "TP": 103,
+            "Kick": 51,
+            "Body": 66,
+            "Control": 60,
+            "Guard": 53,
+            "Speed": 56,
+            "Stamina": 71,
+            "Guts": 57,
+            "Freedom": 15
+        }
+    },
+    {
+        "player": "Gary Mane",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 124,
+            "TP": 116,
+            "Kick": 54,
+            "Body": 84,
+            "Control": 72,
+            "Guard": 59,
+            "Speed": 52,
+            "Stamina": 47,
+            "Guts": 54,
+            "Freedom": 14
+        }
+    },
+    {
+        "player": "Paul Appleton",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 109,
+            "Kick": 55,
+            "Body": 58,
+            "Control": 60,
+            "Guard": 54,
+            "Speed": 59,
+            "Stamina": 60,
+            "Guts": 57,
+            "Freedom": 47
+        }
+    },
+    {
+        "player": "Eric Purpleton",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 116,
+            "Kick": 65,
+            "Body": 63,
+            "Control": 52,
+            "Guard": 55,
+            "Speed": 64,
+            "Stamina": 51,
+            "Guts": 55,
+            "Freedom": 44
+        }
+    },
+    {
+        "player": "Edgar Partinus",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 126,
+            "TP": 119,
+            "Kick": 96,
+            "Body": 71,
+            "Control": 58,
+            "Guard": 47,
+            "Speed": 57,
+            "Stamina": 48,
+            "Guts": 57,
+            "Freedom": 26
+        }
+    },
+    {
+        "player": "Philip Arwen",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 121,
+            "Kick": 90,
+            "Body": 44,
+            "Control": 52,
+            "Guard": 50,
+            "Speed": 68,
+            "Stamina": 60,
+            "Guts": 63,
+            "Freedom": 16
+        }
+    },
+    {
+        "player": "Servilius Jeeves",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 134,
+            "TP": 136,
+            "Kick": 43,
+            "Body": 57,
+            "Control": 68,
+            "Guard": 69,
+            "Speed": 62,
+            "Stamina": 56,
+            "Guts": 48,
+            "Freedom": 38
+        }
+    },
+    {
+        "player": "Martin Squall",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 105,
+            "TP": 109,
+            "Kick": 51,
+            "Body": 48,
+            "Control": 69,
+            "Guard": 56,
+            "Speed": 62,
+            "Stamina": 34,
+            "Guts": 62,
+            "Freedom": 65
+        }
+    },
+    {
+        "player": "Nick Woodgate",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 114,
+            "Kick": 67,
+            "Body": 59,
+            "Control": 51,
+            "Guard": 54,
+            "Speed": 51,
+            "Stamina": 62,
+            "Guts": 56,
+            "Freedom": 39
+        }
+    },
+    {
+        "player": "Mikey Richards",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 122,
+            "Kick": 55,
+            "Body": 53,
+            "Control": 69,
+            "Guard": 51,
+            "Speed": 71,
+            "Stamina": 60,
+            "Guts": 51,
+            "Freedom": 43
+        }
+    },
+    {
+        "player": "Sirius Pounding",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 137,
+            "TP": 107,
+            "Kick": 65,
+            "Body": 62,
+            "Control": 44,
+            "Guard": 43,
+            "Speed": 56,
+            "Stamina": 64,
+            "Guts": 66,
+            "Freedom": 38
+        }
+    }
+]

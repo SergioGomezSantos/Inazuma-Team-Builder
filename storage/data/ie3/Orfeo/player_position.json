@@ -1,0 +1,66 @@
+[
+    {
+        "player": "Gigi Blasi",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Vento Galliano",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Otto Nobili",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Giacomo Yani",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Anton Graziuso",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Marco Maserati",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Angelo Gabrini",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Hidetoshi Nakata",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Dante Diavolo",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Paolo Bianchi",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Raffaele Generani",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Daniele Santini",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Enrico Oconti",
+        "position_id": "bench-1"
+    },
+    {
+        "player": "Alessandro Rossa",
+        "position_id": "bench-2"
+    },
+    {
+        "player": "Giuseppe Carnivale",
+        "position_id": "bench-3"
+    },
+    {
+        "player": "Gianluca Zanardi",
+        "position_id": "bench-4"
+    }
+]

@@ -1,0 +1,183 @@
+[
+    {
+        "player": "Astaroth",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "El Olvido",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["El Olvido", "Coz 2", "¡Que no Decaiga!", "Araña Gigante"]
+    },
+    {
+        "player": "Hebimos",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Caída a los Infiernos",
+            "Gravitación",
+            "Ignición",
+            "Escudo Bárbaro"
+        ]
+    },
+    {
+        "player": "Rubú",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Caída a los Infiernos",
+            "Tornado Venenoso",
+            "Piscinazo",
+            "Gravitación"
+        ]
+    },
+    {
+        "player": "Nenel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Subida a los Cielos",
+            "Balón Angelical",
+            "Espejismo de Balón",
+            "Fuerza Veloz"
+        ]
+    },
+    {
+        "player": "Lephiel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Subida a los Cielos",
+            "Círculo de Espadas",
+            "Cúpula Sónica",
+            "Zona Sagrada"
+        ]
+    },
+    {
+        "player": "Malphas",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Balón Diabólico",
+            "Corte Diabólico",
+            "Coz 2",
+            "Fuerza Ofensiva"
+        ]
+    },
+    {
+        "player": "Zanos",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Caída a los Infiernos",
+                "with": []
+            },
+            {
+                "name": "Balón Diabólico",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Carga Negativa",
+            "Escudo Bárbaro",
+            "Tornado Venenoso",
+            "Fénix Oscuro"
+        ]
+    },
+    {
+        "player": "Gaiel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Remate Celestial",
+            "Vuelo de Ícaro",
+            "Prima Donna",
+            "Lanza de Odín"
+        ]
+    },
+    {
+        "player": "Wenel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Balón Angelical",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Balón Angelical",
+            "Ángel de Nieve",
+            "Vuelo de Ícaro",
+            "Hora Celestial"
+        ]
+    },
+    {
+        "player": "Destra",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Carga Negativa",
+                "with": []
+            },
+            {
+                "name": "Lluvia Oscura",
+                "with": ["Sael"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Carga Negativa",
+            "Gravitación",
+            "Lluvia Oscura",
+            "Llamarada Infernal"
+        ]
+    },
+    {
+        "player": "Sael",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Remate Celestial",
+                "with": []
+            },
+            {
+                "name": "Lluvia Oscura",
+                "with": ["Destra"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Remate Celestial", "Ultra Lunar", "Lluvia Oscura", "Excalibur"]
+    }
+]

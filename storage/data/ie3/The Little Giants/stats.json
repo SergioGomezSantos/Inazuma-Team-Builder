@@ -1,0 +1,291 @@
+[
+    {
+        "player": "Hector Helio PR",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 110,
+            "TP": 132,
+            "Kick": 58,
+            "Body": 50,
+            "Control": 57,
+            "Guard": 85,
+            "Speed": 55,
+            "Stamina": 69,
+            "Guts": 73,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Hector Helio DL",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 110,
+            "TP": 132,
+            "Kick": 58,
+            "Body": 50,
+            "Control": 57,
+            "Guard": 85,
+            "Speed": 55,
+            "Stamina": 69,
+            "Guts": 73,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Zephyr Vitesse",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 115,
+            "TP": 104,
+            "Kick": 68,
+            "Body": 57,
+            "Control": 69,
+            "Guard": 60,
+            "Speed": 78,
+            "Stamina": 50,
+            "Guts": 45,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Walter Mountain",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 120,
+            "Kick": 63,
+            "Body": 65,
+            "Control": 60,
+            "Guard": 71,
+            "Speed": 45,
+            "Stamina": 48,
+            "Guts": 49,
+            "Freedom": 40
+        }
+    },
+    {
+        "player": "Jimi Gaines",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 123,
+            "TP": 115,
+            "Kick": 56,
+            "Body": 52,
+            "Control": 68,
+            "Guard": 67,
+            "Speed": 52,
+            "Stamina": 62,
+            "Guts": 61,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Ian Ferrum",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 124,
+            "TP": 127,
+            "Kick": 48,
+            "Body": 48,
+            "Control": 52,
+            "Guard": 56,
+            "Speed": 60,
+            "Stamina": 62,
+            "Guts": 66,
+            "Freedom": 50
+        }
+    },
+    {
+        "player": "Quint Hampton",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 120,
+            "TP": 100,
+            "Kick": 62,
+            "Body": 62,
+            "Control": 62,
+            "Guard": 62,
+            "Speed": 62,
+            "Stamina": 65,
+            "Guts": 62,
+            "Freedom": 3
+        }
+    },
+    {
+        "player": "Yasir Haddad",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 108,
+            "Kick": 59,
+            "Body": 76,
+            "Control": 62,
+            "Guard": 58,
+            "Speed": 48,
+            "Stamina": 48,
+            "Guts": 61,
+            "Freedom": 26
+        }
+    },
+    {
+        "player": "Keith Ryan",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 114,
+            "Kick": 64,
+            "Body": 60,
+            "Control": 61,
+            "Guard": 60,
+            "Speed": 49,
+            "Stamina": 61,
+            "Guts": 76,
+            "Freedom": 1
+        }
+    },
+    {
+        "player": "Maximino Cruz",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 120,
+            "Kick": 60,
+            "Body": 62,
+            "Control": 79,
+            "Guard": 68,
+            "Speed": 56,
+            "Stamina": 58,
+            "Guts": 62,
+            "Freedom": 4
+        }
+    },
+    {
+        "player": "Gareth Flare",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 133,
+            "TP": 124,
+            "Kick": 79,
+            "Body": 66,
+            "Control": 58,
+            "Guard": 62,
+            "Speed": 66,
+            "Stamina": 64,
+            "Guts": 56,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Drago Hill",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 124,
+            "TP": 117,
+            "Kick": 85,
+            "Body": 56,
+            "Control": 62,
+            "Guard": 50,
+            "Speed": 30,
+            "Stamina": 71,
+            "Guts": 67,
+            "Freedom": 31
+        }
+    },
+    {
+        "player": "Keenan DiFortune",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 114,
+            "TP": 130,
+            "Kick": 55,
+            "Body": 52,
+            "Control": 55,
+            "Guard": 52,
+            "Speed": 68,
+            "Stamina": 52,
+            "Guts": 52,
+            "Freedom": 48
+        }
+    },
+    {
+        "player": "Jarell Mangrove",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 123,
+            "TP": 122,
+            "Kick": 52,
+            "Body": 52,
+            "Control": 69,
+            "Guard": 55,
+            "Speed": 55,
+            "Stamina": 56,
+            "Guts": 50,
+            "Freedom": 42
+        }
+    },
+    {
+        "player": "Vic Vitrum",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 128,
+            "Kick": 58,
+            "Body": 61,
+            "Control": 62,
+            "Guard": 60,
+            "Speed": 59,
+            "Stamina": 62,
+            "Guts": 60,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Li Leung",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 136,
+            "TP": 125,
+            "Kick": 73,
+            "Body": 63,
+            "Control": 50,
+            "Guard": 52,
+            "Speed": 60,
+            "Stamina": 60,
+            "Guts": 55,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Jazzy Hedgeer",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 119,
+            "TP": 132,
+            "Kick": 43,
+            "Body": 70,
+            "Control": 57,
+            "Guard": 71,
+            "Speed": 53,
+            "Stamina": 55,
+            "Guts": 70,
+            "Freedom": 18
+        }
+    }
+]

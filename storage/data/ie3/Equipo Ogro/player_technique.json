@@ -1,0 +1,172 @@
+[
+    {
+        "player": "Lars Luceafăr",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Martillo Defensor",
+                "with": []
+            },
+            {
+                "name": "Electrotrampa",
+                "with": []
+            },
+            {
+                "name": "Voltaje Dual",
+                "with": ["Lump", "Bump"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "voltaje Dual",
+            "Martillo Defensor",
+            "Malla Eléctrica",
+            "¡Que no Decaiga!"
+        ]
+    },
+    {
+        "player": "Bump Trungus",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Voltaje Dual",
+                "with": ["Lump", "Luceafăr"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Gran Seísmo", "Ignición", "Placaje Extremo", "Zona Sigma"]
+    },
+    {
+        "player": "Lump Trungus",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Voltaje Dual",
+                "with": ["Bump", "Luceafăr"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Corte Diabólico",
+            "Tren Loco",
+            "Fuerza Defensiva",
+            "Corte Volcánico"
+        ]
+    },
+    {
+        "player": "Radd Ischer",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Placaje Extremo",
+            "Mejor Garantía",
+            "Corte Volcánico",
+            "Malla Eléctrica"
+        ]
+    },
+    {
+        "player": "Jynx Jenkins",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Corte Volcánico",
+            "Placaje Extremo",
+            "Espejismo de Balón",
+            "Fuerza Defensiva"
+        ]
+    },
+    {
+        "player": "Oni Triumvir",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Coz 3", "Gravitación", "Lanza Letal", "Placaje Extremo"]
+    },
+    {
+        "player": "Drachen Gunther",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Zona Sigma", "Ignición", "Placaje Extremo", "Fuerza Ofensiva"]
+    },
+    {
+        "player": "Ichabod Stark",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Diluvio Letal", "Gravitación", "Ignición", "Campo de Fuerza"]
+    },
+    {
+        "player": "Escavan Malice",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Lluvia Letal",
+                "with": []
+            },
+            {
+                "name": "Remate Letal",
+                "with": ["Callous", "Lancer"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Diluvio Letal", "Balón Angelical", "Ignición", "Lanza Letal"]
+    },
+    {
+        "player": "Bash Lancer",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Lanzada Letal",
+                "with": []
+            },
+            {
+                "name": "Remate Letal",
+                "with": ["Malice", "Callous"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Mangual Letal",
+            "Lanza Letal",
+            "Mejor Garantía",
+            "Campo de Fuerza"
+        ]
+    },
+    {
+        "player": "Mystral Callous",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Mangual Letal",
+                "with": ["Malice", "Lancer"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Lanza Letal", "Diluvio Letal", "Coz 2", "Balón Diabólico"]
+    }
+]

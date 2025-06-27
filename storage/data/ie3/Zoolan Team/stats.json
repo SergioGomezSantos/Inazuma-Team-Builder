@@ -1,0 +1,274 @@
+[
+    {
+        "player": "Cyril Fox",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 139,
+            "Kick": 57,
+            "Body": 50,
+            "Control": 60,
+            "Guard": 70,
+            "Speed": 65,
+            "Stamina": 49,
+            "Guts": 52,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Jacques Allemand",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 120,
+            "TP": 132,
+            "Kick": 62,
+            "Body": 49,
+            "Control": 52,
+            "Guard": 68,
+            "Speed": 55,
+            "Stamina": 55,
+            "Guts": 52,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Phil A. Minion",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 135,
+            "Kick": 5,
+            "Body": 68,
+            "Control": 77,
+            "Guard": 69,
+            "Speed": 53,
+            "Stamina": 54,
+            "Guts": 64,
+            "Freedom": 1
+        }
+    },
+    {
+        "player": "Buddy Plains",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 144,
+            "TP": 128,
+            "Kick": 60,
+            "Body": 56,
+            "Control": 52,
+            "Guard": 60,
+            "Speed": 53,
+            "Stamina": 52,
+            "Guts": 58,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Dean Goddard",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 116,
+            "TP": 136,
+            "Kick": 50,
+            "Body": 60,
+            "Control": 61,
+            "Guard": 57,
+            "Speed": 61,
+            "Stamina": 60,
+            "Guts": 52,
+            "Freedom": 6
+        }
+    },
+    {
+        "player": "Cecil Crowley",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 139,
+            "TP": 127,
+            "Kick": 54,
+            "Body": 59,
+            "Control": 54,
+            "Guard": 61,
+            "Speed": 49,
+            "Stamina": 56,
+            "Guts": 54,
+            "Freedom": 23
+        }
+    },
+    {
+        "player": "Seth Hedges",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 133,
+            "TP": 129,
+            "Kick": 49,
+            "Body": 57,
+            "Control": 52,
+            "Guard": 57,
+            "Speed": 58,
+            "Stamina": 66,
+            "Guts": 60,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Niccolò Mantegna",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 132,
+            "TP": 130,
+            "Kick": 60,
+            "Body": 70,
+            "Control": 49,
+            "Guard": 48,
+            "Speed": 60,
+            "Stamina": 52,
+            "Guts": 57,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Damien Crawford",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 130,
+            "Kick": 53,
+            "Body": 64,
+            "Control": 51,
+            "Guard": 53,
+            "Speed": 72,
+            "Stamina": 48,
+            "Guts": 64,
+            "Freedom": 6
+        }
+    },
+    {
+        "player": "Avinash Chowdhury",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 124,
+            "TP": 129,
+            "Kick": 59,
+            "Body": 56,
+            "Control": 51,
+            "Guard": 50,
+            "Speed": 60,
+            "Stamina": 52,
+            "Guts": 72,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Sedgley Scofield",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 137,
+            "Kick": 69,
+            "Body": 79,
+            "Control": 51,
+            "Guard": 53,
+            "Speed": 50,
+            "Stamina": 53,
+            "Guts": 48,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Grizzler Bruin",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 133,
+            "TP": 138,
+            "Kick": 67,
+            "Body": 64,
+            "Control": 52,
+            "Guard": 59,
+            "Speed": 54,
+            "Stamina": 49,
+            "Guts": 48,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Ian C. Wincy",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 138,
+            "TP": 136,
+            "Kick": 52,
+            "Body": 69,
+            "Control": 55,
+            "Guard": 73,
+            "Speed": 48,
+            "Stamina": 68,
+            "Guts": 54,
+            "Freedom": -3
+        }
+    },
+    {
+        "player": "Bandy Horsman",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 129,
+            "Kick": 62,
+            "Body": 76,
+            "Control": 48,
+            "Guard": 53,
+            "Speed": 52,
+            "Stamina": 70,
+            "Guts": 55,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Ali Caiman",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 137,
+            "TP": 128,
+            "Kick": 70,
+            "Body": 62,
+            "Control": 56,
+            "Guard": 57,
+            "Speed": 56,
+            "Stamina": 52,
+            "Guts": 56,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Chris Ellis",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 136,
+            "TP": 136,
+            "Kick": 53,
+            "Body": 50,
+            "Control": 77,
+            "Guard": 51,
+            "Speed": 74,
+            "Stamina": 52,
+            "Guts": 59,
+            "Freedom": 3
+        }
+    }
+]

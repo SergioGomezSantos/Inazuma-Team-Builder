@@ -1,0 +1,318 @@
+[
+    {
+        "player": "Billy Dash",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 100,
+            "TP": 129,
+            "Kick": 72,
+            "Body": 40,
+            "Control": 44,
+            "Guard": 75,
+            "Speed": 75,
+            "Stamina": 37,
+            "Guts": 67,
+            "Freedom": 20
+        }
+    },
+    {
+        "player": "Ted Bryand",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 121,
+            "TP": 144,
+            "Kick": 47,
+            "Body": 40,
+            "Control": 45,
+            "Guard": 44,
+            "Speed": 68,
+            "Stamina": 48,
+            "Guts": 62,
+            "Freedom": 56
+        }
+    },
+    {
+        "player": "Tony Strider",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 140,
+            "TP": 115,
+            "Kick": 52,
+            "Body": 68,
+            "Control": 53,
+            "Guard": 74,
+            "Speed": 52,
+            "Stamina": 54,
+            "Guts": 49,
+            "Freedom": 28
+        }
+    },
+    {
+        "player": "Drake Dynamo",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 86,
+            "Kick": 76,
+            "Body": 73,
+            "Control": 34,
+            "Guard": 80,
+            "Speed": 37,
+            "Stamina": 32,
+            "Guts": 73,
+            "Freedom": 27
+        }
+    },
+    {
+        "player": "Bobby Shearer",
+        "ie1": {
+            "GP": 202,
+            "TP": 176,
+            "Kick": 76,
+            "Body": 61,
+            "Control": 72,
+            "Guard": 76,
+            "Speed": 60,
+            "Stamina": 72,
+            "Guts": 72,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 202,
+            "TP": 176,
+            "Kick": 76,
+            "Body": 61,
+            "Control": 72,
+            "Guard": 76,
+            "Speed": 60,
+            "Stamina": 72,
+            "Guts": 72,
+            "Freedom": 31
+        },
+        "ie3": {
+            "GP": 129,
+            "TP": 125,
+            "Kick": 56,
+            "Body": 61,
+            "Control": 62,
+            "Guard": 76,
+            "Speed": 60,
+            "Stamina": 72,
+            "Guts": 52,
+            "Freedom": 6
+        }
+    },
+    {
+        "player": "Steve Woodmark",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 132,
+            "TP": 107,
+            "Kick": 52,
+            "Body": 68,
+            "Control": 52,
+            "Guard": 54,
+            "Speed": 49,
+            "Stamina": 64,
+            "Guts": 70,
+            "Freedom": 20
+        }
+    },
+    {
+        "player": "Erik Eagle",
+        "ie1": {
+            "GP": 154,
+            "TP": 197,
+            "Kick": 79,
+            "Body": 60,
+            "Control": 76,
+            "Guard": 64,
+            "Speed": 63,
+            "Stamina": 53,
+            "Guts": 71,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 154,
+            "TP": 197,
+            "Kick": 79,
+            "Body": 60,
+            "Control": 76,
+            "Guard": 64,
+            "Speed": 63,
+            "Stamina": 53,
+            "Guts": 71,
+            "Freedom": 36
+        },
+        "ie3": {
+            "GP": 130,
+            "TP": 128,
+            "Kick": 79,
+            "Body": 60,
+            "Control": 72,
+            "Guard": 64,
+            "Speed": 63,
+            "Stamina": 53,
+            "Guts": 71,
+            "Freedom": 0
+        }
+    },
+    {
+        "player": "Shane Pierce",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 118,
+            "TP": 135,
+            "Kick": 69,
+            "Body": 61,
+            "Control": 72,
+            "Guard": 43,
+            "Speed": 40,
+            "Stamina": 40,
+            "Guts": 44,
+            "Freedom": 69
+        }
+    },
+    {
+        "player": "Mark Krueger",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 131,
+            "TP": 130,
+            "Kick": 68,
+            "Body": 88,
+            "Control": 64,
+            "Guard": 57,
+            "Speed": 58,
+            "Stamina": 57,
+            "Guts": 54,
+            "Freedom": 4
+        }
+    },
+    {
+        "player": "Dylan Keats",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 110,
+            "Kick": 95,
+            "Body": 52,
+            "Control": 60,
+            "Guard": 47,
+            "Speed": 51,
+            "Stamina": 60,
+            "Guts": 62,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Gabriel Jax",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 124,
+            "Kick": 62,
+            "Body": 66,
+            "Control": 69,
+            "Guard": 55,
+            "Speed": 50,
+            "Stamina": 60,
+            "Guts": 53,
+            "Freedom": 10
+        }
+    },
+    {
+        "player": "Alex Hawke",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 105,
+            "TP": 114,
+            "Kick": 92,
+            "Body": 76,
+            "Control": 39,
+            "Guard": 47,
+            "Speed": 35,
+            "Stamina": 32,
+            "Guts": 89,
+            "Freedom": 16
+        }
+    },
+    {
+        "player": "Corey Washington",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 118,
+            "TP": 112,
+            "Kick": 63,
+            "Body": 51,
+            "Control": 52,
+            "Guard": 50,
+            "Speed": 62,
+            "Stamina": 56,
+            "Guts": 56,
+            "Freedom": 34
+        }
+    },
+    {
+        "player": "Bob Bobbins",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 122,
+            "Kick": 69,
+            "Body": 54,
+            "Control": 55,
+            "Guard": 51,
+            "Speed": 52,
+            "Stamina": 49,
+            "Guts": 54,
+            "Freedom": 52
+        }
+    },
+    {
+        "player": "Petie Pooma",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 132,
+            "TP": 98,
+            "Kick": 32,
+            "Body": 37,
+            "Control": 36,
+            "Guard": 36,
+            "Speed": 75,
+            "Stamina": 76,
+            "Guts": 78,
+            "Freedom": 62
+        }
+    },
+    {
+        "player": "Norbert Poindexter",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 102,
+            "Kick": 59,
+            "Body": 57,
+            "Control": 63,
+            "Guard": 56,
+            "Speed": 56,
+            "Stamina": 58,
+            "Guts": 52,
+            "Freedom": 27
+        }
+    }
+]

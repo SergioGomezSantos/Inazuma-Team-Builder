@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Ortega",
+        "full_name": "Nacho Ortega",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e9/%28LE%29_Ortega.png/revision/latest?cb=20230910211651&path-prefix=es"
+    },
+    {
+        "name": "Torres",
+        "full_name": "Thiago Torres",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d1/%28LE%29_Thiago.png/revision/latest?cb=20230910211704&path-prefix=es"
+    },
+    {
+        "name": "Palacios",
+        "full_name": "Felipe Palacios",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1b/%28LE%29_Palacios.png/revision/latest?cb=20230910211654&path-prefix=es"
+    },
+    {
+        "name": "Ros",
+        "full_name": "Miquel Ros",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c5/%28LE%29_Ros.png/revision/latest?cb=20230910211640&path-prefix=es"
+    },
+    {
+        "name": "Martínez",
+        "full_name": "Ramón Martínez",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a3/%28LE%29_Mart%C3%ADnez.png/revision/latest?cb=20230910211646&path-prefix=es"
+    },
+    {
+        "name": "Caroso",
+        "full_name": "Enrique Caroso",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a3/%28LE%29_Caroso.png/revision/latest?cb=20230910211634&path-prefix=es"
+    },
+    {
+        "name": "López",
+        "full_name": "Sergio López",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3e/%28LE%29_L%C3%B3pez.png/revision/latest?cb=20230910211643&path-prefix=es"
+    },
+    {
+        "name": "Torinni",
+        "full_name": "Roberto Torinni",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f9/%28LE%29_Torinni.png/revision/latest?cb=20230910211706&path-prefix=es"
+    },
+    {
+        "name": "Castiglione",
+        "full_name": "Pablo Castiglione",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b9/%28LE%29_Castiglione.png/revision/latest?cb=20230910211636&path-prefix=es"
+    },
+    {
+        "name": "Balone",
+        "full_name": "Leone Balone",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/28/%28LE%29_Balone.png/revision/latest?cb=20230910211631&path-prefix=es"
+    },
+    {
+        "name": "Oro",
+        "full_name": "Diego Oro",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/29/%28LE%29_Oro.png/revision/latest?cb=20230910211649&path-prefix=es"
+    },
+    {
+        "name": "Cruz",
+        "full_name": "Lionel Cruz",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/89/%28LE%29_Cruz.png/revision/latest?cb=20230910211638&path-prefix=es"
+    },
+    {
+        "name": "Saviola",
+        "full_name": "Mario Saviola",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bb/%28LE%29_Saviola.png/revision/latest?cb=20230910211659&path-prefix=es"
+    },
+    {
+        "name": "Tévez",
+        "full_name": "Hernán Tévez",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b5/%28LE%29_T%C3%A9vez.png/revision/latest?cb=20230910211702&path-prefix=es"
+    },
+    {
+        "name": "Samuel",
+        "full_name": "Herman Samuel",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/9b/%28LE%29_Samuel.png/revision/latest?cb=20230910211656&path-prefix=es"
+    },
+    {
+        "name": "Agüero",
+        "full_name": "Ricardo Agüero",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Los Emperadores",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c3/%28LE%29_Ag%C3%BCero.png/revision/latest?cb=20230910211628&path-prefix=es"
+    }
+]

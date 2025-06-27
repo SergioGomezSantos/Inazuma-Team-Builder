@@ -1,0 +1,274 @@
+[
+    {
+        "player": "Alfonso Íñigo",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 129,
+            "TP": 134,
+            "Kick": 45,
+            "Body": 45,
+            "Control": 47,
+            "Guard": 97,
+            "Speed": 40,
+            "Stamina": 66,
+            "Guts": 70,
+            "Freedom": 28
+        }
+    },
+    {
+        "player": "José Costa",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 118,
+            "TP": 110,
+            "Kick": 43,
+            "Body": 45,
+            "Control": 61,
+            "Guard": 73,
+            "Speed": 52,
+            "Stamina": 56,
+            "Guts": 55,
+            "Freedom": 45
+        }
+    },
+    {
+        "player": "José López",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 120,
+            "Kick": 45,
+            "Body": 59,
+            "Control": 55,
+            "Guard": 76,
+            "Speed": 48,
+            "Stamina": 74,
+            "Guts": 62,
+            "Freedom": 21
+        }
+    },
+    {
+        "player": "Antonio Garrido",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 103,
+            "Kick": 54,
+            "Body": 62,
+            "Control": 48,
+            "Guard": 65,
+            "Speed": 52,
+            "Stamina": 40,
+            "Guts": 79,
+            "Freedom": 29
+        }
+    },
+    {
+        "player": "Víctor García",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 134,
+            "TP": 101,
+            "Kick": 68,
+            "Body": 61,
+            "Control": 45,
+            "Guard": 63,
+            "Speed": 66,
+            "Stamina": 67,
+            "Guts": 51,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Joan Rodríguez",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 121,
+            "Kick": 40,
+            "Body": 75,
+            "Control": 70,
+            "Guard": 44,
+            "Speed": 64,
+            "Stamina": 70,
+            "Guts": 44,
+            "Freedom": 20
+        }
+    },
+    {
+        "player": "Igor Ferreira",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 119,
+            "Kick": 52,
+            "Body": 68,
+            "Control": 78,
+            "Guard": 55,
+            "Speed": 60,
+            "Stamina": 67,
+            "Guts": 44,
+            "Freedom": 27
+        }
+    },
+    {
+        "player": "Miguel Pereira",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 126,
+            "TP": 114,
+            "Kick": 68,
+            "Body": 57,
+            "Control": 73,
+            "Guard": 51,
+            "Speed": 78,
+            "Stamina": 49,
+            "Guts": 47,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Borja Costa",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 124,
+            "TP": 102,
+            "Kick": 69,
+            "Body": 58,
+            "Control": 60,
+            "Guard": 33,
+            "Speed": 76,
+            "Stamina": 54,
+            "Guts": 49,
+            "Freedom": 39
+        }
+    },
+    {
+        "player": "Mateo Bonachea",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 120,
+            "TP": 109,
+            "Kick": 66,
+            "Body": 74,
+            "Control": 59,
+            "Guard": 43,
+            "Speed": 71,
+            "Stamina": 44,
+            "Guts": 64,
+            "Freedom": 25
+        }
+    },
+    {
+        "player": "Miguel Jiménez",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 117,
+            "TP": 103,
+            "Kick": 70,
+            "Body": 66,
+            "Control": 55,
+            "Guard": 40,
+            "Speed": 56,
+            "Stamina": 52,
+            "Guts": 63,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Juan Espindola",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 133,
+            "TP": 125,
+            "Kick": 58,
+            "Body": 51,
+            "Control": 40,
+            "Guard": 76,
+            "Speed": 67,
+            "Stamina": 39,
+            "Guts": 52,
+            "Freedom": 42
+        }
+    },
+    {
+        "player": "Isaac César",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 114,
+            "Kick": 67,
+            "Body": 76,
+            "Control": 56,
+            "Guard": 49,
+            "Speed": 82,
+            "Stamina": 42,
+            "Guts": 52,
+            "Freedom": 16
+        }
+    },
+    {
+        "player": "Laudelino Castor",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 123,
+            "TP": 108,
+            "Kick": 57,
+            "Body": 66,
+            "Control": 40,
+            "Guard": 64,
+            "Speed": 63,
+            "Stamina": 54,
+            "Guts": 59,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Carlos Arroyo",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 115,
+            "Kick": 51,
+            "Body": 73,
+            "Control": 56,
+            "Guard": 56,
+            "Speed": 51,
+            "Stamina": 79,
+            "Guts": 47,
+            "Freedom": 6
+        }
+    },
+    {
+        "player": "Federico Rubiera",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 134,
+            "TP": 100,
+            "Kick": 47,
+            "Body": 81,
+            "Control": 68,
+            "Guard": 35,
+            "Speed": 59,
+            "Stamina": 61,
+            "Guts": 60,
+            "Freedom": 9
+        }
+    }
+]

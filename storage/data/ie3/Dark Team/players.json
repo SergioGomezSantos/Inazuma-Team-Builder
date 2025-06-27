@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Astaroth",
+        "full_name": "Astaroth",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/24/%28DT%29_Astaroth.png/revision/latest?cb=20230912210818&path-prefix=es"
+    },
+    {
+        "name": "Rubú",
+        "full_name": "Rubú",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cb/%28DT%29_Rub%C3%BA.png/revision/latest?cb=20230912210834&path-prefix=es"
+    },
+    {
+        "name": "Agor",
+        "full_name": "Agor",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3b/%28DT%29_Agor.png/revision/latest?cb=20230912210813&path-prefix=es"
+    },
+    {
+        "name": "Hebimos",
+        "full_name": "Hebimos",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0d/%28DT%29_Hebimos.png/revision/latest?cb=20230912210830&path-prefix=es"
+    },
+    {
+        "name": "Belal",
+        "full_name": "Belal",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f5/%28DT%29_Belal.png/revision/latest?cb=20230912210820&path-prefix=es"
+    },
+    {
+        "name": "Malphas",
+        "full_name": "Malphas",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ef/%28DT%29_Malphas.png/revision/latest?cb=20230912210832&path-prefix=es"
+    },
+    {
+        "name": "Gorja",
+        "full_name": "Gorja",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/53/%28DT%29_Gorja.png/revision/latest?cb=20230912210827&path-prefix=es"
+    },
+    {
+        "name": "Arakuné",
+        "full_name": "Arakuné",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/03/%28DT%29_Arakun%C3%A9.png/revision/latest?cb=20230912210815&path-prefix=es"
+    },
+    {
+        "name": "Borba",
+        "full_name": "Borba",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/74/%28DT%29_Borba.png/revision/latest?cb=20230912210822&path-prefix=es"
+    },
+    {
+        "name": "Zanos",
+        "full_name": "Zanos",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ef/%28DT%29_Zanos.png/revision/latest?cb=20230912210838&path-prefix=es"
+    },
+    {
+        "name": "Destra",
+        "full_name": "Destra",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Dark Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/59/%28DT%29_Destra.png/revision/latest?cb=20230912210825&path-prefix=es"
+    }
+]

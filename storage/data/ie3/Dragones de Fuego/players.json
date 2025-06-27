@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Jang",
+        "full_name": "Jang Cho",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/54/%28DF%29_Jang.png/revision/latest?cb=20230910134409&path-prefix=es"
+    },
+    {
+        "name": "Wang",
+        "full_name": "Umi Wang",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5d/%28DF%29_Wang.png/revision/latest?cb=20230910134431&path-prefix=es"
+    },
+    {
+        "name": "Hong",
+        "full_name": "Doyo Hong",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/dc/%28DF%29_Hong.png/revision/latest?cb=20230910134403&path-prefix=es"
+    },
+    {
+        "name": "Minho",
+        "full_name": "Minho Cho",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/23/%28DF%29_Minho.png/revision/latest?cb=20230910134421&path-prefix=es"
+    },
+    {
+        "name": "Ko",
+        "full_name": "Songwan Ko",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5d/%28DF%29_Ko.png/revision/latest?cb=20230910134417&path-prefix=es"
+    },
+    {
+        "name": "Choi",
+        "full_name": "Changsu Choi",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/90/%28DF%29_Choi.png/revision/latest?cb=20230910134358&path-prefix=es"
+    },
+    {
+        "name": "Park",
+        "full_name": "Pekyong Park",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0b/%28DF%29_Park.png/revision/latest?cb=20230910134426&path-prefix=es"
+    },
+    {
+        "name": "Kim",
+        "full_name": "Enyong Kim",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d3/%28DF%29_Kim.png/revision/latest?cb=20230910134415&path-prefix=es"
+    },
+    {
+        "name": "Aphrodite",
+        "full_name": "Byron Love",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ee/%28DF%29_Byron.png/revision/latest?cb=20230910134355&path-prefix=es"
+    },
+    {
+        "name": "Torch",
+        "full_name": "Claude Beacons",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/30/%28DF%29_Claude.png/revision/latest?cb=20230910134401&path-prefix=es"
+    },
+    {
+        "name": "Gazelle",
+        "full_name": "Bryce Whitingale",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4f/%28DF%29_Bryce.png/revision/latest?cb=20230910134353&path-prefix=es"
+    },
+    {
+        "name": "Ho",
+        "full_name": "Chi-Won Ho",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c0/%28DF%29_Ho.png/revision/latest?cb=20230910134413&path-prefix=es"
+    },
+    {
+        "name": "Seul",
+        "full_name": "Dong-Hyun Seul",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bc/%28DF%29_Seul.png/revision/latest?cb=20230910134429&path-prefix=es"
+    },
+    {
+        "name": "Yi",
+        "full_name": "Jung-Hoon Yi",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/79/%28DF%29_Yi.png/revision/latest?cb=20230910134435&path-prefix=es"
+    },
+    {
+        "name": "Noh",
+        "full_name": "Sung-Jin Noh",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0c/%28DF%29_Noh.png/revision/latest?cb=20230910134424&path-prefix=es"
+    },
+    {
+        "name": "Ja",
+        "full_name": "Joon-Ho Ja",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Dragones de Fuego",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/19/%28DF%29_Ja.png/revision/latest?cb=20230910134406&path-prefix=es"
+    }
+]

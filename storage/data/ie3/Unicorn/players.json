@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Dash",
+        "full_name": "Billy Dash",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0e/%28UCN%29_Dash.png/revision/latest?cb=20230910222203&path-prefix=es"
+    },
+    {
+        "name": "Bryan",
+        "full_name": "Ted Bryan",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/93/%28UCN%29_Bryant.png/revision/latest?cb=20230910222200&path-prefix=es"
+    },
+    {
+        "name": "Strider",
+        "full_name": "Tony Strider",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d3/%28UCN%29_Strider.png/revision/latest?cb=20230910222932&path-prefix=es"
+    },
+    {
+        "name": "Dynamo",
+        "full_name": "Drake Dynamo",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ec/%28UCN%29_Dynamo.png/revision/latest?cb=20230910222253&path-prefix=es"
+    },
+    {
+        "name": "Bobby",
+        "full_name": "Bobby Shearer",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/83/%28UCN%29_Bobby.png/revision/latest?cb=20230910222108&path-prefix=es"
+    },
+    {
+        "name": "Woodmark",
+        "full_name": "Steve Woodmark",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/84/%28UCN%29_Woodmark.png/revision/latest?cb=20230910222944&path-prefix=es"
+    },
+    {
+        "name": "Erik",
+        "full_name": "Erik Eagle",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4b/%28UCN%29_Erik.png/revision/latest?cb=20230910222659&path-prefix=es"
+    },
+    {
+        "name": "Pierce",
+        "full_name": "Shane Pierce",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/61/%28UCN%29_Pierce.png/revision/latest?cb=20230910222921&path-prefix=es"
+    },
+    {
+        "name": "Krueger",
+        "full_name": "Mark Krueger",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5e/%28UCN%29_Marky.png/revision/latest?cb=20230910222911&path-prefix=es"
+    },
+    {
+        "name": "Keats",
+        "full_name": "Dylan Keats",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/aa/%28UCN%29_Dylan.png/revision/latest?cb=20230910222211&path-prefix=es"
+    },
+    {
+        "name": "Jax",
+        "full_name": "Gabriel Jax",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/70/%28UCN%29_Jax.png/revision/latest?cb=20230910222906&path-prefix=es"
+    },
+    {
+        "name": "Hawke",
+        "full_name": "Alex Hawke",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3b/%28UCN%29_Hawke.png/revision/latest?cb=20230910222733&path-prefix=es"
+    },
+    {
+        "name": "Washington",
+        "full_name": "Corey Washington",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c0/%28UCN%29_Washington.png/revision/latest?cb=20230910222938&path-prefix=es"
+    },
+    {
+        "name": "Bobbins",
+        "full_name": "Bob Bobbins",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/14/%28UCN%29_Bobbins.png/revision/latest?cb=20230910221953&path-prefix=es"
+    },
+    {
+        "name": "Pooma",
+        "full_name": "Petie Pooma",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/55/%28UCN%29_Pooma.png/revision/latest?cb=20230910222929&path-prefix=es"
+    },
+    {
+        "name": "Dexter",
+        "full_name": "Norbert Poindexter",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Unicorn",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6d/%28UCN%29_Dexter.png/revision/latest?cb=20230910222208&path-prefix=es"
+    }
+]

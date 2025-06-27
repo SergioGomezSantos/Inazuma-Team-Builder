@@ -1,0 +1,189 @@
+[
+    {
+        "player": "Anorel",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 112,
+            "TP": 146,
+            "Kick": 58,
+            "Body": 53,
+            "Control": 60,
+            "Guard": 73,
+            "Speed": 67,
+            "Stamina": 51,
+            "Guts": 56,
+            "Freedom": 21
+        }
+    },
+    {
+        "player": "Nenel",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 124,
+            "Kick": 64,
+            "Body": 58,
+            "Control": 64,
+            "Guard": 80,
+            "Speed": 67,
+            "Stamina": 52,
+            "Guts": 56,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Genel",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 124,
+            "TP": 118,
+            "Kick": 60,
+            "Body": 55,
+            "Control": 69,
+            "Guard": 75,
+            "Speed": 72,
+            "Stamina": 53,
+            "Guts": 60,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Ekadel",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 120,
+            "TP": 119,
+            "Kick": 63,
+            "Body": 67,
+            "Control": 69,
+            "Guard": 78,
+            "Speed": 71,
+            "Stamina": 48,
+            "Guts": 56,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Lephiel",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 127,
+            "Kick": 58,
+            "Body": 67,
+            "Control": 62,
+            "Guard": 65,
+            "Speed": 80,
+            "Stamina": 48,
+            "Guts": 59,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Sachinel",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 121,
+            "TP": 120,
+            "Kick": 59,
+            "Body": 61,
+            "Control": 63,
+            "Guard": 64,
+            "Speed": 72,
+            "Stamina": 52,
+            "Guts": 56,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Wenel",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 113,
+            "TP": 121,
+            "Kick": 64,
+            "Body": 72,
+            "Control": 67,
+            "Guard": 61,
+            "Speed": 71,
+            "Stamina": 52,
+            "Guts": 60,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Nuel",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 115,
+            "TP": 115,
+            "Kick": 60,
+            "Body": 61,
+            "Control": 68,
+            "Guard": 61,
+            "Speed": 69,
+            "Stamina": 51,
+            "Guts": 58,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Ientel",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 107,
+            "TP": 136,
+            "Kick": 61,
+            "Body": 63,
+            "Control": 74,
+            "Guard": 69,
+            "Speed": 67,
+            "Stamina": 49,
+            "Guts": 60,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Gaiel",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 109,
+            "TP": 139,
+            "Kick": 65,
+            "Body": 61,
+            "Control": 62,
+            "Guard": 64,
+            "Speed": 88,
+            "Stamina": 50,
+            "Guts": 59,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Sael",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 114,
+            "Kick": 71,
+            "Body": 64,
+            "Control": 76,
+            "Guard": 62,
+            "Speed": 69,
+            "Stamina": 51,
+            "Guts": 60,
+            "Freedom": 6
+        }
+    }
+]

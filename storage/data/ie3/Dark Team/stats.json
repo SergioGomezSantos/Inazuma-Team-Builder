@@ -1,0 +1,189 @@
+[
+    {
+        "player": "Astaroth",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 123,
+            "TP": 134,
+            "Kick": 65,
+            "Body": 56,
+            "Control": 48,
+            "Guard": 66,
+            "Speed": 57,
+            "Stamina": 54,
+            "Guts": 71,
+            "Freedom": 15
+        }
+    },
+    {
+        "player": "Rubú",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 135,
+            "TP": 119,
+            "Kick": 65,
+            "Body": 69,
+            "Control": 47,
+            "Guard": 71,
+            "Speed": 56,
+            "Stamina": 50,
+            "Guts": 77,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Agor",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 117,
+            "Kick": 69,
+            "Body": 56,
+            "Control": 52,
+            "Guard": 67,
+            "Speed": 60,
+            "Stamina": 52,
+            "Guts": 73,
+            "Freedom": 16
+        }
+    },
+    {
+        "player": "Hebimos",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 126,
+            "TP": 108,
+            "Kick": 66,
+            "Body": 72,
+            "Control": 48,
+            "Guard": 66,
+            "Speed": 61,
+            "Stamina": 54,
+            "Guts": 78,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Belal",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 107,
+            "Kick": 69,
+            "Body": 68,
+            "Control": 50,
+            "Guard": 50,
+            "Speed": 66,
+            "Stamina": 52,
+            "Guts": 74,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Malphas",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 116,
+            "Kick": 67,
+            "Body": 68,
+            "Control": 46,
+            "Guard": 52,
+            "Speed": 58,
+            "Stamina": 52,
+            "Guts": 74,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Gorja",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 131,
+            "TP": 110,
+            "Kick": 80,
+            "Body": 77,
+            "Control": 50,
+            "Guard": 50,
+            "Speed": 54,
+            "Stamina": 51,
+            "Guts": 71,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Arakuné",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 114,
+            "TP": 132,
+            "Kick": 68,
+            "Body": 74,
+            "Control": 51,
+            "Guard": 46,
+            "Speed": 61,
+            "Stamina": 53,
+            "Guts": 72,
+            "Freedom": 14
+        }
+    },
+    {
+        "player": "Borba",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 112,
+            "TP": 130,
+            "Kick": 71,
+            "Body": 68,
+            "Control": 61,
+            "Guard": 56,
+            "Speed": 55,
+            "Stamina": 54,
+            "Guts": 77,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Zanos",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 134,
+            "TP": 104,
+            "Kick": 73,
+            "Body": 75,
+            "Control": 46,
+            "Guard": 46,
+            "Speed": 70,
+            "Stamina": 49,
+            "Guts": 71,
+            "Freedom": 16
+        }
+    },
+    {
+        "player": "Destra",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 137,
+            "TP": 121,
+            "Kick": 80,
+            "Body": 73,
+            "Control": 55,
+            "Guard": 49,
+            "Speed": 58,
+            "Stamina": 55,
+            "Guts": 78,
+            "Freedom": 9
+        }
+    }
+]

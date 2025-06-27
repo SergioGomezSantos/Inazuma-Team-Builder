@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Da Silva",
+        "full_name": "Falcão Da Silva",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/01/%28OR%29_Da_Silva.png/revision/latest?cb=20230910221513&path-prefix=es"
+    },
+    {
+        "name": "Lagarto",
+        "full_name": "Carlos Lagarto",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/25/%28OR%29_Lagarto.png/revision/latest?cb=20230910221516&path-prefix=es"
+    },
+    {
+        "name": "Bagre",
+        "full_name": "Antonio Bagre",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8e/%28OR%29_Bagre.png/revision/latest?cb=20230910221459&path-prefix=es"
+    },
+    {
+        "name": "Monstro",
+        "full_name": "Monstro Ximenes",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b9/%28OR%29_Monstro.png/revision/latest?cb=20230910221834&path-prefix=es"
+    },
+    {
+        "name": "Clemens",
+        "full_name": "Formiga Clemens",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c4/%28OR%29_Clemens.png/revision/latest?cb=20230910221510&path-prefix=es"
+    },
+    {
+        "name": "Passos",
+        "full_name": "Presa Passos",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/68/%28OR%29_Passos.png/revision/latest?cb=20230910221555&path-prefix=es"
+    },
+    {
+        "name": "Barboza",
+        "full_name": "Bolboreta Barboza",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/58/%28OR%29_Barboza.png/revision/latest?cb=20230910221501&path-prefix=es"
+    },
+    {
+        "name": "Cerezo",
+        "full_name": "Coruja Cerezo",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bf/%28OR%29_Cerezo.png/revision/latest?cb=20230910221507&path-prefix=es"
+    },
+    {
+        "name": "Almeida",
+        "full_name": "Leonardo Almeida",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d2/%28OR%29_Almeida.png/revision/latest?cb=20230910221456&path-prefix=es"
+    },
+    {
+        "name": "Robingo",
+        "full_name": "Mac Robingo",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fd/%28OR%29_Mac.png/revision/latest?cb=20230910221520&path-prefix=es"
+    },
+    {
+        "name": "Gato",
+        "full_name": "Gato Carvalho",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d5/%28OR%29_Gato.png/revision/latest?cb=20230910221503&path-prefix=es"
+    },
+    {
+        "name": "Ribeiro",
+        "full_name": "Xavier Ribeiro",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/dc/%28OR%29_Ribeiro.png/revision/latest?cb=20230910221739&path-prefix=es"
+    },
+    {
+        "name": "Nogueira",
+        "full_name": "Ulisses Nogueira",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/52/%28OR%29_Nogueira.png/revision/latest?cb=20230910221530&path-prefix=es"
+    },
+    {
+        "name": "Oliveira",
+        "full_name": "Gervasio Oliveira",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5a/%28OR%29_Oliveira.png/revision/latest?cb=20230910221533&path-prefix=es"
+    },
+    {
+        "name": "Mendes",
+        "full_name": "Tigre Mendes",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b5/%28OR%29_Mendes.png/revision/latest?cb=20230910221525&path-prefix=es"
+    },
+    {
+        "name": "Santos",
+        "full_name": "Grillo Santos",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Os Reis",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/15/%28OR%29_Santos.png/revision/latest?cb=20230910221746&path-prefix=es"
+    }
+]

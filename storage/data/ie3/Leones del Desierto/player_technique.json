@@ -1,0 +1,191 @@
+[
+    {
+        "player": "Nasir Mustafa",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Simún",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Simún", "Embestida", "Suerte", "Puño Vengativo"]
+    },
+    {
+        "player": "Faraz Farooq",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Ignición", "Confusión", "Regate Espejismo", "Placaje Extremo"]
+    },
+    {
+        "player": "Bilal Kalil",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Tiro Espejismo",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tiro Espejismo",
+            "Ignición",
+            "Tormenta de Arena",
+            "Fuerza Defensiva"
+        ]
+    },
+    {
+        "player": "Jamila Wali",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Tormenta de Arena", "Ciclón Doble", "Coz", "Pase Cruzado"]
+    },
+    {
+        "player": "Musa Sylla",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Tormenta de Arena", "El Muro", "Confusión", "Muralla Gigante"]
+    },
+    {
+        "player": "Yusuf Massoud",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Entrada Tormenta",
+            "Truco de Magia",
+            "Remate Halcón",
+            "Acelerrelámpago"
+        ]
+    },
+    {
+        "player": "Sulayk Sulaiman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Torbellino Dragón",
+            "Bola Falsa",
+            "Regate Múltiple",
+            "Defensa Múltiple"
+        ]
+    },
+    {
+        "player": "Sayid Armand",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Entrada Tormenta", "Ignición", "Placaje Extremo", "Coz 2"]
+    },
+    {
+        "player": "Mansur Jasim",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Ignición", "Bola de Fango", "Coz 2", "Escudo Corporal"]
+    },
+    {
+        "player": "Zack Abdulla",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tiro Espejismo",
+            "Tormenta de Arena",
+            "Tiro Dinamita",
+            "Colmillo de Pantera"
+        ]
+    },
+    {
+        "player": "Majdi Ismail",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Carga Elemental",
+            "Tiro Espejismo",
+            "Garra Salvaje",
+            "Astro Remate"
+        ]
+    },
+    {
+        "player": "Talal Hamad",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Simún", "Atajo Tornado", "Torbellino", "Placaje Extremo"]
+    },
+    {
+        "player": "Hasan Ahmed",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tormenta de Arena",
+            "Doppelgänger",
+            "Balón Galgo",
+            "Tormenta de Fuego"
+        ]
+    },
+    {
+        "player": "Khalfan Jibril",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tormenta de Arena",
+            "Ciclón Doble",
+            "Coz",
+            "Emboscada Defensiva"
+        ]
+    },
+    {
+        "player": "Rajab Ismail",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Ignición", "Ataque Meteorito", "Remate Misil", "Zapatazo Dual"]
+    },
+    {
+        "player": "Adel Siddique",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Tiro Espejismo", "Tiro Dinamita", "Repaso", "Gravedad Grave"]
+    }
+]

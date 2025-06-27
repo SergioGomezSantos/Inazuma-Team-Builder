@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Whale",
+        "full_name": "Gene Whalon",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/76/%28BW%29_Whale.png/revision/latest?cb=20230910125306&path-prefix=es"
+    },
+    {
+        "name": "Water",
+        "full_name": "David Waterman",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2f/%28BW%29_Water.png/revision/latest?cb=20230910125258&path-prefix=es"
+    },
+    {
+        "name": "Beaches",
+        "full_name": "Sonny Shore",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/93/%28BW%29_Beaches.png/revision/latest?cb=20230910125239&path-prefix=es"
+    },
+    {
+        "name": "Turtle",
+        "full_name": "Kjell Snapper",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/65/%28BW%29_Turtle.png/revision/latest?cb=20230910125243&path-prefix=es"
+    },
+    {
+        "name": "Kraken",
+        "full_name": "Ken Crackham",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0f/%28BW%29_Kraken.png/revision/latest?cb=20230910125151&path-prefix=es"
+    },
+    {
+        "name": "Prawn",
+        "full_name": "Shawn Princeton",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4d/%28BW%29_Prawn.png/revision/latest?cb=20230910125225&path-prefix=es"
+    },
+    {
+        "name": "Fisher",
+        "full_name": "Matt Fischer",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/91/%28BW%29_Fisher.png/revision/latest?cb=20230910125207&path-prefix=es"
+    },
+    {
+        "name": "Hang-Ten",
+        "full_name": "Hank Tennyson",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b7/%28BW%29_Hang-Ten.png/revision/latest?cb=20230910125251&path-prefix=es"
+    },
+    {
+        "name": "Dolphin",
+        "full_name": "Dolph Hensen",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/65/%28BW%29_Dolphin.png/revision/latest?cb=20230910125203&path-prefix=es"
+    },
+    {
+        "name": "Reef",
+        "full_name": "Hamilton Reith",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7c/%28BW%29_Reef.png/revision/latest?cb=20230910125236&path-prefix=es"
+    },
+    {
+        "name": "Jaws",
+        "full_name": "Joe Dawes",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/82/%28BW%29_Jaws.png/revision/latest?cb=20230910125158&path-prefix=es"
+    },
+    {
+        "name": "C-Horse",
+        "full_name": "Quincy Horace",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ab/%28BW%29_C-Horse.png/revision/latest?cb=20230910125212&path-prefix=es"
+    },
+    {
+        "name": "Summers",
+        "full_name": "Holly Summers",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3d/%28BW%29_Summers.png/revision/latest?cb=20230910125248&path-prefix=es"
+    },
+    {
+        "name": "K-Rab",
+        "full_name": "Derek Rabson",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/18/%28BW%29_K-Rab.png/revision/latest?cb=20230910125231&path-prefix=es"
+    },
+    {
+        "name": "Barracuda",
+        "full_name": "Barack Daniels",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/48/%28BW%29_Barracuda.png/revision/latest?cb=20230910125154&path-prefix=es"
+    },
+    {
+        "name": "Marlin",
+        "full_name": "Bruce Marlin",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Big Waves",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/82/%28BW%29_Marlin.png/revision/latest?cb=20230910125217&path-prefix=es"
+    }
+]

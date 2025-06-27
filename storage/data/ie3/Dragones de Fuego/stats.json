@@ -1,0 +1,318 @@
+[
+    {
+        "player": "Jang Cho",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 132,
+            "Kick": 54,
+            "Body": 56,
+            "Control": 52,
+            "Guard": 72,
+            "Speed": 48,
+            "Stamina": 54,
+            "Guts": 103,
+            "Freedom": 1
+        }
+    },
+    {
+        "player": "Umi Wang",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 133,
+            "TP": 110,
+            "Kick": 52,
+            "Body": 54,
+            "Control": 65,
+            "Guard": 70,
+            "Speed": 66,
+            "Stamina": 55,
+            "Guts": 64,
+            "Freedom": 4
+        }
+    },
+    {
+        "player": "Doyo Hong",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 129,
+            "TP": 128,
+            "Kick": 53,
+            "Body": 57,
+            "Control": 56,
+            "Guard": 59,
+            "Speed": 63,
+            "Stamina": 50,
+            "Guts": 60,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Minho Cho",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 124,
+            "TP": 134,
+            "Kick": 65,
+            "Body": 52,
+            "Control": 50,
+            "Guard": 69,
+            "Speed": 48,
+            "Stamina": 63,
+            "Guts": 60,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Songwan Ko",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 119,
+            "TP": 127,
+            "Kick": 48,
+            "Body": 54,
+            "Control": 51,
+            "Guard": 70,
+            "Speed": 49,
+            "Stamina": 50,
+            "Guts": 61,
+            "Freedom": 30
+        }
+    },
+    {
+        "player": "Changsu Choi",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 102,
+            "TP": 109,
+            "Kick": 52,
+            "Body": 65,
+            "Control": 80,
+            "Guard": 60,
+            "Speed": 54,
+            "Stamina": 50,
+            "Guts": 63,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Pekyong Park",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 129,
+            "Kick": 48,
+            "Body": 76,
+            "Control": 53,
+            "Guard": 79,
+            "Speed": 43,
+            "Stamina": 54,
+            "Guts": 48,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Enyong Kim",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 108,
+            "TP": 117,
+            "Kick": 48,
+            "Body": 76,
+            "Control": 48,
+            "Guard": 77,
+            "Speed": 46,
+            "Stamina": 40,
+            "Guts": 45,
+            "Freedom": 23
+        }
+    },
+    {
+        "player": "Byron Love",
+        "ie1": {
+            "GP": 167,
+            "TP": 184,
+            "Kick": 79,
+            "Body": 69,
+            "Control": 77,
+            "Guard": 70,
+            "Speed": 72,
+            "Stamina": 68,
+            "Guts": 67,
+            "Freedom": 0
+        },
+        "ie2": {
+            "GP": 167,
+            "TP": 184,
+            "Kick": 79,
+            "Body": 69,
+            "Control": 77,
+            "Guard": 70,
+            "Speed": 72,
+            "Stamina": 68,
+            "Guts": 67,
+            "Freedom": 23
+        },
+        "ie3": {
+            "GP": 130,
+            "TP": 130,
+            "Kick": 63,
+            "Body": 60,
+            "Control": 77,
+            "Guard": 59,
+            "Speed": 61,
+            "Stamina": 59,
+            "Guts": 58,
+            "Freedom": 22
+        }
+    },
+    {
+        "player": "Claude Beacons",
+        "ie1": {},
+        "ie2": {
+            "GP": 187,
+            "TP": 96,
+            "Kick": 69,
+            "Body": 71,
+            "Control": 64,
+            "Guard": 64,
+            "Speed": 66,
+            "Stamina": 70,
+            "Guts": 63,
+            "Freedom": 29
+        },
+        "ie3": {
+            "GP": 133,
+            "TP": 108,
+            "Kick": 75,
+            "Body": 71,
+            "Control": 55,
+            "Guard": 58,
+            "Speed": 58,
+            "Stamina": 61,
+            "Guts": 67,
+            "Freedom": 10
+        }
+    },
+    {
+        "player": "Bryce Whitingale",
+        "ie1": {},
+        "ie2": {
+            "GP": 189,
+            "TP": 96,
+            "Kick": 78,
+            "Body": 65,
+            "Control": 76,
+            "Guard": 74,
+            "Speed": 66,
+            "Stamina": 67,
+            "Guts": 68,
+            "Freedom": 27
+        },
+        "ie3": {
+            "GP": 129,
+            "TP": 118,
+            "Kick": 65,
+            "Body": 65,
+            "Control": 65,
+            "Guard": 68,
+            "Speed": 66,
+            "Stamina": 57,
+            "Guts": 60,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Chi-Won Ho",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 115,
+            "TP": 128,
+            "Kick": 51,
+            "Body": 48,
+            "Control": 52,
+            "Guard": 65,
+            "Speed": 48,
+            "Stamina": 48,
+            "Guts": 68,
+            "Freedom": 30
+        }
+    },
+    {
+        "player": "Dong-Hyun Seul",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 106,
+            "Kick": 65,
+            "Body": 64,
+            "Control": 53,
+            "Guard": 52,
+            "Speed": 54,
+            "Stamina": 48,
+            "Guts": 68,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Jung-Hoon Yi",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 123,
+            "Kick": 49,
+            "Body": 67,
+            "Control": 68,
+            "Guard": 66,
+            "Speed": 51,
+            "Stamina": 51,
+            "Guts": 69,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Sung-Jin Noh",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 124,
+            "Kick": 75,
+            "Body": 48,
+            "Control": 49,
+            "Guard": 57,
+            "Speed": 54,
+            "Stamina": 48,
+            "Guts": 64,
+            "Freedom": 33
+        }
+    },
+    {
+        "player": "Joon-Ho Ja",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 120,
+            "Kick": 53,
+            "Body": 50,
+            "Control": 60,
+            "Guard": 56,
+            "Speed": 62,
+            "Stamina": 60,
+            "Guts": 74,
+            "Freedom": 7
+        }
+    }
+]

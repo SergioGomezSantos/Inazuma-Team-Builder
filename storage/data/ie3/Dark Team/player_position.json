@@ -1,0 +1,46 @@
+[
+    {
+        "player": "Astaroth",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Rubú",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Agor",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Gorja",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Hebimos",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Belal",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Malphas",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Borba",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Arakuné",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Zanos",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Destra",
+        "position_id": "pos-10"
+    }
+]

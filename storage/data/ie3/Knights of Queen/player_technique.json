@@ -1,0 +1,245 @@
+[
+    {
+        "player": "Freddy McQueen",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Espada Defensora",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Espada Defensora",
+            "Muralla de Escudos",
+            "Descodificación",
+            "Agujero Negro"
+        ]
+    },
+    {
+        "player": "Jonny Gascoigne",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Emboscada Defensiva",
+                "with": ["Buckingham", "Ralton"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Jaula de Piedra",
+            "Emboscada Defensiva",
+            "Corte Flamígero",
+            "Bola Falsa"
+        ]
+    },
+    {
+        "player": "David Buckingham",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Emboscada Defensiva",
+                "with": ["Rawton", "Gazzer"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Jaula de Piedra",
+            "Espejismo de Balón",
+            "Coz",
+            "Pingüino Emperador Nº 2"
+        ]
+    },
+    {
+        "player": "Lance Ralton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Jaula de Piedra",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Jaula de Piedra",
+            "Pase Cruzado",
+            "Espada Defensora",
+            "Excalibur"
+        ]
+    },
+    {
+        "player": "Edge Ripper",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Cuchilla Asesina",
+            "Jaula de Piedra",
+            "Golpe de Vacío",
+            "Corte Giratorio"
+        ]
+    },
+    {
+        "player": "Peter Coole",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Ultra Lunar",
+            "Escáner Ataque",
+            "Tiro Dinamita",
+            "Cúpula Sónica"
+        ]
+    },
+    {
+        "player": "Gary Mane",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Ultra Lunar",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Ultra Lunar",
+            "Giro Bobina",
+            "Regate Espejismo",
+            "Jaula de Piedra"
+        ]
+    },
+    {
+        "player": "Paul Appleton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Ultra Lunar", "Zigzag Chispeante", "Ciclón", "Cúpula Sónica"]
+    },
+    {
+        "player": "Eric Purpleton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Ultra Lunar",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Ataque de Paladín",
+            "Remate Serpiente",
+            "Disparo con Rebotes",
+            "Acelerrelámpago"
+        ]
+    },
+    {
+        "player": "Edgar Partinus",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Excalibur",
+                "with": []
+            },
+            {
+                "name": "Ataque de Paladín",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Excalibur", "Ataque de Paladín", "Ultra Lunar", "Casanova"]
+    },
+    {
+        "player": "Philip Arwen",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Ataque de Paladín",
+            "Espejismo de Balón",
+            "Acelerrelámpago",
+            "Avance Flamígero"
+        ]
+    },
+    {
+        "player": "Servilius Jeeves",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Espada Defensora",
+            "Cuchilla Asesina",
+            "Destrozataladros",
+            "Excalibur"
+        ]
+    },
+    {
+        "player": "Martin Squall",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Acelerón", "Ultra Lunar", "Bombazo", "Remate Unicornio"]
+    },
+    {
+        "player": "Nick Woodgate",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Acelerrelámpago",
+            "Ataque de Paladín",
+            "Truco de Magia",
+            "Rayo de Ganímedes"
+        ]
+    },
+    {
+        "player": "Mikey Richards",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Ultra Lunar", "Repaso", "Ataque Sombrío", "Placaje Extremo"]
+    },
+    {
+        "player": "Sirius Pounding",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Jaula de Piedra",
+            "Descodificación",
+            "Mano Celestial",
+            "Golpes de Luz"
+        ]
+    }
+]

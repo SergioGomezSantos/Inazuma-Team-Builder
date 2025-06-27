@@ -1,0 +1,210 @@
+[
+    {
+        "player": "Alfonso Íñigo",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Embestida", "Aguijón", "Cabezonería", "Destrozataladros"]
+    },
+    {
+        "player": "José Costa",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Regate Múltiple",
+            "Tirachinas",
+            "Dientes de Roca",
+            "Corte Giratorio"
+        ]
+    },
+    {
+        "player": "José López",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Engaño Yoyó",
+            "Baile de Llamas",
+            "Súper Elástico",
+            "Fuerza Defensiva"
+        ]
+    },
+    {
+        "player": "Antonio Garrido",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Engaño Yoyó", "Millón de Manos", "Sorpresa", "Escudo Bárbaro"]
+    },
+    {
+        "player": "Víctor García",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Engaño Torero",
+                "with": []
+            },
+            {
+                "name": "Tirachinas",
+                "with": ["Jiménez", "Bonachena"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Engaño Yoyó",
+            "Engaño Torero",
+            "Tirachinas",
+            "Siempre a Muerte"
+        ]
+    },
+    {
+        "player": "Joan Rodríguez",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Corte Giratorio",
+            "Corte Volcánico",
+            "Inmersión",
+            "Defensa Múltiple"
+        ]
+    },
+    {
+        "player": "Igor Ferreira",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Engaño Yoyó",
+            "Tuya-mía Doble",
+            "Pompa de Chicle",
+            "Tiro Cegador"
+        ]
+    },
+    {
+        "player": "Miguel Pereira",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Tirachinas", "Regate Múltiple", "Repaso", "Inmersión"]
+    },
+    {
+        "player": "Borja Costa",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Engaño Torero", "Tirachinas", "Emboscada", "Amago de Tiro"]
+    },
+    {
+        "player": "Mateo Bonachea",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Tirachinas",
+                "with": ["Jiménez", "García"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tirachinas",
+            "Dragón Terrestre",
+            "Engaño Torero",
+            "Espada de Odín"
+        ]
+    },
+    {
+        "player": "Miguel Jiménez",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tirachinas",
+            "Engaño Torero",
+            "Lance Crítico",
+            "Remate Combinado"
+        ]
+    },
+    {
+        "player": "Juan Espindola",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Despeje Cohete",
+            "Golpes de Luz",
+            "Engaño Torero",
+            "Combustión"
+        ]
+    },
+    {
+        "player": "Isaac César",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tornado de Fuego",
+            "Tirachinas",
+            "Súper Elástico",
+            "Remate Asalto"
+        ]
+    },
+    {
+        "player": "Laudelino Castor",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Acelerón", "Engaño Yoyó", "Araña Gigante", "Corte Volcánico"]
+    },
+    {
+        "player": "Carlos Arroyo",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Zona de Seguridad",
+            "Pantalla Ígnea",
+            "Tacón Infernal",
+            "Muro de Hierro"
+        ]
+    },
+    {
+        "player": "Federico Rubiera",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Engaño Yoyó", "Tirachinas", "¡Vamos Todos!", "Súper Elástico"]
+    }
+]

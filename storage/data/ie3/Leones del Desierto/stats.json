@@ -1,0 +1,274 @@
+[
+    {
+        "player": "Nasir Mustafa",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 136,
+            "TP": 138,
+            "Kick": 56,
+            "Body": 55,
+            "Control": 46,
+            "Guard": 72,
+            "Speed": 49,
+            "Stamina": 76,
+            "Guts": 51,
+            "Freedom": 32
+        }
+    },
+    {
+        "player": "Faraz Farooq",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 144,
+            "TP": 96,
+            "Kick": 54,
+            "Body": 60,
+            "Control": 52,
+            "Guard": 56,
+            "Speed": 48,
+            "Stamina": 82,
+            "Guts": 62,
+            "Freedom": 30
+        }
+    },
+    {
+        "player": "Bilal Kalil",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 124,
+            "TP": 116,
+            "Kick": 51,
+            "Body": 62,
+            "Control": 65,
+            "Guard": 72,
+            "Speed": 58,
+            "Stamina": 75,
+            "Guts": 61,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Jamila Wali",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 109,
+            "Kick": 48,
+            "Body": 53,
+            "Control": 57,
+            "Guard": 66,
+            "Speed": 78,
+            "Stamina": 70,
+            "Guts": 57,
+            "Freedom": 14
+        }
+    },
+    {
+        "player": "Musa Sylla",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 138,
+            "TP": 105,
+            "Kick": 57,
+            "Body": 64,
+            "Control": 53,
+            "Guard": 68,
+            "Speed": 49,
+            "Stamina": 73,
+            "Guts": 55,
+            "Freedom": 32
+        }
+    },
+    {
+        "player": "Yusuf Massoud",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 131,
+            "TP": 110,
+            "Kick": 62,
+            "Body": 67,
+            "Control": 63,
+            "Guard": 57,
+            "Speed": 48,
+            "Stamina": 80,
+            "Guts": 60,
+            "Freedom": 24
+        }
+    },
+    {
+        "player": "Sulayk Sulaiman",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 114,
+            "Kick": 58,
+            "Body": 52,
+            "Control": 53,
+            "Guard": 56,
+            "Speed": 62,
+            "Stamina": 76,
+            "Guts": 52,
+            "Freedom": 32
+        }
+    },
+    {
+        "player": "Sayid Armand",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 133,
+            "TP": 108,
+            "Kick": 56,
+            "Body": 62,
+            "Control": 51,
+            "Guard": 64,
+            "Speed": 51,
+            "Stamina": 99,
+            "Guts": 48,
+            "Freedom": 21
+        }
+    },
+    {
+        "player": "Mansur Jasim",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 112,
+            "Kick": 57,
+            "Body": 54,
+            "Control": 58,
+            "Guard": 62,
+            "Speed": 48,
+            "Stamina": 86,
+            "Guts": 52,
+            "Freedom": 28
+        }
+    },
+    {
+        "player": "Zack Abdulla",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 135,
+            "TP": 107,
+            "Kick": 96,
+            "Body": 49,
+            "Control": 50,
+            "Guard": 46,
+            "Speed": 61,
+            "Stamina": 75,
+            "Guts": 52,
+            "Freedom": 26
+        }
+    },
+    {
+        "player": "Majdi Ismail",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 137,
+            "TP": 119,
+            "Kick": 61,
+            "Body": 60,
+            "Control": 62,
+            "Guard": 54,
+            "Speed": 71,
+            "Stamina": 80,
+            "Guts": 54,
+            "Freedom": 4
+        }
+    },
+    {
+        "player": "Talal Hamad",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 140,
+            "TP": 130,
+            "Kick": 48,
+            "Body": 65,
+            "Control": 50,
+            "Guard": 79,
+            "Speed": 55,
+            "Stamina": 73,
+            "Guts": 64,
+            "Freedom": 19
+        }
+    },
+    {
+        "player": "Hasan Ahmed",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 139,
+            "TP": 103,
+            "Kick": 54,
+            "Body": 58,
+            "Control": 56,
+            "Guard": 62,
+            "Speed": 53,
+            "Stamina": 80,
+            "Guts": 51,
+            "Freedom": 28
+        }
+    },
+    {
+        "player": "Khalfan Jibril",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 124,
+            "Kick": 47,
+            "Body": 63,
+            "Control": 63,
+            "Guard": 61,
+            "Speed": 49,
+            "Stamina": 73,
+            "Guts": 69,
+            "Freedom": 26
+        }
+    },
+    {
+        "player": "Rajab Ismail",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 123,
+            "TP": 115,
+            "Kick": 50,
+            "Body": 56,
+            "Control": 57,
+            "Guard": 72,
+            "Speed": 56,
+            "Stamina": 79,
+            "Guts": 59,
+            "Freedom": 16
+        }
+    },
+    {
+        "player": "Adel Siddique",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 134,
+            "TP": 107,
+            "Kick": 55,
+            "Body": 59,
+            "Control": 55,
+            "Guard": 58,
+            "Speed": 67,
+            "Stamina": 72,
+            "Guts": 49,
+            "Freedom": 23
+        }
+    }
+]

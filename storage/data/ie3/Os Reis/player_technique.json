@@ -1,0 +1,236 @@
+[
+    {
+        "player": "Falcão Da Silva",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Parada de Capoeira",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Parada de Capoeira",
+            "Garra Salvaje",
+            "Remate Tarzán",
+            "Sorteo de Balón"
+        ]
+    },
+    {
+        "player": "Carlos Lagarto",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Entrada Rodante",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Entrada Rodante",
+            "Luna Creciente",
+            "Baile de Llamas",
+            "Ultra Lunar"
+        ]
+    },
+    {
+        "player": "Antonio Bagre",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Dúo Magma", "Bomba Acrobática", "Vendimia", "Ultratécnica"]
+    },
+    {
+        "player": "Monstro Ximenes",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Entrada Rodante",
+            "Ataque Afilado",
+            "El Muro",
+            "Escudo Protector"
+        ]
+    },
+    {
+        "player": "Formiga Clemens",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Carrera a Tres Piernas",
+            "Corte Volcánico",
+            "Tornado Inverso",
+            "Lanzallamas"
+        ]
+    },
+    {
+        "player": "Presa Passos",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Entrada Rodante",
+            "Zigzag Chispeante",
+            "Ahorro",
+            "Danza del Viento"
+        ]
+    },
+    {
+        "player": "Bolboreta Barboza",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tiro Cegador",
+            "Descodificación",
+            "Paipay Gigante",
+            "Tiro Torre de Osaka"
+        ]
+    },
+    {
+        "player": "Coruja Cerezo",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tiro Cegador",
+            "Súper Elástico",
+            "Acelerrelámpago",
+            "Balón Rodante"
+        ]
+    },
+    {
+        "player": "Leonardo Almeida",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Tornado Doble", "Súper Elástico", "Casanova", "Cruz del Sur"]
+    },
+    {
+        "player": "Mac Robingo",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Golpe de Samba",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Golpe de Samba",
+            "Súper Elástico",
+            "Tiro Giratorio",
+            "Carga Elemental"
+        ]
+    },
+    {
+        "player": "Gato Carvalho",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Súper Elástico",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tiro Cegador",
+            "Cabezonería",
+            "Remolino Cortante",
+            "Golpe de Samba"
+        ]
+    },
+    {
+        "player": "Xavier Ribeiro",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Parada Múltiple",
+            "Cabezonería",
+            "Parada de Capoeira",
+            "Mandril"
+        ]
+    },
+    {
+        "player": "Ulisses Nogueira",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Defensa Múltiple",
+            "Escáner Defensa",
+            "Defensa Triple",
+            "Remate de Seguridad"
+        ]
+    },
+    {
+        "player": "Gervasio Oliveira",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Defensa Múltiple",
+            "Flash de Fotones",
+            "Entrada Rodante",
+            "Apisonadora"
+        ]
+    },
+    {
+        "player": "Tigre Mendes",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tornado Doble",
+            "Carrera a Tres Piernas",
+            "¡Vamos!",
+            "Corte Flamígero"
+        ]
+    },
+    {
+        "player": "Grillo Santos",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tiro Cegador",
+            "Cabezazo Yoyó",
+            "Pompa de Chicle",
+            "Súper Elástico"
+        ]
+    }
+]

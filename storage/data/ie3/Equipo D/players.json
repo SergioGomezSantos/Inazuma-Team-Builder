@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Lazuli",
+        "full_name": "Indigo Lazuli",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/49/%28ED%29_Lazuli.png/revision/latest?cb=20230912211336&path-prefix=es"
+    },
+    {
+        "name": "Diamante",
+        "full_name": "Rosseo Diamante",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/45/%28ED%29_Diamante.png/revision/latest?cb=20230912211331&path-prefix=es"
+    },
+    {
+        "name": "Turchese",
+        "full_name": "Azubel Turchese",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4a/%28ED%29_Turchese.png/revision/latest?cb=20230912211355&path-prefix=es"
+    },
+    {
+        "name": "Agata",
+        "full_name": "Nereo Agata",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e2/%28ED%29_Agata.png/revision/latest?cb=20230912211319&path-prefix=es"
+    },
+    {
+        "name": "Zaffiro",
+        "full_name": "Azzuro Zaffiro",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/73/%28ED%29_Zaffiro.png/revision/latest?cb=20230912211358&path-prefix=es"
+    },
+    {
+        "name": "Smeraldo",
+        "full_name": "Berdeo Smeraldo",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d5/%28ED%29_Smeraldo.png/revision/latest?cb=20230912211349&path-prefix=es"
+    },
+    {
+        "name": "Granato",
+        "full_name": "Rosso Granato",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/%28ED%29_Granato.png/revision/latest?cb=20230912211334&path-prefix=es"
+    },
+    {
+        "name": "Topazio",
+        "full_name": "Giallo Topazio",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ac/%28ED%29_Topazio.png/revision/latest?cb=20230912211353&path-prefix=es"
+    },
+    {
+        "name": "Amatista",
+        "full_name": "Vittorio Amatista",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3e/%28ED%29_Amatista.png/revision/latest?cb=20230912211322&path-prefix=es"
+    },
+    {
+        "name": "Acuto",
+        "full_name": "Julio Acuto",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b1/%28ED%29_Acuto.png/revision/latest?cb=20230912211329&path-prefix=es"
+    },
+    {
+        "name": "Perla",
+        "full_name": "Bianco Perla",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6c/%28ED%29_Perla.png/revision/latest?cb=20230912211341&path-prefix=es"
+    },
+    {
+        "name": "Quarzo",
+        "full_name": "Grigio Quarzo",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/63/%28ED%29_Quarzo.png/revision/latest?cb=20230912211344&path-prefix=es"
+    },
+    {
+        "name": "Berillo",
+        "full_name": "Pardo Berillo",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f2/%28ED%29_Berillo.png/revision/latest?cb=20230912211324&path-prefix=es"
+    },
+    {
+        "name": "Corniola",
+        "full_name": "Marrone Corniola",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ee/%28ED%29_Corniola.png/revision/latest?cb=20230912211327&path-prefix=es"
+    },
+    {
+        "name": "Rubino",
+        "full_name": "Amaranto Rubino",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/01/%28ED%29_Rubino.png/revision/latest?cb=20230912211346&path-prefix=es"
+    },
+    {
+        "name": "Opale",
+        "full_name": "Avorio Opale",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Equipo D",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4d/%28ED%29_Opale.png/revision/latest?cb=20230912211339&path-prefix=es"
+    }
+]

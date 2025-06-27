@@ -1,0 +1,130 @@
+[
+    {
+        "name": "King",
+        "full_name": "Joseph King",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c9/%28NJ%29_King.png/revision/latest?cb=20230912212513&path-prefix=es"
+    },
+    {
+        "name": "Master",
+        "full_name": "Alan Master",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4a/%28NJ%29_Master.png/revision/latest?cb=20230912212515&path-prefix=es"
+    },
+    {
+        "name": "Zohen",
+        "full_name": "Zack Cummings",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3e/%28NJ%29_Zohen.png/revision/latest?cb=20230912212529&path-prefix=es"
+    },
+    {
+        "name": "Bargie",
+        "full_name": "Argie Bargie",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/72/%28NJ%29_Bargie.png/revision/latest?cb=20230912212432&path-prefix=es"
+    },
+    {
+        "name": "Hatch",
+        "full_name": "Daniel Hatch",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e5/%28NJ%29_Hatch.png/revision/latest?cb=20230912212443&path-prefix=es"
+    },
+    {
+        "name": "Turner",
+        "full_name": "Neil Turner",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/%28NJ%29_Turner.png/revision/latest?cb=20230912212520&path-prefix=es"
+    },
+    {
+        "name": "Cloak",
+        "full_name": "Sail Bluesea",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f1/%28NJ%29_Cloak.png/revision/latest?cb=20230912212434&path-prefix=es"
+    },
+    {
+        "name": "Talisman",
+        "full_name": "Johan Tassman",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6f/%28NJ%29_Talisman.png/revision/latest?cb=20230912212517&path-prefix=es"
+    },
+    {
+        "name": "Wittz",
+        "full_name": "Wilbur Watkins",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2f/%28NJ%29_Wittz.png/revision/latest?cb=20230912212525&path-prefix=es"
+    },
+    {
+        "name": "Quagmire",
+        "full_name": "Dave Quagmire",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a9/%28NJ%29_Dave.png/revision/latest?cb=20230912212436&path-prefix=es"
+    },
+    {
+        "name": "Zell",
+        "full_name": "Zeke Valanche",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/30/%28NJ%29_Zell.png/revision/latest?cb=20230912212527&path-prefix=es"
+    },
+    {
+        "name": "Heat",
+        "full_name": "Ethan Whitering",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5a/%28NJ%29_Heat_%28PR%29.png/revision/latest?cb=20230912212448&path-prefix=es"
+    },
+    {
+        "name": "Hera",
+        "full_name": "Henry House",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/25/%28NJ%29_Hera.png/revision/latest?cb=20230912212455&path-prefix=es"
+    },
+    {
+        "name": "Tyler",
+        "full_name": "Tyler Murdock",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/46/%28NJ%29_Tyler.png/revision/latest?cb=20230912212522&path-prefix=es"
+    },
+    {
+        "name": "Demeter",
+        "full_name": "Jonas Demetrius",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cd/%28NJ%29_Demeter.png/revision/latest?cb=20230912212439&path-prefix=es"
+    },
+    {
+        "name": "Hillvalley",
+        "full_name": "Mark Hillvalley",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Neo Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e1/%28NJ%29_Hillvalley.png/revision/latest?cb=20230912212505&path-prefix=es"
+    }
+]

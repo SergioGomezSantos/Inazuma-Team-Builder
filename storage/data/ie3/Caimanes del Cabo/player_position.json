@@ -1,0 +1,66 @@
+[
+    {
+        "player": "Zolani Baloi",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Dakarai Furman",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Jake Fana",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Masego Molelo",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Cassius Tobler",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Anton Nortje",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Adam Marunga",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Siyabonga Mahlangu",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Nathan Tswane",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Reggie Ines",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Melisizwe Zamani",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Kennedy McCarthy",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Moeneeb Booysen",
+        "position_id": "bench-1"
+    },
+    {
+        "player": "Herschel De Villiers",
+        "position_id": "bench-2"
+    },
+    {
+        "player": "Hugh Makebe",
+        "position_id": "bench-3"
+    },
+    {
+        "player": "Themba Sepeng",
+        "position_id": "bench-4"
+    }
+]

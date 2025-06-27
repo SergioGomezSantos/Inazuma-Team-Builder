@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Welger",
+        "full_name": "Thorsten Welger",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/45/%28BB%29_Welger.png/revision/latest?cb=20230910131647&path-prefix=es"
+    },
+    {
+        "name": "Hausen",
+        "full_name": "Alexander Hausen",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8b/%28BB%29_Hausen.png/revision/latest?cb=20230910131438&path-prefix=es"
+    },
+    {
+        "name": "Farber",
+        "full_name": "Heinrich Farber",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4c/%28BB%29_Farber.png/revision/latest?cb=20230910131431&path-prefix=es"
+    },
+    {
+        "name": "Zawel",
+        "full_name": "Kurt Zawel",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/59/%28BB%29_Zawel.png/revision/latest?cb=20230910131656&path-prefix=es"
+    },
+    {
+        "name": "Schmidt",
+        "full_name": "Lukas Schmidt",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f1/%28BB%29_Schmidt.png/revision/latest?cb=20230910131504&path-prefix=es"
+    },
+    {
+        "name": "Ulrich",
+        "full_name": "Theodor Ulrich",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f8/%28BB%29_Ulrich.png/revision/latest?cb=20230910131513&path-prefix=es"
+    },
+    {
+        "name": "Oster",
+        "full_name": "Jan Oster",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b1/%28BB%29_Oster.png/revision/latest?cb=20230910131455&path-prefix=es"
+    },
+    {
+        "name": "Kuster",
+        "full_name": "Niklas Kuster",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/53/%28BB%29_Kuster.png/revision/latest?cb=20230910131445&path-prefix=es"
+    },
+    {
+        "name": "Polk",
+        "full_name": "Jonas Polk",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d3/%28BB%29_Polk.png/revision/latest?cb=20230910131457&path-prefix=es"
+    },
+    {
+        "name": "Müller",
+        "full_name": "Maximilian Müller",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1a/%28BB%29_M%C3%BCller.png/revision/latest?cb=20230910131447&path-prefix=es"
+    },
+    {
+        "name": "Naumann",
+        "full_name": "Peter Naumann",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/61/%28BB%29_Naumann.png/revision/latest?cb=20230910131453&path-prefix=es"
+    },
+    {
+        "name": "Enders",
+        "full_name": "Gerhard Enders",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b9/%28BB%29_Enders.png/revision/latest?cb=20230910131426&path-prefix=es"
+    },
+    {
+        "name": "Völz",
+        "full_name": "Erwin Völz",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/6d/%28BB%29_V%C3%B6lz.png/revision/latest?cb=20230910131644&path-prefix=es"
+    },
+    {
+        "name": "Hoffman",
+        "full_name": "Jens Hoffman",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fb/%28BB%29_Hoffman.png/revision/latest?cb=20230910131441&path-prefix=es"
+    },
+    {
+        "name": "Fliender",
+        "full_name": "Ernst Fliedner",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/38/%28BB%29_Fliender.png/revision/latest?cb=20230910131434&path-prefix=es"
+    },
+    {
+        "name": "Ewerz",
+        "full_name": "Emmanuel Ewerz",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Brocken Brigade",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/ca/%28BB%29_Ewerz.png/revision/latest?cb=20230910131428&path-prefix=es"
+    }
+]

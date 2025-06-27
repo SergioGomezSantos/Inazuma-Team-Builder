@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Mustafa",
+        "full_name": "Nasir Mustafa",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1a/%28LD%29_Mustafa.png/revision/latest?cb=20230910133740&path-prefix=es"
+    },
+    {
+        "name": "Farooq",
+        "full_name": "Faraz Farooq",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/13/%28LD%29_Farooq.png/revision/latest?cb=20230910133720&path-prefix=es"
+    },
+    {
+        "name": "Kalil",
+        "full_name": "Bilal Kalil",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cf/%28LD%29_Kalil.png/revision/latest?cb=20230910133730&path-prefix=es"
+    },
+    {
+        "name": "Wali",
+        "full_name": "Jamila Wali",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/96/%28LD%29_Wali.png/revision/latest?cb=20230910133801&path-prefix=es"
+    },
+    {
+        "name": "Sylla",
+        "full_name": "Musa Sylla",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/47/%28LD%29_Sylla.png/revision/latest?cb=20230910133750&path-prefix=es"
+    },
+    {
+        "name": "Massoud",
+        "full_name": "Yusuf Massoud",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/66/%28LD%29_Massoud.png/revision/latest?cb=20230910133737&path-prefix=es"
+    },
+    {
+        "name": "Sulaiman",
+        "full_name": "Sulayk Sulaiman",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1a/%28LD%29_Sulaiman.png/revision/latest?cb=20230910133747&path-prefix=es"
+    },
+    {
+        "name": "Armand",
+        "full_name": "Sayid Armand",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0e/%28LD%29_Armand.png/revision/latest?cb=20230910133718&path-prefix=es"
+    },
+    {
+        "name": "Jasim",
+        "full_name": "Mansur Jasim",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bb/%28LD%29_Jasim.png/revision/latest?cb=20230910133725&path-prefix=es"
+    },
+    {
+        "name": "Abdulla",
+        "full_name": "Zack Abdulla",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bc/%28LD%29_Abdulla.png/revision/latest?cb=20230910133711&path-prefix=es"
+    },
+    {
+        "name": "Majdi",
+        "full_name": "Majdi Ismail",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/86/%28LD%29_Majdi.png/revision/latest?cb=20230910133733&path-prefix=es"
+    },
+    {
+        "name": "Hamad",
+        "full_name": "Talal Hamad",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/51/%28LD%29_Hamad.png/revision/latest?cb=20230910133723&path-prefix=es"
+    },
+    {
+        "name": "Ahmed",
+        "full_name": "Hasan Ahmed",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cc/%28LD%29_Ahmed.png/revision/latest?cb=20230910133715&path-prefix=es"
+    },
+    {
+        "name": "Jibril",
+        "full_name": "Khalfan Jibril",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/73/%28LD%29_Jibril.png/revision/latest?cb=20230910133728&path-prefix=es"
+    },
+    {
+        "name": "Rajab",
+        "full_name": "Rajab Ismail",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/55/%28LD%29_Rajab.png/revision/latest?cb=20230910133742&path-prefix=es"
+    },
+    {
+        "name": "Siddique",
+        "full_name": "Adel Siddique",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Leones del Desierto",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/67/%28LD%29_Siddique.png/revision/latest?cb=20230910133745&path-prefix=es"
+    }
+]

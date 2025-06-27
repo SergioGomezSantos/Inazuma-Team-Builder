@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Pialat",
+        "full_name": "Roger Pialat",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/20/%28GR%29_Pialat.png/revision/latest?cb=20230912204431&path-prefix=es"
+    },
+    {
+        "name": "Godin",
+        "full_name": "Pierre Godin",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8d/%28GR%29_Godin.png/revision/latest?cb=20230912204411&path-prefix=es"
+    },
+    {
+        "name": "Aron",
+        "full_name": "Michaël Aron",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c4/%28GR%29_Aron.png/revision/latest?cb=20230912204405&path-prefix=es"
+    },
+    {
+        "name": "Poujol",
+        "full_name": "Francis Poujol",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a7/%28GR%29_Poujol.png/revision/latest?cb=20230912204439&path-prefix=es"
+    },
+    {
+        "name": "Pinot",
+        "full_name": "Kevin Pinot",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/03/%28GR%29_Pinot.png/revision/latest?cb=20230912204433&path-prefix=es"
+    },
+    {
+        "name": "Perec",
+        "full_name": "Roland Perec",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/21/%28GR%29_Perec.png/revision/latest?cb=20230912204428&path-prefix=es"
+    },
+    {
+        "name": "Huysmans",
+        "full_name": "Romuald Huysmans",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0f/%28GR%29_Huysmans.png/revision/latest?cb=20230912204421&path-prefix=es"
+    },
+    {
+        "name": "Hinault",
+        "full_name": "Stéphane Hinault",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/59/%28GR%29_Hinault.png/revision/latest?cb=20230912204415&path-prefix=es"
+    },
+    {
+        "name": "Rousseau",
+        "full_name": "Julien Rousseau",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8b/%28GR%29_Rousseau.png/revision/latest?cb=20230912204443&path-prefix=es"
+    },
+    {
+        "name": "Hervaud",
+        "full_name": "Jerome Hervaud",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2a/%28GR%29_Hervaud.png/revision/latest?cb=20230912204418&path-prefix=es"
+    },
+    {
+        "name": "Favreau",
+        "full_name": "Alain Favreau",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f3/%28GR%29_Favreau.png/revision/latest?cb=20230912204408&path-prefix=es"
+    },
+    {
+        "name": "Lazare",
+        "full_name": "Émile Lazare",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/60/%28GR%29_Lazare.png/revision/latest?cb=20230912204441&path-prefix=es"
+    },
+    {
+        "name": "Pinson",
+        "full_name": "André Pinson",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/34/%28GR%29_Pinson.png/revision/latest?cb=20230912204436&path-prefix=es"
+    },
+    {
+        "name": "Gutain",
+        "full_name": "Jean Gutain",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/42/%28GR%29_Gutain.png/revision/latest?cb=20230912204413&path-prefix=es"
+    },
+    {
+        "name": "Moreau",
+        "full_name": "Claude Moreau",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/90/%28GR%29_Moreau.png/revision/latest?cb=20230912204423&path-prefix=es"
+    },
+    {
+        "name": "Morland",
+        "full_name": "Michel Morland",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Grifos de la Rosa",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e0/%28GR%29_Morland.png/revision/latest?cb=20230912204426&path-prefix=es"
+    }
+]

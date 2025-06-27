@@ -1,0 +1,66 @@
+[
+    {
+        "player": "Mark Evans",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Hurley Kane",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Archer Hawkins",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Jack Wallside",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Shawn Froste",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "David Samford",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Jude Sharp",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Caleb Stonewall",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Austin Hobbes",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Xavier Foster",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Axel Blaze",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Darren LaChance",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Nathan Swift",
+        "position_id": "bench-1"
+    },
+    {
+        "player": "Scott Banyan",
+        "position_id": "bench-2"
+    },
+    {
+        "player": "Thor Stoutberg",
+        "position_id": "bench-3"
+    },
+    {
+        "player": "Kevin Dragonfly",
+        "position_id": "bench-4"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "player": "Cyril Fox",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Jacques Allemand",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Phil A. Minion",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Buddy Plains",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Dean Goddard",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Cecil Crowley",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Seth Hedges",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Niccolò Mantegna",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Damien Crawford",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Avinash Chowdhury",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Sedgley Scofield",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Grizzler Bruin",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Ian C. Wincy",
+        "position_id": "bench-1"
+    },
+    {
+        "player": "Bandy Horsman",
+        "position_id": "bench-2"
+    },
+    {
+        "player": "Ali Caiman",
+        "position_id": "bench-3"
+    },
+    {
+        "player": "Chris Ellis",
+        "position_id": "bench-4"
+    }
+]

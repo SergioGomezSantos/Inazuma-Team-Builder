@@ -1,0 +1,274 @@
+[
+    {
+        "player": "Roger Pialat",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 116,
+            "TP": 143,
+            "Kick": 48,
+            "Body": 66,
+            "Control": 63,
+            "Guard": 72,
+            "Speed": 58,
+            "Stamina": 56,
+            "Guts": 54,
+            "Freedom": 19
+        }
+    },
+    {
+        "player": "Pierre Godin",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 116,
+            "TP": 127,
+            "Kick": 53,
+            "Body": 55,
+            "Control": 74,
+            "Guard": 55,
+            "Speed": 56,
+            "Stamina": 51,
+            "Guts": 63,
+            "Freedom": 35
+        }
+    },
+    {
+        "player": "Michaël Aron",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 113,
+            "TP": 119,
+            "Kick": 50,
+            "Body": 62,
+            "Control": 62,
+            "Guard": 72,
+            "Speed": 47,
+            "Stamina": 44,
+            "Guts": 53,
+            "Freedom": 28
+        }
+    },
+    {
+        "player": "Francis Poujol",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 120,
+            "Kick": 53,
+            "Body": 59,
+            "Control": 63,
+            "Guard": 60,
+            "Speed": 48,
+            "Stamina": 49,
+            "Guts": 52,
+            "Freedom": 43
+        }
+    },
+    {
+        "player": "Kevin Pinot",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 120,
+            "TP": 121,
+            "Kick": 50,
+            "Body": 67,
+            "Control": 67,
+            "Guard": 56,
+            "Speed": 61,
+            "Stamina": 60,
+            "Guts": 53,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Roland Pérec",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 112,
+            "TP": 131,
+            "Kick": 55,
+            "Body": 52,
+            "Control": 70,
+            "Guard": 59,
+            "Speed": 65,
+            "Stamina": 48,
+            "Guts": 52,
+            "Freedom": 52
+        }
+    },
+    {
+        "player": "Romuald Huysmans",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 117,
+            "Kick": 57,
+            "Body": 55,
+            "Control": 66,
+            "Guard": 52,
+            "Speed": 60,
+            "Stamina": 48,
+            "Guts": 55,
+            "Freedom": 32
+        }
+    },
+    {
+        "player": "Stéphane Hinault",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 115,
+            "TP": 120,
+            "Kick": 51,
+            "Body": 54,
+            "Control": 64,
+            "Guard": 56,
+            "Speed": 52,
+            "Stamina": 49,
+            "Guts": 53,
+            "Freedom": 68
+        }
+    },
+    {
+        "player": "Julien Rousseau",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 129,
+            "TP": 124,
+            "Kick": 56,
+            "Body": 62,
+            "Control": 79,
+            "Guard": 61,
+            "Speed": 57,
+            "Stamina": 52,
+            "Guts": 68,
+            "Freedom": 20
+        }
+    },
+    {
+        "player": "Jêrôme Hervaud",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 133,
+            "TP": 118,
+            "Kick": 60,
+            "Body": 66,
+            "Control": 70,
+            "Guard": 51,
+            "Speed": 57,
+            "Stamina": 64,
+            "Guts": 52,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Alain Favreau",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 117,
+            "TP": 113,
+            "Kick": 62,
+            "Body": 61,
+            "Control": 72,
+            "Guard": 47,
+            "Speed": 58,
+            "Stamina": 60,
+            "Guts": 52,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Émile Lazare",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 136,
+            "Kick": 50,
+            "Body": 69,
+            "Control": 56,
+            "Guard": 63,
+            "Speed": 55,
+            "Stamina": 54,
+            "Guts": 66,
+            "Freedom": 19
+        }
+    },
+    {
+        "player": "André Pinson",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 110,
+            "TP": 118,
+            "Kick": 52,
+            "Body": 67,
+            "Control": 68,
+            "Guard": 58,
+            "Speed": 58,
+            "Stamina": 56,
+            "Guts": 59,
+            "Freedom": 4
+        }
+    },
+    {
+        "player": "Jean Gutain",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 109,
+            "TP": 121,
+            "Kick": 52,
+            "Body": 51,
+            "Control": 65,
+            "Guard": 60,
+            "Speed": 54,
+            "Stamina": 42,
+            "Guts": 55,
+            "Freedom": 35
+        }
+    },
+    {
+        "player": "Claude Moreau",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 125,
+            "TP": 115,
+            "Kick": 58,
+            "Body": 70,
+            "Control": 71,
+            "Guard": 57,
+            "Speed": 50,
+            "Stamina": 48,
+            "Guts": 56,
+            "Freedom": 16
+        }
+    },
+    {
+        "player": "Michel Morland",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 119,
+            "TP": 124,
+            "Kick": 63,
+            "Body": 61,
+            "Control": 68,
+            "Guard": 50,
+            "Speed": 63,
+            "Stamina": 50,
+            "Guts": 50,
+            "Freedom": 23
+        }
+    }
+]

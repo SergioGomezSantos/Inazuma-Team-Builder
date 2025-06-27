@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Mark",
+        "full_name": "Mark Evans",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f9/%28IJ%29_Mark_%28PR%29.png/revision/latest?cb=20230909202000&path-prefix=es"
+    },
+    {
+        "name": "Nathan",
+        "full_name": "Nathan Swift",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/64/%28IJ%29_Nathan.png/revision/latest?cb=20230909202003&path-prefix=es"
+    },
+    {
+        "name": "Jack",
+        "full_name": "Jack Wallside",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/69/%28IJ%29_Jack.png/revision/latest?cb=20230909201948&path-prefix=es"
+    },
+    {
+        "name": "Hurley",
+        "full_name": "Hurley Kane",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/9c/%28IJ%29_Hurley.png/revision/latest?cb=20230909201944&path-prefix=es"
+    },
+    {
+        "name": "Scotty",
+        "full_name": "Scott Banyan",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/82/%28IJ%29_Scotty.png/revision/latest?cb=20230909202012&path-prefix=es"
+    },
+    {
+        "name": "Archer",
+        "full_name": "Archer Hawkins",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/42/%28IJ%29_Archer.png/revision/latest?cb=20230909201926&path-prefix=es"
+    },
+    {
+        "name": "Caleb",
+        "full_name": "Caleb Stonewall",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7d/%28IJ%29_Caleb.png/revision/latest?cb=20230909201937&path-prefix=es"
+    },
+    {
+        "name": "Shawn",
+        "full_name": "Shawn Froste",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a7/%28IJ%29_Shawn.png/revision/latest?cb=20230909202015&path-prefix=es"
+    },
+    {
+        "name": "Axel",
+        "full_name": "Axel Blaze",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3c/%28IJ%29_Axel.png/revision/latest?cb=20230909201935&path-prefix=es"
+    },
+    {
+        "name": "Austin",
+        "full_name": "Austin Hobbes",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0e/%28IJ%29_Austin.png/revision/latest?cb=20230909201930&path-prefix=es"
+    },
+    {
+        "name": "Thor",
+        "full_name": "Thor Stoutberg",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/17/%28IJ%29_Thor.png/revision/latest?cb=20230909202018&path-prefix=es"
+    },
+    {
+        "name": "Jude",
+        "full_name": "Jude Sharp",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/98/%28IJ%29_Jude.png/revision/latest?cb=20230909201953&path-prefix=es"
+    },
+    {
+        "name": "Samford",
+        "full_name": "David Samford",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cf/%28IJ%29_Samford.png/revision/latest?cb=20230909202009&path-prefix=es"
+    },
+    {
+        "name": "Kevin",
+        "full_name": "Kevin Dragonfly",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0a/%28IJ%29_Kevin.png/revision/latest?cb=20230909201955&path-prefix=es"
+    },
+    {
+        "name": "Xavier",
+        "full_name": "Xavier Foster",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b4/%28IJ%29_Xavier.png/revision/latest?cb=20230909202024&path-prefix=es"
+    },
+    {
+        "name": "Darren",
+        "full_name": "Darren LaChance",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/95/%28IJ%29_Darren_%28PR%29.png/revision/latest?cb=20230909201942&path-prefix=es"
+    },
+    {
+        "name": "Tod",
+        "full_name": "Tod Ironside",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/39/%28IJ%29_Tod.png/revision/latest?cb=20230909202022&path-prefix=es"
+    },
+    {
+        "name": "Jordan",
+        "full_name": "Jordan Greenway",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Inazuma Japón",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/bd/%28IJ%29_Jordan.png/revision/latest?cb=20230909201950&path-prefix=es"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Luceafăr",
+        "full_name": "Lars Luceafăr",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/26/%28OA%29_Luceaf%C4%83r.png/revision/latest?cb=20230913210343&path-prefix=es"
+    },
+    {
+        "name": "Bump",
+        "full_name": "Bump Trungus",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0f/%28OA%29_Bump.png/revision/latest?cb=20230913210323&path-prefix=es"
+    },
+    {
+        "name": "Lump",
+        "full_name": "Lump Trungus",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/9d/%28OA%29_Lump.png/revision/latest?cb=20230913210357&path-prefix=es"
+    },
+    {
+        "name": "Ischer",
+        "full_name": "Radd Ischer",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/72/%28OA%29_Ischer.png/revision/latest?cb=20230913210335&path-prefix=es"
+    },
+    {
+        "name": "Jenkins",
+        "full_name": "Jynx Jenkins",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/8b/%28OA%29_Jenkins.png/revision/latest?cb=20230913210339&path-prefix=es"
+    },
+    {
+        "name": "Triumvir",
+        "full_name": "Oni Triumvir",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b9/%28OA%29_Triumvir.png/revision/latest?cb=20230913210408&path-prefix=es"
+    },
+    {
+        "name": "Gunther",
+        "full_name": "Drachen Gunther",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/33/%28OA%29_Gunther.png/revision/latest?cb=20230913210331&path-prefix=es"
+    },
+    {
+        "name": "Stark",
+        "full_name": "Ichabod Stark",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e3/%28OA%29_Stark.png/revision/latest?cb=20230913210404&path-prefix=es"
+    },
+    {
+        "name": "Malice",
+        "full_name": "Escavan Malice",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7d/%28OA%29_Malice.png/revision/latest?cb=20230913210402&path-prefix=es"
+    },
+    {
+        "name": "Lancer",
+        "full_name": "Bash Lancer",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b8/%28OA%29_Bash.png/revision/latest?cb=20230913210317&path-prefix=es"
+    },
+    {
+        "name": "Callous",
+        "full_name": "Mystral Callous",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Equipo Ogro",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ec/%28OA%29_Callous.png/revision/latest?cb=20230913210327&path-prefix=es"
+    }
+]

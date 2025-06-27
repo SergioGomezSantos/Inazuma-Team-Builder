@@ -84,7 +84,29 @@ class ImportData extends Command
                 'Robots Guardias'
             ],
 
-            'ie3' => [],
+            'ie3' => [
+                'Inazuma Japón',
+                'Big Waves',
+                'Leones del Desierto',
+                'Dragones de Fuego',
+                'Knights of Queen',
+                'Los Emperadores',
+                'Unicorn',
+                'Orfeo',
+                'Os Reis',
+                'The Little Giants',
+                'Caimanes del Cabo',
+                'Los Rojos',
+                'Brocken Brigade',
+                'Grifos de la Rosa',
+                'Neo Japón',
+                'Equipo D',
+                'Zoolan Team',
+                'Sky Team',
+                'Dark Team',
+                'Ángel Oscuro',
+                'Equipo Ogro',
+            ],
         ];
 
         foreach ($versions as $version) {

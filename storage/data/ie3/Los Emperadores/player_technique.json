@@ -1,0 +1,231 @@
+[
+    {
+        "player": "Nacho Ortega",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Millón de Manos",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Millón de Manos", "Balón Galgo", "Simún", "Muralla Infinita"]
+    },
+    {
+        "player": "Thiago Torres",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Muro de Hierro",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Zigzag de Fuego", "Defensa +", "Muro de Hierro", "Cortafuegos"]
+    },
+    {
+        "player": "Felipe Palacios",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Bola Falsa", "Zigzag de Fuego", "Corte Flamígero", "Vendimia"]
+    },
+    {
+        "player": "Miquel Ros",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Zigzag de Fuego",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Superarmadillo",
+            "Zigzag de Fuego",
+            "Rueda Infernal",
+            "Millón de Manos"
+        ]
+    },
+    {
+        "player": "Ramón Martínez",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Voltereta Circense",
+            "Relámpago Saltón",
+            "Cometa",
+            "Bomba Acrobática"
+        ]
+    },
+    {
+        "player": "Enrique Caroso",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Balón Galgo",
+            "Robo Rápido",
+            "Armadillo Circense",
+            "Corte Giratorio"
+        ]
+    },
+    {
+        "player": "Sergio López",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Pompa de Chicle",
+            "Espejismo",
+            "Zigzag Chispeante",
+            "Sprint Triple"
+        ]
+    },
+    {
+        "player": "Roberto Torinni",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Balón Galgo",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Balón Galgo", "Ciclón", "Puños Voladores", "Muro de Hierro"]
+    },
+    {
+        "player": "Pablo Castiglione",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Remate Halcón",
+            "Cabezonería",
+            "Zigzag de Fuego",
+            "Triángulo Z"
+        ]
+    },
+    {
+        "player": "Leone Balone",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Llamarada Infernal",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Llamarada Infernal",
+            "Casanova",
+            "Ataque de Cóndor",
+            "Remate del Águila"
+        ]
+    },
+    {
+        "player": "Diego Oro",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Llamarada Infernal",
+            "Paipay Gigante",
+            "Remate del Águila",
+            "Remate Asalto"
+        ]
+    },
+    {
+        "player": "Lionel Cruz",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Escudo de Fuerza",
+            "Escudo de Fuerza Total",
+            "Zigzag de Fuego",
+            "Placaje Extremo"
+        ]
+    },
+    {
+        "player": "Mario Saviola",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Truco de Magia",
+            "Remate Combinado",
+            "Superpeonza",
+            "Dragón Terrestre"
+        ]
+    },
+    {
+        "player": "Hernán Tévez",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Truco de Magia",
+            "Remate Combinado",
+            "Superpeonza",
+            "Dragón Terrestre"
+        ]
+    },
+    {
+        "player": "Herman Samuel",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Armadillo Circense",
+            "Bola de Fango",
+            "Disparo con Rebotes",
+            "Balón Galgo"
+        ]
+    },
+    {
+        "player": "Ricardo Agüero",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Cabezazo Yoyó",
+            "Siempre a Muerte",
+            "Remate del Águila",
+            "Zapatazo Dual"
+        ]
+    }
+]

@@ -1,23 +1,4 @@
 export const SPECIAL_FORMATIONS = {
-    "Diamante II": {
-        positions: [
-            { x: 50, y: 90.5, role: "Portero" },
-            // Defensas (5)
-            { x: 20, y: 60, role: "Defensa" },
-            { x: 40, y: 70, role: "Defensa" },
-            { x: 50, y: 56, role: "Defensa" },
-            { x: 60, y: 70, role: "Defensa" },
-            { x: 80, y: 60, role: "Defensa" },
-            // Centrocampistas (3)
-            { x: 20, y: 32, role: "Centrocampista" },
-            { x: 50, y: 36, role: "Centrocampista" },
-            { x: 80, y: 32, role: "Centrocampista" },
-            // Delanteros (2)
-            { x: 40, y: 20, role: "Delantero" },
-            { x: 60, y: 20, role: "Delantero" },
-        ],
-        ignoreLayout: true,
-    },
     Diamante: {
         positions: [
             { x: 50, y: 90.5, role: "Portero" },
@@ -220,63 +201,6 @@ export const SPECIAL_FORMATIONS = {
         ],
         ignoreLayout: true,
     },
-    "Can Doble": {
-        positions: [
-            { x: 50, y: 90.5, role: "Portero" },
-            // Defensas (5)
-            { x: 20, y: 60, role: "Defensa" },
-            { x: 40, y: 70, role: "Defensa" },
-            { x: 50, y: 54, role: "Defensa" },
-            { x: 60, y: 70, role: "Defensa" },
-            { x: 80, y: 60, role: "Defensa" },
-            // Centrocampistas (3)
-            { x: 20, y: 30, role: "Centrocampista" },
-            { x: 50, y: 34, role: "Centrocampista" },
-            { x: 80, y: 30, role: "Centrocampista" },
-            // Delanteros (2)
-            { x: 40, y: 18, role: "Delantero" },
-            { x: 60, y: 18, role: "Delantero" },
-        ],
-        ignoreLayout: true,
-    },
-    Aegis: {
-        positions: [
-            { x: 50, y: 90.5, role: "Portero" },
-            // Defensas (5)
-            { x: 20, y: 60, role: "Defensa" },
-            { x: 40, y: 70, role: "Defensa" },
-            { x: 50, y: 58, role: "Defensa" },
-            { x: 60, y: 70, role: "Defensa" },
-            { x: 80, y: 60, role: "Defensa" },
-            // Centrocampistas (3)
-            { x: 20, y: 34, role: "Centrocampista" },
-            { x: 50, y: 38, role: "Centrocampista" },
-            { x: 80, y: 34, role: "Centrocampista" },
-            // Delanteros (2)
-            { x: 40, y: 22, role: "Delantero" },
-            { x: 60, y: 22, role: "Delantero" },
-        ],
-        ignoreLayout: true,
-    },
-    Géminis: {
-        positions: [
-            { x: 50, y: 90.5, role: "Portero" },
-            // Defensas (5)
-            { x: 20, y: 60, role: "Defensa" },
-            { x: 40, y: 70, role: "Defensa" },
-            { x: 50, y: 56, role: "Defensa" },
-            { x: 60, y: 70, role: "Defensa" },
-            { x: 80, y: 60, role: "Defensa" },
-            // Centrocampistas (3)
-            { x: 20, y: 32, role: "Centrocampista" },
-            { x: 50, y: 36, role: "Centrocampista" },
-            { x: 80, y: 32, role: "Centrocampista" },
-            // Delanteros (2)
-            { x: 40, y: 20, role: "Delantero" },
-            { x: 60, y: 20, role: "Delantero" },
-        ],
-        ignoreLayout: true,
-    },
     Épsilon: {
         positions: [
             { x: 50, y: 90.5, role: "Portero" },
@@ -296,26 +220,7 @@ export const SPECIAL_FORMATIONS = {
         ],
         ignoreLayout: true,
     },
-    Génesis: {
-        positions: [
-            { x: 50, y: 90.5, role: "Portero" },
-            // Defensas (5)
-            { x: 20, y: 60, role: "Defensa" },
-            { x: 40, y: 70, role: "Defensa" },
-            { x: 50, y: 56, role: "Defensa" },
-            { x: 60, y: 70, role: "Defensa" },
-            { x: 80, y: 60, role: "Defensa" },
-            // Centrocampistas (3)
-            { x: 20, y: 32, role: "Centrocampista" },
-            { x: 50, y: 36, role: "Centrocampista" },
-            { x: 80, y: 32, role: "Centrocampista" },
-            // Delanteros (2)
-            { x: 40, y: 20, role: "Delantero" },
-            { x: 60, y: 20, role: "Delantero" },
-        ],
-        ignoreLayout: true,
-    },
-    "Emperadores Oscuros": {
+    Neo: {
         positions: [
             { x: 50, y: 90.5, role: "Portero" },
             // Defensas (4)
@@ -323,14 +228,14 @@ export const SPECIAL_FORMATIONS = {
             { x: 40, y: 70, role: "Defensa" },
             { x: 60, y: 70, role: "Defensa" },
             { x: 80, y: 60, role: "Defensa" },
-            // Centrocampistas (4)
-            { x: 20, y: 38, role: "Centrocampista" },
-            { x: 40, y: 48, role: "Centrocampista" },
-            { x: 60, y: 48, role: "Centrocampista" },
-            { x: 80, y: 38, role: "Centrocampista" },
-            // Delanteros (2)
-            { x: 40, y: 25, role: "Delantero" },
-            { x: 60, y: 25, role: "Delantero" },
+            // Centrocampistas (3)
+            { x: 30, y: 35, role: "Centrocampista" },
+            { x: 50, y: 53, role: "Centrocampista" },
+            { x: 70, y: 35, role: "Centrocampista" },
+            // Delanteros (3)
+            { x: 15, y: 20, role: "Delantero" },
+            { x: 50, y: 30, role: "Delantero" },
+            { x: 85, y: 20, role: "Delantero" },
         ],
         ignoreLayout: true,
     },

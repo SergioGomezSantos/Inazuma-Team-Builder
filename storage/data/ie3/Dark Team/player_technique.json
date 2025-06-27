@@ -1,0 +1,179 @@
+[
+    {
+        "player": "Astaroth",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "El Olvido",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["El Olvido", "Coz 2", "¡Que no Decaiga!", "Araña Gigante"]
+    },
+    {
+        "player": "Rubú",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Caída a los Infiernos",
+            "Tornado Venenoso",
+            "Piscinazo",
+            "Gravitación"
+        ]
+    },
+    {
+        "player": "Agor",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Balón Diabólico",
+            "Gravedad Grave",
+            "El Olvido",
+            "Campo de Fuerza"
+        ]
+    },
+    {
+        "player": "Hebimos",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Caída a los Infiernos",
+            "Gravitación",
+            "Ignición",
+            "Escudo Bárbaro"
+        ]
+    },
+    {
+        "player": "Belal",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Caída a los Infiernos",
+            "Carga Negativa",
+            "Defensa +",
+            "Gravedad Grave"
+        ]
+    },
+    {
+        "player": "Malphas",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Balón Diabólico",
+            "Corte Diabólico",
+            "Coz 2",
+            "Fuerza Ofensiva"
+        ]
+    },
+    {
+        "player": "Gorja",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Balón Diabólico",
+            "Escudo Bárbaro",
+            "Llamarada Infernal",
+            "Ignición"
+        ]
+    },
+    {
+        "player": "Arakuné",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Balón Diabólico",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Balón Diabólico",
+            "Olor Embriagador",
+            "Corte Diabólico",
+            "Fuego Total"
+        ]
+    },
+    {
+        "player": "Borba",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Caída a los Infiernos",
+            "Coz 2",
+            "Piscinazo",
+            "Olor Embriagador"
+        ]
+    },
+    {
+        "player": "Zanos",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Caída a los Infiernos",
+                "with": []
+            },
+            {
+                "name": "Balón Diabólico",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Carga Negativa",
+            "Escudo Bárbaro",
+            "Tornado Venenoso",
+            "Fénix Oscuro"
+        ]
+    },
+    {
+        "player": "Destra",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Carga Negativa",
+                "with": []
+            },
+            {
+                "name": "Lluvia Oscura",
+                "with": ["Sael"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Carga Negativa",
+            "Gravitación",
+            "Lluvia Oscura",
+            "Llamarada Infernal"
+        ]
+    }
+]

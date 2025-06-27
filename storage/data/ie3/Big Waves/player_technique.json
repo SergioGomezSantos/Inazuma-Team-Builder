@@ -1,0 +1,226 @@
+[
+    {
+        "player": "Gene Whalon",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Gran Barrera de Coral",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Gran Barrera de Coral",
+            "Muralla Tsunami",
+            "Patada Canguro",
+            "Portero +"
+        ]
+    },
+    {
+        "player": "David Waterman",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Dientes de Roca",
+            "Paisaje Helado",
+            "Torbellino Dragón",
+            "Cruz del Sur"
+        ]
+    },
+    {
+        "player": "Sonny Shore",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Patada Canguro",
+            "Tiro Cegador",
+            "Corte Giratorio",
+            "Corte Volcánico"
+        ]
+    },
+    {
+        "player": "Kjell Snapper",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Dientes de Roca",
+            "Bloqueo Ballena",
+            "Gran Barrera de Coral",
+            "Placaje Extremo"
+        ]
+    },
+    {
+        "player": "Ken Crackham",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Bloqueo Ballena", "Patada Canguro", "Ahorro", "Escudo Bárbaro"]
+    },
+    {
+        "player": "Shawn Princeton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Bomba Géiser",
+            "Luna Creciente",
+            "Dientes de Roca",
+            "Jaula de Piedra"
+        ]
+    },
+    {
+        "player": "Matt Fischer",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Patada Canguro",
+            "Siempre a Muerte",
+            "Telaraña",
+            "Remate Tsunami"
+        ]
+    },
+    {
+        "player": "Hank Tennyson",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Bomba Géiser",
+            "Remate Tsunami",
+            "Luna Creciente",
+            "Regate Espejismo"
+        ]
+    },
+    {
+        "player": "Dolph Hensen",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Megalodón", "Remate Tsunami", "Casanova", "Tiro Espejismo"]
+    },
+    {
+        "player": "Hamilton Reith",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Megalodón",
+            "Luna Creciente",
+            "Tiro del Cometa",
+            "Anti Afinidades"
+        ]
+    },
+    {
+        "player": "Joe Dawes",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Megalodón",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Megalodón", "Bomba Géiser", "Gravedad", "Mega Terremoto"]
+    },
+    {
+        "player": "Quincy Horace",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Gran Barrera de Coral",
+            "Bloque de Hielo",
+            "Chut Congelante",
+            "Campo de Fuerza"
+        ]
+    },
+    {
+        "player": "Holly Summers",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Patada Canguro",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Patada Canguro",
+            "Avance Flamígero",
+            "Tiro del Cometa",
+            "Baile de Llamas"
+        ]
+    },
+    {
+        "player": "Derek Rabson",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Regate Topo",
+            "Dientes de Roca",
+            "Técnica Kung-fu",
+            "Placaje Extremo"
+        ]
+    },
+    {
+        "player": "Barack Daniels",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Dientes de Roca",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Embestida", "Dientes de Roca", "Garra Salvaje", "Tren Loco"]
+    },
+    {
+        "player": "Bruce Marlin",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Corte Giratorio",
+            "Tiro del Cometa",
+            "Patada Canguro",
+            "Tiro Espejismo"
+        ]
+    }
+]

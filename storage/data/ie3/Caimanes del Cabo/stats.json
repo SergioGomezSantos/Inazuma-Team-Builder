@@ -1,0 +1,274 @@
+[
+    {
+        "player": "Zolani Baloi",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 153,
+            "TP": 108,
+            "Kick": 71,
+            "Body": 64,
+            "Control": 52,
+            "Guard": 63,
+            "Speed": 63,
+            "Stamina": 56,
+            "Guts": 67,
+            "Freedom": 4
+        }
+    },
+    {
+        "player": "Dakarai Furman",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 148,
+            "TP": 89,
+            "Kick": 62,
+            "Body": 76,
+            "Control": 45,
+            "Guard": 54,
+            "Speed": 66,
+            "Stamina": 62,
+            "Guts": 67,
+            "Freedom": 4
+        }
+    },
+    {
+        "player": "Jake Fana",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 154,
+            "TP": 75,
+            "Kick": 63,
+            "Body": 66,
+            "Control": 45,
+            "Guard": 40,
+            "Speed": 58,
+            "Stamina": 60,
+            "Guts": 75,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Masego Molelo",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 153,
+            "TP": 88,
+            "Kick": 66,
+            "Body": 63,
+            "Control": 48,
+            "Guard": 56,
+            "Speed": 75,
+            "Stamina": 60,
+            "Guts": 64,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Cassius Tobler",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 152,
+            "TP": 89,
+            "Kick": 61,
+            "Body": 68,
+            "Control": 49,
+            "Guard": 49,
+            "Speed": 59,
+            "Stamina": 71,
+            "Guts": 78,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Anton Nortje",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 149,
+            "TP": 91,
+            "Kick": 59,
+            "Body": 70,
+            "Control": 49,
+            "Guard": 51,
+            "Speed": 57,
+            "Stamina": 68,
+            "Guts": 79,
+            "Freedom": 6
+        }
+    },
+    {
+        "player": "Adam Marunga",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 147,
+            "TP": 97,
+            "Kick": 68,
+            "Body": 79,
+            "Control": 53,
+            "Guard": 58,
+            "Speed": 72,
+            "Stamina": 50,
+            "Guts": 60,
+            "Freedom": 6
+        }
+    },
+    {
+        "player": "Siyabonga Mahlangu",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 146,
+            "TP": 93,
+            "Kick": 60,
+            "Body": 61,
+            "Control": 54,
+            "Guard": 53,
+            "Speed": 51,
+            "Stamina": 56,
+            "Guts": 63,
+            "Freedom": 23
+        }
+    },
+    {
+        "player": "Reggie Ines",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 139,
+            "TP": 95,
+            "Kick": 75,
+            "Body": 64,
+            "Control": 58,
+            "Guard": 57,
+            "Speed": 66,
+            "Stamina": 55,
+            "Guts": 65,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Nathan Tswane",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 144,
+            "TP": 94,
+            "Kick": 66,
+            "Body": 83,
+            "Control": 57,
+            "Guard": 48,
+            "Speed": 65,
+            "Stamina": 59,
+            "Guts": 65,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Melisizwe Zamani",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 145,
+            "TP": 100,
+            "Kick": 75,
+            "Body": 66,
+            "Control": 40,
+            "Guard": 40,
+            "Speed": 73,
+            "Stamina": 60,
+            "Guts": 60,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Kennedy McCarthy",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 143,
+            "TP": 82,
+            "Kick": 63,
+            "Body": 60,
+            "Control": 51,
+            "Guard": 51,
+            "Speed": 65,
+            "Stamina": 60,
+            "Guts": 61,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Moeneeb Booysen",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 147,
+            "TP": 98,
+            "Kick": 60,
+            "Body": 61,
+            "Control": 50,
+            "Guard": 55,
+            "Speed": 61,
+            "Stamina": 64,
+            "Guts": 63,
+            "Freedom": 14
+        }
+    },
+    {
+        "player": "Herschel De Villiers",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 138,
+            "TP": 94,
+            "Kick": 81,
+            "Body": 74,
+            "Control": 40,
+            "Guard": 45,
+            "Speed": 75,
+            "Stamina": 35,
+            "Guts": 64,
+            "Freedom": 43
+        }
+    },
+    {
+        "player": "Hugh Makebe",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 144,
+            "TP": 105,
+            "Kick": 72,
+            "Body": 67,
+            "Control": 50,
+            "Guard": 58,
+            "Speed": 60,
+            "Stamina": 56,
+            "Guts": 64,
+            "Freedom": 14
+        }
+    },
+    {
+        "player": "Themba Sepeng",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 158,
+            "TP": 97,
+            "Kick": 68,
+            "Body": 63,
+            "Control": 54,
+            "Guard": 52,
+            "Speed": 55,
+            "Stamina": 56,
+            "Guts": 68,
+            "Freedom": 14
+        }
+    }
+]

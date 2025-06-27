@@ -193,23 +193,24 @@ class TeamController extends Controller
     public function story()
     {
 
-        $raimon = [1, 15];
+        $main = [1, 15, 34];
         $regional = [2, 3, 4, 5, 6];
         $futbolFrontier = [7, 8, 9, 10];
-        $extra1 = [11, 12, 13, 14];
         $institutosAnime2 = [16, 17, 18, 19, 20, 21];
         $alius = [22, 23, 24, 25, 26, 27, 28, 29];
-        $extra2 = [30, 31, 32, 33];
+        $mundial = [35, 36, 37, 38, 39, 40, 41, 42, 43];
+        $enemies = [49, 50, 51, 52, 53, 54];
+        $extras = [11, 12, 13, 14, 30, 31, 32, 33, 44, 45, 46, 47, 48];
 
-        $allTeamIds = array_merge($raimon, $regional, $futbolFrontier, $extra1, $alius, $institutosAnime2, $extra2);
+        $allTeamIds = array_merge($main, $regional, $futbolFrontier, $alius, $institutosAnime2, $mundial, $enemies, $extras);
 
         $teams = Team::with('emblem')
             ->whereIn('id', $allTeamIds)
             ->get();
 
-        $raimonTeams = $teams->sortBy(function ($team) use ($raimon) {
-            return array_search($team->id, $raimon);
-        })->filter(fn($team) => in_array($team->id, $raimon))->values();
+        $mainTeams = $teams->sortBy(function ($team) use ($main) {
+            return array_search($team->id, $main);
+        })->filter(fn($team) => in_array($team->id, $main))->values();
 
         $regionalTeams = $teams->sortBy(function ($team) use ($regional) {
             return array_search($team->id, $regional);
@@ -219,10 +220,6 @@ class TeamController extends Controller
             return array_search($team->id, $futbolFrontier);
         })->filter(fn($team) => in_array($team->id, $futbolFrontier))->values();
 
-        $extraTeams1 = $teams->sortBy(function ($team) use ($extra1) {
-            return array_search($team->id, $extra1);
-        })->filter(fn($team) => in_array($team->id, $extra1))->values();
-
         $institutosAnime2Teams = $teams->sortBy(function ($team) use ($institutosAnime2) {
             return array_search($team->id, $institutosAnime2);
         })->filter(fn($team) => in_array($team->id, $institutosAnime2))->values();
@@ -231,19 +228,28 @@ class TeamController extends Controller
             return array_search($team->id, $alius);
         })->filter(fn($team) => in_array($team->id, $alius))->values();
 
-        $extraTeams2 = $teams->sortBy(function ($team) use ($extra2) {
-            return array_search($team->id, $extra2);
-        })->filter(fn($team) => in_array($team->id, $extra2))->values();
+        $mundialTeams = $teams->sortBy(function ($team) use ($mundial) {
+            return array_search($team->id, $mundial);
+        })->filter(fn($team) => in_array($team->id, $mundial))->values();
+
+        $extrasTeams = $teams->sortBy(function ($team) use ($extras) {
+            return array_search($team->id, $extras);
+        })->filter(fn($team) => in_array($team->id, $extras))->values();
+
+        $enemiesTeams = $teams->sortBy(function ($team) use ($enemies) {
+            return array_search($team->id, $enemies);
+        })->filter(fn($team) => in_array($team->id, $enemies))->values();
 
 
         return view('teams.story', [
-            'raimonTeams' => $raimonTeams,
+            'mainTeams' => $mainTeams,
             'regionalTeams' => $regionalTeams,
             'futbolFrontierTeams' => $futbolFrontierTeams,
-            'extraTeams1' => $extraTeams1,
             'institutosAnime2Teams' => $institutosAnime2Teams,
             'aliusTeams' => $aliusTeams,
-            'extraTeams2' => $extraTeams2,
+            'mundialTeams' => $mundialTeams,
+            'enemiesTeams' => $enemiesTeams,
+            'extrasTeams' => $extrasTeams
         ]);
     }
 

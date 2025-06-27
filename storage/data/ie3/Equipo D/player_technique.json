@@ -1,0 +1,215 @@
+[
+    {
+        "player": "Indigo Lazuli",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Escudo de Fuerza Total",
+            "Agujero de Gusano",
+            "Aplanadora",
+            "Super Puño Invencible"
+        ]
+    },
+    {
+        "player": "Rosseo Diamante",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Barrido Defensivo",
+            "Vendimia",
+            "Ataque Sombrío",
+            "Campo de Fuerza"
+        ]
+    },
+    {
+        "player": "Azubel Turchese",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Barrido Defensivo",
+            "Gravitación",
+            "Deslizamiento",
+            "Robo Planeta"
+        ]
+    },
+    {
+        "player": "Nereo Agata",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Barrido Defensivo",
+            "Telaraña",
+            "Empuje Trillizo",
+            "Araña Gigante"
+        ]
+    },
+    {
+        "player": "Azzuro Zaffiro",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Barrido Defensivo",
+            "Siempre a Muerte",
+            "Remolino Cortante",
+            "Corte Diabólico"
+        ]
+    },
+    {
+        "player": "Berdeo Smeraldo",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Coz", "Anti Afinidades", "Defensa Múltiple", "Gravedad Grave"]
+    },
+    {
+        "player": "Rosso Granato",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Coz 2", "Pingüino Emperador Nº 2", "Apisonadora", "Trama"]
+    },
+    {
+        "player": "Giallo Topazio",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Coz 2", "Tornado de Fuego", "Triángulo Z", "Cinto Astral"]
+    },
+    {
+        "player": "Vittorio Amatista",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Lluvia de Meteoros",
+            "Gafe",
+            "Triángulo Múltiple",
+            "Chut de los 200 Toques"
+        ]
+    },
+    {
+        "player": "Julio Acuto",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Espejismo de Balón",
+                "with": []
+            },
+            {
+                "name": "Pingüino Emperador X",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Espejismo de Balón",
+            "Pingüino Emperador X",
+            "Remate Combinado",
+            "Ruptura Relámpago"
+        ]
+    },
+    {
+        "player": "Bianco Perla",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Empuje Gemelo F",
+            "Coz",
+            "Regate Múltiple",
+            "Pingüino Emperador Nº 2"
+        ]
+    },
+    {
+        "player": "Grigio Quarzo",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Escudo de Fuerza",
+            "Muralla Gigante",
+            "Arcoiris Luminoso",
+            "Gravedad"
+        ]
+    },
+    {
+        "player": "Pardo Berillo",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Remate en Espiral",
+            "Vendimia",
+            "Tacón Infernal",
+            "Puño Vengativo"
+        ]
+    },
+    {
+        "player": "Marrone Corniola",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Barrido Defensivo",
+            "Cabezazo Megatón",
+            "Espejismo",
+            "Zona de Seguridad"
+        ]
+    },
+    {
+        "player": "Amaranto Rubino",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Granada Doble", "Coz 2", "Disparo Rodante", "Empuje Gemelo F"]
+    },
+    {
+        "player": "Avorio Opale",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Entrada Tormenta",
+            "Empuje Gemelo F",
+            "Rayo de Ganímedes",
+            "Corte Diabólico"
+        ]
+    }
+]

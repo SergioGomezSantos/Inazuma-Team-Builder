@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Íñigo",
+        "full_name": "Alfonso Íñigo",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/73/%28LR%29_%C3%8D%C3%B1igo.png/revision/latest?cb=20230910215846&path-prefix=es"
+    },
+    {
+        "name": "Costa",
+        "full_name": "José Costa",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/60/%28LR%29_Costa.png/revision/latest?cb=20230910215904&path-prefix=es"
+    },
+    {
+        "name": "López",
+        "full_name": "José López",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/92/%28LR%29_L%C3%B3pez.png/revision/latest?cb=20230910215948&path-prefix=es"
+    },
+    {
+        "name": "Garrido",
+        "full_name": "Antonio Garrido",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d7/%28LR%29_Garrido.png/revision/latest?cb=20230910215805&path-prefix=es"
+    },
+    {
+        "name": "García",
+        "full_name": "Víctor García",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/6/62/%28LR%29_Garc%C3%ADa.png/revision/latest?cb=20230910215739&path-prefix=es"
+    },
+    {
+        "name": "Rodríguez",
+        "full_name": "Joan Rodríguez",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/dd/%28LR%29_Rodr%C3%ADguez.png/revision/latest?cb=20230910215959&path-prefix=es"
+    },
+    {
+        "name": "Ferreira",
+        "full_name": "Igor Ferreira",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/af/%28LR%29_Ferreira.png/revision/latest?cb=20230910215734&path-prefix=es"
+    },
+    {
+        "name": "Pereira",
+        "full_name": "Miguel Pereira",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/05/%28LR%29_Pereira.png/revision/latest?cb=20230910215951&path-prefix=es"
+    },
+    {
+        "name": "Borja",
+        "full_name": "Borja Costa",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0f/%28LR%29_Borja.png/revision/latest?cb=20230910215720&path-prefix=es"
+    },
+    {
+        "name": "Bonachea",
+        "full_name": "Mateo Bonachea",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/21/%28LR%29_Bonachea.png/revision/latest?cb=20230910215716&path-prefix=es"
+    },
+    {
+        "name": "Jiménez",
+        "full_name": "Miguel Jiménez",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/85/%28LR%29_Jim%C3%A9nez.png/revision/latest?cb=20230910215954&path-prefix=es"
+    },
+    {
+        "name": "Espindola",
+        "full_name": "Juan Espindola",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fa/%28LR%29_Espindola.png/revision/latest?cb=20230910215732&path-prefix=es"
+    },
+    {
+        "name": "César",
+        "full_name": "Isaac César",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/06/%28LR%29_C%C3%A9sar.png/revision/latest?cb=20230910215728&path-prefix=es"
+    },
+    {
+        "name": "Castor",
+        "full_name": "Laudelino Castor",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fe/%28LR%29_Castor.png/revision/latest?cb=20230910220012&path-prefix=es"
+    },
+    {
+        "name": "Arroyo",
+        "full_name": "Carlos Arroyo",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/82/%28LR%29_Arroyo.png/revision/latest?cb=20230910215714&path-prefix=es"
+    },
+    {
+        "name": "Rubiera",
+        "full_name": "Federico Rubiera",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Los Rojos",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d4/%28LR%29_Rubiera.png/revision/latest?cb=20230910220004&path-prefix=es"
+    }
+]

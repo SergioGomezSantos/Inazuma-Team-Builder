@@ -1,0 +1,274 @@
+[
+    {
+        "player": "Falcão Da Silva",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 120,
+            "TP": 136,
+            "Kick": 49,
+            "Body": 61,
+            "Control": 52,
+            "Guard": 72,
+            "Speed": 59,
+            "Stamina": 62,
+            "Guts": 56,
+            "Freedom": 40
+        }
+    },
+    {
+        "player": "Carlos Lagarto",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 124,
+            "TP": 117,
+            "Kick": 50,
+            "Body": 51,
+            "Control": 50,
+            "Guard": 68,
+            "Speed": 69,
+            "Stamina": 64,
+            "Guts": 68,
+            "Freedom": 20
+        }
+    },
+    {
+        "player": "Antonio Bagre",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 116,
+            "Kick": 47,
+            "Body": 59,
+            "Control": 58,
+            "Guard": 66,
+            "Speed": 48,
+            "Stamina": 60,
+            "Guts": 61,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Monstro Ximenes",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 115,
+            "Kick": 96,
+            "Body": 64,
+            "Control": 40,
+            "Guard": 58,
+            "Speed": 51,
+            "Stamina": 48,
+            "Guts": 67,
+            "Freedom": 14
+        }
+    },
+    {
+        "player": "Formiga Clemens",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 123,
+            "TP": 121,
+            "Kick": 51,
+            "Body": 56,
+            "Control": 62,
+            "Guard": 70,
+            "Speed": 60,
+            "Stamina": 56,
+            "Guts": 57,
+            "Freedom": 17
+        }
+    },
+    {
+        "player": "Presa Passos",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 115,
+            "TP": 129,
+            "Kick": 52,
+            "Body": 58,
+            "Control": 74,
+            "Guard": 48,
+            "Speed": 75,
+            "Stamina": 50,
+            "Guts": 77,
+            "Freedom": 0
+        }
+    },
+    {
+        "player": "Bolboreta Barboza",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 118,
+            "TP": 110,
+            "Kick": 67,
+            "Body": 60,
+            "Control": 69,
+            "Guard": 62,
+            "Speed": 65,
+            "Stamina": 64,
+            "Guts": 48,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Coruja Cerezo",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 122,
+            "Kick": 52,
+            "Body": 64,
+            "Control": 55,
+            "Guard": 75,
+            "Speed": 70,
+            "Stamina": 69,
+            "Guts": 64,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Leonardo Almeida",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 125,
+            "Kick": 68,
+            "Body": 100,
+            "Control": 51,
+            "Guard": 68,
+            "Speed": 45,
+            "Stamina": 39,
+            "Guts": 60,
+            "Freedom": 9
+        }
+    },
+    {
+        "player": "Mac Robingo",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 114,
+            "Kick": 85,
+            "Body": 60,
+            "Control": 70,
+            "Guard": 60,
+            "Speed": 60,
+            "Stamina": 63,
+            "Guts": 54,
+            "Freedom": 8
+        }
+    },
+    {
+        "player": "Gato Carvalho",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 121,
+            "Kick": 76,
+            "Body": 68,
+            "Control": 57,
+            "Guard": 68,
+            "Speed": 63,
+            "Stamina": 55,
+            "Guts": 60,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Xavier Ribeiro",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 121,
+            "TP": 137,
+            "Kick": 76,
+            "Body": 56,
+            "Control": 63,
+            "Guard": 76,
+            "Speed": 40,
+            "Stamina": 47,
+            "Guts": 75,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Ulisses Nogueira",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 130,
+            "TP": 122,
+            "Kick": 50,
+            "Body": 58,
+            "Control": 56,
+            "Guard": 66,
+            "Speed": 53,
+            "Stamina": 51,
+            "Guts": 51,
+            "Freedom": 38
+        }
+    },
+    {
+        "player": "Gervasio Oliveira",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 110,
+            "TP": 132,
+            "Kick": 68,
+            "Body": 60,
+            "Control": 68,
+            "Guard": 64,
+            "Speed": 44,
+            "Stamina": 44,
+            "Guts": 71,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Tigre Mendes",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 118,
+            "Kick": 52,
+            "Body": 74,
+            "Control": 58,
+            "Guard": 50,
+            "Speed": 69,
+            "Stamina": 60,
+            "Guts": 51,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Grillo Santos",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 133,
+            "TP": 125,
+            "Kick": 63,
+            "Body": 58,
+            "Control": 57,
+            "Guard": 55,
+            "Speed": 58,
+            "Stamina": 49,
+            "Guts": 62,
+            "Freedom": 19
+        }
+    }
+]

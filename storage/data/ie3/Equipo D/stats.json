@@ -1,0 +1,274 @@
+[
+    {
+        "player": "Indigo Lazuli",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 114,
+            "TP": 134,
+            "Kick": 52,
+            "Body": 50,
+            "Control": 51,
+            "Guard": 76,
+            "Speed": 36,
+            "Stamina": 42,
+            "Guts": 68,
+            "Freedom": 37
+        }
+    },
+    {
+        "player": "Rosseo Diamante",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 115,
+            "TP": 126,
+            "Kick": 40,
+            "Body": 44,
+            "Control": 40,
+            "Guard": 69,
+            "Speed": 52,
+            "Stamina": 45,
+            "Guts": 70,
+            "Freedom": 49
+        }
+    },
+    {
+        "player": "Azubel Turchese",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 113,
+            "TP": 116,
+            "Kick": 53,
+            "Body": 53,
+            "Control": 52,
+            "Guard": 71,
+            "Speed": 44,
+            "Stamina": 54,
+            "Guts": 65,
+            "Freedom": 35
+        }
+    },
+    {
+        "player": "Nereo Agata",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 109,
+            "TP": 122,
+            "Kick": 41,
+            "Body": 62,
+            "Control": 46,
+            "Guard": 54,
+            "Speed": 67,
+            "Stamina": 33,
+            "Guts": 56,
+            "Freedom": 49
+        }
+    },
+    {
+        "player": "Azzuro Zaffiro",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 107,
+            "TP": 128,
+            "Kick": 44,
+            "Body": 64,
+            "Control": 64,
+            "Guard": 63,
+            "Speed": 40,
+            "Stamina": 45,
+            "Guts": 52,
+            "Freedom": 38
+        }
+    },
+    {
+        "player": "Berdeo Smeraldo",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 115,
+            "TP": 117,
+            "Kick": 37,
+            "Body": 57,
+            "Control": 68,
+            "Guard": 52,
+            "Speed": 51,
+            "Stamina": 45,
+            "Guts": 73,
+            "Freedom": 53
+        }
+    },
+    {
+        "player": "Rosso Granato",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 108,
+            "TP": 107,
+            "Kick": 71,
+            "Body": 57,
+            "Control": 52,
+            "Guard": 62,
+            "Speed": 53,
+            "Stamina": 48,
+            "Guts": 46,
+            "Freedom": 29
+        }
+    },
+    {
+        "player": "Giallo Topazio",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 118,
+            "TP": 103,
+            "Kick": 63,
+            "Body": 51,
+            "Control": 48,
+            "Guard": 50,
+            "Speed": 68,
+            "Stamina": 41,
+            "Guts": 64,
+            "Freedom": 37
+        }
+    },
+    {
+        "player": "Vittorio Amatista",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 116,
+            "TP": 116,
+            "Kick": 52,
+            "Body": 53,
+            "Control": 60,
+            "Guard": 51,
+            "Speed": 57,
+            "Stamina": 48,
+            "Guts": 52,
+            "Freedom": 41
+        }
+    },
+    {
+        "player": "Julio Acuto",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 118,
+            "TP": 114,
+            "Kick": 76,
+            "Body": 69,
+            "Control": 76,
+            "Guard": 48,
+            "Speed": 72,
+            "Stamina": 53,
+            "Guts": 52,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Bianco Perla",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 109,
+            "TP": 99,
+            "Kick": 74,
+            "Body": 56,
+            "Control": 56,
+            "Guard": 42,
+            "Speed": 47,
+            "Stamina": 40,
+            "Guts": 59,
+            "Freedom": 35
+        }
+    },
+    {
+        "player": "Grigio Quarzo",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 114,
+            "TP": 94,
+            "Kick": 42,
+            "Body": 64,
+            "Control": 48,
+            "Guard": 67,
+            "Speed": 32,
+            "Stamina": 63,
+            "Guts": 38,
+            "Freedom": 45
+        }
+    },
+    {
+        "player": "Pardo Berillo",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 107,
+            "TP": 120,
+            "Kick": 40,
+            "Body": 64,
+            "Control": 50,
+            "Guard": 52,
+            "Speed": 44,
+            "Stamina": 52,
+            "Guts": 55,
+            "Freedom": 39
+        }
+    },
+    {
+        "player": "Marrone Corniola",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 107,
+            "TP": 117,
+            "Kick": 56,
+            "Body": 59,
+            "Control": 52,
+            "Guard": 53,
+            "Speed": 49,
+            "Stamina": 57,
+            "Guts": 51,
+            "Freedom": 54
+        }
+    },
+    {
+        "player": "Amaranto Rubino",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 106,
+            "TP": 120,
+            "Kick": 58,
+            "Body": 63,
+            "Control": 40,
+            "Guard": 62,
+            "Speed": 46,
+            "Stamina": 41,
+            "Guts": 72,
+            "Freedom": 47
+        }
+    },
+    {
+        "player": "Avorio Opale",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 110,
+            "TP": 109,
+            "Kick": 71,
+            "Body": 44,
+            "Control": 45,
+            "Guard": 44,
+            "Speed": 74,
+            "Stamina": 61,
+            "Guts": 41,
+            "Freedom": 40
+        }
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "player": "Gene Whalon",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 126,
+            "TP": 138,
+            "Kick": 58,
+            "Body": 69,
+            "Control": 49,
+            "Guard": 76,
+            "Speed": 57,
+            "Stamina": 48,
+            "Guts": 73,
+            "Freedom": 29
+        }
+    },
+    {
+        "player": "David Waterman",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 108,
+            "Kick": 60,
+            "Body": 56,
+            "Control": 48,
+            "Guard": 60,
+            "Speed": 59,
+            "Stamina": 50,
+            "Guts": 71,
+            "Freedom": 23
+        }
+    },
+    {
+        "player": "Sonny Shore",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 115,
+            "Kick": 53,
+            "Body": 68,
+            "Control": 57,
+            "Guard": 58,
+            "Speed": 64,
+            "Stamina": 51,
+            "Guts": 64,
+            "Freedom": 31
+        }
+    },
+    {
+        "player": "Kjell Snapper",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 126,
+            "TP": 107,
+            "Kick": 69,
+            "Body": 52,
+            "Control": 52,
+            "Guard": 72,
+            "Speed": 56,
+            "Stamina": 54,
+            "Guts": 64,
+            "Freedom": 21
+        }
+    },
+    {
+        "player": "Ken Crackham",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 119,
+            "TP": 118,
+            "Kick": 52,
+            "Body": 61,
+            "Control": 62,
+            "Guard": 68,
+            "Speed": 52,
+            "Stamina": 48,
+            "Guts": 52,
+            "Freedom": 40
+        }
+    },
+    {
+        "player": "Shawn Princeton",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 94,
+            "Kick": 48,
+            "Body": 70,
+            "Control": 63,
+            "Guard": 56,
+            "Speed": 67,
+            "Stamina": 53,
+            "Guts": 62,
+            "Freedom": 31
+        }
+    },
+    {
+        "player": "Matt Fischer",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 117,
+            "TP": 105,
+            "Kick": 60,
+            "Body": 62,
+            "Control": 60,
+            "Guard": 56,
+            "Speed": 61,
+            "Stamina": 50,
+            "Guts": 68,
+            "Freedom": 19
+        }
+    },
+    {
+        "player": "Hank Tennyson",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 123,
+            "TP": 110,
+            "Kick": 49,
+            "Body": 59,
+            "Control": 69,
+            "Guard": 52,
+            "Speed": 71,
+            "Stamina": 49,
+            "Guts": 59,
+            "Freedom": 49
+        }
+    },
+    {
+        "player": "Dolph Hensen",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 119,
+            "TP": 126,
+            "Kick": 63,
+            "Body": 92,
+            "Control": 71,
+            "Guard": 57,
+            "Speed": 57,
+            "Stamina": 49,
+            "Guts": 63,
+            "Freedom": 23
+        }
+    },
+    {
+        "player": "Hamilton Reith",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 127,
+            "TP": 117,
+            "Kick": 76,
+            "Body": 61,
+            "Control": 61,
+            "Guard": 57,
+            "Speed": 57,
+            "Stamina": 55,
+            "Guts": 63,
+            "Freedom": 23
+        }
+    },
+    {
+        "player": "Joe Dawes",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 112,
+            "Kick": 83,
+            "Body": 56,
+            "Control": 46,
+            "Guard": 40,
+            "Speed": 42,
+            "Stamina": 44,
+            "Guts": 70,
+            "Freedom": 46
+        }
+    },
+    {
+        "player": "Quincy Horace",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 121,
+            "TP": 130,
+            "Kick": 53,
+            "Body": 60,
+            "Control": 62,
+            "Guard": 64,
+            "Speed": 69,
+            "Stamina": 53,
+            "Guts": 43,
+            "Freedom": 19
+        }
+    },
+    {
+        "player": "Holly Summers",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 136,
+            "TP": 118,
+            "Kick": 52,
+            "Body": 59,
+            "Control": 61,
+            "Guard": 60,
+            "Speed": 70,
+            "Stamina": 52,
+            "Guts": 67,
+            "Freedom": 30
+        }
+    },
+    {
+        "player": "Derek Rabson",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 120,
+            "TP": 109,
+            "Kick": 58,
+            "Body": 72,
+            "Control": 49,
+            "Guard": 63,
+            "Speed": 42,
+            "Stamina": 53,
+            "Guts": 62,
+            "Freedom": 29
+        }
+    },
+    {
+        "player": "Barack Daniels",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 119,
+            "TP": 109,
+            "Kick": 60,
+            "Body": 62,
+            "Control": 51,
+            "Guard": 66,
+            "Speed": 55,
+            "Stamina": 50,
+            "Guts": 55,
+            "Freedom": 35
+        }
+    },
+    {
+        "player": "Bruce Marlin",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 112,
+            "Kick": 70,
+            "Body": 56,
+            "Control": 50,
+            "Guard": 48,
+            "Speed": 62,
+            "Stamina": 54,
+            "Guts": 59,
+            "Freedom": 22
+        }
+    }
+]

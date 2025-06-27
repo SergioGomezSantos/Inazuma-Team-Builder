@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Helio",
+        "full_name": "Hector Helio PR",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/05/%28LG%29_Hector_%28PR%29.png/revision/latest?cb=20230910145940&path-prefix=es"
+    },
+    {
+        "name": "Helio",
+        "full_name": "Hector Helio DL",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ea/%28LG%29_Hector_%28DL%29.png/revision/latest?cb=20230910145938&path-prefix=es"
+    },
+    {
+        "name": "Vitesse",
+        "full_name": "Zephyr Vitesse",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fb/%28LG%29_Vitesse.png/revision/latest?cb=20230910150006&path-prefix=es"
+    },
+    {
+        "name": "Mountain",
+        "full_name": "Walter Mountain",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f2/%28LG%29_Mountain.png/revision/latest?cb=20230910145956&path-prefix=es"
+    },
+    {
+        "name": "Gaines",
+        "full_name": "Jimi Gaines",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f9/%28LG%29_Gaines.png/revision/latest?cb=20230910145928&path-prefix=es"
+    },
+    {
+        "name": "Ferrum",
+        "full_name": "Ian Ferrum",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/27/%28LG%29_Ferrum.png/revision/latest?cb=20230910145923&path-prefix=es"
+    },
+    {
+        "name": "Hampton",
+        "full_name": "Quint Hampton",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/24/%28LG%29_Hampton.png/revision/latest?cb=20230910145934&path-prefix=es"
+    },
+    {
+        "name": "Haddad",
+        "full_name": "Yasir Haddad",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/57/%28LG%29_Haddad.png/revision/latest?cb=20230910145931&path-prefix=es"
+    },
+    {
+        "name": "Ryan",
+        "full_name": "Keith Ryan",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cc/%28LG%29_Ryan.png/revision/latest?cb=20230910150000&path-prefix=es"
+    },
+    {
+        "name": "Maxi",
+        "full_name": "Maximino Cruz",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a1/%28LG%29_Maxim.png/revision/latest?cb=20230910145953&path-prefix=es"
+    },
+    {
+        "name": "Flare",
+        "full_name": "Gareth Flare",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/11/%28LG%29_Flare.png/revision/latest?cb=20230910145926&path-prefix=es"
+    },
+    {
+        "name": "Drago",
+        "full_name": "Drago Hill",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0c/%28LG%29_Drago.png/revision/latest?cb=20230910145920&path-prefix=es"
+    },
+    {
+        "name": "DiFortune",
+        "full_name": "Keenan DiFortune",
+        "position": "Portero",
+        "element": "Bosque",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/58/%28LG%29_DiFortune.png/revision/latest?cb=20230910145918&path-prefix=es"
+    },
+    {
+        "name": "Mangrove",
+        "full_name": "Jarell Mangrove",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1d/%28LG%29_Mangrove.png/revision/latest?cb=20230910145951&path-prefix=es"
+    },
+    {
+        "name": "Vitrum",
+        "full_name": "Vic Vitrum",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/5/5c/%28LG%29_Vitrum.png/revision/latest?cb=20230910150009&path-prefix=es"
+    },
+    {
+        "name": "Leung",
+        "full_name": "Li Leung",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/21/%28LG%29_Leung.png/revision/latest?cb=20230910145946&path-prefix=es"
+    },
+    {
+        "name": "Hedgeer",
+        "full_name": "Jazzy Hedgeer",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "The Little Giants",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/fb/%28LG%29_Hedgeer.png/revision/latest?cb=20230910145944&path-prefix=es"
+    }
+]

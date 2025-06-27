@@ -9,8 +9,8 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/3/39/Escudo_-_Alpino_%28SD%29.png/revision/latest?cb=20240705144853&path-prefix=es"
         },
         "formation": {
-            "name": "Diamante II",
-            "layout": "4-4-2"
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
         }
     },
     {
@@ -23,21 +23,21 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/8/81/Escudo_-_Claustro_Sagrado_%28SD%29.png/revision/latest?cb=20240710141503&path-prefix=es"
         },
         "formation": {
-            "name": "Can Doble",
+            "name": "Zona Muerta",
             "layout": "5-3-2"
         }
     },
     {
         "team": "Fauxshore",
         "coach": {
-            "name": "Director Balding",
+            "name": "Director Balding - Fauxshore",
             "image": "https://static.wikia.nocookie.net/inazuma/images/d/d2/Director_Balding_%28Sprite%29.png/revision/latest?cb=20241226161850&path-prefix=es"
         },
         "emblem": {
             "image": "https://static.wikia.nocookie.net/inazuma/images/2/27/Escudo_-_Fauxshore_%28SD%29.png/revision/latest?cb=20240718102608&path-prefix=es"
         },
         "formation": {
-            "name": "Aegis",
+            "name": "Zona Muerta",
             "layout": "5-3-2"
         }
     },
@@ -51,7 +51,7 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/2/21/Escudo_-_Mary_Times_%28SD%29.png/revision/latest?cb=20240718102605&path-prefix=es"
         },
         "formation": {
-            "name": "Diamante II",
+            "name": "Zona Muerta",
             "layout": "5-3-2"
         }
     },
@@ -65,7 +65,7 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/8/82/Escudo_-_Triple_C_de_Osaka_%28SD%29.png/revision/latest?cb=20240712003410&path-prefix=es"
         },
         "formation": {
-            "name": "Diamante II",
+            "name": "Zona Muerta",
             "layout": "5-3-2"
         }
     },
@@ -79,7 +79,7 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/5/55/Servicio_Secreto_Emblema_%28Ver._Europea%29.png/revision/latest?cb=20140913004341&path-prefix=es"
         },
         "formation": {
-            "name": "Diamante II",
+            "name": "Zona Muerta",
             "layout": "5-3-2"
         }
     },
@@ -107,7 +107,7 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/0/0f/Escudo_-_Tormenta_de_G%C3%A9minis_%28SD%29.png/revision/latest?cb=20240411153438&path-prefix=es"
         },
         "formation": {
-            "name": "Géminis",
+            "name": "Zona Muerta",
             "layout": "5-3-2"
         }
     },
@@ -149,8 +149,8 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/8/89/Escudo_-_Prominence_%28SD%29.png/revision/latest?cb=20240430192701&path-prefix=es"
         },
         "formation": {
-            "name": "Diamante II",
-            "layout": "4-4-2"
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
         }
     },
     {
@@ -163,8 +163,8 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/1/1c/Escudo_-_Polvo_de_Diamantes_%28SD%29.png/revision/latest?cb=20240502142202&path-prefix=es"
         },
         "formation": {
-            "name": "Diamante II",
-            "layout": "4-4-2"
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
         }
     },
     {
@@ -191,7 +191,7 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/9/93/Escudo_G%C3%A9nesis_%28IE_HVR%29.png/revision/latest?cb=20240401112105&path-prefix=es"
         },
         "formation": {
-            "name": "Génesis",
+            "name": "Zona Muerta",
             "layout": "5-3-2"
         }
     },
@@ -205,7 +205,7 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/6/61/Escudo_-_Emperadores_Oscuros_%28SD%29.png/revision/latest?cb=20240515150219&path-prefix=es"
         },
         "formation": {
-            "name": "Emperadores Oscuros",
+            "name": "Diamante",
             "layout": "4-4-2"
         }
     },
@@ -219,8 +219,8 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/7/73/Mar_de_%C3%81rboles_Emblema.png/revision/latest?cb=20140920012341&path-prefix=es"
         },
         "formation": {
-            "name": "Diamante II",
-            "layout": "4-4-2"
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
         }
     },
     {
@@ -233,8 +233,8 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/9/96/Robots_Guardias_emblema.png/revision/latest?cb=20141003001202&path-prefix=es"
         },
         "formation": {
-            "name": "Diamante II",
-            "layout": "4-4-2"
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
         }
     },
     {
@@ -261,8 +261,8 @@
             "image": "https://static.wikia.nocookie.net/inazuma/images/e/e1/Raimon_FF_Emblema.png/revision/latest?cb=20210620190405&path-prefix=es"
         },
         "formation": {
-            "name": "Diamante II",
-            "layout": "4-4-2"
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
         }
     }
 ]

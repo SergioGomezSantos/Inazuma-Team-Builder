@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Baloi",
+        "full_name": "Zolani Baloi",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/81/%28CC%29_Baloi.png/revision/latest?cb=20230912204035&path-prefix=es"
+    },
+    {
+        "name": "Furman",
+        "full_name": "Dakarai Furman",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/ac/%28CC%29_Furman.png/revision/latest?cb=20230912204057&path-prefix=es"
+    },
+    {
+        "name": "Fana",
+        "full_name": "Jake Fana",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/46/%28CC%29_Fana.png/revision/latest?cb=20230912204049&path-prefix=es"
+    },
+    {
+        "name": "Molelo",
+        "full_name": "Masego Molelo",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/13/%28CC%29_Molelo.png/revision/latest?cb=20230912204132&path-prefix=es"
+    },
+    {
+        "name": "Tobler",
+        "full_name": "Cassius Tobler",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/27/%28CC%29_Tobler.png/revision/latest?cb=20230912204140&path-prefix=es"
+    },
+    {
+        "name": "Nortje",
+        "full_name": "Anton Nortje",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/41/%28CC%29_Nortje.png/revision/latest?cb=20230912204135&path-prefix=es"
+    },
+    {
+        "name": "Marunga",
+        "full_name": "Adam Marunga",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/76/%28CC%29_Marunga.png/revision/latest?cb=20230912204115&path-prefix=es"
+    },
+    {
+        "name": "Mahlangu",
+        "full_name": "Siyabonga Mahlangu",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/1d/%28CC%29_Mahlangu.png/revision/latest?cb=20230912204108&path-prefix=es"
+    },
+    {
+        "name": "Ines",
+        "full_name": "Reggie Ines",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/b2/%28CC%29_Ines.png/revision/latest?cb=20230912204105&path-prefix=es"
+    },
+    {
+        "name": "Tswane",
+        "full_name": "Nathan Tswane",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c6/%28CC%29_Tswane.png/revision/latest?cb=20230912204143&path-prefix=es"
+    },
+    {
+        "name": "Zamani",
+        "full_name": "Melisizwe Zamani",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/4d/%28CC%29_Zamani.png/revision/latest?cb=20230912204147&path-prefix=es"
+    },
+    {
+        "name": "McCarthy",
+        "full_name": "Kennedy McCarthy",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/a/a4/%28CC%29_McCarthy.png/revision/latest?cb=20230912204129&path-prefix=es"
+    },
+    {
+        "name": "Booysen",
+        "full_name": "Moeneeb Booysen",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/27/%28CC%29_Booysen.png/revision/latest?cb=20230912204038&path-prefix=es"
+    },
+    {
+        "name": "De Villiers",
+        "full_name": "Herschel De Villiers",
+        "position": "Delantero",
+        "element": "Fuego",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/21/%28CC%29_De_Villiers.png/revision/latest?cb=20230912204040&path-prefix=es"
+    },
+    {
+        "name": "Makebe",
+        "full_name": "Hugh Makebe",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/46/%28CC%29_Makebe.png/revision/latest?cb=20230912204112&path-prefix=es"
+    },
+    {
+        "name": "Sepeng",
+        "full_name": "Themba Sepeng",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Caimanes del Cabo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/78/%28CC%29_Sepeng.png/revision/latest?cb=20230912204137&path-prefix=es"
+    }
+]

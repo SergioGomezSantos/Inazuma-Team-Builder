@@ -1,0 +1,296 @@
+[
+    {
+        "team": "Caimanes del Cabo",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/7/7c/Escudo_-_Caimanes_del_Cabo.png/revision/latest?cb=20241024151343&path-prefix=es"
+        },
+        "formation": {
+            "name": "Neo",
+            "layout": "4-3-3"
+        }
+    },
+    {
+        "team": "Big Waves",
+        "coach": {
+            "name": "Robert Cliser - Big Waves",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/c/cd/%28BW%29_Robert.png/revision/latest?cb=20241110225236&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/8/88/Escudo_-_Big_Waves_%28SD%29.png/revision/latest?cb=20240725160820&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Leones del Desierto",
+        "coach": {
+            "name": "Eliza Manon - Leones del Desierto",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/e/e6/%28LD%29_Eliza.png/revision/latest?cb=20241111141857&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/d/d9/Leones_del_Desierto_Emblema.png/revision/latest?cb=20240906141235&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Dragones de Fuego",
+        "coach": {
+            "name": "Ji Seong Lee - Dragones de Fuego",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/4/49/%28DF%29_Ji_Seong.png/revision/latest?cb=20240815230831&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/8/87/Escudo_-_Dragones_de_Fuego_%28Strikers%29.png/revision/latest?cb=20240815214436&path-prefix=es"
+        },
+        "formation": {
+            "name": "Ataque Trillizo",
+            "layout": "4-3-3"
+        }
+    },
+    {
+        "team": "Inazuma Japón",
+        "coach": {
+            "name": "Percival Travis",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/d/d4/Travis_%28IE_3_Sprite%29.png/revision/latest?cb=20210225194151&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/b/b5/Escudo_-_Inazuma_Jap%C3%B3n.png/revision/latest?cb=20221028205856&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Knights of Queen",
+        "coach": {
+            "name": "Aaron Adams - Knights of Queen",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/f/f5/Aaron_Adams_%28Sprite_IE_3%29.png/revision/latest?cb=20191208140658&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/7/7f/Escudo_-_Knights_of_Queen.png/revision/latest?cb=20240822141418&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Los Emperadores",
+        "coach": {
+            "name": "Daniel Sturbin - Los Emperadores",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/0/03/%28LE%29_Sturbin.png/revision/latest?cb=20191210135148&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/c/cc/Escudo_-_Los_Emperadores_%28Strikers%29.png/revision/latest?cb=20240829213636&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Unicorn",
+        "coach": {
+            "name": "Marco Scride - Unicorn",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/c/c1/Mac_Scride_-_Sprite.png/revision/latest?cb=20191212215243&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/1/1b/Unicorn_Emblema.png/revision/latest?cb=20240906134136&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Orfeo",
+        "coach": {
+            "name": "Mr D",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/e/e2/Mr.D_%28Sprite%29.png/revision/latest?cb=20220611221535&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/8/8a/Escudo_-_Orfeo_%28SD%29.png/revision/latest?cb=20240906212620&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Os Reis",
+        "coach": {
+            "name": "Leon Sams - Os Reis",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/2/21/Leo_%28Sprite%29.png/revision/latest?cb=20240918224411&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/0/0c/Escudo_-_Os_Reis_%28SD%29.png/revision/latest?cb=20240918154716&path-prefix=es"
+        },
+        "formation": {
+            "name": "Ataque Trillizo",
+            "layout": "4-3-3"
+        }
+    },
+    {
+        "team": "The Little Giants",
+        "coach": {
+            "name": "David Arrows",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/d/dd/%28LG%29_David.png/revision/latest?cb=20231214124945&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/d/d1/Logo_peque%C3%B1os_gigantes.png/revision/latest?cb=20110617155403&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Los Rojos",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/4/4f/Escudo_-_Los_Rojos_%28MegaMusa%29.png/revision/latest?cb=20241002170733&path-prefix=es"
+        },
+        "formation": {
+            "name": "Puerta al Cielo",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Grifos de la Rosa",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/8/89/Escudo_-_Grifos_de_la_Rosa_%28MegaMusa%29.png/revision/latest?cb=20241024215550&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Brocken Brigade",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/e/ed/Escudo_-_Brocken_Brigade_%28MegaMusa%29.png/revision/latest?cb=20241025193759&path-prefix=es"
+        },
+        "formation": {
+            "name": "Reja",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Equipo Ogro",
+        "coach": {
+            "name": "Drayce Bausen",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/5/53/%28OA%29_Bausen.png/revision/latest?cb=20240924002404&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/7/7b/Escudo_-_Equipo_Ogro.png/revision/latest?cb=20240125141536&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "4-3-3"
+        }
+    },
+    {
+        "team": "Neo Japón",
+        "coach": {
+            "name": "Aquilina Schiller",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/6/6d/Lina_%28Sprite%29.png/revision/latest?cb=20201219202224&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/7/70/Neo_Jap%C3%B3n_Emblema.png/revision/latest?cb=20240807130426&path-prefix=es"
+        },
+        "formation": {
+            "name": "Neo",
+            "layout": "4-3-3"
+        }
+    },
+    {
+        "team": "Equipo D",
+        "coach": {
+            "name": "Mr. D",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/e/e2/Mr.D_%28Sprite%29.png/revision/latest?cb=20220611221535&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/b/ba/Equipo_D_Emblema.png/revision/latest?cb=20140930205916&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Zoolan Team",
+        "coach": {
+            "name": "Zoolan Rice - Zoolan Team",
+            "image": "https://static.wikia.nocookie.net/inazuma/images/8/85/Zoolan_%28Sprite%29.png/revision/latest?cb=20240918224424&path-prefix=es"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/0/00/Escudo_-_Zoolan_Team.png/revision/latest?cb=20240927154709&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Sky Team",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/4/47/Sky_Team_Emblema.png/revision/latest?cb=20141002003930&path-prefix=es"
+        },
+        "formation": {
+            "name": "Reja",
+            "layout": "4-4-2"
+        }
+    },
+    {
+        "team": "Dark Team",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/a/a3/Dark_Team_Emblema.png/revision/latest?cb=20141002161537&path-prefix=es"
+        },
+        "formation": {
+            "name": "Zona Muerta",
+            "layout": "5-3-2"
+        }
+    },
+    {
+        "team": "Ángel Oscuro",
+        "coach": {
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
+        },
+        "emblem": {
+            "image": "https://static.wikia.nocookie.net/inazuma/images/1/18/Escudo_-_%C3%81ngel_Oscuro_%28SD%29.png/revision/latest?cb=20241103141329&path-prefix=es"
+        },
+        "formation": {
+            "name": "Diamante",
+            "layout": "4-4-2"
+        }
+    }
+]

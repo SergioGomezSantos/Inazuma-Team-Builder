@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Zorro",
+        "full_name": "Cyril Fox",
+        "position": "Portero",
+        "element": "Montaña",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2e/%28ZT%29_Zorro.png/revision/latest?cb=20230912215238&path-prefix=es"
+    },
+    {
+        "name": "Chacal",
+        "full_name": "Jacques Allemand",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/9/94/%28ZT%29_Chacal.png/revision/latest?cb=20230912215206&path-prefix=es"
+    },
+    {
+        "name": "Minion",
+        "full_name": "Phil A. Minion",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/ff/%28ZT%29_Minion.png/revision/latest?cb=20230912215231&path-prefix=es"
+    },
+    {
+        "name": "Búfalo",
+        "full_name": "Buddy Plains",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/1/17/%28ZT%29_B%C3%BAfalo.png/revision/latest?cb=20230912215152&path-prefix=es"
+    },
+    {
+        "name": "Dingo",
+        "full_name": "Dean Goddard",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f7/%28ZT%29_Dingo.png/revision/latest?cb=20230912215218&path-prefix=es"
+    },
+    {
+        "name": "Búho",
+        "full_name": "Cecil Crowley",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/cf/%28ZT%29_B%C3%BAho.png/revision/latest?cb=20230912215155&path-prefix=es"
+    },
+    {
+        "name": "Erizo",
+        "full_name": "Seth Hedges",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/2f/%28ZT%29_Erizo.png/revision/latest?cb=20230912215221&path-prefix=es"
+    },
+    {
+        "name": "Mantis",
+        "full_name": "Niccolò Mantegna",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/86/%28ZT%29_Mantis.png/revision/latest?cb=20230912215226&path-prefix=es"
+    },
+    {
+        "name": "Cuervo",
+        "full_name": "Damien Crawford",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/23/%28ZT%29_Cuervo.png/revision/latest?cb=20230912215214&path-prefix=es"
+    },
+    {
+        "name": "Coyote",
+        "full_name": "Avinash Chowdhury",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/4/40/%28ZT%29_Coyote.png/revision/latest?cb=20230912215210&path-prefix=es"
+    },
+    {
+        "name": "Escorpión",
+        "full_name": "Sedgley Scofield",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7d/%28ZT%29_Escorpi%C3%B3n.png/revision/latest?cb=20230912215224&path-prefix=es"
+    },
+    {
+        "name": "Oso",
+        "full_name": "Grizzler Bruin",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7d/%28ZT%29_Oso.png/revision/latest?cb=20230912215236&path-prefix=es"
+    },
+    {
+        "name": "Araña",
+        "full_name": "Ian C. Wincy",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e2/%28ZT%29_Ara%C3%B1a.png/revision/latest?cb=20230912215150&path-prefix=es"
+    },
+    {
+        "name": "Cebra",
+        "full_name": "Bandy Horsman",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/22/%28ZT%29_Cebra.png/revision/latest?cb=20230912215202&path-prefix=es"
+    },
+    {
+        "name": "Caimán",
+        "full_name": "Ali Caiman",
+        "position": "Delantero",
+        "element": "Aire",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/ed/%28ZT%29_Caim%C3%A1n.png/revision/latest?cb=20230912215158&path-prefix=es"
+    },
+    {
+        "name": "Mariposa",
+        "full_name": "Chris Ellis",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Zoolan Team",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/7a/%28ZT%29_Mariposa.png/revision/latest?cb=20230912215229&path-prefix=es"
+    }
+]

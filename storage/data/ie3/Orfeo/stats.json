@@ -1,0 +1,285 @@
+[
+    {
+        "player": "Gigi Blasi",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 107,
+            "TP": 124,
+            "Kick": 63,
+            "Body": 50,
+            "Control": 72,
+            "Guard": 86,
+            "Speed": 32,
+            "Stamina": 36,
+            "Guts": 83,
+            "Freedom": 12
+        }
+    },
+    {
+        "player": "Vento Galliano",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 126,
+            "TP": 122,
+            "Kick": 42,
+            "Body": 52,
+            "Control": 56,
+            "Guard": 77,
+            "Speed": 80,
+            "Stamina": 56,
+            "Guts": 56,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Otto Nobili",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 140,
+            "TP": 126,
+            "Kick": 60,
+            "Body": 66,
+            "Control": 61,
+            "Guard": 72,
+            "Speed": 53,
+            "Stamina": 56,
+            "Guts": 61,
+            "Freedom": 13
+        }
+    },
+    {
+        "player": "Anton Graziuso",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 135,
+            "TP": 115,
+            "Kick": 58,
+            "Body": 52,
+            "Control": 62,
+            "Guard": 76,
+            "Speed": 51,
+            "Stamina": 47,
+            "Guts": 86,
+            "Freedom": 3
+        }
+    },
+    {
+        "player": "Marco Maserati",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 132,
+            "TP": 122,
+            "Kick": 56,
+            "Body": 61,
+            "Control": 65,
+            "Guard": 66,
+            "Speed": 62,
+            "Stamina": 68,
+            "Guts": 56,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Angelo Gabrini",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 115,
+            "TP": 133,
+            "Kick": 50,
+            "Body": 53,
+            "Control": 64,
+            "Guard": 68,
+            "Speed": 72,
+            "Stamina": 48,
+            "Guts": 58,
+            "Freedom": 23
+        }
+    },
+    {
+        "player": "Giacomo Yani",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 132,
+            "TP": 126,
+            "Kick": 56,
+            "Body": 74,
+            "Control": 61,
+            "Guard": 59,
+            "Speed": 59,
+            "Stamina": 54,
+            "Guts": 61,
+            "Freedom": 6
+        }
+    },
+    {
+        "player": "Dante Diavolo",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 140,
+            "TP": 124,
+            "Kick": 83,
+            "Body": 70,
+            "Control": 52,
+            "Guard": 51,
+            "Speed": 51,
+            "Stamina": 42,
+            "Guts": 76,
+            "Freedom": 7
+        }
+    },
+    {
+        "player": "Paolo Bianchi",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 115,
+            "TP": 130,
+            "Kick": 62,
+            "Body": 78,
+            "Control": 79,
+            "Guard": 46,
+            "Speed": 66,
+            "Stamina": 58,
+            "Guts": 66,
+            "Freedom": 5
+        }
+    },
+    {
+        "player": "Raffaele Generani",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 120,
+            "TP": 118,
+            "Kick": 70,
+            "Body": 60,
+            "Control": 52,
+            "Guard": 63,
+            "Speed": 71,
+            "Stamina": 48,
+            "Guts": 60,
+            "Freedom": 16
+        }
+    },
+    {
+        "player": "Daniele Santini",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 136,
+            "TP": 136,
+            "Kick": 48,
+            "Body": 68,
+            "Control": 53,
+            "Guard": 75,
+            "Speed": 66,
+            "Stamina": 67,
+            "Guts": 61,
+            "Freedom": 24
+        }
+    },
+    {
+        "player": "Enrico Oconti",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 128,
+            "TP": 126,
+            "Kick": 65,
+            "Body": 77,
+            "Control": 52,
+            "Guard": 53,
+            "Speed": 52,
+            "Stamina": 54,
+            "Guts": 56,
+            "Freedom": 19
+        }
+    },
+    {
+        "player": "Alessandro Rossa",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 100,
+            "TP": 148,
+            "Kick": 61,
+            "Body": 62,
+            "Control": 62,
+            "Guard": 57,
+            "Speed": 63,
+            "Stamina": 58,
+            "Guts": 56,
+            "Freedom": 3
+        }
+    },
+    {
+        "player": "Giuseppe Carnivale",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 140,
+            "TP": 122,
+            "Kick": 49,
+            "Body": 48,
+            "Control": 55,
+            "Guard": 77,
+            "Speed": 52,
+            "Stamina": 48,
+            "Guts": 64,
+            "Freedom": 45
+        }
+    },
+    {
+        "player": "Gianluca Zanardi",
+        "ie1": {},
+        "ie2": {},
+        "ie3": {
+            "GP": 122,
+            "TP": 123,
+            "Kick": 56,
+            "Body": 65,
+            "Control": 64,
+            "Guard": 57,
+            "Speed": 64,
+            "Stamina": 52,
+            "Guts": 56,
+            "Freedom": 11
+        }
+    },
+    {
+        "player": "Hidetoshi Nakata",
+        "ie1": {},
+        "ie2": {
+            "GP": 193,
+            "TP": 192,
+            "Kick": 72,
+            "Body": 80,
+            "Control": 85,
+            "Guard": 72,
+            "Speed": 74,
+            "Stamina": 81,
+            "Guts": 82,
+            "Freedom": 32
+        },
+        "ie3": {
+            "GP": 144,
+            "TP": 120,
+            "Kick": 85,
+            "Body": 70,
+            "Control": 70,
+            "Guard": 60,
+            "Speed": 64,
+            "Stamina": 68,
+            "Guts": 62,
+            "Freedom": 1
+        }
+    }
+]

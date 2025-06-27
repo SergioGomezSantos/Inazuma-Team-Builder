@@ -1,0 +1,46 @@
+[
+    {
+        "player": "Anorel",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Nenel",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Genel",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Ekadel",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Lephiel",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Sachinel",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Wenel",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Ientel",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Nuel",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Gaiel",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Sael",
+        "position_id": "pos-10"
+    }
+]

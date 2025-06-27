@@ -1,0 +1,256 @@
+[
+    {
+        "player": "Gigi Blasi",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Guardia del Coliseo",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Guardia del Coliseo",
+            "Lance Crítico",
+            "Terremoto",
+            "Muralla Gigante"
+        ]
+    },
+    {
+        "player": "Vento Galliano",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Entrada Huracán",
+            "Escudo Bárbaro",
+            "Entrada Tormenta",
+            "Rapidez +"
+        ]
+    },
+    {
+        "player": "Otto Nobili",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Escudo de Fuerza Total",
+            "Escudo Bárbaro",
+            "Placaje Extremo",
+            "Rayo de Ganímedes"
+        ]
+    },
+    {
+        "player": "Anton Graziuso",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Escudo Bárbaro",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Defensa Múltiple",
+            "Escudo Bárbaro",
+            "Zona de Seguridad",
+            "Pared Solitaria"
+        ]
+    },
+    {
+        "player": "Marco Maserati",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Voltereta Circense",
+            "Luna Creciente",
+            "Casanova",
+            "Cúpula Sónica"
+        ]
+    },
+    {
+        "player": "Angelo Gabrini",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Flecha Divina",
+            "Flash de Fotones",
+            "Tiro Cegador",
+            "Hora Celestial"
+        ]
+    },
+    {
+        "player": "Giacomo Yani",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Ataque Afilado",
+            "Cúpula Sónica",
+            "Despeje Explosivo",
+            "Hora Celestial"
+        ]
+    },
+    {
+        "player": "Dante Diavolo",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Escudo Bárbaro",
+            "Cúpula Sónica",
+            "Gravedad Grave",
+            "Apisonadora"
+        ]
+    },
+    {
+        "player": "Paolo Bianchi",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Espada de Odín",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Espada de Odín",
+            "Pared Solitaria",
+            "Flecha Divina",
+            "Casanova"
+        ]
+    },
+    {
+        "player": "Raffaele Generani",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Remate de Hielo",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Chut Congelante",
+            "Robo Rápido",
+            "Disparo con Rebotes",
+            "Empuje Trillizo"
+        ]
+    },
+    {
+        "player": "Daniele Santini",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Muralla Gigante",
+            "Despeje Explosivo",
+            "Despeje de Leñador",
+            "Guardia del Coliseo"
+        ]
+    },
+    {
+        "player": "Enrico Oconti",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Pared Solitaria",
+            "Pase Cruzado",
+            "Cúpula Sónica",
+            "Empuje Trillizo"
+        ]
+    },
+    {
+        "player": "Alessandro Rossa",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Pared Solitaria",
+            "Arcoiris Luminoso",
+            "Armadillo Circense",
+            "Suerte"
+        ]
+    },
+    {
+        "player": "Giuseppe Carnivale",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Voltereta Circense",
+            "Regate Topo",
+            "Sorteo de Balón",
+            "Cúpula Sónica"
+        ]
+    },
+    {
+        "player": "Gianluca Zanardi",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tiro Pirueta",
+            "Cúpula Sónica",
+            "Empuje Trillizo",
+            "Bomba Géiser"
+        ]
+    },
+    {
+        "player": "Hidetoshi Nakata",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Disparo Valiente",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [
+            "Fuerza Ofensiva",
+            "Tuya-mía Doble",
+            "Avance Flamígero",
+            "Neo Tiro Galáctico"
+        ],
+        "ie3": [
+            "Ultratécnica",
+            "Disparo Valiente",
+            "Voltereta Circense",
+            "Super Elástico"
+        ]
+    }
+]

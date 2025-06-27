@@ -1,0 +1,307 @@
+[
+    {
+        "player": "Hector Helio PR",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Mano Celestial",
+                "with": []
+            },
+            {
+                "name": "Mano Celestial X",
+                "with": []
+            },
+            {
+                "name": "Mano Espiritual",
+                "with": []
+            },
+            {
+                "name": "Cañón X",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Mano Espiritual",
+            "Cañon X",
+            "Mano Celestial X",
+            "Ataque Cortante"
+        ]
+    },
+    {
+        "player": "Hector Helio DL",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Mano Celestial",
+                "with": []
+            },
+            {
+                "name": "Mano Celestial X",
+                "with": []
+            },
+            {
+                "name": "Mano Espiritual",
+                "with": []
+            },
+            {
+                "name": "Cañón X",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Mano Espiritual",
+            "Cañon X",
+            "Mano Celestial X",
+            "Ataque Cortante"
+        ]
+    },
+    {
+        "player": "Zephyr Vitesse",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Defensa Múltiple", "Patín Aéreo", "Regate Múltiple", "Huracán"]
+    },
+    {
+        "player": "Walter Mountain",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Gran Seísmo",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Sorteo de Balón",
+            "Superarmadillo",
+            "Gran Seísmo",
+            "La Montaña"
+        ]
+    },
+    {
+        "player": "Jimi Gaines",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Ataque Sombrío",
+            "Descodificación",
+            "Ciclón Doble",
+            "Anti Afinidades"
+        ]
+    },
+    {
+        "player": "Ian Ferrum",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Regate Espejismo",
+            "Suerte",
+            "Arcoiris Luminoso",
+            "Baile de Llamas"
+        ]
+    },
+    {
+        "player": "Quint Hampton",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Acelerrelámpago",
+            "Cometa",
+            "Entrada Tormenta",
+            "Defensa Triple"
+        ]
+    },
+    {
+        "player": "Yasir Haddad",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Disparo Dual",
+                "with": ["Flare"]
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Armadillo Circense",
+            "Cabezazo Yoyó",
+            "Técnica Kung-fu",
+            "Zapatazo Dual"
+        ]
+    },
+    {
+        "player": "Keith Ryan",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Granada Doble",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Granada Doble", "¡Vamos Todos!", "Bombazo", "Relámpago Saltón"]
+    },
+    {
+        "player": "Maximino Cruz",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Patín Aéreo",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": ["Fuerza Veloz", "Remate de Gaia", "Patín Aéreo", "Repaso"]
+    },
+    {
+        "player": "Gareth Flare",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Disparo Dual",
+                "with": ["Yasir"]
+            },
+            {
+                "name": "Entrada de Llamas",
+                "with": []
+            },
+            {
+                "name": "Patín Aéreo",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Tornado de Fuego",
+            "Baile de Llamas",
+            "Corte Flamígero",
+            "Torbellino de Fuego"
+        ]
+    },
+    {
+        "player": "Drago Hill",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Mandíbulas Dobles",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Mandíbulas Dobles",
+            "Patín Aéreo",
+            "Remate Dragón",
+            "Mejor Garantía"
+        ]
+    },
+    {
+        "player": "Keenan DiFortune",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Mano Celestial X",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Mano Celestial X",
+            "Casanova",
+            "Mano Mágica",
+            "Manos Infinitas"
+        ]
+    },
+    {
+        "player": "Jarell Mangrove",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Campo Torbellino",
+            "Tiro Giratorio",
+            "Parada de Capoeira",
+            "Suerte"
+        ]
+    },
+    {
+        "player": "Vic Vitrum",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Bola Falsa",
+            "Lluvia de Meteoros",
+            "Sabiduría Divina",
+            "Remate Gafas"
+        ]
+    },
+    {
+        "player": "Li Leung",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [
+            {
+                "name": "Zigzag Chispeante",
+                "with": []
+            }
+        ],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Ventisca Eterna",
+            "Zigzag Chispeante",
+            "Danza del Viento",
+            "Bloqueo Ballena"
+        ]
+    },
+    {
+        "player": "Jazzy Hedgeer",
+        "anime1": [],
+        "anime2": [],
+        "anime3": [],
+        "ie1": [],
+        "ie2": [],
+        "ie3": [
+            "Remate Tsunami",
+            "¡Vamos Todos!",
+            "Bomba Géiser",
+            "Corte Volcánico"
+        ]
+    }
+]

@@ -2,7 +2,7 @@
     {
         "team": "Brain",
         "coach": {
-            "name": "Newton Thomas",
+            "name": "Newton Thomas - Brain",
             "image": "https://static.wikia.nocookie.net/inazuma/images/6/6c/%28B%29_Thommo.png/revision/latest?cb=20231230150715&path-prefix=es"
         },
         "emblem": {
@@ -16,7 +16,7 @@
     {
         "team": "Farm",
         "coach": {
-            "name": "Turtle Newfield",
+            "name": "Turtle Newfield - Farm",
             "image": "https://static.wikia.nocookie.net/inazuma/images/a/ae/%28F%29_Newfield.png/revision/latest?cb=20240117133337&path-prefix=es"
         },
         "emblem": {
@@ -30,8 +30,8 @@
     {
         "team": "Inazuma Eleven",
         "coach": {
-            "name": "David Evans",
-            "image": "https://static.wikia.nocookie.net/inazuma/images/d/dd/%28LG%29_David.png/revision/latest?cb=20231214124945&path-prefix=es"
+            "name": "Sin Entrenador",
+            "image": "placeholder.png"
         },
         "emblem": {
             "image": "https://static.wikia.nocookie.net/inazuma/images/b/bd/Escudo_-_Veteranos_del_Raimon_%28SD%29.png/revision/latest?cb=20240613190636&path-prefix=es"
@@ -44,7 +44,7 @@
     {
         "team": "Inazuma Kids FC",
         "coach": {
-            "name": "Arthur Sweet",
+            "name": "Arthur Sweet - Inazuma Kids FC",
             "image": "https://static.wikia.nocookie.net/inazuma/images/4/44/%28IE%29_Sweet.png/revision/latest?cb=20230914205851&path-prefix=es"
         },
         "emblem": {
@@ -58,7 +58,7 @@
     {
         "team": "Kirkwood",
         "coach": {
-            "name": "Seth Nichols",
+            "name": "Seth Nichols - Kirkwood",
             "image": "https://static.wikia.nocookie.net/inazuma/images/d/df/%28F%29_Nichols.png/revision/latest?cb=20240117230541&path-prefix=es"
         },
         "emblem": {
@@ -72,7 +72,7 @@
     {
         "team": "Occult",
         "coach": {
-            "name": "Hekyll Jyde",
+            "name": "Hekyll Jyde - Occult",
             "image": "https://static.wikia.nocookie.net/inazuma/images/e/e1/%28O%29_Jyde.png/revision/latest?cb=20231224211958&path-prefix=es"
         },
         "emblem": {
@@ -86,7 +86,7 @@
     {
         "team": "Otaku",
         "coach": {
-            "name": "Manny Artic",
+            "name": "Manny Artic - Otaku",
             "image": "https://static.wikia.nocookie.net/inazuma/images/a/a7/%28OTK%29_Artic.png/revision/latest?cb=20240107194708&path-prefix=es"
         },
         "emblem": {
@@ -114,7 +114,7 @@
     {
         "team": "Shuriken",
         "coach": {
-            "name": "Sam Igajima",
+            "name": "Sam Igajima - Shuriken",
             "image": "https://static.wikia.nocookie.net/inazuma/images/c/cb/%28SRK%29_Igajima.png/revision/latest?cb=20231230192111&path-prefix=es"
         },
         "emblem": {
@@ -128,7 +128,7 @@
     {
         "team": "Umbrella",
         "coach": {
-            "name": "Clint Loggan",
+            "name": "Clint Loggan - Umbrella",
             "image": "https://static.wikia.nocookie.net/inazuma/images/9/9a/Clint_Loggan.png/revision/latest?cb=20200512093612&path-prefix=es"
         },
         "emblem": {
@@ -142,7 +142,7 @@
     {
         "team": "Wild",
         "coach": {
-            "name": "Harry Savage",
+            "name": "Harry Savage - Wild",
             "image": "https://static.wikia.nocookie.net/inazuma/images/c/ca/%28W%29_Savage.png/revision/latest?cb=20231230143557&path-prefix=es"
         },
         "emblem": {
@@ -170,7 +170,7 @@
     {
         "team": "Royal Academy",
         "coach": {
-            "name": "Stephen Black",
+            "name": "Stephen Black - Royal Academy",
             "image": "https://static.wikia.nocookie.net/inazuma/images/d/d3/%28RA%29_Black.png/revision/latest?cb=20231225144618&path-prefix=es"
         },
         "emblem": {

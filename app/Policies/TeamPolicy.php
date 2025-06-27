@@ -20,7 +20,7 @@ class TeamPolicy
      */
     public function view(?User $user, Team $team): bool
     {
-        if ($team->id <= 33) {
+        if ($team->id <= 54) {
             return true;
         }
 

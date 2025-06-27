@@ -533,11 +533,11 @@
             "Freedom": 31
         },
         "ie3": {
-            "GP": 129,
-            "TP": 125,
+            "GP": 128,
+            "TP": 109,
             "Kick": 56,
             "Body": 61,
-            "Control": 62,
+            "Control": 52,
             "Guard": 76,
             "Speed": 60,
             "Stamina": 72,
@@ -611,16 +611,16 @@
             "Freedom": 36
         },
         "ie3": {
-            "GP": 130,
-            "TP": 128,
-            "Kick": 79,
+            "GP": 127,
+            "TP": 113,
+            "Kick": 70,
             "Body": 60,
-            "Control": 72,
-            "Guard": 64,
+            "Control": 75,
+            "Guard": 54,
             "Speed": 63,
             "Stamina": 53,
-            "Guts": 71,
-            "Freedom": 0
+            "Guts": 61,
+            "Freedom": 6
         }
     },
     {

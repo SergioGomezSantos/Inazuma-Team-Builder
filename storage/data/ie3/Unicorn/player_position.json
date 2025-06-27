@@ -1,0 +1,66 @@
+[
+    {
+        "player": "Billy Dash",
+        "position_id": "pos-0"
+    },
+    {
+        "player": "Ted Bryan",
+        "position_id": "pos-1"
+    },
+    {
+        "player": "Tony Strider",
+        "position_id": "pos-2"
+    },
+    {
+        "player": "Drake Dynamo",
+        "position_id": "pos-3"
+    },
+    {
+        "player": "Bobby Shearer",
+        "position_id": "pos-4"
+    },
+    {
+        "player": "Steve Woodmark",
+        "position_id": "pos-5"
+    },
+    {
+        "player": "Erik Eagle",
+        "position_id": "pos-6"
+    },
+    {
+        "player": "Mark Krueger",
+        "position_id": "pos-7"
+    },
+    {
+        "player": "Shane Pierce",
+        "position_id": "pos-8"
+    },
+    {
+        "player": "Dylan Keats",
+        "position_id": "pos-9"
+    },
+    {
+        "player": "Gabriel Jax",
+        "position_id": "pos-10"
+    },
+    {
+        "player": "Alex Hawke",
+        "position_id": "bench-0"
+    },
+    {
+        "player": "Corey Washington",
+        "position_id": "bench-1"
+    },
+    {
+        "player": "Bob Bobbins",
+        "position_id": "bench-2"
+    },
+    {
+        "player": "Petie Pooma",
+        "position_id": "bench-3"
+    },
+    {
+        "player": "Norbert Poindexter",
+        "position_id": "bench-4"
+    }
+]

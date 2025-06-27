@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Blasi",
+        "full_name": "Gigi Blasi",
+        "position": "Portero",
+        "element": "Aire",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c2/%28ORF%29_Blasi.png/revision/latest?cb=20230910220521&path-prefix=es"
+    },
+    {
+        "name": "Galliano",
+        "full_name": "Vento Galliano",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/c/c5/%28ORF%29_Galliano.png/revision/latest?cb=20230910220650&path-prefix=es"
+    },
+    {
+        "name": "Nobili",
+        "full_name": "Otto Nobili",
+        "position": "Defensa",
+        "element": "Bosque",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/2/24/%28ORF%29_Nobili.png/revision/latest?cb=20230910220718&path-prefix=es"
+    },
+    {
+        "name": "Graziuso",
+        "full_name": "Anton Graziuso",
+        "position": "Defensa",
+        "element": "Fuego",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/7/77/%28ORF%29_Graziuso.png/revision/latest?cb=20230910220657&path-prefix=es"
+    },
+    {
+        "name": "Maserati",
+        "full_name": "Marco Maserati",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/03/%28ORF%29_Maserati.png/revision/latest?cb=20230910220709&path-prefix=es"
+    },
+    {
+        "name": "Gabrini",
+        "full_name": "Angelo Gabrini",
+        "position": "Centrocampista",
+        "element": "Aire",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f0/%28ORF%29_Angelo.png/revision/latest?cb=20230910220516&path-prefix=es"
+    },
+    {
+        "name": "Nakata",
+        "full_name": "Hidetoshi Nakata",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/8/88/%28ORF%29_Nakata.png/revision/latest?cb=20230910220712&path-prefix=es"
+    },
+    {
+        "name": "Yani",
+        "full_name": "Giacomo Yani",
+        "position": "Centrocampista",
+        "element": "Montaña",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/08/%28ORF%29_Yani.png/revision/latest?cb=20230910220813&path-prefix=es"
+    },
+    {
+        "name": "Diavolo",
+        "full_name": "Dante Diavolo",
+        "position": "Centrocampista",
+        "element": "Fuego",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e9/%28ORF%29_Diavolo.png/revision/latest?cb=20230910220532&path-prefix=es"
+    },
+    {
+        "name": "Bianchi",
+        "full_name": "Paolo Bianchi",
+        "position": "Delantero",
+        "element": "Bosque",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/3/3d/%28ORF%29_Paolo.png/revision/latest?cb=20230910220730&path-prefix=es"
+    },
+    {
+        "name": "Generani",
+        "full_name": "Raffaele Generani",
+        "position": "Delantero",
+        "element": "Montaña",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/f/f0/%28ORF%29_Generani.png/revision/latest?cb=20230910220653&path-prefix=es"
+    },
+    {
+        "name": "Santini",
+        "full_name": "Daniele Santini",
+        "position": "Portero",
+        "element": "Fuego",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/d8/%28ORF%29_Santini.png/revision/latest?cb=20230910220741&path-prefix=es"
+    },
+    {
+        "name": "Oconti",
+        "full_name": "Enrico Oconti",
+        "position": "Defensa",
+        "element": "Montaña",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/b/be/%28ORF%29_Oconti.png/revision/latest?cb=20230910220728&path-prefix=es"
+    },
+    {
+        "name": "Rossa",
+        "full_name": "Alessandro Rossa",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/d/de/%28ORF%29_Rossa.png/revision/latest?cb=20230910220734&path-prefix=es"
+    },
+    {
+        "name": "Carnivale",
+        "full_name": "Giuseppe Carnivale",
+        "position": "Defensa",
+        "element": "Aire",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/e/e5/%28ORF%29_Carnivale.png/revision/latest?cb=20230910220529&path-prefix=es"
+    },
+    {
+        "name": "Zanardi",
+        "full_name": "Gianluca Zanardi",
+        "position": "Centrocampista",
+        "element": "Bosque",
+        "original_team": "Orfeo",
+        "image": "https://static.wikia.nocookie.net/inazuma/images/0/0b/%28ORF%29_Zanardi.png/revision/latest?cb=20230910220818&path-prefix=es"
+    }
+]
