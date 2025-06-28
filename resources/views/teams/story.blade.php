@@ -6,18 +6,14 @@
             document.addEventListener('DOMContentLoaded', () => {
                 const toggleButton = document.getElementById('toggle-names');
                 const teamNames = document.querySelectorAll('.team-name');
-
-                // Estado inicial: nombres visibles
                 let namesVisible = true;
 
                 toggleButton.addEventListener('click', () => {
                     namesVisible = !namesVisible;
 
-                    // Alternar iconos
                     document.getElementById('show-names-icon').classList.toggle('hidden', namesVisible);
                     document.getElementById('hide-names-icon').classList.toggle('hidden', !namesVisible);
 
-                    // Alternar visibilidad de nombres
                     teamNames.forEach(name => {
                         name.classList.toggle('opacity-100', !namesVisible);
                     });
@@ -29,8 +25,10 @@
     <div class="max-w-full mx-auto sm:px-6 lg:px-8">
         <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
             <div class="p-6 text-gray-900 dark:text-gray-100">
+
                 <!-- Main Team Builder Container -->
                 <div class="h-[calc(100vh-12rem)] bg-gray-100 dark:bg-gray-700 relative p-8 flex flex-col rounded-lg">
+
                     <!-- Fixed Header With Button -->
                     <div class="p-3 pr-4 flex justify-end items-center">
                         <button id="toggle-names"

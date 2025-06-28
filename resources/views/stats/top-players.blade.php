@@ -43,7 +43,7 @@
                     tabs[0].click();
                 }
 
-                // Auto-submit form when filters change
+                // Submit Form when filters change
                 document.querySelectorAll('#filters select').forEach(select => {
                     select.addEventListener('change', function() {
                         // Save current tab before submit
@@ -171,14 +171,14 @@
 
                                                 <!-- Icons -->
                                                 <div class="flex flex-col justify-center h-full pt-3">
-                                                    <div class="tooltip self-end"
+                                                    <div class=" self-end"
                                                         data-tip="{{ strtoupper($player->element) }}">
                                                         <img src="{{ asset('storage/icons/elements/' . strtolower($player->element) . '.webp') }}"
                                                             alt="{{ $player->element }}" class="w-5 h-5 object-contain"
                                                             onerror="this.style.display='none'">
                                                     </div>
 
-                                                    <div class="tooltip self-center"
+                                                    <div class=" self-center"
                                                         data-tip="{{ strtoupper($player->position) }}">
                                                         <img src="{{ asset('storage/icons/positions/' . strtolower($player->position) . '.webp') }}"
                                                             alt="{{ $player->position }}"

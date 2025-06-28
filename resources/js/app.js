@@ -1,6 +1,5 @@
 import "./bootstrap";
 import Alpine from "alpinejs";
-import Sortable from "sortablejs";
 
 // Carga condicional del team builder
 if (document.querySelector(".soccer-field")) {
@@ -9,6 +8,11 @@ if (document.querySelector(".soccer-field")) {
     });
 }
 
+if (document.querySelector("#team-players-data")) {
+    import("./components/team-players/main").then((module) => {
+        module.default.init();
+    });
+}
+
 window.Alpine = Alpine;
-window.Sortable = Sortable;
 Alpine.start();

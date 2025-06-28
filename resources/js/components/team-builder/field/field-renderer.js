@@ -86,9 +86,9 @@ export default class FieldRenderer {
     }
 
     static setupPositionContent(positionEl, pos) {
-        positionEl.innerHTML = ""; // Limpiar siempre el contenido
+        positionEl.innerHTML = "";
 
-        // Añadir placeholder solo si no hay jugador
+        // Placeholder if needed
         if (!positionEl.querySelector("img[data-player-id]")) {
             const placeholder = document.createElement("img");
             placeholder.src = "/storage/players/placeholder.png";
@@ -98,7 +98,7 @@ export default class FieldRenderer {
             positionEl.appendChild(placeholder);
         }
 
-        // Siempre crear name tag
+        // Nametag
         NameTagManager.createNameTag(positionEl, {
             showNames: this.showNamesGlobal,
             isBench: pos.isBench,
@@ -305,7 +305,6 @@ export default class FieldRenderer {
             : "translate(-50%, -50%)";
         positionEl.style.zIndex = "10";
 
-        // Aplicar clases de Tailwind directamente
         if (this.borderedDesign) {
             positionEl.style.border = "none";
             positionEl.classList.add(
@@ -372,7 +371,7 @@ export default class FieldRenderer {
         positionEl,
         { playerId, playerName, playerImageSrc }
     ) {
-        positionEl.innerHTML = ""; // limpiar
+        positionEl.innerHTML = "";
 
         const img = document.createElement("img");
         img.src = playerImageSrc || "/storage/players/placeholder.png";
@@ -390,14 +389,12 @@ export default class FieldRenderer {
             "absolute top-0 left-0 text-xs text-white rounded-full w-5 h-5 flex items-center justify-center opacity-0 transition-opacity duration-200 z-20";
         positionEl.appendChild(removeBtn);
 
-        // Actualizar el name tag con el nombre del jugador
         NameTagManager.updateNameTag(positionEl, {
             showNames: this.showNamesGlobal,
             playerName,
             positionRole: positionEl.dataset.positionRole,
         });
 
-        // Reaplicar eventos y estilos
         this.resetPositionStyle(positionEl);
         this.setupPositionEvents(positionEl);
     }

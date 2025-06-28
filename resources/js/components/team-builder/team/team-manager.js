@@ -54,14 +54,14 @@ export default class TeamManager {
     }
 
     static addPlayerToPosition(positionElement, playerElement) {
-        // Limpiar contenido existente
+        // Clear content
         positionElement.querySelector("img[data-player-id]")?.remove();
         positionElement.querySelector("button")?.remove();
         positionElement
             .querySelector('img[data-is-placeholder="true"]')
             ?.remove();
 
-        // Crear nueva imagen de jugador
+        // Img
         const playerImg =
             playerElement.tagName === "IMG"
                 ? playerElement
@@ -83,7 +83,7 @@ export default class TeamManager {
         );
         newImg.draggable = true;
 
-        // Configurar eventos de arrastre
+        // Drag
         newImg.addEventListener("dragstart", (e) => {
             e.dataTransfer.setData(
                 "text/plain",
@@ -100,8 +100,8 @@ export default class TeamManager {
             e.dataTransfer.effectAllowed = "move";
             e.dataTransfer.setDragImage(newImg, 50, 50);
         });
-        console.log("aaaaaaa");
-        // Crear botón de eliminar
+
+        // X button
         const removeBtn = document.createElement("button");
         removeBtn.innerHTML = "&times;";
         removeBtn.className =
@@ -110,7 +110,7 @@ export default class TeamManager {
         positionElement.appendChild(newImg);
         positionElement.appendChild(removeBtn);
 
-        // Actualizar name tag inmediatamente
+        // Nametag
         NameTagManager.updateNameTag(positionElement, {
             showNames: FieldRenderer.showNamesGlobal,
             playerName: newImg.getAttribute("data-player-name"),
@@ -118,8 +118,6 @@ export default class TeamManager {
         });
 
         FieldRenderer.setupHoverEffects(positionElement);
-
-        // Actualizar etiqueta de nombre
         FieldRenderer.setupHoverEffects(positionElement);
     }
 
@@ -138,8 +136,6 @@ export default class TeamManager {
 
         positionEl.querySelector("img[data-player-id]")?.remove();
         positionEl.querySelector("button")?.remove();
-
-        // Restablecer placeholder y name tag
         positionEl.innerHTML = "";
 
         const placeholder = document.createElement("img");
@@ -165,7 +161,6 @@ export default class TeamManager {
     static generateRandomTeam() {
         this.clearTeam();
 
-        // Llenar posiciones de campo con jugadores del rol correspondiente
         document.querySelectorAll(".field-position").forEach((position) => {
             const positionRole = position.dataset.positionRole;
             const matchingPlayers = Array.from(
@@ -231,7 +226,6 @@ export default class TeamManager {
             .getElementById("formation-select")
             ?.value.trim();
         const positions = this.getTeamPositions();
-        console.log(positions);
         const payload = {
             name,
             emblem,
@@ -241,10 +235,10 @@ export default class TeamManager {
             action: action,
         };
 
+        // Congif post/update route
         const isEdit = window.isEdit === "edit" || window.savedTeamId;
         const url = isEdit ? `/teams/${window.savedTeamId}` : "/teams";
         const method = isEdit ? "PUT" : "POST";
-        console.log(method, url);
 
         fetch(url, {
             method: method,
@@ -267,7 +261,6 @@ export default class TeamManager {
                 }
             })
             .catch((error) => {
-                console.log(error);
                 let hasShownGenericAlert = false;
                 if (error.errors) {
                     Object.entries(error.errors).forEach(

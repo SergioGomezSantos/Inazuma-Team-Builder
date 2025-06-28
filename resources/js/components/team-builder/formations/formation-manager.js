@@ -26,7 +26,7 @@ export default class FormationManager {
     }
 
     static updateFormation(formationId) {
-        // Guardar estado actual de posiciones y jugadores, incluyendo ruta de imagen
+        // Save player - pos
         const savedPositions = {};
         document
             .querySelectorAll(".field-position, .bench-position")
@@ -36,11 +36,12 @@ export default class FormationManager {
                     savedPositions[posEl.dataset.positionId] = {
                         playerId: playerImg.getAttribute("data-player-id"),
                         playerName: playerImg.getAttribute("data-player-name"),
-                        playerImageSrc: playerImg.src, // Guardamos la ruta real de la imagen
+                        playerImageSrc: playerImg.src,
                     };
                 }
             });
 
+        // Select pos for Formation
         const selectedOption =
             this.selectElement.options[this.selectElement.selectedIndex];
         const specialFormation = findFormationByName(
@@ -53,10 +54,10 @@ export default class FormationManager {
                 specialFormation,
                 this.SPECIAL_FORMATIONS
             );
-            // Renderizamos la nueva formación
+            // New formation
             FieldRenderer.renderPositions(this.currentFormation);
 
-            // Reasignamos jugadores a sus posiciones guardadas, con ruta de imagen incluida
+            // Restore player - pos
             this.restorePlayersToPositions(savedPositions);
         } else {
             console.warn(
@@ -93,6 +94,7 @@ export default class FormationManager {
     static assignPlayersFromTeam() {
         if (!savedTeamPlayers) return;
 
+        // Set player - pos on load team
         savedTeamPlayers.forEach((player) => {
             const positionEl = document.querySelector(
                 `[data-position-id="${player.pivot.position_id}"]`

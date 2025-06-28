@@ -2,7 +2,6 @@ export class PositionManager {
     static createPositionElement(pos, { showNamesGlobal, borderedDesign }) {
         const positionEl = document.createElement("div");
 
-        // Clases base para todas las posiciones
         let baseClasses =
             "field-position absolute w-24 h-24 rounded-full flex items-center justify-center cursor-pointer z-10 transition-all duration-150 ease-out";
 

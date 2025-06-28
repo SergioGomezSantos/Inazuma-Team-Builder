@@ -28,9 +28,22 @@ export default class PlayerSearch {
 
     static filterPlayers() {
         const searchTerm = this.searchInput.value.toLowerCase().trim();
+
+        // Easter egg Sam Kincaid - "banquillo"
+        if (searchTerm === "banquillo") {
+            this.playerItems.forEach((player) => {
+                const isSam =
+                    player.dataset.name?.toLowerCase() === "sam" &&
+                    player.dataset.fullname?.toLowerCase().includes("kincaid");
+                player.style.display = isSam ? "flex" : "none";
+            });
+            LazyLoader.refresh();
+            return;
+        }
+
         let anyChange = false;
 
-        // Acentos
+        // Normalize and minus to avoid problems
         const normalizedSearchTerm = searchTerm
             .normalize("NFD")
             .replace(/[\u0300-\u036f]/g, "");
@@ -47,7 +60,7 @@ export default class PlayerSearch {
         const translatedPosition = positionMap[searchTerm] || null;
 
         this.playerItems.forEach((player) => {
-            // Normalizar y convertir a minúsculas los datos de cada jugador
+            // Normalize and minus to avoid problems
             const playerName = player.dataset.name
                 .normalize("NFD")
                 .replace(/[\u0300-\u036f]/g, "")

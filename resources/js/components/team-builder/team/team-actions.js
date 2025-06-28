@@ -10,7 +10,7 @@ export class TeamActions {
     static generateRandomTeam() {
         this.clearTeam();
 
-        // Lógica para generar equipo aleatorio
+        // Field
         document.querySelectorAll(".field-position").forEach((position) => {
             const positionRole = position.dataset.positionRole;
             const matchingPlayers = Array.from(
@@ -30,7 +30,7 @@ export class TeamActions {
             }
         });
 
-        // Lógica para banquillo aleatorio
+        // Bench
         document.querySelectorAll(".bench-position").forEach((position) => {
             const allPlayers = Array.from(
                 document.querySelectorAll(".list-player")

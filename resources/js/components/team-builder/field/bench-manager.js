@@ -36,20 +36,17 @@ export class BenchManager {
         if (!benchEl.querySelector("img")) {
             benchEl.innerHTML = "";
 
-            // Añadir placeholder
             const placeholder = document.createElement("img");
             placeholder.src = "/storage/players/placeholder.png";
             placeholder.className = "w-full h-full object-cover";
             placeholder.setAttribute("data-is-placeholder", "true");
-            placeholder.setAttribute("data-player-name", "undefined"); // Cambiado a undefined
+            placeholder.setAttribute("data-player-name", "undefined");
             benchEl.appendChild(placeholder);
 
-            // Aplicar estilos iniciales correctos
             benchEl.className =
                 "bench-position w-20 h-20 rounded-full flex items-center justify-center cursor-pointer z-20 bg-none border-none";
             benchEl.style.cssText = "transform: scale(1); z-index: 10;";
 
-            // Crear name tag vacío
             NameTagManager.createEmptyNameTag(benchEl, {
                 showNames: FieldRenderer.showNamesGlobal,
                 isBench: true,

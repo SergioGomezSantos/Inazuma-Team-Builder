@@ -32,6 +32,7 @@
     <div class="max-w-full mx-auto sm:px-6 lg:px-8">
         <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
             <div class="p-6 text-gray-900 dark:text-gray-100">
+
                 <!-- Main Team Builder Container -->
                 <div class="flex flex-col md:flex-row gap-6 h-[calc(100vh-12rem)]">
 
@@ -183,7 +184,21 @@
                     <div class="w-full md:w-1/5 flex flex-col h-full min-h-0 gap-4">
                         <!-- Players List -->
                         <div class="bg-gray-100 dark:bg-gray-700 p-4 rounded-lg flex-1 min-h-0 flex flex-col">
-                            <h2 class="text-xl font-bold mb-4 dark:text-primary-500">Jugadores</h2>
+                            <div class="flex justify-between items-end mb-4">
+                                <h2 class="text-xl font-bold dark:text-primary-500">Jugadores</h2>
+                                @if ($isViewMode)
+                                    <button onclick="history.back()"
+                                        class="flex items-center justify-center gap-2 py-2 px-4 rounded-md border border-black dark:border-primary-500 
+                                                    text-black dark:text-primary-500 hover:border-yellow-500 hover:text-yellow-500 hover:bg-yellow-500 hover:bg-opacity-10 
+                                                    dark:hover:border-yellow-500 dark:hover:text-yellow-500 transition-all duration-200 text-sm">
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                                            stroke-width="1.5" stroke="currentColor" class="size-4">
+                                            <path stroke-linecap="round" stroke-linejoin="round"
+                                                d="M9 15 3 9m0 0 6-6M3 9h12a6 6 0 0 1 0 12h-3" />
+                                        </svg>
+                                    </button>
+                                @endif
+                            </div>
 
                             <!-- Search Bar -->
                             <div class="mb-3 pb-3 border-b border-gray-200 dark:border-gray-600">
@@ -230,15 +245,13 @@
 
                                         <!-- Icons -->
                                         <div class="flex flex-col justify-center h-full pt-3">
-                                            <div class="tooltip self-end"
-                                                data-tip="{{ strtoupper($player->element) }}">
+                                            <div class=" self-end" data-tip="{{ strtoupper($player->element) }}">
                                                 <img src="{{ asset('storage/icons/elements/' . strtolower($player->element) . '.webp') }}"
                                                     alt="{{ $player->element }}" class="w-5 h-5 object-contain"
                                                     onerror="this.style.display='none'">
                                             </div>
 
-                                            <div class="tooltip self-center"
-                                                data-tip="{{ strtoupper($player->position) }}">
+                                            <div class=" self-center" data-tip="{{ strtoupper($player->position) }}">
                                                 <img src="{{ asset('storage/icons/positions/' . strtolower($player->position) . '.webp') }}"
                                                     alt="{{ $player->position }}" class="w-10 h-10 object-contain"
                                                     onerror="this.style.display='none'">

@@ -11,13 +11,12 @@ export default class ImageSelector {
     }
 
     static setupEventListeners() {
-        // Eventos para cambios manuales
         this.emblemSelect?.addEventListener("change", (e) =>
             this.updateEmblem()
         );
+
         this.coachSelect?.addEventListener("change", (e) => this.updateCoach());
 
-        // Integración con botones existentes
         this.clearTeamBtn?.addEventListener("click", () =>
             this.resetSelections()
         );
@@ -31,7 +30,6 @@ export default class ImageSelector {
             this.emblemSelect.options[this.emblemSelect.selectedIndex];
         const imagePath = selectedOption?.getAttribute("data-image");
         const emblemName = selectedOption?.textContent.trim();
-        console.log(emblemName);
         this.updateImage(this.emblemImage, imagePath, "emblems");
 
         // Map - EmblemHelper PHP
@@ -112,7 +110,6 @@ export default class ImageSelector {
     }
 
     static resetSelections() {
-        // Resetear a las primeras opciones
         if (this.emblemSelect) {
             this.emblemSelect.selectedIndex = 0;
             this.updateEmblem();
@@ -125,7 +122,7 @@ export default class ImageSelector {
     }
 
     static randomizeSelections() {
-        // Randomizar emblema
+        // Emblem
         if (this.emblemSelect && this.emblemSelect.options.length > 0) {
             const randomIndex = Math.floor(
                 Math.random() * this.emblemSelect.options.length
@@ -134,7 +131,7 @@ export default class ImageSelector {
             this.updateEmblem();
         }
 
-        // Randomizar entrenador
+        // Coach
         if (this.coachSelect && this.coachSelect.options.length > 0) {
             const randomIndex = Math.floor(
                 Math.random() * this.coachSelect.options.length
