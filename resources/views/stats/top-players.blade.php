@@ -4,34 +4,50 @@
     @section('scripts')
         <script>
             document.addEventListener('DOMContentLoaded', function() {
-                // Tab system
+
                 const tabs = document.querySelectorAll('[data-tab]');
+                let activeTab = '{{ $activeStat }}' || 'GP';
+
+                function activateTab(tabId) {
+
+                    document.querySelectorAll('.stats-content').forEach(c => c.classList.add('hidden'));
+                    document.getElementById(tabId).classList.remove('hidden');
+
+                    tabs.forEach(t => {
+                        t.classList.remove('bg-yellow-500', 'text-black');
+                        t.classList.add('bg-gray-200', 'dark:bg-gray-700');
+                    });
+
+                    const activeTabElement = document.querySelector(`[data-tab="${tabId}"]`);
+                    if (activeTabElement) {
+                        activeTabElement.classList.remove('bg-gray-200', 'dark:bg-gray-700');
+                        activeTabElement.classList.add('bg-yellow-500', 'text-black');
+                    }
+
+                    document.getElementById('active_stat').value = tabId;
+                }
+
+
                 tabs.forEach(tab => {
                     tab.addEventListener('click', function() {
                         const tabId = this.getAttribute('data-tab');
-
-                        // Hide all content
-                        document.querySelectorAll('.stats-content').forEach(c => c.classList.add(
-                            'hidden'));
-                        // Show selected
-                        document.getElementById(tabId).classList.remove('hidden');
-
-                        // Update active tab
-                        tabs.forEach(t => {
-                            t.classList.remove('bg-yellow-500', 'text-black');
-                            t.classList.add('bg-gray-200', 'dark:bg-gray-700');
-                        });
-                        this.classList.remove('bg-gray-200', 'dark:bg-gray-700');
-                        this.classList.add('bg-yellow-500', 'text-black');
+                        activeTab = tabId;
+                        activateTab(tabId);
                     });
                 });
 
-                // Activate first tab
-                tabs[0].click();
+
+                if (activeTab) {
+                    activateTab(activeTab);
+                } else {
+                    tabs[0].click();
+                }
 
                 // Auto-submit form when filters change
                 document.querySelectorAll('#filters select').forEach(select => {
                     select.addEventListener('change', function() {
+                        // Save current tab before submit
+                        document.getElementById('active_stat').value = activeTab;
                         document.getElementById('filters').submit();
                     });
                 });
@@ -47,6 +63,9 @@
 
                     <!-- Filters -->
                     <form id="filters" method="GET" action="{{ route('stats.top-players') }}" class="mb-4 mx-4">
+
+                        <input type="hidden" name="stat" id="active_stat" value="{{ $activeStat }}">
+
                         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
                             <!-- Version Selector -->
                             <div>
@@ -144,10 +163,6 @@
                                                     <div class="flex items-center justify-between gap-2">
                                                         <span
                                                             class="text-xs text-gray-600 dark:text-gray-300 mt-1">{{ $player->original_team }}</span>
-                                                        @if ($player->current_stats)
-                                                            <span
-                                                                class="text-xs text-gray-400 dark:text-gray-500 mt-1">{{ strtoupper($player->current_stats->version) }}</span>
-                                                        @endif
                                                     </div>
                                                 </div>
 

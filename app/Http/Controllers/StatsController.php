@@ -17,6 +17,7 @@ class StatsController extends Controller
         $selectedVersion = $request->input('version', 'all');
         $selectedPosition = $request->input('position');
         $selectedElement = $request->input('element');
+        $activeStat = $request->input('stat', 'GP');
 
         $statLabels = [
             'GP' => 'PE',
@@ -34,36 +35,58 @@ class StatsController extends Controller
         $topPlayers = [];
 
         foreach ($statLabels as $stat => $name) {
-            $query = Player::query()
-                ->select('players.*')
-                ->join('stats', function ($join) use ($selectedVersion) {
-                    $join->on('players.id', '=', 'stats.player_id');
-                    if ($selectedVersion !== 'all') {
-                        $join->where('stats.version', $selectedVersion);
-                    }
+
+            // Best IDs
+            $bestPlayersQuery = Stat::query()
+                ->select('player_id')
+                ->selectRaw('MAX(' . $stat . ') as max_stat')
+                ->when($selectedVersion !== 'all', function ($q) use ($selectedVersion) {
+                    $q->where('version', $selectedVersion);
                 })
-                ->orderBy("stats.{$stat}", 'DESC')
-                ->limit(21);
+                ->groupBy('player_id');
 
             if ($selectedPosition) {
-                $query->where('players.position', $selectedPosition);
+                $bestPlayersQuery->whereHas('player', function ($q) use ($selectedPosition) {
+                    $q->where('position', $selectedPosition);
+                });
             }
 
             if ($selectedElement) {
-                $query->where('players.element', $selectedElement);
+                $bestPlayersQuery->whereHas('player', function ($q) use ($selectedElement) {
+                    $q->where('element', $selectedElement);
+                });
             }
 
-            $players = $query->get()->map(function ($player) use ($selectedVersion, $stat) {
-                $player->current_stats = $player->stats()
-                    ->when($selectedVersion !== 'all', function ($query) use ($selectedVersion) {
-                        $query->where('version', $selectedVersion);
-                    })
-                    ->orderBy($stat, 'DESC')
-                    ->first();
-                return $player;
-            });
+            // Ordered IDs
+            $topPlayerIds = $bestPlayersQuery
+                ->orderBy('max_stat', 'DESC')
+                ->orderBy('player_id')
+                ->limit(21)
+                ->pluck('player_id');
 
-            $topPlayers[$stat] = $players;
+            // Players by name and original_team
+            $players = Player::query()
+                ->whereIn('id', $topPlayerIds)
+                ->with(['stats' => function ($q) use ($selectedVersion, $stat) {
+                    $q->when($selectedVersion !== 'all', function ($q) use ($selectedVersion) {
+                        $q->where('version', $selectedVersion);
+                    })
+                        ->orderBy($stat, 'DESC')
+                        ->orderBy('version', 'DESC');
+                }])
+                ->orderBy('name')
+                ->orderBy('original_team')
+                ->get()
+                ->sortByDesc(function ($player) use ($stat) {
+                    return $player->stats->max($stat);
+                })
+                ->take(21)
+                ->map(function ($player) {
+                    $player->current_stats = $player->stats->first();
+                    return $player;
+                });
+
+            $topPlayers[$stat] = $players->values();
         }
 
         return view('stats.top-players', [
@@ -74,7 +97,8 @@ class StatsController extends Controller
             'elements' => $elements,
             'selectedVersion' => $selectedVersion,
             'selectedPosition' => $selectedPosition,
-            'selectedElement' => $selectedElement
+            'selectedElement' => $selectedElement,
+            'activeStat' => $activeStat,
         ]);
     }
 }
