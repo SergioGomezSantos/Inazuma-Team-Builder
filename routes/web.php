@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [TeamController::class, 'create'])->name('home');
 Route::get('/story', [TeamController::class, 'story'])->name('teams.story');
+Route::get('/top-players', [App\Http\Controllers\StatsController::class, 'index'])->name('stats.top-players')->middleware('auth');
 
 Route::get('/teams/{team}', [TeamController::class, 'show'])->name('teams.show');
 Route::get('/teams/create', [TeamController::class, 'create'])->name('teams.create');

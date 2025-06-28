@@ -4,6 +4,14 @@
 @endphp
 
 <x-app-layout>
+    @section('title')
+        @isset($team)
+            {{ $team->name }} - {{ ucfirst($mode) }}
+        @else
+            Inazuma Team Builder
+        @endisset
+    @endsection
+
     @section('scripts')
         <script>
             @isset($team)
@@ -24,23 +32,20 @@
     <div class="max-w-full mx-auto sm:px-6 lg:px-8">
         <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
             <div class="p-6 text-gray-900 dark:text-gray-100">
-
                 <!-- Main Team Builder Container -->
                 <div class="flex flex-col md:flex-row gap-6 h-[calc(100vh-12rem)]">
 
                     <!-- Left Panel - Team Configuration -->
                     <div class="w-full md:w-1/5 flex flex-col h-full min-h-0 gap-4">
                         <div
-                            class="w-full flex flex-col bg-gray-100 dark:bg-gray-700 p-4 rounded-lg h-full
-                            overflow-y-auto">
+                            class="w-full flex flex-col bg-gray-100 dark:bg-gray-700 p-4 rounded-lg h-full overflow-y-auto">
                             <h2 class="text-xl font-bold mb-4 dark:text-primary-500">Equipo</h2>
 
                             <!-- Team Name Input -->
                             <div class="mb-4">
                                 <label for="team-name" class="font-semibold mb-1 block">Nombre</label>
                                 <input id="team-name" type="text" value="{{ $team->name ?? '' }}"
-                                    class=" w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800
-                                    shadow-sm focus:border-yellow-500 focus:ring-yellow-500"
+                                    class="w-full rounded-md border-gray-300 dark:border-gray-600 dark:bg-gray-800 shadow-sm focus:border-yellow-500 focus:ring-yellow-500"
                                     placeholder="Nombre del Equipo" @if ($isViewMode) readonly @endif>
                             </div>
 
@@ -52,16 +57,20 @@
                                     @if ($isViewMode) disabled @endif>
                                     @foreach ($emblems as $emblem)
                                         <option value="{{ $emblem->id }}" data-image="{{ $emblem->image }}"
+                                            data-name="{{ $emblem->name }}"
                                             @if (isset($team) && $team->emblem_id == $emblem->id) selected @endif>
                                             {{ $emblem->name }}
                                         </option>
                                     @endforeach
                                 </select>
                                 <div class="flex justify-center mt-1">
+                                    @php
+                                        $currentEmblemName = $currentEmblem->name ?? $emblems->first()->name;
+                                        $size = App\Helpers\EmblemHelper::getEmblemSize($currentEmblemName);
+                                    @endphp
                                     <img id="emblem-image"
                                         src="{{ asset('storage/emblems/' . ($currentEmblem->image ?? $emblems->first()->image)) }}"
-                                        alt="Emblem"
-                                        class="{{ isset($team) && !in_array($team->emblem->name, ['Raimon', 'Zeus']) ? 'w-28 h-28' : 'w-24 h-24 pt-4' }} object-contain">
+                                        alt="Emblem" class="{{ $size }} object-contain">
                                 </div>
                             </div>
 
@@ -172,7 +181,6 @@
 
                     <!-- Right Panel - Players and Actions -->
                     <div class="w-full md:w-1/5 flex flex-col h-full min-h-0 gap-4">
-
                         <!-- Players List -->
                         <div class="bg-gray-100 dark:bg-gray-700 p-4 rounded-lg flex-1 min-h-0 flex flex-col">
                             <h2 class="text-xl font-bold mb-4 dark:text-primary-500">Jugadores</h2>
@@ -190,8 +198,8 @@
                                 @foreach ($players as $player)
                                     <div id="player-{{ $player->id }}" data-player-id="{{ $player->id }}"
                                         class="list-player bg-white dark:bg-gray-800 p-3 rounded-lg flex items-center cursor-pointer 
-                                    border border-transparent hover:border-yellow-500 dark:hover:border-yellow-400 
-                                    shadow-sm transition-all duration-200 ease-in-out"
+                                        border border-transparent hover:border-yellow-500 dark:hover:border-yellow-400 
+                                        shadow-sm transition-all duration-200 ease-in-out"
                                         draggable="true" data-name="{{ strtolower($player->name) }}"
                                         data-fullname="{{ strtolower($player->full_name) }}"
                                         data-team="{{ strtolower($player->original_team) }}"
@@ -210,8 +218,6 @@
                                         <div class="flex flex-col flex-grow min-w-0">
                                             <div class="relative inline-block max-w-full">
                                                 <span class="font-semibold">{{ $player->name }}</span>
-                                                <span
-                                                    class="text-xs font-medium invisible absolute">{{ $player->original_team }}</span>
                                                 <div class="absolute bottom-0 left-0 right-0 border-t border-gray-200">
                                                 </div>
                                             </div>
@@ -249,13 +255,12 @@
                                 class="text-xl font-bold mb-4 dark:text-primary-500 mb-3 pb-1 border-b border-gray-200 dark:border-gray-600">
                                 Opciones</h2>
 
-                            <!-- Names + Design -->
                             <div class="grid grid-cols-2 gap-3 mb-3">
-
                                 <!-- Botón Names -->
                                 <button id="toggle-names"
-                                    class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md border border-black dark:border-primary-500 text-black dark:text-primary-500 hover:border-yellow-500 hover:text-yellow-500 hover:bg-yellow-500 hover:bg-opacity-10 dark:hover:border-yellow-500 dark:hover:text-yellow-500 transition-all duration-200">
-                                    <!-- Icono Visible (Ojo Abierto) -->
+                                    class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md border border-black dark:border-primary-500 
+                                    text-black dark:text-primary-500 hover:border-yellow-500 hover:text-yellow-500 hover:bg-yellow-500 hover:bg-opacity-10 
+                                    dark:hover:border-yellow-500 dark:hover:text-yellow-500 transition-all duration-200">
                                     <svg id="show-names-icon" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5"
                                         fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -263,30 +268,26 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                             d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
                                     </svg>
-
-                                    <!-- Icono Oculto (Ojo Tachado) -->
                                     <svg id="hide-names-icon" xmlns="http://www.w3.org/2000/svg"
                                         class="h-5 w-5 hidden" fill="none" viewBox="0 0 24 24"
                                         stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                             d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21" />
                                     </svg>
-
                                     <span class="text-sm">Nombres</span>
                                 </button>
 
-                                <!-- Botón Design -->
+                                <!-- Design Button -->
                                 <button id="toggle-design"
-                                    class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md border border-black dark:border-primary-500 text-black dark:text-primary-500 hover:border-yellow-500 hover:text-yellow-500 hover:bg-yellow-500 hover:bg-opacity-10 dark:hover:border-yellow-500 dark:hover:text-yellow-500 transition-all duration-200">
-                                    <!-- Icono Visible (Círculo Completo) -->
+                                    class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md border border-black dark:border-primary-500 
+                                    text-black dark:text-primary-500 hover:border-yellow-500 hover:text-yellow-500 hover:bg-yellow-500 hover:bg-opacity-10 
+                                    dark:hover:border-yellow-500 dark:hover:text-yellow-500 transition-all duration-200">
                                     <svg id="show-design-icon" xmlns="http://www.w3.org/2000/svg"
                                         class="h-5 w-5 hidden" fill="none" viewBox="0 0 24 24"
                                         stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                             d="M12 12m-10 0a10 10 0 1 0 20 0a10 10 0 1 0 -20 0" />
                                     </svg>
-
-                                    <!-- Icono Oculto (Círculo Tachado) -->
                                     <svg id="hide-design-icon" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5"
                                         fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -294,24 +295,18 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                             d="M4 4l16 16" />
                                     </svg>
-
                                     <span class="text-sm">Diseño</span>
                                 </button>
                             </div>
 
-                            <!-- Save + Data -->
                             <div class="grid grid-cols-2 gap-3 mb-3">
                                 <!-- Save Button -->
                                 <button id="save-team" @if (!auth()->check() || $isViewMode) disabled @endif
-                                    class="w-full font-bold py-2 px-4 rounded-md ease-in-out flex items-center
-                                    justify-center gap-2 text-center text-black
-                                    @if (auth()->check() && !$isViewMode) bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500 dark:hover:bg-yellow-500
+                                    class="w-full font-bold py-2 px-4 rounded-md ease-in-out flex items-center justify-center gap-2 text-center text-black
+                                    @if (auth()->check() && !$isViewMode) bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500 dark:hover:bg-yellow-500 
                                     active:bg-yellow-500 active:dark:bg-yellow-500
-                                    @else
-                                    bg-gray-300 dark:bg-gray-600 cursor-not-allowed @endif
-                                    focus:ring-2 focus:ring-primary-500 focus:ring-offset-2
-                                    dark:focus:ring-offset-gray-800">
-
+                                    @else bg-gray-300 dark:bg-gray-600 cursor-not-allowed @endif
+                                    focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                         viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -329,13 +324,10 @@
                                 <!-- Team Data Button -->
                                 <button id="data-team" @if (!auth()->check()) disabled @endif
                                     class="w-full font-bold py-2 px-4 text-black rounded-md ease-in-out
-                                    @auth bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500
-                                    dark:hover:bg-yellow-500 active:bg-yellow-500 active:dark:bg-yellow-500
+                                    @auth bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500 dark:hover:bg-yellow-500 active:bg-yellow-500 active:dark:bg-yellow-500
                                     @else bg-gray-300 cursor-not-allowed dark:bg-gray-600 @endauth
-                                    focus:ring-2 focus:ring-primary-500 focus:ring-offset-2
-                                    dark:focus:ring-offset-gray-800
+                                    focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800
                                     flex items-center justify-center gap-2 text-center">
-
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                         viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -345,19 +337,14 @@
                                 </button>
                             </div>
 
-                            <!-- Clear + Random -->
                             <div class="grid grid-cols-2 gap-3">
                                 <!-- Clear Button -->
                                 <button id="clear-team" @if ($isViewMode) disabled @endif
-                                    class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md 
-                                    border text-black
-                                    @if (!$isViewMode) dark:border-primary-500 dark:text-primary-500
-                                    hover:border-yellow-500 hover:text-yellow-500 hover:bg-yellow-500 hover:bg-opacity-10
-                                    dark:hover:border-yellow-500 dark:hover:text-yellow-500
-                                    @else
-                                    border-none bg-gray-300 dark:bg-gray-600 cursor-not-allowed @endif
-                                    transition-all duration-200"
-                                    title="Clear">
+                                    class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md border text-black
+                                    @if (!$isViewMode) dark:border-primary-500 dark:text-primary-500 hover:border-yellow-500 hover:text-yellow-500 
+                                    hover:bg-yellow-500 hover:bg-opacity-10 dark:hover:border-yellow-500 dark:hover:text-yellow-500
+                                    @else border-none bg-gray-300 dark:bg-gray-600 cursor-not-allowed @endif
+                                    transition-all duration-200">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                         viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -368,15 +355,11 @@
 
                                 <!-- Random Button -->
                                 <button id="random-team" @if ($isViewMode) disabled @endif
-                                    class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md 
-                                    border text-black
-                                    @if (!$isViewMode) dark:border-primary-500 dark:text-primary-500
-                                    hover:border-yellow-500 hover:text-yellow-500 hover:bg-yellow-500 hover:bg-opacity-10
-                                    dark:hover:border-yellow-500 dark:hover:text-yellow-500
-                                    @else
-                                    border-none bg-gray-300 dark:bg-gray-600 cursor-not-allowed @endif
-                                    transition-all duration-200"
-                                    title="Random">
+                                    class="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-md border text-black
+                                    @if (!$isViewMode) dark:border-primary-500 dark:text-primary-500 hover:border-yellow-500 hover:text-yellow-500 
+                                    hover:bg-yellow-500 hover:bg-opacity-10 dark:hover:border-yellow-500 dark:hover:text-yellow-500
+                                    @else border-none bg-gray-300 dark:bg-gray-600 cursor-not-allowed @endif
+                                    transition-all duration-200">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                         viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"

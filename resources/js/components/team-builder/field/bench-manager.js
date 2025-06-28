@@ -39,7 +39,7 @@ export class BenchManager {
             // Añadir placeholder
             const placeholder = document.createElement("img");
             placeholder.src = "/storage/players/placeholder.png";
-            placeholder.className = "w-full h-full object-cover opacity-50";
+            placeholder.className = "w-full h-full object-cover";
             placeholder.setAttribute("data-is-placeholder", "true");
             placeholder.setAttribute("data-player-name", "undefined"); // Cambiado a undefined
             benchEl.appendChild(placeholder);

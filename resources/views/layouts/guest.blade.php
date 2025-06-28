@@ -8,7 +8,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
-    <title>{{ isset($title) ? $title . ' | ' : '' }}Inazuma Team Builder</title>
+    <title>@yield('title', 'Inazuma Team Builder')</title>
 
     <!-- Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">

@@ -47,6 +47,5 @@ th.sortable-ghost {
 @layer base {
     :root {
         --color-primary-500: 252, 205, 25; /* #fccd19 en RGB */
-        --color-primary-550: 238, 129, 0; /* #ee8100 en RGB */
     }
 }

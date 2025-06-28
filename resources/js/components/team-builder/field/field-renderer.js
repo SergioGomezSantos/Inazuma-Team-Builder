@@ -92,7 +92,7 @@ export default class FieldRenderer {
         if (!positionEl.querySelector("img[data-player-id]")) {
             const placeholder = document.createElement("img");
             placeholder.src = "/storage/players/placeholder.png";
-            placeholder.className = "w-full h-full object-cover opacity-50";
+            placeholder.className = "w-full h-full object-cover";
             placeholder.setAttribute("data-is-placeholder", "true");
             placeholder.setAttribute("data-player-name", pos.role);
             positionEl.appendChild(placeholder);
@@ -352,7 +352,7 @@ export default class FieldRenderer {
 
         const placeholder = document.createElement("img");
         placeholder.src = "/storage/players/placeholder.png";
-        placeholder.className = "w-full h-full object-cover opacity-50";
+        placeholder.className = "w-full h-full object-cover";
         placeholder.setAttribute("data-is-placeholder", "true");
         placeholder.setAttribute(
             "data-player-name",

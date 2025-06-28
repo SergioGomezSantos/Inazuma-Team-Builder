@@ -3,19 +3,32 @@
 
 <head>
     <script>
-        // Establecer modo oscuro por defecto
-        if (!localStorage.getItem('color-theme')) {
-            localStorage.setItem('color-theme', 'dark');
+        // Bloqueo de renderizado hasta definir el tema
+        document.documentElement.style.visibility = 'hidden';
+
+        const storedTheme = localStorage.getItem('color-theme');
+        const systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const initialTheme = storedTheme || (systemDark ? 'dark' : 'light');
+
+        if (initialTheme === 'dark') {
             document.documentElement.classList.add('dark');
-            document.body.classList.add('dark:bg-gray-900');
+            document.documentElement.style.backgroundColor = '#111827';
+        } else {
+            document.documentElement.classList.remove('dark');
+            document.documentElement.style.backgroundColor = '#f3f4f6';
         }
+
+        // Restaurar visibilidad
+        document.addEventListener('DOMContentLoaded', () => {
+            document.documentElement.style.visibility = 'visible';
+        });
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
-    <title>Inazuma Team Builder</title>
+    <title>@yield('title', 'Inazuma Team Builder')</title>
 
     <!-- Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
@@ -62,14 +75,31 @@
                     <!-- Desktop Navigation -->
                     <div class="hidden sm:flex items-center space-x-4">
 
+
+                        @auth
+                            <a href="{{ route('stats.top-players') }}"
+                                class="{{ Route::is('stats.top-players') ? 'text-primary-500' : 'text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500' }} px-3 py-2 text-sm font-medium">
+                                Top Jugadores
+                            </a>
+                        @else
+                            <span class="px-3 py-2 text-sm font-medium text-gray-400 dark:text-gray-500 cursor-not-allowed">
+                                Top Jugadores
+                            </span>
+                        @endauth
+
+                        <!-- Separador visual -->
+                        <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
+
+
                         <a href="{{ route('teams.story') }}"
                             class="{{ Route::is('teams.story') ? 'text-primary-500' : 'text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500' }} px-3 py-2 text-sm font-medium">
                             Modo Historia
                         </a>
 
+                        <!-- Separador visual -->
+                        <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
+
                         @auth
-                            <!-- Separador visual -->
-                            <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
 
                             <a href="{{ route('teams.index') }}"
                                 class="{{ Route::is('teams.index') ? 'text-primary-500' : 'text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500' }} px-3 py-2 text-sm font-medium">
@@ -88,9 +118,6 @@
                                 </button>
                             </form>
                         @else
-                            <!-- Separador visual -->
-                            <span class="h-6 w-px bg-gray-300 dark:bg-gray-600"></span>
-
                             <a href="{{ route('login') }}"
                                 class="text-gray-900 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500 px-3 py-2 text-sm font-medium">
                                 Iniciar Sesión
@@ -192,73 +219,39 @@
     </div>
 
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Tema para desktop
-            const themeToggle = document.getElementById('theme-toggle');
-            const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
-            const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
+        function handleTheme(isDark) {
 
-            // Tema para móvil
-            const mobileThemeToggle = document.getElementById('mobile-theme-toggle');
-            const mobileThemeToggleDarkIcon = document.getElementById('mobile-theme-toggle-dark-icon');
-            const mobileThemeToggleLightIcon = document.getElementById('mobile-theme-toggle-light-icon');
+            document.documentElement.classList.toggle('dark', isDark);
+            localStorage.setItem('color-theme', isDark ? 'dark' : 'light');
 
-            // Función para aplicar el tema correcto al cargar la página
-            function applyInitialTheme() {
-                const storedTheme = localStorage.getItem('color-theme');
-                const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const darkIcons = document.querySelectorAll('[id*="dark-icon"]');
+            const lightIcons = document.querySelectorAll('[id*="light-icon"]');
 
-                // Si no hay tema guardado, usar el del sistema (o dark por defecto)
-                if (storedTheme === null) {
-                    localStorage.setItem('color-theme', systemPrefersDark ? 'dark' : 'light');
+            darkIcons.forEach(icon => icon.classList.toggle('hidden', !isDark));
+            lightIcons.forEach(icon => icon.classList.toggle('hidden', isDark));
+        }
+
+
+        document.addEventListener('DOMContentLoaded', () => {
+
+            const storedTheme = localStorage.getItem('color-theme');
+            const systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const initialTheme = storedTheme || (systemDark ? 'dark' : 'light');
+            handleTheme(initialTheme === 'dark');
+
+
+            document.body.addEventListener('click', (e) => {
+
+                if (e.target.closest('#theme-toggle')) {
+                    const isDark = !document.documentElement.classList.contains('dark');
+                    handleTheme(isDark);
                 }
 
-                // Aplicar el tema guardado (o el del sistema)
-                const currentTheme = localStorage.getItem('color-theme') || (systemPrefersDark ? 'dark' : 'light');
-                if (currentTheme === 'dark') {
-                    document.documentElement.classList.add('dark');
-                } else {
-                    document.documentElement.classList.remove('dark');
+                if (e.target.closest('#mobile-theme-toggle')) {
+                    const isDark = !document.documentElement.classList.contains('dark');
+                    handleTheme(isDark);
                 }
-
-                // Actualizar iconos
-                updateThemeIcons();
-            }
-
-            // Función para actualizar los iconos según el tema actual
-            function updateThemeIcons() {
-                const isDark = document.documentElement.classList.contains('dark');
-
-                // Iconos desktop
-                themeToggleDarkIcon.classList.toggle('hidden', !isDark);
-                themeToggleLightIcon.classList.toggle('hidden', isDark);
-
-                // Iconos móvil
-                mobileThemeToggleDarkIcon.classList.toggle('hidden', !isDark);
-                mobileThemeToggleLightIcon.classList.toggle('hidden', isDark);
-            }
-
-            // Función para alternar el tema
-            function toggleTheme() {
-                const isDark = document.documentElement.classList.contains('dark');
-
-                if (isDark) {
-                    document.documentElement.classList.remove('dark');
-                    localStorage.setItem('color-theme', 'light');
-                } else {
-                    document.documentElement.classList.add('dark');
-                    localStorage.setItem('color-theme', 'dark');
-                }
-
-                updateThemeIcons();
-            }
-
-            // Inicializar tema al cargar
-            applyInitialTheme();
-
-            // Event listeners
-            themeToggle.addEventListener('click', toggleTheme);
-            mobileThemeToggle.addEventListener('click', toggleTheme);
+            });
         });
     </script>
 </body>

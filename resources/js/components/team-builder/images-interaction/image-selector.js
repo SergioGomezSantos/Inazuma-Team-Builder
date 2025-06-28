@@ -30,15 +30,57 @@ export default class ImageSelector {
         const selectedOption =
             this.emblemSelect.options[this.emblemSelect.selectedIndex];
         const imagePath = selectedOption?.getAttribute("data-image");
+        const emblemName = selectedOption?.textContent.trim();
+        console.log(emblemName);
         this.updateImage(this.emblemImage, imagePath, "emblems");
 
-        if (["raimon", "zeus"].includes(selectedOption.text.toLowerCase())) {
-            this.emblemImage.classList.remove("w-28", "h-28");
-            this.emblemImage.classList.add("w-24", "h-24", "pt-4");
-        } else {
-            this.emblemImage.classList.remove("w-24", "h-24", "pt-4");
-            this.emblemImage.classList.add("w-28", "h-28");
-        }
+        // Map - EmblemHelper PHP
+        const sizeMap = {
+            "Mar de Árboles": "w-24 h-24 pt-4",
+            "Inazuma Japón": "w-20 h-24 pt-4",
+            Raimon: "w-24 h-24 pt-4",
+            Zeus: "w-24 h-24 pt-4",
+            Umbrella: "w-24 h-24 pt-4",
+            Sallys: "w-24 h-24 pt-4",
+            "Raimon 2": "w-24 h-24 pt-4",
+            "Servicio Secreto": "w-24 h-24 pt-4",
+            Caos: "w-24 h-24 pt-4",
+            Génesis: "w-28 h-28",
+            "Robots Guardias": "w-24 h-24 pt-4",
+            "Jóvenes Inazuma": "w-24 h-24 pt-4",
+            "Leones del Desierto": "w-24 h-24 pt-4",
+            "Knights of Queen": "w-24 h-24 pt-4",
+            Unicorn: "w-24 h-24 pt-4",
+            "The Little Giants": "w-24 h-24 pt-4",
+            "Los Rojos": "w-24 h-24 pt-4",
+            "Brocken Brigade": "w-24 h-24 pt-4",
+            "Grifos de la Rosa": "w-24 h-24 pt-4",
+            "Caimanes del Cabo": "w-24 h-24 pt-4",
+            "Equipo Ogro": "w-24 h-24 pt-4",
+            "Equipo D": "w-28 h-28",
+            "Zoolan Team": "w-24 h-24 pt-4",
+            "Sky Team": "w-24 h-24 pt-4",
+            "Dark Team": "w-24 h-24 pt-4",
+            default: "w-32 h-32",
+        };
+
+        const sizeClasses = sizeMap[emblemName] || sizeMap["default"];
+
+        const allSizeClasses = [
+            "w-24",
+            "h-24",
+            "w-28",
+            "h-28",
+            "w-32",
+            "h-32",
+            "pt-4",
+        ];
+
+        allSizeClasses.forEach((cls) => this.emblemImage.classList.remove(cls));
+
+        sizeClasses.split(" ").forEach((cls) => {
+            if (cls) this.emblemImage.classList.add(cls);
+        });
     }
 
     static updateCoach() {

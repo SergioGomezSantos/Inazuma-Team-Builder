@@ -2,6 +2,8 @@
     @section('scripts')
     @endsection
 
+    @section('title', 'Tus Equipos')
+
     <div class="max-w-full mx-auto sm:px-6 lg:px-8">
         <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
             <div class="p-6 text-gray-900 dark:text-gray-100">
@@ -19,38 +21,37 @@
                                         <th scope="col" class="px-0 py-3 text-center w-44">Escudo</th>
                                         <th scope="col" class="px-0 py-3 text-center w-44">Entrenador</th>
                                         <th scope="col" class="px-0 py-3 text-left">Formación</th>
-                                        <th scope="col" class="pl-4 py-3 text-right">Nombre</th>
-                                        <th scope="col" class="px-0 py-3 text-center w-64">Opciones</th>
+                                        <th scope="col" class="pl-4 py-3 text-right pr-8">Nombre</th>
+                                        <th scope="col" class="px-0 py-3 text-center w-64 pr-8">Opciones</th>
                                     </tr>
                                 </thead>
                                 <tbody class="bg-white dark:bg-gray-800 divide-y divide-gray-200 dark:divide-gray-600">
                                     @foreach ($teams as $team)
                                         <tr>
                                             <td class="px-0 py-4 whitespace-nowrap">
-                                                <img class="mx-auto
-                                                    @if (in_array($team->emblem->name, ['Servicio Secreto', 'Mar de Árboles', 'Caos', 'Sallys', 'Zeus', 'Raimon'])) h-16 w-16
-                                                    @else
-                                                        h-20 w-20 @endif
-                                                "
+                                                @php
+                                                    $size = App\Helpers\EmblemHelper::getEmblemSize($team->name);
+                                                @endphp
+                                                <img class="mx-auto {{ $size }}"
                                                     src="{{ asset('storage/emblems/' . $team->emblem->image) }}"
                                                     alt="Team emblem">
                                             </td>
                                             <td class="px-0 py-4 whitespace-nowrap">
-                                                <img class="h-14 w-14 mx-auto"
+                                                <img class="h-24 w-24 mx-auto"
                                                     src="{{ asset('storage/coaches/' . $team->coach->image) }}"
-                                                    alt="Team emblem">
+                                                    alt="Team coach">
                                             </td>
                                             <td class="px-0 py-4 whitespace-nowrap">
-                                                <div class="text-sm">
+                                                <div class="text-md">
                                                     {{ $team->formation->layout }} - {{ $team->formation->name }}
                                                 </div>
                                             </td>
-                                            <td class="pl-4 py-4 whitespace-nowrap">
-                                                <div class="text-md text-right pr-4">
+                                            <td class="pl-4 py-4 whitespace-nowrap pr-8">
+                                                <div class="text-md text-right">
                                                     {{ $team->name }}
                                                 </div>
                                             </td>
-                                            <td class="px-0 py-4 whitespace-nowrap">
+                                            <td class="px-0 py-4 whitespace-nowrap pr-8">
                                                 <div class="flex items-center justify-center space-x-2">
 
                                                     <!-- Show Button -->
@@ -137,7 +138,6 @@
                                     @endforeach
                                 </tbody>
                             </table>
-
                         </div>
 
                         @if (session('success'))
