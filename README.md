@@ -26,7 +26,7 @@ When logged in, you can use the Top Players search to filter by game, position, 
 
 ## 💾 Save and Team Data
 
-While logged in, you can save your teams and access a page where you can see all your players, their techniques, and stats for each season and game.
+While logged in, you can save your teams and access a page where you can see all the players of a team with their techniques and stats for each season and game.
 
 ![Saved Teams](/resources/img/screenshots/Captura%206.PNG)
 
