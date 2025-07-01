@@ -265,7 +265,7 @@
                         <!-- Options Block -->
                         <div class="bg-gray-100 dark:bg-gray-700 p-4 rounded-lg">
                             <h2
-                                class="text-xl font-bold mb-4 dark:text-primary-500 mb-3 pb-1 border-b border-gray-200 dark:border-gray-600">
+                                class="text-xl font-bold mb-4 dark:text-primary-500 pb-1 border-b border-gray-200 dark:border-gray-600">
                                 Opciones</h2>
 
                             <div class="grid grid-cols-2 gap-3 mb-3">
@@ -312,14 +312,20 @@
                                 </button>
                             </div>
 
+                            @php
+                                $isAuth = auth()->check();
+                                $canEdit = $isAuth && !$isViewMode;
+                            @endphp
+
                             <div class="grid grid-cols-2 gap-3 mb-3">
                                 <!-- Save Button -->
-                                <button id="save-team" @if (!auth()->check() || $isViewMode) disabled @endif
+                                <button id="save-team" @if (!$canEdit) disabled @endif
                                     class="w-full font-bold py-2 px-4 rounded-md ease-in-out flex items-center justify-center gap-2 text-center text-black
-                                    @if (auth()->check() && !$isViewMode) bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500 dark:hover:bg-yellow-500 
-                                    active:bg-yellow-500 active:dark:bg-yellow-500
-                                    @else bg-gray-300 dark:bg-gray-600 cursor-not-allowed @endif
-                                    focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800">
+                                        {{ $canEdit
+                                            ? 'bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500 dark:hover:bg-yellow-500 active:bg-yellow-500 active:dark:bg-yellow-500'
+                                            : 'bg-gray-300 dark:bg-gray-600 cursor-not-allowed' }}
+                                        focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800">
+
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                         viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -335,12 +341,12 @@
                                 </button>
 
                                 <!-- Team Data Button -->
-                                <button id="data-team" @if (!auth()->check()) disabled @endif
-                                    class="w-full font-bold py-2 px-4 text-black rounded-md ease-in-out
-                                    @auth bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500 dark:hover:bg-yellow-500 active:bg-yellow-500 active:dark:bg-yellow-500
-                                    @else bg-gray-300 cursor-not-allowed dark:bg-gray-600 @endauth
-                                    focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800
-                                    flex items-center justify-center gap-2 text-center">
+                                <button id="data-team" @if (!$isAuth) disabled @endif
+                                    class="w-full font-bold py-2 px-4 rounded-md ease-in-out flex items-center justify-center gap-2 text-center text-black
+                                        {{ $isAuth
+                                            ? 'bg-primary-500 hover:bg-yellow-500 dark:bg-primary-500 dark:hover:bg-yellow-500 active:bg-yellow-500 active:dark:bg-yellow-500'
+                                            : 'bg-gray-300 dark:bg-gray-600 cursor-not-allowed' }}
+                                        focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                         viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -349,6 +355,7 @@
                                     <span>Datos</span>
                                 </button>
                             </div>
+
 
                             <div class="grid grid-cols-2 gap-3">
                                 <!-- Clear Button -->
